@@ -1,0 +1,20 @@
+#EXTM3U
+#EXT-X-VERSION:3
+
+# variants
+#EXT-X-STREAM-INF:BANDWIDTH=982000,AVERAGE-BANDWIDTH=892000,CODECS="mp4a.40.2,avc1.4D401E",RESOLUTION=480x270,FRAME-RATE=25
+https://hls-m010.live-lv3.canalplus-cdn.net/live/disk/cnews-clair-hd/ios-v3-hd-clair/cnews-clair-hd-audio_20000=96000-video=750000.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=329000,AVERAGE-BANDWIDTH=299000,CODECS="mp4a.40.2,avc1.4D401E",RESOLUTION=416x234,FRAME-RATE=25
+https://hls-m010.live-lv3.canalplus-cdn.net/live/disk/cnews-clair-hd/ios-v3-hd-clair/cnews-clair-hd-audio_20000=96000-video=190000.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=1390000,AVERAGE-BANDWIDTH=1263000,CODECS="mp4a.40.2,avc1.4D401E",RESOLUTION=640x360,FRAME-RATE=25
+https://hls-m010.live-lv3.canalplus-cdn.net/live/disk/cnews-clair-hd/ios-v3-hd-clair/cnews-clair-hd-audio_20000=96000-video=1100000.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=1856000,AVERAGE-BANDWIDTH=1687000,CODECS="mp4a.40.2,avc1.4D401F",RESOLUTION=960x540,FRAME-RATE=25
+https://hls-m010.live-lv3.canalplus-cdn.net/live/disk/cnews-clair-hd/ios-v3-hd-clair/cnews-clair-hd-audio_20000=96000-video=1500000.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=2556000,AVERAGE-BANDWIDTH=2323000,CODECS="mp4a.40.2,avc1.4D401F",RESOLUTION=960x540,FRAME-RATE=25
+https://hls-m010.live-lv3.canalplus-cdn.net/live/disk/cnews-clair-hd/ios-v3-hd-clair/cnews-clair-hd-audio_20000=96000-video=2100000.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=4072000,AVERAGE-BANDWIDTH=3701000,CODECS="mp4a.40.2,avc1.64001F",RESOLUTION=1280x720,FRAME-RATE=25
+https://hls-m010.live-lv3.canalplus-cdn.net/live/disk/cnews-clair-hd/ios-v3-hd-clair/cnews-clair-hd-audio_20000=96000-video=3400000.m3u8
+
+# variants
+#EXT-X-STREAM-INF:BANDWIDTH=107000,AVERAGE-BANDWIDTH=97000,CODECS="mp4a.40.2"
+https://hls-m010.live-lv3.canalplus-cdn.net/live/disk/cnews-clair-hd/ios-v3-hd-clair/cnews-clair-hd-audio_20000=96000.m3u8
