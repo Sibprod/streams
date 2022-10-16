@@ -1,0 +1,10 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-MEDIA-SEQUENCE:60093
+#EXT-X-TARGETDURATION:17
+#EXTINF:16.667,
+https://webtvmonacoinfo.mc/live/prod_720/60093.ts
+#EXTINF:16.666,
+https://webtvmonacoinfo.mc/live/prod_720/60094.ts
+#EXTINF:16.667,
+https://webtvmonacoinfo.mc/live/prod_720/60095.ts
