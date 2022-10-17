@@ -2,3 +2,4 @@
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:BANDWIDTH=3379562,CODECS="avc1.64001f,mp4a.40.2",RESOLUTION=1280x720
 http://onefmhd.vedge.infomaniak.com/livecast/onefmhd/chunklist_w520260350.m3u8
+#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="audio_0",CHANNELS="2",NAME="français",LANGUAGE="fra",DEFAULT=YES,AUTOSELECT=YES,URI="http://onefmhd.vedge.infomaniak.com/livecast/onefmhd/playlist.m3u8"
