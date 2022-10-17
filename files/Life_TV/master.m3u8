@@ -6,3 +6,6 @@ https://strfla209.streamakaci.tv/str_lifetv_lifetv/str_lifetv_multi/str_lifetv_l
 https://strfla209.streamakaci.tv/str_lifetv_lifetv/str_lifetv_multi/str_lifetv_lifetv/str_lifetv_480p/chunks.m3u8?nimblesessionid=5182520
 #EXT-X-STREAM-INF:BANDWIDTH=677923,RESOLUTION=640x360,CODECS="avc1.77.30,mp4a.40.2"
 https://strfla209.streamakaci.tv/str_lifetv_lifetv/str_lifetv_multi/str_lifetv_lifetv/str_lifetv_360p/chunks.m3u8?nimblesessionid=5182520
+
+#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="audio_0",CHANNELS="2",NAME="français",LANGUAGE="fra",DEFAULT=YES,AUTOSELECT=YES,URI="https://strhlslb01.streamakaci.tv/str_lifetv_lifetv/str_lifetv_multi/playlist.m3u8"
+
