@@ -1,1 +1,9 @@
-
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:BANDWIDTH=1937408,CODECS="avc1.4d401f,mp4a.40.2",RESOLUTION=960x540
+https://bcovlive-a.akamaihd.net/f3c53617100e4fd7a0fbdf9e784a650e/eu-central-1/876450610001/profile_0/chunklist.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=1118208,CODECS="avc1.4d401f,mp4a.40.2",RESOLUTION=640x360
+https://bcovlive-a.akamaihd.net/f3c53617100e4fd7a0fbdf9e784a650e/eu-central-1/876450610001/profile_1/chunklist.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=657408,CODECS="avc1.42c01e,mp4a.40.2",RESOLUTION=480x270
+https://bcovlive-a.akamaihd.net/f3c53617100e4fd7a0fbdf9e784a650e/eu-central-1/876450610001/profile_2/chunklist.m3u8
+#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="audio_0",CHANNELS="2",NAME="français",LANGUAGE="fra",DEFAULT=YES,AUTOSELECT=YES,URI="https://bcovlive-a.akamaihd.net/f3c53617100e4fd7a0fbdf9e784a650e/eu-central-1/876450610001/playlist.m3u8"
