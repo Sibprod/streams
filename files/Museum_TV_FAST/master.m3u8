@@ -1,0 +1,11 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-INDEPENDENT-SEGMENTS
+#EXT-X-STREAM-INF:BANDWIDTH=1020800,AVERAGE-BANDWIDTH=985600,CODECS="avc1.4d4028,mp4a.40.2",RESOLUTION=640x360,FRAME-RATE=25.000,CLOSED-CAPTIONS=NONE
+https://amg01492-secomsasmediart-museumtv-fr-rakuten-5ofja.amagi.tv/hls/amagi_hls_data_rakutenAA-museumtv-fr-rakuten/CDN/640x360_985600/chunklist.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=1249600,AVERAGE-BANDWIDTH=1205600,CODECS="avc1.4d4028,mp4a.40.2",RESOLUTION=848x480,FRAME-RATE=25.000,CLOSED-CAPTIONS=NONE
+https://amg01492-secomsasmediart-museumtv-fr-rakuten-5ofja.amagi.tv/hls/amagi_hls_data_rakutenAA-museumtv-fr-rakuten/CDN/848x480_1205600/chunklist.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=2657600,AVERAGE-BANDWIDTH=2560800,CODECS="avc1.4d4028,mp4a.40.2",RESOLUTION=1280x720,FRAME-RATE=25.000,CLOSED-CAPTIONS=NONE
+https://amg01492-secomsasmediart-museumtv-fr-rakuten-5ofja.amagi.tv/hls/amagi_hls_data_rakutenAA-museumtv-fr-rakuten/CDN/1280x720_2560800/chunklist.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=4716800,AVERAGE-BANDWIDTH=4540800,CODECS="avc1.4d4028,mp4a.40.2",RESOLUTION=1920x1080,FRAME-RATE=25.000,CLOSED-CAPTIONS=NONE
+https://amg01492-secomsasmediart-museumtv-fr-rakuten-5ofja.amagi.tv/hls/amagi_hls_data_rakutenAA-museumtv-fr-rakuten/CDN/1920x1080_4540800/chunklist.m3u8
