@@ -1,0 +1,15 @@
+#EXTM3U
+#EXT-X-VERSION:1
+## Created with Unified Streaming Platform (version=1.11.14-26090)
+
+# variants
+#EXT-X-STREAM-INF:BANDWIDTH=558000,AVERAGE-BANDWIDTH=507000,CODECS="mp4a.40.2,avc1.100.30",RESOLUTION=320x180,FRAME-RATE=25
+https://nci-live.secure2.footprint.net/nci/nci.isml/nci-audio_1=128000-video=350000.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=1316000,AVERAGE-BANDWIDTH=1196000,CODECS="mp4a.40.2,avc1.100.30",RESOLUTION=640x360,FRAME-RATE=25
+https://nci-live.secure2.footprint.net/nci/nci.isml/nci-audio_1=128000-video=1000000.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=3065000,AVERAGE-BANDWIDTH=2786000,CODECS="mp4a.40.2,avc1.100.40",RESOLUTION=1920x1080,FRAME-RATE=25,VIDEO-RANGE=SDR
+https://nci-live.secure2.footprint.net/nci/nci.isml/nci-audio_1=128000-video=2500000.m3u8
+
+# variants
+#EXT-X-STREAM-INF:BANDWIDTH=150000,AVERAGE-BANDWIDTH=136000,CODECS="mp4a.40.2"
+https://nci-live.secure2.footprint.net/nci/nci.isml/nci-audio_1=128000.m3u8
