@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1,
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=213
