@@ -1,0 +1,11 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-MEDIA-SEQUENCE:62620
+#EXT-X-TARGETDURATION:17
+#EXTINF:16.666,
+https://webtvmonacoinfo.mc/live/prod_720/62620.ts
+#EXTINF:16.667,
+https://webtvmonacoinfo.mc/live/prod_720/62621.ts
+#EXTINF:16.667,
+https://webtvmonacoinfo.mc/live/prod_720/62622.ts
+#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="audio_0",CHANNELS="2",NAME="français",LANGUAGE="fra",DEFAULT=YES,AUTOSELECT=YES,URI="https://webtvmonacoinfo.mc/live/prod_720/index.m3u8"
