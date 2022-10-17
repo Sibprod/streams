@@ -1,1 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MPD xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xmlns="urn:mpeg:dash:schema:mpd:2011"
+     xmlns:xlink="http://www.w3.org/1999/xlink"
+     xsi:schemaLocation="urn:mpeg:DASH:schema:MPD:2011 http://standards.iso.org/ittf/PubliclyAvailableStandards/MPEG-DASH_schema_files/DASH-MPD.xsd"
+     profiles="urn:mpeg:dash:profile:isoff-live:2011"
+     type="dynamic"
+     minimumUpdatePeriod="PT10.714S" 
+     publishTime="2022-10-17T02:50:38.599Z" 
+     availabilityStartTime="2022-10-17T01:28:17.662Z" 
+     timeShiftBufferDepth="PT50.48S"
+     suggestedPresentationDelay="PT20.0S" 
+     minBufferTime="PT6.0S">
+<ProgramInformation>
+    <Title>channel/3015/MTV_FRANCE_HD</Title>
+</ProgramInformation>
+<Location>https://wza.idipper.com/live/_definst_/channel/3015/MTV_FRANCE_HD/manifest_mvtime_w2039907357_qdHJhY2tpbmc9SVc5OTE0N2FjNjgzMTc0ODgzNjkmdGlja2V0PWY1OGExNmE4LWQ3ZjEtNDQxNS1iMzI1LTI1MGVlZThkMzYwNw==.mpd</Location>
+<Period id="0" start="PT0.0S">
+    <AdaptationSet id="0" group="1" mimeType="video/mp4" width="1920" height="1080" par="16:9" frameRate="25" segmentAlignment="true" startWithSAP="1" subsegmentAlignment="true" subsegmentStartsWithSAP="1">
+        <SegmentTemplate timescale="90000" media="segment_ctvideo_cfm4s_rid$RepresentationID$_cs$Time$_w2039907357_qdHJhY2tpbmc9SVc5OTE0N2FjNjgzMTc0ODgzNjkmdGlja2V0PWY1OGExNmE4LWQ3ZjEtNDQxNS1iMzI1LTI1MGVlZThkMzYwNw==_mpd.m4s" initialization="segment_ctvideo_cfm4s_rid$RepresentationID$_cinit_w2039907357_qdHJhY2tpbmc9SVc5OTE0N2FjNjgzMTc0ODgzNjkmdGlja2V0PWY1OGExNmE4LWQ3ZjEtNDQxNS1iMzI1LTI1MGVlZThkMzYwNw==_mpd.m4s">
+            <SegmentTimeline>
+                <S t="440130510" d="896400"/>
+                <S d="925200"/>
+                <S d="871200"/>
+                <S d="878400"/>
+                <S d="972000"/>
+            </SegmentTimeline>
+        </SegmentTemplate>
+        <Representation id="p0va0br4017843" codecs="avc1.640028" sar="1:1" bandwidth="4017843" />
+    </AdaptationSet>
+    <AdaptationSet id="1" group="2" mimeType="audio/mp4" lang="eng" segmentAlignment="true" startWithSAP="1" subsegmentAlignment="true" subsegmentStartsWithSAP="1">
+        <AudioChannelConfiguration schemeIdUri="urn:mpeg:dash:23003:3:audio_channel_configuration:2011" value="2"/>
+        <SegmentTemplate timescale="48000" media="segment_ctaudio_cfm4s_rid$RepresentationID$_cs$Time$_w2039907357_qdHJhY2tpbmc9SVc5OTE0N2FjNjgzMTc0ODgzNjkmdGlja2V0PWY1OGExNmE4LWQ3ZjEtNDQxNS1iMzI1LTI1MGVlZThkMzYwNw==_mpd.m4s" initialization="segment_ctaudio_cfm4s_rid$RepresentationID$_cinit_w2039907357_qdHJhY2tpbmc9SVc5OTE0N2FjNjgzMTc0ODgzNjkmdGlja2V0PWY1OGExNmE4LWQ3ZjEtNDQxNS1iMzI1LTI1MGVlZThkMzYwNw==_mpd.m4s">
+            <SegmentTimeline>
+                <S t="234736464" d="478224"/>
+                <S d="493584"/>
+                <S d="464880"/>
+                <S d="467952"/>
+                <S d="519168"/>
+            </SegmentTimeline>
+        </SegmentTemplate>
+        <Representation id="p0aa0br112081" codecs="mp4a.40.2" audioSamplingRate="48000" bandwidth="112081">
+        </Representation>
+    </AdaptationSet>
+</Period>
+<UTCTiming schemeIdUri="urn:mpeg:dash:utc:direct:2014" value="2022-10-17T02:50:38.599Z"/>
+</MPD>
 
