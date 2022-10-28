@@ -1,0 +1,11 @@
+#EXTM3U
+#EXT-X-PLAYLIST-TYPE:EVENT
+#EXT-X-VERSION:3
+#EXT-X-TARGETDURATION:6
+#EXT-X-MEDIA-SEQUENCE:250724
+#EXT-X-PROGRAM-DATE-TIME:2022-10-28T16:25:03.743Z
+#EXT-X-KEY:METHOD=AES-128,URI="https://srgssrch.akamaized.net/hls/live/2022077/srgssr-hls-stream20-ch-dvr/29087486f90b91e4368bf61fe2a84dad/profile8/serve.key?hdntl=exp=1667067940~acl=/*~data=hdntl~hmac=b4476c64841a37cc907b1dbf31da6c4741b0304c46bc85eac2e3418c3f601a37&aka_me_session_id=AAAAAAAAAAAkcF1jAAAAAPxXsJv3sPOEAv1U13TP3rsaHh5LGMMYp4FaEOR%2fxxLE9seAgkrGd+PI5MQGqDdRhTeQ7JKhkW++"
+#EXTINF:-1,RTS Info
+https://srgssrch.akamaized.net/hls/live/2022077/srgssr-hls-stream20-ch-dvr/29087486f90b91e4368bf61fe2a84dad/profile3/hdntl=exp=1667067940~acl=%2f*~data=hdntl~hmac=b4476c64841a37cc907b1dbf31da6c4741b0304c46bc85eac2e3418c3f601a37/child3-archive.m3u8?aka_me_session_id=AAAAAAAAAAAkcF1jAAAAAPxXsJv3sPOEAv1U13TP3rsaHh5LGMMYp4FaEOR%2fxxLE9seAgkrGd+PI5MQGqDdRhTeQ7JKhkW++&aka_media_format_type=hls&startTime=1666974300
+#EXTINF:-1,RTS Info
+https://srgssrch.akamaized.net/hls/live/2022077/srgssr-hls-stream20-ch-dvr/29087486f90b91e4368bf61fe2a84dad/profile8/hdntl=exp=1667067940~acl=%2f*~data=hdntl~hmac=b4476c64841a37cc907b1dbf31da6c4741b0304c46bc85eac2e3418c3f601a37/child8-archive.m3u8?aka_me_session_id=AAAAAAAAAAAkcF1jAAAAAPxXsJv3sPOEAv1U13TP3rsaHh5LGMMYp4FaEOR%2fxxLE9seAgkrGd+PI5MQGqDdRhTeQ7JKhkW++&aka_media_format_type=hls&startTime=1666974300
