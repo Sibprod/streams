@@ -1,0 +1,17 @@
+#EXTM3U
+
+#EXT-X-VERSION:3
+
+#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="aud-192000",NAME="english",LANGUAGE="eng",DEFAULT=YES,AUTOSELECT=YES,URI="https://tvalive.akamaized.net/hls/live/2014213/tvan01/audio_0_eng.m3u8"
+
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=3310702,CODECS="avc1.640029,mp4a.40.2",RESOLUTION=1280x720,AUDIO="aud-192000"
+https://tvalive.akamaized.net/hls/live/2014213/tvan01/video_0.m3u8
+
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=656089,CODECS="avc1.420015,mp4a.40.2",RESOLUTION=480x270,AUDIO="aud-192000"
+https://tvalive.akamaized.net/hls/live/2014213/tvan01/video_2.m3u8
+
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1262197,CODECS="avc1.4d001f,mp4a.40.2",RESOLUTION=848x480,AUDIO="aud-192000"
+https://tvalive.akamaized.net/hls/live/2014213/tvan01/video_1.m3u8
+
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=214205,CODECS="mp4a.40.2",AUDIO="aud-192000"
+https://tvalive.akamaized.net/hls/live/2014213/tvan01/audio_0_eng.m3u8
