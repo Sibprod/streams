@@ -2,6 +2,8 @@
 #EXT-X-VERSION:7
 ## Created with Unified Streaming Platform (version=1.11.20-26889)
 
+#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="audio_0",CHANNELS="2",NAME="français",LANGUAGE="fra",DEFAULT=YES,AUTOSELECT=YES,URI="https://c9851ec-rbm-hilv.fsly.cdn.ebsd.ericsson.net/L26/e89a74b7/75911f41.isml//index.m3u8"
+
 # AUDIO groups
 #EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="audio-aacl-128",LANGUAGE="fr",NAME="Fran√ßais",DEFAULT=YES,AUTOSELECT=YES,CHANNELS="2",URI="https://c9851ec-rbm-hilv.fsly.cdn.ebsd.ericsson.net/L26/e89a74b7/75911f41.isml/75911f41-audio_fre=128000.m3u8"
 
