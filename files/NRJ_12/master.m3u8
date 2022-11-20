@@ -1,12 +1,5 @@
 #EXTM3U
-#EXTINF:-1,NRJ 12
-curl 'https://origin-caf900c010ea8046.live.salto.fr/out/v1/51edd6b4584c45ebaed5ff46fc113fd7/hdaindex.m3u8' \
--X 'GET' \
--H 'Accept: */*' \
--H 'Origin: https://www.salto.fr' \
--H 'Accept-Encoding: gzip, deflate, br' \
--H 'Host: origin-caf900c010ea8046.live.salto.fr' \
--H 'User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.1 Safari/605.1.15' \
--H 'Accept-Language: fr-FR,fr;q=0.9' \
--H 'Referer: https://www.salto.fr/' \
--H 'Connection: keep-alive'
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.salto.fr/assets/sprites/sprite.627bf61175a19f0eba3164ef110c35cd.svg#nrj12-usage" tvg-chno="12",NRJ 12
+#EXTVLCOPT:http-referrer=https://www.salto.fr/
+https://origin-caf900c010ea8046.live.salto.fr/out/v1/51edd6b4584c45ebaed5ff46fc113fd7/hdaindex.m3u8
+
