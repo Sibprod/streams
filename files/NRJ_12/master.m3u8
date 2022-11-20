@@ -1,15 +1,12 @@
 #EXTM3U
-#EXT-X-VERSION:7
-## Just In Time Delivered by Quortex Solution, version 2.13.1
-#EXT-X-INDEPENDENT-SEGMENTS
-#EXT-X-STREAM-INF:BANDWIDTH=3150000,RESOLUTION=1280x720,FRAME-RATE=25,CODECS="avc1.64001f,mp4a.40.2",AUDIO="aac-lc-96000"
-https://origin2.live.salto.fr/pool_u81ytesz/nrj12/saltohda/hls_long_enc_nrj12/NA/vpnjbv4/index.m3u8
-#EXT-X-STREAM-INF:BANDWIDTH=300000,RESOLUTION=400x224,FRAME-RATE=25,CODECS="avc1.4d000c,mp4a.40.2",AUDIO="aac-lc-96000"
-https://origin2.live.salto.fr/pool_u81ytesz/nrj12/saltohda/hls_long_enc_nrj12/NA/vosQryx/index.m3u8
-#EXT-X-STREAM-INF:BANDWIDTH=800000,RESOLUTION=640x360,FRAME-RATE=25,CODECS="avc1.4d0016,mp4a.40.2",AUDIO="aac-lc-96000"
-https://origin2.live.salto.fr/pool_u81ytesz/nrj12/saltohda/hls_long_enc_nrj12/NA/v2TM44t/index.m3u8
-#EXT-X-STREAM-INF:BANDWIDTH=1500000,RESOLUTION=720x404,FRAME-RATE=25,CODECS="avc1.4d0016,mp4a.40.2",AUDIO="aac-lc-96000"
-https://origin2.live.salto.fr/pool_u81ytesz/nrj12/saltohda/hls_long_enc_nrj12/NA/vyhjKJi/index.m3u8
-#EXT-X-STREAM-INF:BANDWIDTH=2100000,RESOLUTION=960x540,FRAME-RATE=25,CODECS="avc1.4d001f,mp4a.40.2",AUDIO="aac-lc-96000"
-https://origin2.live.salto.fr/pool_u81ytesz/nrj12/saltohda/hls_long_enc_nrj12/NA/vMztcDc/index.m3u8
-#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="aac-lc-96000",NAME="French",LANGUAGE="fre",AUTOSELECT=YES,DEFAULT=YES,CHANNELS="2",URI="https://origin2.live.salto.fr/pool_u81ytesz/nrj12/saltohda/hls_long_enc_nrj12/NA/aHEUMcx/index.m3u8"
+#EXTINF:-1,NRJ 12
+curl 'https://origin-caf900c010ea8046.live.salto.fr/out/v1/51edd6b4584c45ebaed5ff46fc113fd7/hdaindex.m3u8' \
+-X 'GET' \
+-H 'Accept: */*' \
+-H 'Origin: https://www.salto.fr' \
+-H 'Accept-Encoding: gzip, deflate, br' \
+-H 'Host: origin-caf900c010ea8046.live.salto.fr' \
+-H 'User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.1 Safari/605.1.15' \
+-H 'Accept-Language: fr-FR,fr;q=0.9' \
+-H 'Referer: https://www.salto.fr/' \
+-H 'Connection: keep-alive'
