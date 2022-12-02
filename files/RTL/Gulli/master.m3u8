@@ -13,3 +13,6 @@ https://origin2-6play.live.6cloud.fr/pool_u81ytesz/gulli/sixplayhde/hls_short_en
 #EXT-X-STREAM-INF:BANDWIDTH=2100000,RESOLUTION=960x540,FRAME-RATE=25,CODECS="avc1.4d001f,mp4a.40.2",AUDIO="aac-lc-96000"
 https://origin2-6play.live.6cloud.fr/pool_u81ytesz/gulli/sixplayhde/hls_short_enc_gulli/NA/vMztcDc/index.m3u8
 #EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="aac-lc-96000",NAME="French",LANGUAGE="fre",AUTOSELECT=YES,DEFAULT=YES,CHANNELS="2",URI="https://origin2-6play.live.6cloud.fr/pool_u81ytesz/gulli/sixplayhde/hls_short_enc_gulli/NA/aHEUMcx/index.m3u8"
+
+
+
