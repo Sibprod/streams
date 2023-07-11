@@ -33,8 +33,11 @@ jobs:
         run: |
           pwd
           cd ./core/platforms/
-          python3 dailymotion.py "x13p3qi" > ../../streams/Lyon_Capitale_TV.m3u8
+          python3 dailymotion.py "x7z3zqa" > ../../streams/Lyon_Capitale_TV.m3u8
           echo "m3u grabbed"
+            except Exception as e:
+        m3u = 'https://raw.githubusercontent.com/naveenland4/UTLive/main/assets/info.m3u8'
+        print(m3u)
         
       - name: git add
         run: |
