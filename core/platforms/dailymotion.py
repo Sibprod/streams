@@ -21,9 +21,6 @@ def get_dailymotion_streams(video_id: str):
         stream_url = response['qualities']['auto'][0]['url']
         m3u = requests.get(stream_url).text
         print(m3u)
-    except Exception as e:
-        m3u = 'https://raw.githubusercontent.com/naveenland4/UTLive/main/assets/info.m3u8'
-        print(m3u)
 
 if __name__ == '__main__':
     if len(sys.argv) != 2:
