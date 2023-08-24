@@ -12,4 +12,4 @@ if response.status_code = 200
     # L'authentification a réussi, tu peux ensuite extraire le jeton d'authentification et continuer le reste du processus.
         token = response.json().get("token")
 else:
-        print("playlist.m3u8")
+        print("L'authentification a échoué")
