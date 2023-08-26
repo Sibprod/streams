@@ -1,0 +1,41 @@
+name: Python application
+
+on:
+  push:
+    branches: [ "main" ]
+  pull_request:
+    branches: [ "main" ]
+
+permissions:
+  contents: read
+
+jobs:
+  build:
+
+    runs-on: ubuntu-latest
+
+    steps:
+    - uses: actions/checkout@v3
+    - name: Set up Python 3.10
+      uses: actions/setup-python@v3
+      with:
+        python-version: "3.10"
+    - name: Execute Python script
+      run: https://github.com/Sibprod/streams/core/platforms/france2.py
+
+     - name: grab m3u files
+        run: |
+          pwd
+          cd ./streams/feed/
+          python3 france2.py > https://github.com/Sibprod/streams/feed/France2.m3u8
+          echo "m3u grabbed"          
+        
+      - name: git add
+        run: |
+          git add -A
+          ls -la 
+                    
+      - name: commit & push
+        run: |
+          git commit -m "France2 updated"
+          git push  
