@@ -28,7 +28,7 @@ jobs:
           git config --global user.email "<>"
           git config --global user.name "RTL bot"
       
-      - name: updating E1
+      - name: updating RTL
         run: sh ressources/dmotion/py/RTL/RTL.sh
         
       - name: git add
