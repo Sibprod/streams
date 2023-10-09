@@ -26,10 +26,10 @@ jobs:
       - name: config
         run: |
           git config --global user.email "<>"
-          git config --global user.name "LCP_100_100 bot"
+          git config --global user.name "LCP100_100 bot"
       
       - name: updating LCP 100%
-        run: sh ressources/dmotion/py/Assemblees/LCP_100_100.sh
+        run: sh ressources/dmotion/py/Assemblees/LCP100_100.sh
         
       - name: git add
         run: |
