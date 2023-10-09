@@ -28,7 +28,7 @@ jobs:
           git config --global user.email "<>"
           git config --global user.name "Franceinfo_TV bot"
       
-      - name: updating E1
+      - name: updating Franceinfo
         run: sh ressources/dmotion/py/FranceTV/Franceinfo.sh
         
       - name: git add
