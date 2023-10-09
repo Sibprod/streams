@@ -30,7 +30,7 @@ jobs:
           git config --global user.name "Lyon Capitale bot"
       
       - name: updating Lyon Capitale
-        run: sh ressources/dmotion/py/SudRadio/Lyon Capitale.sh
+        run: sh ressources/dmotion/py/SudRadio/LyonCapitale.sh
         
       - name: git add
         run: |
