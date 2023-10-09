@@ -28,7 +28,7 @@ jobs:
           git config --global user.email "<>"
           git config --global user.name "PublicSenat bot"
       
-      - name: updating E1
+      - name: updating PublicSenat
         run: sh ressources/dmotion/py/Assemblee/PublicSenat.sh
         
       - name: git add
