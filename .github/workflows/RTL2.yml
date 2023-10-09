@@ -29,7 +29,7 @@ jobs:
           git config --global user.name "RTL2 bot"
       
       - name: updating RTL2
-        run: sh ressources/dmotion/py/RTL2/RTL2.sh
+        run: sh ressources/dmotion/py/RTL/RTL2.sh
         
       - name: git add
         run: |
