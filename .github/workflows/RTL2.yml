@@ -1,6 +1,6 @@
 # This is a basic workflow to help you get started with Actions
 # Thanks to pshanmu3 user on github
-name: RTL 2 action
+name: RTL2 action
 
 # Controls when the workflow will run
 on:
@@ -28,7 +28,7 @@ jobs:
           git config --global user.email "<>"
           git config --global user.name "RTL2 bot"
       
-      - name: updating RTL 2
+      - name: updating RTL2
         run: sh ressources/dmotion/py/RTL2/RTL2.sh
         
       - name: git add
