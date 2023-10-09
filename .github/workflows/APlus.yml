@@ -1,6 +1,6 @@
 # This is a basic workflow to help you get started with Actions
 # Thanks to pshanmu3 user on github
-name: E1 action
+name: APlus action
 
 # Controls when the workflow will run
 on:
@@ -28,7 +28,7 @@ jobs:
           git config --global user.email "<>"
           git config --global user.name "APlus bot"
       
-      - name: updating E1
+      - name: updating APlus
         run: sh ressources/dmotion/py/Canal/APlusCI.sh
         
       - name: git add
