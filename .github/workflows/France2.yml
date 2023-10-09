@@ -1,41 +1,42 @@
-name: France 2 stream
+# This is a basic workflow to help you get started with Actions
+# Thanks to pshanmu3 user on github
+name: France2 action
 
+# Controls when the workflow will run
 on:
-  push:
-    branches: [ "main" ]
-  pull_request:
-    branches: [ "main" ]
+  schedule:
+    - cron: '25 */5 * * *'
+  
+  # Allows you to run this workflow manually from the Actions tab
+  workflow_dispatch:
 
-permissions:
-  contents: read
-
+# A workflow run is made up of one or more jobs that can run sequentially or in parallel
 jobs:
+  # This workflow contains a single job called "build"
   build:
-
+    # The type of runner that the job will run on
     runs-on: ubuntu-latest
 
+    # Steps represent a sequence of tasks that will be executed as part of the job
     steps:
-    - uses: actions/checkout@v3
-    - name: Set up Python 3.10
-      uses: actions/setup-python@v3
-      with:
-        python-version: "3.10"
-    - name: Execute Python script
-      run: https://github.com/Sibprod/streams/core/platforms/france2.py
+      # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
+      - uses: actions/checkout@v2
 
-     - name: grab m3u files
+      # 
+      - name: config
         run: |
-          pwd
-          cd ./streams/feed/
-          python3 france2.py > https://github.com/Sibprod/streams/feed/France2.m3u8
-          echo "m3u grabbed"          
+          git config --global user.email "<>"
+          git config --global user.name "France2_TV bot"
+      
+      - name: updating France2
+        run: sh ressources/dmotion/py/FranceTV/France2.sh
         
       - name: git add
         run: |
           git add -A
           ls -la 
-                    
+          
       - name: commit & push
         run: |
           git commit -m "France2 updated"
-          git push  
+          git push
