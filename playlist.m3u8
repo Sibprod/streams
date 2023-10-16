@@ -83,6 +83,9 @@ http://livetv.ktv.zone/29/play.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.lyoncapitale.fr/wp-content/themes/siteorigin-fidumedias/images/lyoncap/logo-90.png" group-title="TNT" tvg-chno="30",Lyon Capitale TV
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/dmotion/py/gnrcpltfrm/lyoncap.m3u8
 
+#EXTINF:-1 tvg-id="N31.fr" tvg-logo="https://s2.dmcdn.net/u/7fiM11W1elfvri5Tt/240x240" group-title="TNT" tvg-chno="31",N31
+https://raw.githubusercontent.com/Sibprod/streams/main/ressources/dmotion/py/N31/N31.m3u8
+
 #EXTINF:-1 tvg-id="TV8MontBlanc.fr" tvg-logo="https://tv.cdnartwhere.eu/images/logos_chaines/421.png" group-title="TNT" tvg-chno="31",8 Mont-Blanc
 
 
@@ -146,6 +149,9 @@ https://tntv-samsung-fr.amagi.tv/hls/amagi_hls_data_samsungfr-tntv-samsungfr/CDN
 
 #EXTINF:-1 tvg-id="Tiji.fr" tvg-logo="https://experience-cache.proximustv.be/posterserver/poster/DEFAULT/w-250_h-162/t_0076_001.png" group-title="TNT" tvg-chno="63",Tiji
 http://livetv.ktv.zone/175/play.m3u8
+
+#EXTINF:-1 tvg-id="Telesud.fr" tvg-logo="https://s2.dmcdn.net/u/1erOl1YsKLpseQ-JA/120x120" group-title="TNT" tvg-chno="64",Telesud
+https://raw.githubusercontent.com/Sibprod/streams/main/ressources/dmotion/py/Vision4/Telesud.m3u8
 
 #EXTINF:-1 tvg-id="Monacoinfo.mc" tvg-logo="http://www.mmd.mc/images/radio/mcinfo.png" group-title="TNT" tvg-chno="70",Monaco Info
 https://webtvmonacoinfo.mc/live/prod_720/index.m3u8
