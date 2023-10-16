@@ -153,6 +153,9 @@ http://livetv.ktv.zone/175/play.m3u8
 #EXTINF:-1 tvg-id="Telesud.fr" tvg-logo="https://s2.dmcdn.net/u/1erOl1YsKLpseQ-JA/120x120" group-title="TNT" tvg-chno="64",Telesud
 https://raw.githubusercontent.com/Sibprod/streams/main/ressources/dmotion/py/Vision4/Telesud.m3u8
 
+#EXTINF:-1 tvg-id="Ubiznews.fr" tvg-logo=https://s1.dmcdn.net/u/4CFDy1a3DhO-RKAnp/60x60" group-title="TNT" tvg-chno="65",Ubiznews-OM5
+https://raw.githubusercontent.com/Sibprod/streams/main/ressources/dmotion/py/Ubiznews/Ubiznews.m3u8
+
 #EXTINF:-1 tvg-id="Monacoinfo.mc" tvg-logo="http://www.mmd.mc/images/radio/mcinfo.png" group-title="TNT" tvg-chno="70",Monaco Info
 https://webtvmonacoinfo.mc/live/prod_720/index.m3u8
 
