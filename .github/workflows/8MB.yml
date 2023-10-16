@@ -29,7 +29,7 @@ jobs:
           git config --global user.name "8 Mont-Blanc bot"
       
       - name: updating 8 Mont-Blanc
-        run: sh ressources/dmotion/py/8MB/8_Mont-Blanc.sh
+        run: sh ressources/dmotion/py/8MB/8MB.sh
         
       - name: git add
         run: |
