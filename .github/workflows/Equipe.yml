@@ -26,10 +26,10 @@ jobs:
       - name: config
         run: |
           git config --global user.email "<>"
-          git config --global user.name "L'Equipe bot"
+          git config --global user.name "Equipe bot"
       
-      - name: updating N31
-        run: sh ressources/dmotion/py/L'Equipe/L'Equipe.sh
+      - name: updating L'Equipe
+        run: sh ressources/dmotion/py/Equipe/Equipe.sh
         
       - name: git add
         run: |
