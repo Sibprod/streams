@@ -28,7 +28,7 @@ jobs:
           git config --global user.email "<>"
           git config --global user.name "TLC bot"
       
-      - name: updating L'Equipe
+      - name: updating TLC
         run: sh ressources/dmotion/py/Locales/TLC.sh
         
       - name: git add
