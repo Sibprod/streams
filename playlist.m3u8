@@ -142,8 +142,6 @@ https://codeberg.org/Sibprod/streams/raw/branch/master/Teva.m3u8
 #EXTINF:-1 tvg-id="RTL9.lu" tvg-logo="https://focus.telerama.fr/104x104/60/0000/00/01/clear-115.png" group-title="TNT" tvg-chno="59",RTL9
 https://wza.idipper.com/live/_definst_/channel/3001/RTL9/playlist.m3u8?tracking=IWbbef89510697805275&ticket=ccd49ceb-b58d-4581-a565-0dd13171702c
 
-
-
 #EXTINF:-1 tvg-id="" tvg-logo="http://fusiontv.fr/wp-content/uploads/2021/03/cropped-LOGO-FUSION-TV2-2-300x220.png" group-title="TNT" tvg-chno="61",Fusion TV
 https://livevideo.vedge.infomaniak.com/livecast/fusiontv/playlist.m3u8
 
@@ -317,20 +315,6 @@ https://livevideo.vedge.infomaniak.com/livecast/naradio/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://codeberg.org/Sibprod/Feed/raw/branch/main/assets/PTV.png" group-title="TNT_Regionale" tvg-chno="30",Puissance Télévision
 https://livevideo.vedge.infomaniak.com/livecast/puissancetelevision/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Viatelepaese.fr" tvg-logo="https://viatelepaese.tv/fileadmin/via_main/img/logos/viaTelePaese.png" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 Edg/112.0.1722.34" group-title="TNT_Regionale" tvg-chno="30",TelePaese
-#EXTVLCOPT:http-referrer=https://srv.webtvmanager.fr/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 Edg/112.0.1722.34
-https://srv.webtvmanager.fr:3118/live/viatelepaeselive.m3u8
-
-#EXTINF:-1 tvg-id="TV78.fr" tvg-logo="https://i.imgur.com/stzE1Ij.png" group-title="TNT_Regionale" tvg-chno="30",TV78
-https://streamtv.cdn.dvmr.fr/TV78/ngrp:tv78.stream_all/master.m3u8
-
-#EXTINF:-1 tvg-id="Weo.fr" tvg-logo="https://static.epg.best/fr/Weo.fr.png" group-title="TNT_Regionale" tvg-chno="30",Wéo (Nord-Pas-de-Calais)
-https://live.digiteka.com/1/WGQ1NnhEN0lzM0NU/dk1EOHhw/hls/live/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.7alimoges.tv/photo/titre_4350949.jpg?v=1497606396" group-title="TNT_Regionale" tvg-chno="31",7 à Limoges
-https://ythls.onrender.com/channel/UCdFv_ZWQ3Xk_NfRiaK-ryGg.m3u8
-
 #EXTINF:-1 tvg-id="BFMDiciAlpesduSud.fr" tvg-logo="https://raw.githubusercontent.com/Sibprod/assets/main/Altice/ALTICE_BFM-Dici-Alpes-du-Sud.png" group-title="TNT_Regionale" tvg-chno="31",BFM Régions (D!ci Alpes-du-Sud)
 https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_DICI_ALPESDUSUD/index.m3u8?start=LIVE&end=END
 
@@ -343,62 +327,14 @@ https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFMGRANDLILLE/index.m3u8?start=LIVE&
 #EXTINF:-1 tvg-id="BFMCotedAzur.fr" tvg-logo="https://raw.githubusercontent.com/Sibprod/assets/main/Altice/ALTICE_BFM-Nice.png" group-title="TNT_Regionale" tvg-chno="31",BFM Régions (Nice-Côte d'Azur)
 https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_NICECOTEDAZUR/index.m3u8?start=LIVE&end=END
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://yt3.googleusercontent.com/ytc/AOPolaQoqMZDjGJP9jDl9y9dMIO8b0KcdaXfLosUHxbQBA=s176-c-k-c0x00ffffff-no-rj" group-title="TNT_Regionale" tvg-chno="31",Mosaïk Cristal
-https://ythls.onrender.com/channel/UCQC0xLG_W0QpqAXQ4-yhwBA.m3u8
-
-#EXTINF:-1 tvg-id="Tebeo.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Logo_Tébéo.png/150px-Logo_Tébéo.png" group-title="TNT_Regionale" tvg-chno="31",Tébéo
-https://lives.digiteka.com/stream/e0fe6433-554e-4568-9a7e-31969136d8ff/index-1080p.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/TéléNantes_Logo_2020.png/200px-TéléNantes_Logo_2020.png" group-title="TNT_Regionale" tvg-chno="31",Télénantes
-https://raw.githubusercontent.com/Sibprod/streams/main/ressources/dmotion/py/Locales/Telenantes.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/LOGO_TL7.png/220px-LOGO_TL7.png" group-title="TNT_Regionale" tvg-chno="31",TL7
-https://raw.githubusercontent.com/Sibprod/streams/main/ressources/dmotion/py/Locales/TL7.m3u8
-
-#EXTINF:-1 tvg-id="ViaOccitanie.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Logo_de_ViàOccitanie.png/250px-Logo_de_ViàOccitanie.png" group-title="TNT_Regionale" tvg-chno="31",viàOccitanie
-https://streamer01.myvideoplace.tv/streamer02/hls/MDS_VIA_PAD_301117.m3u8
-
-#EXTINF:-1 tvg-id="Vosgestelevision.fr" tvg-logo="https://www.vosgestelevision.tv/images/logo_vosgestv.png" group-title="TNT_Regionale" tvg-chno="31",Vosges Télévision
-https://vosgestv.live-kd.com/live/vosgestv/vosgestv/playlist.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/516Tapv.png" group-title="TNT_Regionale" tvg-chno="32",BFM Régions (BFM Grand Littoral)
 https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFMGRANDLITTORAL/index.m3u8?start=LIVE&end=END
-
-#EXTINF:-1 tvg-id="Canal32.fr" tvg-logo="https://static.epg.best/fr/Canal32.fr.png" group-title="TNT_Regionale" tvg-chno="32",Canal 32
-https://livevideo.vedge.infomaniak.com/livecast/canal32/manifest.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://yt3.googleusercontent.com/ytc/APkrFKauQUZ1VJ5SfP5o-Y9hakBs8OTNef4XRGLz4iEz=s176-c-k-c0x00ffffff-no-rj" group-title="TNT_Regionale" tvg-chno="32",La Chaîne 32
 https://ythls.onrender.com/channel/UChl0zP89T7yZyEwQkCfmmnQ.m3u8
 
 #EXTINF:-1 tvg-id="BFMNormandie.fr" tvg-logo="https://raw.githubusercontent.com/Sibprod/assets/main/Altice/ALTICE_BFM-Normandie.png" group-title="TNT_Regionale" tvg-chno="33",BFM Régions (Normandie)
 https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_NORMANDIE/index.m3u8?start=LIVE&end=END
-
-#EXTINF:-1 tvg-id="MoselleTV.fr" tvg-logo="https://moselle.tv/wp-content/uploads/2022/07/LOGO-MOSELLE-TV-BLANC.png" group-title="TNT_Regionale" tvg-chno="33",Moselle TV
-https://live.creacast.com/mirabelletv/smil:mirabelletv.smil/index.m3u8
-
-#EXTINF:-1 tvg-id="TV7Bordeaux.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/TV7_Bordeaux.png/150px-TV7_Bordeaux.png" group-title="TNT_Regionale" tvg-chno="33",TV7 Sud-Ouest
-http://live.digiteka.com/1/RVNZMmJtUURmd09I/U0dNU0tk/hls/live/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat-stream.com/logo/tv/mm/matele-fr.png" group-title="TNT_Regionale" tvg-chno="34",Ma Télé (France)
-https://5dd226f8f01e8.streamlock.net/via-matele-live/matelelive_1080/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/b/b6/Logotype_TV_vendée.svg/langfr-250px-Logotype_TV_vendée.svg.png" group-title="TNT_Regionale" tvg-chno="34",TV Vendée
-https://streamer01.myvideoplace.tv/streamer02/hls/VDE_EVEN_PAD_130923_medium/index.m3u8
-
-#EXTINF:-1 tvg-id="TVR.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/3/35/TVR_%28Bretagne%29_logo_2011.png/150px-TVR_%28Bretagne%29_logo_2011.png" group-title="TNT_Regionale" tvg-chno="35",TVR - TV Rennes 35
-https://streamtv.cdn.dvmr.fr/TVR/ngrp:tvr.stream_all/master.m3u8
-
-#EXTINF:-1 tvg-id="Weo.fr" tvg-logo="https://static.epg.best/fr/Weo.fr.png" group-title="TNT_Regionale" tvg-chno="35",Wéo (Picardie)
-https://live.digiteka.com/1/Zks2L0VsM2V0T242/QTBqcFly/hls/live/playlist.m3u8
-
-#EXTINF:-1 tvg-id="BIPTV.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Logo_Bip_TV.png/150px-Logo_Bip_TV.png" group-title="TNT_Regionale" tvg-chno="36",BIP TV
-http://biptv.tv/live/biptvstream_orig/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.tvtours.fr/assets/images/template/logo-tvtours-hd.png" group-title="TNT_Regionale" tvg-chno="37",TV Tours - Val de Loire
-https://lives.digiteka.com/stream/920f083a-9e61-4c09-9bc2-bdb664063aa9/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.maurienne.tv/wp-content/uploads/2022/09/Fichier-1-1536x377.png" group-title="TNT_Regionale" tvg-chno="40",Maurienne TV
-https://ythls.onrender.com/channel/UCva-htH2wvmKsG6SkcEJ4Vw.m3u8
 
 #EXTINF:-1 tvg-id=" " tvg-logo="https://play-lh.googleusercontent.com/ueU1-Uf0-gY6ktpgJ3GE6wfcaG05ud8a6plswApnT9xiP0nKqQZICLAoo6eEJkFO4w0=w240-h480" group-title="TNT_Regionale" tvg-chno="77",TV7 Colmar
 https://tv7.live-kd.com/live/tv7/ngrp:tv7_Wifi/playlist.m3u8
@@ -411,6 +347,74 @@ https://ythls.onrender.com/channel/UCNKXYT-Nng5LBMUQrZJ9zWA.m3u8
 
 #EXTINF:-1 tvg-id="GrandGeneveTV.fr" tvg-logo="https://www.grand-geneve.tv/wp-content/uploads/2020/06/GG-logo-1024x512-1.jpg" group-title="TNT_Regionale" tvg-chno="222",Grand Genève TV
 https://ythls.onrender.com/channel/UCXFfYlxx1CDljLyXwXFbL1A.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat-stream.com/logo/tv/mm/matele-fr.png" group-title="TNT_Regionale" tvg-chno="347",Ma Télé (France)
+https://5dd226f8f01e8.streamlock.net/via-matele-live/matelelive_1080/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Vosgestelevision.fr" tvg-logo="https://www.vosgestelevision.tv/images/logo_vosgestv.png" group-title="TNT_Regionale" tvg-chno="350",Vosges Télévision
+https://vosgestv.live-kd.com/live/vosgestv/vosgestv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="MoselleTV.fr" tvg-logo="https://moselle.tv/wp-content/uploads/2022/07/LOGO-MOSELLE-TV-BLANC.png" group-title="TNT_Regionale" tvg-chno="351",Moselle TV
+https://live.creacast.com/mirabelletv/smil:mirabelletv.smil/index.m3u8
+
+#EXTINF:-1 tvg-id="TVR.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/3/35/TVR_%28Bretagne%29_logo_2011.png/150px-TVR_%28Bretagne%29_logo_2011.png" group-title="TNT_Regionale" tvg-chno="352",TVR - TV Rennes 35
+https://streamtv.cdn.dvmr.fr/TVR/ngrp:tvr.stream_all/master.m3u8
+
+#EXTINF:-1 tvg-id="Tebeo.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Logo_Tébéo.png/150px-Logo_Tébéo.png" group-title="TNT_Regionale" tvg-chno="353",Tébéo
+https://lives.digiteka.com/stream/e0fe6433-554e-4568-9a7e-31969136d8ff/index-1080p.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/TéléNantes_Logo_2020.png/200px-TéléNantes_Logo_2020.png" group-title="TNT_Regionale" tvg-chno="354",Télénantes
+https://raw.githubusercontent.com/Sibprod/streams/main/ressources/dmotion/py/Locales/Telenantes.m3u8
+
+#EXTINF:-1 tvg-id="TV7Bordeaux.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/TV7_Bordeaux.png/150px-TV7_Bordeaux.png" group-title="TNT_Regionale" tvg-chno="355",TV7 Sud-Ouest
+http://live.digiteka.com/1/RVNZMmJtUURmd09I/U0dNU0tk/hls/live/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Weo.fr" tvg-logo="https://static.epg.best/fr/Weo.fr.png" group-title="TNT_Regionale" tvg-chno="356",Wéo (Nord-Pas-de-Calais)
+https://live.digiteka.com/1/WGQ1NnhEN0lzM0NU/dk1EOHhw/hls/live/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.tvtours.fr/assets/images/template/logo-tvtours-hd.png" group-title="TNT_Regionale" tvg-chno="361",TV Tours - Val de Loire
+https://lives.digiteka.com/stream/920f083a-9e61-4c09-9bc2-bdb664063aa9/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/b/b6/Logotype_TV_vendée.svg/langfr-250px-Logotype_TV_vendée.svg.png" group-title="TNT_Regionale" tvg-chno="362",TV Vendée
+https://streamer01.myvideoplace.tv/streamer02/hls/VDE_EVEN_PAD_130923_medium/index.m3u8
+
+#EXTINF:-1 tvg-id="BIPTV.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Logo_Bip_TV.png/150px-Logo_Bip_TV.png" group-title="TNT_Regionale" tvg-chno="364",BIP TV
+http://biptv.tv/live/biptvstream_orig/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://yt3.googleusercontent.com/ytc/APkrFKYYmLuk67hE0daWPrLAnqr0vOmddi79mRD-9EvDsA=s176-c-k-c0x00ffffff-no-rj" group-title="TNT_Regionale" tvg-chno="366",TVPi
+https://ythls.onrender.com/channel/UCwVQAPo6tjC5w5yBBh0WEdA.m3u8
+
+#EXTINF:-1 tvg-id="TV78.fr" tvg-logo="https://i.imgur.com/stzE1Ij.png" group-title="TNT_Regionale" tvg-chno="368",TV78
+https://streamtv.cdn.dvmr.fr/TV78/ngrp:tv78.stream_all/master.m3u8
+
+#EXTINF:-1 tvg-id="ViaOccitanie.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Logo_de_ViàOccitanie.png/250px-Logo_de_ViàOccitanie.png" group-title="TNT_Regionale" tvg-chno="369",viàOccitanie
+https://streamer01.myvideoplace.tv/streamer02/hls/MDS_VIA_PAD_301117.m3u8
+
+#EXTINF:-1 tvg-id="Canal32.fr" tvg-logo="https://static.epg.best/fr/Canal32.fr.png" group-title="TNT_Regionale" tvg-chno="372",Canal 32
+https://livevideo.vedge.infomaniak.com/livecast/canal32/manifest.m3u8
+
+#EXTINF:-1 tvg-id="TLC.fr" tvg-logo="https://cdn.woopic.com/v1/AUTH_9ffb653181284b0abe5e45d7014095b2/boutique-tv/tlc_1280@1x_5e996d1cd4acc050b005f373.png" group-title="TNT_Regionale" tvg-chno="378",TLC - Télévision Locale du Choletais
+https://raw.githubusercontent.com/Sibprod/streams/main/ressources/dmotion/py/Locales/TLC.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.7alimoges.tv/photo/titre_4350949.jpg?v=1497606396" group-title="TNT_Regionale" tvg-chno="379",7 à Limoges
+https://ythls.onrender.com/channel/UCdFv_ZWQ3Xk_NfRiaK-ryGg.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.maurienne.tv/wp-content/uploads/2022/09/Fichier-1-1536x377.png" group-title="TNT_Regionale" tvg-chno="381",Maurienne TV
+https://ythls.onrender.com/channel/UCva-htH2wvmKsG6SkcEJ4Vw.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://yt3.googleusercontent.com/ytc/AOPolaQoqMZDjGJP9jDl9y9dMIO8b0KcdaXfLosUHxbQBA=s176-c-k-c0x00ffffff-no-rj" group-title="TNT_Regionale" tvg-chno="382",Mosaïk Cristal
+https://ythls.onrender.com/channel/UCQC0xLG_W0QpqAXQ4-yhwBA.m3u8
+
+#EXTINF:-1 tvg-id="Viatelepaese.fr" tvg-logo="https://viatelepaese.tv/fileadmin/via_main/img/logos/viaTelePaese.png" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 Edg/112.0.1722.34" group-title="TNT_Regionale" tvg-chno="383",TelePaese
+#EXTVLCOPT:http-referrer=https://srv.webtvmanager.fr/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 Edg/112.0.1722.34
+https://srv.webtvmanager.fr:3118/live/viatelepaeselive.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/LOGO_TL7.png/220px-LOGO_TL7.png" group-title="TNT_Regionale" tvg-chno="384",TL7
+https://raw.githubusercontent.com/Sibprod/streams/main/ressources/dmotion/py/Locales/TL7.m3u8
+
+#EXTINF:-1 tvg-id="Weo.fr" tvg-logo="https://static.epg.best/fr/Weo.fr.png" group-title="TNT_Regionale" tvg-chno="387",Wéo (Picardie)
+https://live.digiteka.com/1/Zks2L0VsM2V0T242/QTBqcFly/hls/live/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="http://www.iltv.fr/img/cartouche-logo.png" group-title="TNT_Regionale" tvg-chno="481",ILTV
 http://live.creacast.com/iltv/smil:iltv.smil/playlist.m3u8
