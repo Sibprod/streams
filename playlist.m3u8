@@ -815,6 +815,10 @@ http://www.callofliberty.fr/streaming/MaisonEtTravauxTV/master.m3u8
 #EXTINF:-1 tvg-id="TopSanteTV.fr" tvg-logo="http://www.callofliberty.fr/tv/119-TOPSanteTV/119-TOPSanteTV.png" group-title="IPTV" tvg-chno="114",Top Santé TV
 http://www.callofliberty.fr/streaming/TOPSANTETV/master.m3u8
 
+#EXTINF:-1 tvg-id="MyZenTV.fr" tvg-logo="https://i.imgur.com/fIi8o0C.png" group-title="IPTV" tvg-chno="124",My Zen TV
+https://live.creacast.com/myzentv-france/smil:myzentv-france.smil/playlist.m3u8
+
+
 #EXTINF:-1 tvg-id="Equidia.fr" tvg-logo="https://static.epg.best/fr/Equidia.fr.png" group-title="IPTV" tvg-chno="173",Equidia
 http://www.callofliberty.fr/streaming/EQUIDIA/master.m3u8
 
