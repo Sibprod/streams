@@ -342,9 +342,6 @@ https://fibergy.cdn.masmediatv.es/SVoriginOperatorDistrib001/smil:252_HD.smil/in
 #EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="IPTV" tvg-chno=" ",Comedy Central (España)
 https://fibergy.cdn.masmediatv.es/SVoriginOperatorDistrib001/smil:254_HD.smil/index.m3u8
 
-#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="IPTV" tvg-chno=" ",Disney Junior (España)
-https://fibergy.cdn.masmediatv.es/SVoriginOperatorDistrib001/smil:264_HD.smil/index.m3u8
-
 #EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="IPTV" tvg-chno=" ",Eurosport 1 (España)
 https://fibergy.cdn.masmediatv.es/SVoriginOperatorDistrib001/smil:238_HD.smil/index.m3u8
 
@@ -924,6 +921,10 @@ https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge3/smil:7_HD.smil/manif
 #EXTINF:-1 tvg-id="Atreseries.es" tvg-logo=" " group-title="TDT" tvg-chno="30",A3 Series
 https://fibergy.cdn.masmediatv.es/SVoriginOperatorDistrib001/smil:278_HD.smil/index.m3u8
 
+
+#EXTINF:-1 tvg-id="Divinity.es" tvg-logo="https://www.tvguia.es/sites/default/files/logo/divinity.png" group-title="TDT" tvg-chno="50",Divinity
+https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge/smil:18_HD.smil/manifest.m3u8
+
 #EXTINF:-1 tvg-id="Lasexta.es" tvg-logo="https://www.tvguia.es/sites/default/files/logo/la-sexta.png" group-title="TDT" tvg-chno="6",La Sexta HD
 https://nodep002.service.openstream.es/SVoriginOperatorEdge2/smil:11_HD.smil/manifest.m3u8
 
@@ -938,6 +939,15 @@ https://fibergy.cdn.masmediatv.es/SVoriginOperatorDistrib001/smil:280_HD.smil/in
 
 #EXTINF:-1 tvg-id="Nova.es" tvg-logo=" " group-title="TDT" tvg-chno="62",Mega
 https://fibergy.cdn.masmediatv.es/SVoriginOperatorDistrib001/smil:281_HD.smil/index.m3u8
+
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="TDT" tvg-chno="7",Disney Channel (España)
+https://nodep002.service.openstream.es/SVoriginOperatorEdge2/smil:21_HD.smil/manifest.m3u8
+
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="TDT" tvg-chno="70",Disney Junior (España)
+https://fibergy.cdn.masmediatv.es/SVoriginOperatorDistrib001/smil:264_HD.smil/index.m3u8
+
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="TDT" tvg-chno="8",Paramount Channel (España)
+https://nodep002.service.openstream.es/SVoriginOperatorEdge2/smil:22_HD.smil/manifest.m3u8
 
 #EXTINF:-1 tvg-id="APunt.es" tvg-logo="https://i.imgur.com/B4OcQwT.png" group-title="TDT" tvg-chno="9",À Punt
 https://bcovlive-a.akamaihd.net/469e448f034b4d46afa4bcac53297d60/eu-central-1/6057955885001/playlist_dvr.m3u8
@@ -981,6 +991,12 @@ https://events2-crtvg.flumotion.com/playlist.m3u8
 #EXTINF:-1 tvg-id="Ten.es" tvg-logo="https://www.tvguia.es/sites/default/files/logo/ten_3.png" group-title="TDT" tvg-chno="10",Ten
 https://nodep002.service.openstream.es/SVoriginOperatorEdge2/smil:26_HD.smil/manifest.m3u8
 
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="TDT" tvg-chno="13",Trece
+https://nodep002.service.openstream.es/SVoriginOperatorEdge2/smil:24_HD.smil/manifest.m3u8
+
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="TDT" tvg-chno="14",Real Madrid TV
+https://nodep002.service.openstream.es/SVoriginOperatorEdge2/smil:27_HD.smil/manifest.m3u8
+
 #EXTINF:-1 tvg-id="ElToroTV.es" tvg-logo="https://i.imgur.com/dn8Bith.png" group-title="TDT" tvg-chno="20",El Toro TV
 https://edge-nodo-003.streaming.hitcloser.net/eltorotv-streaming-web/playlist.m3u8
 
@@ -998,6 +1014,9 @@ https://cloud3.streaminglivehd.com:1936/universfaller/universfaller/playlist.m3u
 
 #EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="TDT" tvg-chno=" ",Cine Verdi
 https://fibergy.cdn.masmediatv.es/SVoriginOperatorDistrib001/smil:249_HD.smil/index.m3u8
+
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="TDT" tvg-chno=" ",DKiss
+https://nodep002.service.openstream.es/SVoriginOperatorEdge2/smil:25_HD.smil/manifest.m3u8
 
 #EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="TDT" tvg-chno=" ",Gol Play
 https://fibergy.cdn.masmediatv.es/SVoriginOperatorDistrib001/smil:237_HD.smil/index.m3u8
