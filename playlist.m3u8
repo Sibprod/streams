@@ -1053,8 +1053,14 @@ https://mdstrm.com/live-stream-playlist/636bd70b44680408872dbfc6.m3u8
 #EXTINF:-1 tvg-id=" " tvg-logo="https://i.imgur.com/EW2bfix.png" group-title="TDT" tvg-chno="918",Univers TV
 https://cloud3.streaminglivehd.com:1936/universfaller/universfaller/playlist.m3u8
 
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="TDT" tvg-chno=" ",Betis TV
+https://nodep002.service.openstream.es/SVoriginOperatorEdge3/smil:62_HD.smil/index.m3u8
+
 #EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="TDT" tvg-chno=" ",Cine Verdi
 https://fibergy.cdn.masmediatv.es/SVoriginOperatorDistrib001/smil:249_HD.smil/index.m3u8
+
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="TDT" tvg-chno=" ",Sevilla FC TV
+https://nodep002.service.openstream.es/SVoriginOperatorEdge3/smil:52_HD.smil/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo=" " group-title="TDT_Regional" tvg-chno=" ",7 Región de Murcía SD
 https://nodep002.service.openstream.es/SVoriginOperatorEdge2/smil:35_HD.smil/manifest.m3u8
