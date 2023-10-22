@@ -589,6 +589,9 @@ https://ythls.onrender.com/channel/UC7zlbnNCnuAPiC3goKcFgUg.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo=" " group-title="TDT_Regional" tvg-chno=" ",8TV Madrid
 https://fibergy.cdn.masmediatv.es/SVoriginOperatorDistrib001/smil:234_HD.smil/index.m3u8
 
+#EXTINF:-1 tvg-id="25TV.es" tvg-logo="https://i.imgur.com/sADbx7S.png" group-title="TDT_Regional" tvg-chno=" ",25 TV 
+https://25tvlive.flumotion.cloud/25televisiolive/smil:channel1.smil/playlist.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-logo=" " group-title="TDT_Regional" tvg-chno=" ",Loja Television
 https://fibergy.cdn.masmediatv.es/SVoriginOperatorDistrib001/smil:231_HD.smil/index.m3u8
 
@@ -900,36 +903,95 @@ https://vstream-cdn.ch/hls/teleticino_1080p/index.m3u8
 #EXTINF:-1 tvg-id="La1.es" tvg-logo=" " group-title="TDT" tvg-chno="1",TVE La 1
 https://ztnr.rtve.es/ztnr/1688877.m3u8
 
-#EXTINF:-1 tvg-id="La1.es" tvg-logo=" " group-title="TDT" tvg-chno="101",TVE La 1 (Catalunya)
-https://ztnr.rtve.es/ztnr/3293681.m3u8
-
 #EXTINF:-1 tvg-id="La2.es" tvg-logo=" " group-title="TDT" tvg-chno="2",TVE La 2
 https://ztnr.rtve.es/ztnr/1688885.m3u8
-
-#EXTINF:-1 tvg-id="La2.es" tvg-logo=" " group-title="TDT" tvg-chno="102",TVE La 2 (Catalunya)
-https://ztnr.rtve.es/ztnr/3987218.m3u8
-
-#EXTINF:-1 tvg-id="Canal24Horas.es" tvg-logo="https://i.imgur.com/QYGrq71.png" group-title="TDT" tvg-chno="20",TVE Canal 24 Horas 
-https://rtvelivestream-clnx.rtve.es/rtvesec/24h/24h_main_720.m3u8
 
 #EXTINF:-1 tvg-id="Antena3.es" tvg-logo=" " group-title="TDT" tvg-chno="3",Antena 3 HD
 https://fibergy.cdn.masmediatv.es/SVoriginOperatorDistrib001/smil:277_HD.smil/index.m3u8
 
-#EXTINF:-1 tvg-id="Antena3.es" tvg-logo=" " group-title="TDT" tvg-chno="103",Antena 3 SD
-https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge3/smil:7_HD.smil/manifest.m3u8
-
-#EXTINF:-1 tvg-id="Atreseries.es" tvg-logo=" " group-title="TDT" tvg-chno="30",A3 Series
-https://fibergy.cdn.masmediatv.es/SVoriginOperatorDistrib001/smil:278_HD.smil/index.m3u8
-
-
-#EXTINF:-1 tvg-id="Divinity.es" tvg-logo="https://www.tvguia.es/sites/default/files/logo/divinity.png" group-title="TDT" tvg-chno="50",Divinity
-https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge/smil:18_HD.smil/manifest.m3u8
+#EXTINF:-1 tvg-id="Cuatro.es" tvg-logo="https://www.tvguia.es/sites/default/files/logo/cuatro.png" group-title="TDT" tvg-chno="4",Cuatro
+https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge/smil:9_HD.smil/manifest.m3u8
 
 #EXTINF:-1 tvg-id="Lasexta.es" tvg-logo="https://www.tvguia.es/sites/default/files/logo/la-sexta.png" group-title="TDT" tvg-chno="6",La Sexta HD
 https://nodep002.service.openstream.es/SVoriginOperatorEdge2/smil:11_HD.smil/manifest.m3u8
 
-#EXTINF:-1 tvg-id="Lasexta.es" tvg-logo="https://www.tvguia.es/sites/default/files/logo/la-sexta.png" group-title="TDT" tvg-chno="106",La Sexta SD
-https://fibergy.cdn.masmediatv.es/SVoriginOperatorDistrib001/smil:276_HD.smil/index.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="TDT" tvg-chno="7",Disney Channel (España)
+https://nodep002.service.openstream.es/SVoriginOperatorEdge2/smil:21_HD.smil/manifest.m3u8
+
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="TDT" tvg-chno="8",Paramount Channel (España)
+https://nodep002.service.openstream.es/SVoriginOperatorEdge2/smil:22_HD.smil/manifest.m3u8
+
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="TDT" tvg-chno="9",Canal Sur Andalucía HD
+https://fibergy.cdn.masmediatv.es/SVoriginOperatorDistrib001/smil:263_HD.smil/index.m3u8
+
+#EXTINF:-1 tvg-id="ETB1.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/Logo_ETB1.png" group-title="TDT" tvg-chno="9",ETB 1
+https://multimedia.eitb.eus/live-content/etb1hd-hls/master.m3u8
+
+#EXTINF:-1 tvg-id="Telemadrid.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/TeleMadrid.svg/512px-TeleMadrid.svg.png" group-title="TDT" tvg-chno="9",Telemadrid
+https://telemadrid-23.secure2.footprint.net/master.m3u8
+
+#EXTINF:-1 tvg-id="TV3CAT.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/TV3CAT.svg/512px-TV3CAT.svg.png" group-title="TDT" tvg-chno="9",TV3 Catalunya
+https://directes-tv-int.ccma.cat/live-origin/tvi-hls/master.m3u8
+
+#EXTINF:-1 tvg-id="tvg.es" tvg-logo="" group-title=" " group-title="TDT" tvg-chno="9",TV Galicia Europa
+http://europa-crtvg.flumotion.com/crtvg/europa_med/chunks.m3u8
+
+#EXTINF:-1 tvg-id="Ten.es" tvg-logo="https://www.tvguia.es/sites/default/files/logo/ten_3.png" group-title="TDT" tvg-chno="10",Ten
+https://nodep002.service.openstream.es/SVoriginOperatorEdge2/smil:26_HD.smil/manifest.m3u8
+
+#EXTINF:-1 tvg-id="Clan.es" tvg-logo="https://www.tvguia.es/sites/default/files/logo/clan.png" group-title="TDT" tvg-chno="11",TVE Clan
+https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge/smil:6_HD.smil/manifest.m3u8
+
+#EXTINF:-1 tvg-id="Teledeporte.es" tvg-logo="https://www.tvguia.es/sites/default/files/logo/teledeporte.png" group-title="TDT" tvg-chno="12",TVE Tdp - Teledeporte
+https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge/smil:4_HD.smil/manifest.m3u8
+
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="TDT" tvg-chno="13",Trece
+https://nodep002.service.openstream.es/SVoriginOperatorEdge2/smil:24_HD.smil/manifest.m3u8
+
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="TDT" tvg-chno="14",Real Madrid TV
+https://nodep002.service.openstream.es/SVoriginOperatorEdge2/smil:27_HD.smil/manifest.m3u8
+
+#EXTINF:-1 tvg-id="ElToroTV.es" tvg-logo="https://i.imgur.com/dn8Bith.png" group-title="TDT" tvg-chno="15",El Toro TV
+https://edge-nodo-003.streaming.hitcloser.net/eltorotv-streaming-web/playlist.m3u8
+
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="TDT" tvg-chno="16",Gol Play HD
+https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge/smil:5_HD.smil/manifest.m3u8
+
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="TDT" tvg-chno="17",DMax
+https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge/smil:23_HD.smil/manifest.m3u8
+
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="TDT" tvg-chno="18",DKiss
+https://nodep002.service.openstream.es/SVoriginOperatorEdge2/smil:25_HD.smil/manifest.m3u8
+
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="TDT" tvg-chno="19",Hit TV
+https://fibergy.cdn.masmediatv.es/SVoriginOperatorDistrib001/smil:233_HD.smil/index.m3u8
+
+#EXTINF:-1 tvg-id="Canal24Horas.es" tvg-logo="https://i.imgur.com/QYGrq71.png" group-title="TDT" tvg-chno="20",TVE Canal 24 Horas HD
+https://rtvelivestream-clnx.rtve.es/rtvesec/24h/24h_main_720.m3u8
+
+#EXTINF:-1 tvg-id="Atreseries.es" tvg-logo=" " group-title="TDT" tvg-chno="30",A3 Series
+https://fibergy.cdn.masmediatv.es/SVoriginOperatorDistrib001/smil:278_HD.smil/index.m3u8
+
+#EXTINF:-1 tvg-id="Atrescine.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/A3Cine.png/120px-A3Cine.png" group-title="TDT" tvg-chno="31",A3 Cine
+https://live.atresmediainternacional.com/ATRESMEDIA/a3cine-index.m3u8
+
+#EXTINF:-1 tvg-id=" " tvg-logo="https://www.molatv.cat/images/molahitstv.png" group-title="TDT" tvg-chno="39",Molahits TV
+http://ventdelnord.tv:8080/mola/directe.m3u8
+
+#EXTINF:-1 tvg-id="Energy.es" tvg-logo=" " group-title="TDT" tvg-chno="40",Energy
+https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge/smil:19_HD.smil/manifest.m3u8
+
+#EXTINF:-1 tvg-id="BeMad.es" tvg-logo="https://www.tvguia.es/sites/default/files/logo/be-mad.png" group-title="TDT" tvg-chno="41",BeMad
+https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge/smil:20_HD.smil/manifest.m3u8
+
+#EXTINF:-1 tvg-id="Boing.es" tvg-logo=" " group-title="TDT" tvg-chno="42",Boing (España)
+https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge/smil:17_HD.smil/manifest.m3u8
+
+#EXTINF:-1 tvg-id="Divinity.es" tvg-logo="https://www.tvguia.es/sites/default/files/logo/divinity.png" group-title="TDT" tvg-chno="50",Divinity
+https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge/smil:18_HD.smil/manifest.m3u8
+
+#EXTINF:-1 tvg-id="Fdf.es" tvg-logo="https://www.tvguia.es/sites/default/files/logo/fdf.png" group-title="TDT" tvg-chno="51",FdF - Factoría de Ficción
+https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge/smil:16_HD.smil/manifest.m3u8
 
 #EXTINF:-1 tvg-id="Neox.es" tvg-logo=" " group-title="TDT" tvg-chno="60",Neox
 https://fibergy.cdn.masmediatv.es/SVoriginOperatorDistrib001/smil:279_HD.smil/index.m3u8
@@ -940,68 +1002,53 @@ https://fibergy.cdn.masmediatv.es/SVoriginOperatorDistrib001/smil:280_HD.smil/in
 #EXTINF:-1 tvg-id="Nova.es" tvg-logo=" " group-title="TDT" tvg-chno="62",Mega
 https://fibergy.cdn.masmediatv.es/SVoriginOperatorDistrib001/smil:281_HD.smil/index.m3u8
 
-#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="TDT" tvg-chno="7",Disney Channel (España)
-https://nodep002.service.openstream.es/SVoriginOperatorEdge2/smil:21_HD.smil/manifest.m3u8
-
 #EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="TDT" tvg-chno="70",Disney Junior (España)
 https://fibergy.cdn.masmediatv.es/SVoriginOperatorDistrib001/smil:264_HD.smil/index.m3u8
-
-#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="TDT" tvg-chno="8",Paramount Channel (España)
-https://nodep002.service.openstream.es/SVoriginOperatorEdge2/smil:22_HD.smil/manifest.m3u8
-
-#EXTINF:-1 tvg-id="APunt.es" tvg-logo="https://i.imgur.com/B4OcQwT.png" group-title="TDT" tvg-chno="9",À Punt
-https://bcovlive-a.akamaihd.net/469e448f034b4d46afa4bcac53297d60/eu-central-1/6057955885001/playlist_dvr.m3u8
-
-#EXTINF:-1 tvg-id="AragonTelevision.es" tvg-logo="https://i.imgur.com/6YSi1zW.png" group-title="TDT" tvg-chno="9",Aragón Televisión
-https://cartv.streaming.aranova.es/hls/live/aragontv_canal1.m3u8
-
-#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="TDT" tvg-chno="9",Canal Sur Andalucía HD
-https://fibergy.cdn.masmediatv.es/SVoriginOperatorDistrib001/smil:263_HD.smil/index.m3u8
-
-#EXTINF:-1 tvg-id="ETB1.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/Logo_ETB1.png" group-title="TDT" tvg-chno="9",ETB 1
-https://multimedia.eitb.eus/live-content/etb1hd-hls/master.m3u8
-
-#EXTINF:-1 tvg-id="ETB2.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/93/Logo_ETB_2.png" group-title="TDT" tvg-chno="90",ETB 2
-https://multimedia.eitb.eus/live-content/etb2hd-hls/master.m3u8
-
-#EXTINF:-1 tvg-id="Telemadrid.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/TeleMadrid.svg/512px-TeleMadrid.svg.png" group-title="TDT" tvg-chno="9",Telemadrid
-https://telemadrid-23.secure2.footprint.net/master.m3u8
-
-#EXTINF:-1 tvg-id="Telemadrid.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/TeleMadrid.svg/512px-TeleMadrid.svg.png" group-title="TDT" tvg-chno="90",Telemadrid Internacional
-https://new-international-23.secure2.footprint.net/master.m3u8
-
-#EXTINF:-1 tvg-id="LaOtra.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/La_Otra_logo_%282017%29.svg/512px-La_Otra_logo_%282017%29.svg.png" group-title="TDT" tvg-chno="91",La Otra
-https://laotra-1-23.secure2.footprint.net/master.m3u8
-
-#EXTINF:-1 tvg-id="TV3CAT.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/TV3CAT.svg/512px-TV3CAT.svg.png" group-title="TDT" tvg-chno="9",TV3 Catalunya
-https://directes-tv-int.ccma.cat/live-origin/tvi-hls/master.m3u8
 
 #EXTINF:-1 tvg-id="324.es" tvg-logo="https://i.imgur.com/SG7D0gt.png" group-title="TDT" tvg-chno="90",3/24
 https://directes-tv-int.ccma.cat/live-origin/canal324-hls/master.m3u8
 
-#EXTINF:-1 tvg-id="Esport3.es" tvg-logo=" " group-title="TDT" tvg-chno="92",Esport 3
-https://nodep002.service.openstream.es/SVoriginOperatorEdge2/smil:48_HD.smil/manifest.m3u8
+#EXTINF:-1 tvg-id="APunt.es" tvg-logo="https://i.imgur.com/B4OcQwT.png" group-title="TDT" tvg-chno="90",À Punt
+https://bcovlive-a.akamaihd.net/469e448f034b4d46afa4bcac53297d60/eu-central-1/6057955885001/playlist_dvr.m3u8
 
-#EXTINF:-1 tvg-id="tvg.es" tvg-logo="" group-title=" " group-title="TDT" tvg-chno="9",TV Galicia Europa
-http://europa-crtvg.flumotion.com/crtvg/europa_med/chunks.m3u8
+#EXTINF:-1 tvg-id="AragonTelevision.es" tvg-logo="https://i.imgur.com/6YSi1zW.png" group-title="TDT" tvg-chno="90",Aragón Televisión
+https://cartv.streaming.aranova.es/hls/live/aragontv_canal1.m3u8
+
+#EXTINF:-1 tvg-id="ETB2.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/93/Logo_ETB_2.png" group-title="TDT" tvg-chno="90",ETB 2
+https://multimedia.eitb.eus/live-content/etb2hd-hls/master.m3u8
+
+#EXTINF:-1 tvg-id="Telemadrid.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/TeleMadrid.svg/512px-TeleMadrid.svg.png" group-title="TDT" tvg-chno="90",Telemadrid Internacional
+https://new-international-23.secure2.footprint.net/master.m3u8
 
 #EXTINF:-1 tvg-id="tvg2.es" tvg-logo="https://i.imgur.com/YAnSTc6.jpg" group-title="TDT" tvg-chno="90",TVG2
 https://events2-crtvg.flumotion.com/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Ten.es" tvg-logo="https://www.tvguia.es/sites/default/files/logo/ten_3.png" group-title="TDT" tvg-chno="10",Ten
-https://nodep002.service.openstream.es/SVoriginOperatorEdge2/smil:26_HD.smil/manifest.m3u8
+#EXTINF:-1 tvg-id="LaOtra.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/La_Otra_logo_%282017%29.svg/512px-La_Otra_logo_%282017%29.svg.png" group-title="TDT" tvg-chno="91",La Otra
+https://laotra-1-23.secure2.footprint.net/master.m3u8
 
-#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="TDT" tvg-chno="13",Trece
-https://nodep002.service.openstream.es/SVoriginOperatorEdge2/smil:24_HD.smil/manifest.m3u8
+#EXTINF:-1 tvg-id="Esport3.es" tvg-logo=" " group-title="TDT" tvg-chno="92",Esport 3
+https://nodep002.service.openstream.es/SVoriginOperatorEdge2/smil:48_HD.smil/manifest.m3u8
 
-#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="TDT" tvg-chno="14",Real Madrid TV
-https://nodep002.service.openstream.es/SVoriginOperatorEdge2/smil:27_HD.smil/manifest.m3u8
+#EXTINF:-1 tvg-id="BondiaTV.es" tvg-logo=" " group-title="TDT_Autonómicos" tvg-chno="93",Bon Día TV
+https://directes-tv-int.ccma.cat/live-content/bondia-hls/master.m3u8
 
-#EXTINF:-1 tvg-id="ElToroTV.es" tvg-logo="https://i.imgur.com/dn8Bith.png" group-title="TDT" tvg-chno="20",El Toro TV
-https://edge-nodo-003.streaming.hitcloser.net/eltorotv-streaming-web/playlist.m3u8
+#EXTINF:-1 tvg-id="Antena3.es" tvg-logo=" " group-title="TDT" tvg-chno="103",Antena 3 SD
+https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge3/smil:7_HD.smil/manifest.m3u8
 
-#EXTINF:-1 tvg-id=" " tvg-logo="https://www.molatv.cat/images/molahitstv.png" group-title="TDT" tvg-chno="39",Molahits TV
-http://ventdelnord.tv:8080/mola/directe.m3u8
+#EXTINF:-1 tvg-id="Lasexta.es" tvg-logo="https://www.tvguia.es/sites/default/files/logo/la-sexta.png" group-title="TDT" tvg-chno="106",La Sexta SD
+https://fibergy.cdn.masmediatv.es/SVoriginOperatorDistrib001/smil:276_HD.smil/index.m3u8
+
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="TDT" tvg-chno="116",Gol Play SD
+https://fibergy.cdn.masmediatv.es/SVoriginOperatorDistrib001/smil:237_HD.smil/index.m3u8
+
+#EXTINF:-1 tvg-id="Canal24Horas.es" tvg-logo="https://i.imgur.com/QYGrq71.png" group-title="TDT" tvg-chno="120",TVE Canal 24 Horas SD
+https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge/smil:12_HD.smil/manifest.m3u8
+
+#EXTINF:-1 tvg-id="La1.es" tvg-logo=" " group-title="TDT" tvg-chno="201",TVE La 1 (Catalunya)
+https://ztnr.rtve.es/ztnr/3293681.m3u8
+
+#EXTINF:-1 tvg-id="La2.es" tvg-logo=" " group-title="TDT" tvg-chno="202",TVE La 2 (Catalunya)
+https://ztnr.rtve.es/ztnr/3987218.m3u8
 
 #EXTINF:-1 tvg-id="AndorraTV.ad" tvg-logo="https://i.imgur.com/CnhTn8i.png" group-title="TDT" tvg-chno="800",Andorra Diffusió
 https://videos.rtva.ad/live/rtva/playlist.m3u8
@@ -1015,14 +1062,7 @@ https://cloud3.streaminglivehd.com:1936/universfaller/universfaller/playlist.m3u
 #EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="TDT" tvg-chno=" ",Cine Verdi
 https://fibergy.cdn.masmediatv.es/SVoriginOperatorDistrib001/smil:249_HD.smil/index.m3u8
 
-#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="TDT" tvg-chno=" ",DKiss
-https://nodep002.service.openstream.es/SVoriginOperatorEdge2/smil:25_HD.smil/manifest.m3u8
 
-#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="TDT" tvg-chno=" ",Gol Play
-https://fibergy.cdn.masmediatv.es/SVoriginOperatorDistrib001/smil:237_HD.smil/index.m3u8
-
-#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="TDT" tvg-chno=" ",Hit TV
-https://fibergy.cdn.masmediatv.es/SVoriginOperatorDistrib001/smil:233_HD.smil/index.m3u8
 
 --- MUSIQUE ---
 
