@@ -197,10 +197,10 @@ https://ott.tv5monde.com/Content/HLS/Live/channel(fbs)/index.m3u8
 https://codeberg.org/Sibprod/streams/raw/branch/master/Teva.m3u8
 
 #EXTINF:-1 tvg-id="RTL9.lu" tvg-logo="https://focus.telerama.fr/104x104/60/0000/00/01/clear-115.png" group-title="IPTV" tvg-chno="36",RTL9
-https://wza.idipper.com/live/_definst_/channel/3001/RTL9/playlist.m3u8?tracking=IWbbef89510697805275&ticket=43ab3cac-bc36-4b4c-a4a2-5b8143bc883c
+https://wza.idipper.com/live/_definst_/channel/3001/RTL9/playlist.m3u8?tracking=IWbbef89510697805275&ticket=f86541f9-e275-4e10-a615-1ba953fd29ea
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://experience-cache.proximustv.be/posterserver/poster/DEFAULT/w-250_h-162/t_0099_003.png" group-title="IPTV" tvg-chno="37",TV Breizh
-https://wza.idipper.com/live/_definst_/channel/3006/TVBREIZH/playlist.m3u8?tracking=IWbbef89510697805275&ticket=195028d5-0784-4f88-933c-1249a7fb09d0
+https://wza.idipper.com/live/_definst_/channel/3006/TVBREIZH/playlist.m3u8?tracking=IWbbef89510697805275&ticket=23eb2418-c100-42f9-9f60-50e9fb2df683
 
 #EXTINF:-1 tvg-id="" tvg-logo="http://fusiontv.fr/wp-content/uploads/2021/03/cropped-LOGO-FUSION-TV2-2-300x220.png" group-title="IPTV" tvg-chno="41",Fusion TV
 https://livevideo.vedge.infomaniak.com/livecast/fusiontv/playlist.m3u8
@@ -214,11 +214,20 @@ https://wza.idipper.com/live/_definst_/channel/3015/MTV_FRANCE_HD/playlist.m3u8?
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="IPTV" tvg-chno="74",BET (France)
 https://wza.idipper.com/live/_definst_/channel/3011/BET/playlist.m3u8?
 
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="IPTV" tvg-chno="77",Comedy Central (France)
+
+
 #EXTINF:-1 tvg-id="Superyacht.mc" tvg-logo="https://superyacht.tv/media/cache/header_main_logo/bundles/app/img/logo.png" group-title="IPTV" tvg-chno="78",SuperYacht.TV
 https://sy.wns.live/hls/stream.m3u8
 
 #EXTINF:-1 tvg-id="Tiji.fr" tvg-logo="https://focus.telerama.fr/104x104/60/0000/00/01/clear-229.png" group-title="IPTV" tvg-chno="94",Tiji
 http://livetv.ktv.zone/175/play.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="IPTV" tvg-chno="96",Nickelodeon Junior (France)
+https://wza.idipper.com/live/_definst_/channel/3019/NICKELODEON_JNR/playlist.m3u8?tracking=IWbbef89510697805275&ticket=df4181e5-8080-447b-8b52-f99ba93ace44
+
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-chno="IPTV" tvg-chno="97",Nickelodeon (France)
+https://wza.idipper.com/live/_definst_/channel/3017/NICK_FRANCE_HD/playlist.m3u8?tracking=IWbbef89510697805275&ticket=e270011f-49cc-42d7-ade6-bd19b2bc2b37
 
 #EXTINF:-1 tvg-id="LEspritSorcierTV.fr" tvg-logo="https://i.imgur.com/zyh8yub.png" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 Edg/112.0.1722.34" group-title="IPTV" tvg-chno="111",L'Esprit Sorcier TV
 #EXTVLCOPT:http-referrer=https://player.castr.com/
@@ -237,11 +246,14 @@ http://www.callofliberty.fr/streaming/TOPSANTETV/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo=" " group-title="IPTV" tvg-chno="117",Explore
 https://alchimie-explorebytvplayer-fr-rakuten.amagi.tv/playlist.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://experience-cache.proximustv.be/posterserver/poster/DEFAULT/w-250_h-162/t_0087_001.png" tvg-chno="118",Animaux
+https://wza.idipper.com/live/_definst_/channel/3003/ANIMAUX_TV/playlist.m3u8?
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://experience-cache.proximustv.be/posterserver/poster/DEFAULT/w-250_h-162/t_0089_001.png" tvg-chno="122",Histoire
-https://wza.idipper.com/live/_definst_/channel/3005/HISTOIRE_HD/playlist.m3u8?
+https://wza.idipper.com/live/_definst_/channel/3005/HISTOIRE_HD/playlist.m3u8?tracking=IWbbef89510697805275&ticket=e91d1db1-4f2d-4630-b723-e271cf89059e
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://experience-cache.proximustv.be/posterserver/poster/DEFAULT/w-250_h-162/t_0085_003.png" group-title="IPTV" tvg-chno="123",Ushuaïa TV
-https://wza.idipper.com/live/_definst_/channel/3008/USHUAIATV/playlist.m3u8?
+https://wza.idipper.com/live/_definst_/channel/3008/USHUAIATV/playlist.m3u8?tracking=IWbbef89510697805275&ticket=4f4a9278-9ded-4e80-8a2b-4384f24e8c26
 
 #EXTINF:-1 tvg-id="MyZenTV.fr" tvg-logo="https://i.imgur.com/fIi8o0C.png" group-title="IPTV" tvg-chno="124",My Zen TV
 https://live.creacast.com/myzentv-france/smil:myzentv-france.smil/playlist.m3u8
@@ -259,7 +271,7 @@ https://samsunguk-adn-samsung-fre-qfrlc.amagi.tv/playlist/samsunguk-adn-samsung-
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/trace-urban/encrypted.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="IPTV" tvg-chno="152",MTV Hits (France)
-https://wza.idipper.com/live-kms/_definst_/channel/3016/MTV_HITS_HD/playlist.m3u8?
+https://wza.idipper.com/live-kms/_definst_/channel/3016/MTV_HITS_HD/playlist.m3u8?tracking=IWbbef89510697805275&ticket=63da71ba-ad91-4b56-bfc7-ce28e3dade04
 
 #EXTINF:-1 tvg-id="M6International.fr" tvg-logo="https://i.ibb.co/6RYpdNz/m6int.png" group-title="IPTV" tvg-chno="154",M6 International
 https://shls-m6-int-prod-dub.shahid.net/out/v1/a315ab77ee7343a7a17dbe7e32eee3ba/index.m3u8
@@ -708,8 +720,8 @@ https://ztnr.rtve.es/ztnr/2795617.m3u8
 #EXTINF:-1 tvg-id=" " tvg-logo="https://graph.facebook.com/Radio4RNE/picture?width=200&height=200" group-title="RNT" tvg-chno=" ",RNE Radio 4
 https://ztnr.rtve.es/ztnr/6782425.m3u8
 
-#EXTINF:-1 tvg-id="OndaMadrid.es" tvg-logo="https://i.imgur.com/Q1YwYsR.png" group-title="TDT" tvg-chno=" ",Onda Madrid
-https://telemadridhls2-live-hls.secure2.footprint.net/egress/chandler/telemadrid/tvradio_1/index.m3u8
+#EXTINF:-1 tvg-id="OndaMadrid.es" tvg-logo="https://i.imgur.com/Q1YwYsR.png" group-title="RNT" tvg-chno=" ",Onda Madrid
+https://tvradio-1-23.secure2.footprint.net/master.m3u8
 
 --- DTT ---
 
@@ -841,7 +853,10 @@ https://ztnr.rtve.es/ztnr/1688885.m3u8
 https://directes-tv-int.ccma.cat/live-origin/tvi-hls/master.m3u8
 
 #EXTINF:-1 tvg-id="Telemadrid.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/TeleMadrid.svg/512px-TeleMadrid.svg.png" group-title="TDT" tvg-chno="4",Telemadrid
-https://telemadridhls2-live-hls.secure2.footprint.net/egress/chandler/telemadrid/telemadrid_1/index.m3u8
+https://telemadrid-23.secure2.footprint.net/master.m3u8
+
+#EXTINF:-1 tvg-id="Telemadrid.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/TeleMadrid.svg/512px-TeleMadrid.svg.png" group-title="TDT" tvg-chno="4",Telemadrid International
+https://new-international-23.secure2.footprint.net/master.m3u8
 
 #EXTINF:-1 tvg-id="ETB1.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/Logo_ETB1.png" group-title="TDT" tvg-chno="5",ETB 1
 https://multimedia.eitb.eus/live-content/etb1hd-hls/master.m3u8
@@ -858,7 +873,7 @@ https://mdstrm.com/live-stream-playlist/636bd70b44680408872dbfc6.m3u8
 #EXTINF:-1 tvg-id="APunt.es" tvg-logo="https://i.imgur.com/B4OcQwT.png" group-title="TDT" tvg-chno="9",À Punt
 https://bcovlive-a.akamaihd.net/469e448f034b4d46afa4bcac53297d60/eu-central-1/6057955885001/playlist_dvr.m3u8
 
-#EXTINF:-1 tvg-id="Ten.es" tvg-logo="https://www.tvguia.es/sites/default/files/logo/ten_3.png" group-title="TDT_Nacional_España" tvg-chno="10",Ten
+#EXTINF:-1 tvg-id="Ten.es" tvg-logo="https://www.tvguia.es/sites/default/files/logo/ten_3.png" group-title="TDT" tvg-chno="10",Ten
 https://nodep002.service.openstream.es/SVoriginOperatorEdge2/smil:26_HD.smil/manifest.m3u8
 
 #EXTINF:-1 tvg-id="La1.es" tvg-logo=" " group-title="TDT" tvg-chno="11",TVE La 1 (Catalunya)
@@ -871,7 +886,7 @@ https://ztnr.rtve.es/ztnr/3987218.m3u8
 https://directes-tv-int.ccma.cat/live-origin/canal324-hls/master.m3u8
 
 #EXTINF:-1 tvg-id="LaOtra.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/La_Otra_logo_%282017%29.svg/512px-La_Otra_logo_%282017%29.svg.png" group-title="TDT" tvg-chno="14",La Otra
-https://telemadridhls2-live-hls.secure2.footprint.net/egress/chandler/telemadrid/laotra_1/index.m3u8
+https://laotra-1-23.secure2.footprint.net/master.m3u8
 
 #EXTINF:-1 tvg-id="Esport3.es" tvg-logo=" " group-title="TDT" tvg-chno="15",Esport 3
 https://nodep002.service.openstream.es/SVoriginOperatorEdge2/smil:48_HD.smil/manifest.m3u8
