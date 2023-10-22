@@ -342,8 +342,17 @@ https://fibergy.cdn.masmediatv.es/SVoriginOperatorDistrib001/smil:252_HD.smil/in
 #EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="IPTV" tvg-chno=" ",Comedy Central (España)
 https://fibergy.cdn.masmediatv.es/SVoriginOperatorDistrib001/smil:254_HD.smil/index.m3u8
 
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="IPTV" tvg-chno=" ",Escapa TV
+https://nodep002.service.openstream.es/SVoriginOperatorEdge2/smil:42_HD.smil/manifest.m3u8
+
 #EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="IPTV" tvg-chno=" ",Eurosport 1 (España)
 https://fibergy.cdn.masmediatv.es/SVoriginOperatorDistrib001/smil:238_HD.smil/index.m3u8
+
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="IPTV" tvg-chno=" ",Iberalia
+https://nodep002.service.openstream.es/SVoriginOperatorEdge2/smil:36_HD.smil/manifest.m3u8
+
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="IPTV" tvg-chno=" ",Iberalia Caza y Pesca
+https://nodep002.service.openstream.es/SVoriginOperatorEdge2/smil:37_HD.smil/manifest.m3u8
 
 #EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="IPTV" tvg-chno=" ",MTV (España)
 https://fibergy.cdn.masmediatv.es/SVoriginOperatorDistrib001/smil:256_HD.smil/index.m3u8
@@ -366,8 +375,14 @@ https://fibergy.cdn.masmediatv.es/SVoriginOperatorDistrib001/smil:253_HD.smil/in
 #EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="IPTV" tvg-chno=" ",TCM (España)
 https://fibergy.cdn.masmediatv.es/SVoriginOperatorDistrib001/smil:251_HD.smil/index.m3u8
 
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="IPTV" tvg-chno=" ",TorOlé
+https://nodep002.service.openstream.es/SVoriginOperatorEdge2/smil:49_HD.smil/manifest.m3u8
+
 #EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="IPTV" tvg-chno=" ",Viaje
 https://fibergy.cdn.masmediatv.es/SVoriginOperatorDistrib001/smil:255_HD.smil/index.m3u8
+
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="IPTV" tvg-chno=" ",Warner TV (España)
+https://nodep002.service.openstream.es/SVoriginOperatorEdge2/smil:69_HD.smil/manifest.m3u8
 
 --- REGIONALES ---
 
@@ -585,27 +600,6 @@ https://live.digiteka.com/1/TXhhUTRFNmVLRWhV/aVJTbDNQ/hls/live/playlist.m3u8
 
 #EXTINF:-1 tvg-id=" " tvg-logo="https://www.lourdes-france.com/wp-content/uploads/2021/11/logo_TV-Lourdes.png" group-title="TNT_Regionale" tvg-chno="805",TV Lourdes
 https://ythls.onrender.com/channel/UC7zlbnNCnuAPiC3goKcFgUg.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo=" " group-title="TDT_Regional" tvg-chno=" ",8TV Madrid
-https://fibergy.cdn.masmediatv.es/SVoriginOperatorDistrib001/smil:234_HD.smil/index.m3u8
-
-#EXTINF:-1 tvg-id="25TV.es" tvg-logo="https://i.imgur.com/sADbx7S.png" group-title="TDT_Regional" tvg-chno=" ",25 TV 
-https://25tvlive.flumotion.cloud/25televisiolive/smil:channel1.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo=" " group-title="TDT_Regional" tvg-chno=" ",Loja Television
-https://fibergy.cdn.masmediatv.es/SVoriginOperatorDistrib001/smil:231_HD.smil/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo=" " group-title="TDT_Regional" tvg-chno=" ",Loja Television 2
-https://fibergy.cdn.masmediatv.es/SVoriginOperatorDistrib001/smil:232_HD.smil/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo=" " group-title="TDT_Regional" tvg-chno=" ",PTV Granada
-https://fibergy.cdn.masmediatv.es/SVoriginOperatorDistrib001/smil:242_HD.smil/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo=" " group-title="TDT_Regional" tvg-chno=" ",TG 7 HD
-https://fibergy.cdn.masmediatv.es/SVoriginOperatorDistrib001/smil:240_HD.smil/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo=" " group-title="TDT_Regional" tvg-chno=" ",Viva Televisión
-https://fibergy.cdn.masmediatv.es/SVoriginOperatorDistrib001/smil:230_HD.smil/index.m3u8
 
 --- RNT (DAB+) ---
 
@@ -1062,7 +1056,35 @@ https://cloud3.streaminglivehd.com:1936/universfaller/universfaller/playlist.m3u
 #EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="TDT" tvg-chno=" ",Cine Verdi
 https://fibergy.cdn.masmediatv.es/SVoriginOperatorDistrib001/smil:249_HD.smil/index.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-logo=" " group-title="TDT_Regional" tvg-chno=" ",7 Región de Murcía SD
+https://nodep002.service.openstream.es/SVoriginOperatorEdge2/smil:35_HD.smil/manifest.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-logo=" " group-title="TDT_Regional" tvg-chno=" ",8TV Madrid
+https://fibergy.cdn.masmediatv.es/SVoriginOperatorDistrib001/smil:234_HD.smil/index.m3u8
+
+#EXTINF:-1 tvg-id="25TV.es" tvg-logo="https://i.imgur.com/sADbx7S.png" group-title="TDT_Regional" tvg-chno=" ",25 TV 
+https://25tvlive.flumotion.cloud/25televisiolive/smil:channel1.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo=" " group-title="TDT_Regional" tvg-chno=" ",Canal Extremadura
+https://nodep002.service.openstream.es/SVoriginOperatorEdge2/smil:34_HD.smil/manifest.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo=" " group-title="TDT_Regional" tvg-chno=" ",CMM TV
+https://nodep002.service.openstream.es/SVoriginOperatorEdge2/smil:31_HD.smil/manifest.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo=" " group-title="TDT_Regional" tvg-chno=" ",Loja Television
+https://fibergy.cdn.masmediatv.es/SVoriginOperatorDistrib001/smil:231_HD.smil/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo=" " group-title="TDT_Regional" tvg-chno=" ",Loja Television 2
+https://fibergy.cdn.masmediatv.es/SVoriginOperatorDistrib001/smil:232_HD.smil/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo=" " group-title="TDT_Regional" tvg-chno=" ",PTV Granada
+https://fibergy.cdn.masmediatv.es/SVoriginOperatorDistrib001/smil:242_HD.smil/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo=" " group-title="TDT_Regional" tvg-chno=" ",TG 7 HD
+https://fibergy.cdn.masmediatv.es/SVoriginOperatorDistrib001/smil:240_HD.smil/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo=" " group-title="TDT_Regional" tvg-chno=" ",Viva Televisión
+https://fibergy.cdn.masmediatv.es/SVoriginOperatorDistrib001/smil:230_HD.smil/index.m3u8
 
 --- MUSIQUE ---
 
