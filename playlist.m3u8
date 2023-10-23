@@ -346,7 +346,13 @@ https://fibergy.cdn.masmediatv.es/SVoriginOperatorDistrib001/smil:254_HD.smil/in
 https://nodep002.service.openstream.es/SVoriginOperatorEdge2/smil:42_HD.smil/manifest.m3u8
 
 #EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="IPTV" tvg-chno=" ",Eurosport 1 (España)
+https://nodep002.service.openstream.es/SVoriginOperatorEdge3/smil:43_HD.smil/index.m3u8
+
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="IPTV" tvg-chno=" ",Eurosport 1 (España)
 https://fibergy.cdn.masmediatv.es/SVoriginOperatorDistrib001/smil:238_HD.smil/index.m3u8
+
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="IPTV" tvg-chno=" ",Eurosport 2 (España)
+https://nodep002.service.openstream.es/SVoriginOperatorEdge3/smil:59_HD.smil/index.m3u8
 
 #EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="IPTV" tvg-chno=" ",Iberalia
 https://nodep002.service.openstream.es/SVoriginOperatorEdge2/smil:36_HD.smil/manifest.m3u8
@@ -374,6 +380,9 @@ https://fibergy.cdn.masmediatv.es/SVoriginOperatorDistrib001/smil:253_HD.smil/in
 
 #EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="IPTV" tvg-chno=" ",TCM (España)
 https://fibergy.cdn.masmediatv.es/SVoriginOperatorDistrib001/smil:251_HD.smil/index.m3u8
+
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="IPTV" tvg-chno=" ",TCM (España)
+https://nodep002.service.openstream.es/SVoriginOperatorEdge3/smil:70_HD.smil/index.m3u8
 
 #EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="IPTV" tvg-chno=" ",TorOlé
 https://nodep002.service.openstream.es/SVoriginOperatorEdge2/smil:49_HD.smil/manifest.m3u8
