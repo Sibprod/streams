@@ -313,8 +313,8 @@ https://sp1564435593.mytvchain.info/live/sp1564435593/index.m3u8
 #EXTINF:-1 tvg-id="Astrocenter.fr" tvg-logo="https://i.imgur.com/3xlJV7O.png" group-title="IPTV" tvg-chno="210",Astrocenter TV
 https://ythls.onrender.com/channel/UCMkQQZsNdRVZ3N7Oj6jVnyg.m3u8
 
-#EXTINF:-1 channel-id="samsung-FRAJ4500020YA" tvg-id="FRAJ4500020YA" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRAJ4500020YA_20220323T075851SQUARE.png_20220323075854.png" tvg-chno="IPTV" tvg-chno="213",Fashion TV
-https://i.mjh.nz/SamsungTVPlus/FRAJ4500020YA.m3u8
+#EXTINF:-1 tvg-id="FashionTVParis.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Fashion_TV_logo.svg/512px-Fashion_TV_logo.svg.png" tvg-chno="IPTV" tvg-chno="213",Fashion TV Paris
+https://fash1043.cloudycdn.services/slive/ftv_paris_adaptive.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="MensupTV.fr" tvg-logo="http://www.callofliberty.fr/tv/124-MENSUPTV/124-MENSUPTV.png" group-title="IPTV" tvg-chno="216",Men's Up TV
 http://www.callofliberty.fr/streaming/MENSUPTV/master.m3u8
@@ -348,6 +348,9 @@ https://video1.getstreamhosting.com:1936/8244/8244/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="IPTV" tvg-chno=" ",L'Intelligent.TV
 https://video1.getstreamhosting.com:1936/8210/8210/playlist.m3u8
+
+#EXTINF:-1 tvg-id="MDL.fr" tvg-logo="https://i.imgur.com/REN30bx.png" group-title="IPTV",MDL - Le Monde des Loisirs [HD]
+http://tv.mondeduloisir.fr:1935/tixtv/smil:web.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="IPTV" tvg-chno=" ",My TV Channel
 http://connectiktv.ddns.net:5000/mytvchannel/@mytvchannel/playlist.m3u8
@@ -1075,17 +1078,23 @@ https://new-international-23.secure2.footprint.net/master.m3u8
 #EXTINF:-1 tvg-id="tvg2.es" tvg-logo="https://i.imgur.com/YAnSTc6.jpg" group-title="TDT" tvg-chno="90",TVG2
 https://events2-crtvg.flumotion.com/playlist.m3u8
 
+#EXTINF:-1 tvg-id="el33.es" tvg-logo=" " group-title="TDT" tvg-chno="91",El 33
+https://directes-tv-int.ccma.cat/live-content/c33-super3-hls/master.m3u8
+
 #EXTINF:-1 tvg-id="ETB3.es" tvg-logo=" " group-title="TDT" tvg-chno="91",ETB 3
 https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge3/smil:98_HD.smil/manifest.m3u8
 
 #EXTINF:-1 tvg-id="LaOtra.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/La_Otra_logo_%282017%29.svg/512px-La_Otra_logo_%282017%29.svg.png" group-title="TDT" tvg-chno="91",La Otra
 https://laotra-1-23.secure2.footprint.net/master.m3u8
 
-#EXTINF:-1 tvg-id="Esport3.es" tvg-logo=" " group-title="TDT" tvg-chno="92",Esport 3
-https://nodep002.service.openstream.es/SVoriginOperatorEdge2/smil:48_HD.smil/manifest.m3u8
+#EXTINF:-1 tvg-id="SX3.es" tvg-logo=" " group-title="TDT" tvg-chno="92",SX3
+https://directes-tv-int.ccma.cat/live-origin/super3-hls/master.m3u8
 
-#EXTINF:-1 tvg-id="BondiaTV.es" tvg-logo=" " group-title="TDT_Autonómicos" tvg-chno="93",Bon Día TV
+#EXTINF:-1 tvg-id="BondiaTV.es" tvg-logo=" " group-title="TDT" tvg-chno="93",Bon Día TV
 https://directes-tv-int.ccma.cat/live-content/bondia-hls/master.m3u8
+
+#EXTINF:-1 tvg-id="Esport3.es" tvg-logo=" " group-title="TDT" tvg-chno="93",Esport 3
+https://nodep002.service.openstream.es/SVoriginOperatorEdge2/smil:48_HD.smil/manifest.m3u8
 
 #EXTINF:-1 tvg-id="Antena3.es" tvg-logo=" " group-title="TDT" tvg-chno="103",Antena 3 SD
 https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge3/smil:7_HD.smil/manifest.m3u8
@@ -1173,6 +1182,12 @@ https://lightning-now80s-samsungnz.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="Now90s.uk" tvg-logo="https://i.imgur.com/yo8lEu1.png" group-title="Musique" tvg-chno="80",Now Rock
 https://lightning-now90s-samsungnz.amagi.tv/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="" group-title="Musique",1 Mus.com
+http://hz1.teleport.cc/HLS/HD.m3u8
+
+#EXTINF:-1 tvg-chno=" "  group-title="Musique", Cadena Elite
+https://cloudvideo.servers10.com:8081/8004/index.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-logo=" " group-title="Musique" tvg-chno=" ",Deluxe Dance by Kontor
 https://sdn-global-live-streaming-packager-cache.3qsdn.com/64733/64733_264_live.m3u8
 
@@ -1182,17 +1197,50 @@ https://sdn-global-live-streaming-packager-cache.3qsdn.com/13456/13456_264_live.
 #EXTINF:-1 tvg-id="KissTVUK.uk" tvg-logo="https://i.imgur.com/cmwa5Wh.png" group-title="Musique" tvg-chno=" ",Kiss
 https://csm-e-boxplus.tls1.yospace.com/csm/extlive/boxplus01,kiss-alldev.m3u8?spotxc1=195996&spotxc2=190878&yo.up=https://boxtv.secure.footprint.net/kiss/
 
-#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="Musique" tvg-chno=" ",MTV 00's
+#EXTINF:-1 tvg-logo="" group-title="Musique" tvg-chno=" ",Magic
+https://csm-e-boxplus.tls1.yospace.com/csm/extlive/boxplus01,magic-alldev.m3u8?yo.up=http://boxtv-origin-elb.cds1.yospace.com/uploads/magic/
+
+#EXTINF:-1 tvg-id=" " tvg-logo="https://ritsatv.ru/files/poster/medium/600611.png" group-title="Musique" tvg-chno=" ",MCM Top
+https://edge03-alm.beetv.kz/bpk-token/2an@jzy4ivftd1dvgcqve3nekr3rklkgwhknjdd4tdba/btv/SWM/mtv_live_hd/mtv_live_hd.m3u8
+
+#EXTINF:-1 tvg-id=" " tvg-logo="https://ritsatv.ru/files/poster/medium/900123.jpg" group-title="Musique" tvg-chno=" ",MTV 00's
 https://fibergy.cdn.masmediatv.es/SVoriginOperatorDistrib001/smil:259_HD.smil/index.m3u8
+
+#EXTINF:-1 tvg-id=" " tvg-logo="https://ritsatv.ru/files/poster/medium/900857.jpg" group-title="Musique" tvg-chno=" ",MTV Live
+https://edge04-alm.beetv.kz/bpk-token/2an@ies3f2hwiwxq5e11tljhqe1lypcrmpb5iun34kda/btv/SWM/MCM/MCM.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Musique" tvg-chno=" ",Muzzik
+https://muzzik-live.morescreens.com/mts-6/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Musique" tvg-chno=" ",Muzzik Electro
+https://muzzik-live.morescreens.com/mts-9/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Musique" tvg-chno=" ",Muzzik Flashback
+https://muzzik-live.morescreens.com/mts-8/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Musique" tvg-chno=" ",Muzzik Pop Star
+https://muzzik-live.morescreens.com/mts-3/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Musique" tvg-chno=" ",Muzzik Rock & Roll
+https://muzzik-live.morescreens.com/mts-1/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TheBoxUK.uk" tvg-logo="https://i.imgur.com/e1Cf4Li.png" group-title="Musique" tvg-chno="",The Box
 https://csm-e-boxplus.tls1.yospace.com/csm/extlive/boxplus01,thebox-alldev.m3u8?yo.up=http://boxtv-origin-elb.cds1.yospace.com/uploads/thebox/
 
-#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="Musique" tvg-chno=" ",TMF Rus
+#EXTINF:-1 tvg-id=" " tvg-logo="https://ritsatv.ru/files/poster/medium/900885.jpg" group-title="Musique" tvg-chno=" ",TMF Rus
 http://autopilot.catcast.tv/content/43273/index.m3u8
+
+#EXTINF:-1 tvg-id="TZik.fr" tvg-logo="https://images.squarespace-cdn.com/content/v1/5d912c8fc92ec9603f7bc3a1/1596601891411-FXH9KZA62RTJBXMYXAOB/green_blue_gradient_logo_transparent_background.png?format=1500w" group-title="Câble",Tzik [HD]
+https://myowntvchannel.com:3019/stream/play.m3u8
 
 #EXTINF:-1 tvg-id="V2BEATTV.uk" tvg-logo="https://i.imgur.com/PXGqyLn.png" group-title="Musique" tvg-chno=" ",V2Beat
 https://de1se01.v2beat.live/playlist.m3u8
+
+#EXTINF:-1 tvg-id=" " tvg-logo="https://ritsatv.ru/files/poster/medium/900780.jpg" group-title="Musique" tvg-chno=" ",VEVO
+https://d36tolctzl3cf9.cloudfront.net/playlist1080.m3u8
+
+#EXTINF:-1 tvg-id=" " tvg-logo="https://ritsatv.ru/files/poster/medium/900780.jpg" group-title="Musique" tvg-chno=" ",VEVO Pop
+https://d36vl7sxn34m5q.cloudfront.net/playlist1080.m3u8
 
 #EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="Musique" tvg-chno=" ",ViVa (Russia)
 http://autopilot.catcast.tv/content/39575/index.m3u8
