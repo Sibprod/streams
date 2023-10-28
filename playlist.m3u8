@@ -976,7 +976,7 @@ https://streamcdnm3-09bd1346f7a44cc9ac230cc1cb22ca4f.msvdn.net/live/S39249178/En
 #EXTINF:-1 tvg-id="" tvg-logo="https://cusanoitaliatv.it/wp-content/uploads/2020/07/Logo-Radio-Cusano-Tv-Italia.png" group-title="IT_DTT" tvg-chno="264",264.Cusano Italia TV
 https://router.xdevel.com/video0s975363-69/stream/playlist.m3u8
 
-#EXTINF:-1 tvg-id="RDSSocialTV.it" tvg-logo="https://www.lyngsat-stream.com/logo/tv/rr/rds-social-tv-it.png" group-title="IT_DTT" tvg-chno="265",RDS Social TV
+#EXTINF:-1 tvg-id="RDSSocialTV.it" tvg-logo="https://www.lyngsat-stream.com/logo/tv/rr/rds-social-tv-it.png" group-title="IT_DTT" tvg-chno="265",265.RDS Social TV
 https://stream.rdstv.radio/out/v1/ec85f72b87f04555aa41d616d5be41dc/index_8.m3u8
 
 #EXTINF:-1 tvg-id="RadioZetaTV.it" tvg-logo="https://www.lyngsat-logo.com/logo/radio/rr/radio_zeta_it.png" group-title="RNT" tvg-chno="266",266.Radio Zeta TV
@@ -986,9 +986,6 @@ https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S9346184/XEx1LqlYbNic/pl
 #EXTVLCOPT:http-referrer=https://player.castr.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 Edg/112.0.1722.34
 https://stream.castr.com/604b6e10ad1e130d20dedd12/live_1b2633f0158b11eeb388a5854e7a8f3a/index.m3u8
-
-#EXTINF:-1 tvg-id="RadionorbaTV.it" tvg-logo="https://i.imgur.com/qftBPM9.png" group-title="IT_DTT" tvg-chno="730",730.Radio Norba TV
-https://router.xdevel.com/video0s975885-462/stream/playlist_dvr.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat-logo.com/logo/tv/rr/rai-3-sudtirol-it.png" group-title="IT_DTT" tvg-chno="35",808.RAI Südtirol
 http://wzstreaming.rai.it/TVlive/liveStream/master.m3u8
@@ -1118,6 +1115,9 @@ https://5926fc9c7c5b2.streamlock.net/9108/9108/chunklist_w806723589.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo=" " group-title="IT_DTT_Regionale" tvg-chno="98",PIE_98.Radio 4 You TV
 https://streamsrv2.nets-sr.com:19360/4youtv/4youtv.m3u8
+
+#EXTINF:-1 tvg-id="RadionorbaTV.it" tvg-logo="https://i.imgur.com/qftBPM9.png" group-title="IT_DTT_Regionale" tvg-chno="19",PUG_19.Radio Norba TV
+https://router.xdevel.com/video0s975885-462/stream/playlist_dvr.m3u8
 
 #EXTINF:-1 tvg-id="Italia7.it" tvg-logo="https://i.imgur.com/YBXkY4w.png" group-title="IT_DTT_Regionale" tvg-chno="19",TOS_19.Italia 7
 https://streaming.softwarecreation.it/Italia7/Italia7/playlist.m3u8
