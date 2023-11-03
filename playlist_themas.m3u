@@ -516,6 +516,9 @@ https://fibergy.cdn.masmediatv.es/SVoriginOperatorDistrib001/smil:260_HD.smil/in
 #EXTINF:-1 tvg-id=" " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Nick_Jr._logo_2009.svg/512px-Nick_Jr._logo_2009.svg.png" group-title="Jeunesse" tvg-chno=" ",Nickeoldeon Junior (España)
 https://fibergy.cdn.masmediatv.es/SVoriginOperatorDistrib001/smil:261_HD.smil/index.m3u8
 
+#EXTINF:-1 tvg-id=" " tvg-logo=" " tvg-chno=" " group-title="Jeunesse",Pop Max
+https://live-sonybebanjo.simplestreamcdn.com/live8/popmax/bitrate1.isml/live.m3u8
+
 --- Cinéma-Séries ---
 
 #EXTINF:-1 tvg-id="Paramountchannel.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Paramount_Network.svg/512px-Paramount_Network.svg.png" group-title="Cinéma-Séries" tvg-chno="8",Paramount Channel (España)
