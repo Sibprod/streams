@@ -406,7 +406,7 @@ http://livetv.ktv.zone/56/play.m3u8
 #EXTINF:-1 tvg-id="Telesud.fr" tvg-logo="https://focus.telerama.fr/104x104/60/0000/00/01/clear-449.png" group-title="Information" tvg-chno="45",Telesud
 https://raw.githubusercontent.com/Sibprod/streams/main/ressources/dmotion/py/Vision4/Telesud.m3u8
 
-#EXTINF:-1 tvg-id="RaiNews24.it" tvg-logo="https://i.imgur.com/8juA51j.png" group-title="DTT" tvg-chno="48",RAI News 24
+#EXTINF:-1 tvg-id="RaiNews24.it" tvg-logo="https://i.imgur.com/8juA51j.png" group-title="Information" tvg-chno="48",RAI News 24
 https://streamcdnb11-8e7439fdb1694c8da3a0fd63e4dda518.msvdn.net/rainews1/hls/playlist_mo.m3u8
 
 #EXTINF:-1 tvg-id="BFMBusiness.fr" tvg-logo="https://focus.telerama.fr/104x104/60/0000/00/01/clear-1073.png" group-title="Information" tvg-chno="51",BFM Business
@@ -868,7 +868,7 @@ https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S51100361/0Fb4R3k82b5Z/p
 #EXTINF:-1 tvg-id="RTL1025TVDoc.it" tvg-logo="https://i.imgur.com/jFD0oOD.png" group-title="DAB+" tvg-chno="36",RTL 102.5 TV Napulè
 https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S27134503/0f9AhuwKlhnZ/playlist_video.m3u8
 
-#EXTINF:-1 tvg-id="RTL1025News.it" tvg-logo="https://i.imgur.com/vAtzwXK.png" group-title="DTT" tvg-chno="36",RTL 102.5 News TV
+#EXTINF:-1 tvg-id="RTL1025News.it" tvg-logo="https://i.imgur.com/vAtzwXK.png" group-title="Information" tvg-chno="36",RTL 102.5 News TV
 https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S38122967/2lyQRIAAGgRR/playlist_video.m3u8
 
 #EXTINF:-1 tvg-id="RTL1025TVRomeoandJuliet.it" tvg-logo="https://www.phonostar.de/images/auto_created/rtl_1025_romeo184x184.png" group-title="DAB+" tvg-chno="36",RTL 102.5 Romeo & Juliet
