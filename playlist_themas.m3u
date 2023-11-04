@@ -73,13 +73,16 @@ http://livetv.ktv.zone/132/play.m3u8
 #EXTINF:-1 tvg-id="RTLTVI.be" tvg-logo="https://focus.telerama.fr/104x104/60/0000/00/01/clear-168.png" group-title="Général" tvg-chno="3",RTL tvi
 https://raw.githubusercontent.com/Sibprod/streams/main/RTLtvi.m3u8
 
+ #EXTINF:-1 tvg-id="STV.uk" tvg-logo="https://i.imgur.com/KiOnQnD.png" group-title="Général" tvg-chno="3",STV
+https://csm-e-stv-eb.tls1.yospace.com/csm/live/139900483.m3u8?yo.l=true&yo.ls=2,3,4,5,6&yo.p=3
+
 #EXTINF:-1 tvg-id="CanalPlus.fr" tvg-logo="https://focus.telerama.fr/104x104/60/0000/00/01/clear-34.png" group-title="Général" tvg-chno="4",Canal+
 http://livetv.ktv.zone/6/play.m3u8
 
 #EXTINF:-1 tvg-id="Cuatro.es" tvg-logo="https://www.tvguia.es/sites/default/files/logo/cuatro.png" group-title="Général" tvg-chno="4",Cuatro
 https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge/smil:9_HD.smil/manifest.m3u8
 
-#EXTINF:-1 tvg-id="Vision4.cm" tvg-logo="https://i.imgur.com/rUbrFA8.png" group-title="Général" tvg-chno="4",Vision 4
+#EXTINF:-1 tvg-id="Vision4.cm" tvg-logo=" " group-title="Général" tvg-chno="4",Vision 4
 https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/vision4/hls_video/index.m3u8
 
 #EXTINF:-1 tvg-id="Lasexta.es" tvg-logo="https://www.tvguia.es/sites/default/files/logo/la-sexta.png" group-title="Général" tvg-chno="6",La Sexta HD
@@ -214,6 +217,9 @@ https://wza.idipper.com/live/_definst_/channel/3008/USHUAIATV/playlist.m3u8?trac
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://experience-cache.proximustv.be/posterserver/poster/DEFAULT/w-250_h-162/t_0087_001.png" group-title="Découverte" tvg-chno="74",Animaux
 https://wza.idipper.com/live/_definst_/channel/3003/ANIMAUX_TV/playlist.m3u8?
+
+#EXTINF:-1 tvg-id="PBSAmerica.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/43/PBS_America_logo.png" group-title="Découverte" tvg-chno="84",PBS America
+https://pbs-samsunguk.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/ZgqnqnJ/cgtnfr.png" group-title="Découverte" tvg-chno="87",CGTN Français
 http://news.cgtn.com/resource/live/french/cgtn-f.m3u8
@@ -503,6 +509,12 @@ https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/business24_tv/hls_video/
 #EXTINF:-1 tvg-id="BSmart.fr" tvg-logo="http://www.callofliberty.fr/tv/40-BSMART/40-BSMART.png" group-title="Information" tvg-chno="230",B Smart
 http://www.callofliberty.fr/stream/BSMART/master.m3u8
 
+#EXTINF:-1 tvg-id="GBNews.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/35/GB_News_Logo.svg/512px-GB_News_Logo.svg.png" group-title="Information" tvg-chno="236",GBNews
+https://live-gbnews.simplestreamcdn.com/live5/gbnews/bitrate1.isml/manifest.m3u8
+
+#EXTINF:-1 tvg-id="TalkTV.uk" tvg-logo="https://i.imgur.com/KxHWpQB.png" group-title="Information" tvg-chno="237",Talk TV
+https://live-talktv-ssai.simplestreamcdn.com/v1/master/82267e84b9e5053b3fd0ade12cb1a146df74169a/talktv-live/index.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.teleambiente.it/wp-content/uploads/2022/11/logo-teleambiente-news.png" group-title="Information" tvg-chno="244",Tele Ambiente
 https://5f22d76e220e1.streamlock.net/teleambiente/teleambiente/playlist.m3u8
 
@@ -514,6 +526,9 @@ https://raw.githubusercontent.com/Sibprod/streams/main/ressources/dmotion/py/Ubi
 
 #EXTINF:-1 tvg-id=" " tvg-logo="https://business24tv.it/wp-content/uploads/elementor/thumbs/logo_b24-pryfkrmu8wj7rt8w8cfpg1cst9dj9igi42gtg3c59y.png" group-title="Information" tvg-chno="410",Business 24 Italia
 https://premio.link/business24/smil:business24.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id=" " tvg-logo="https://i.imgur.com/05S3yYZ.png" group-title="Information" tvg-chno=" ",CNN International FAST
+https://cnn-cnninternational-1-eu.rakuten.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://codeberg.org/Sibprod/Feed/raw/branch/main/assets/L%27Ardennais%20TV.png" group-title="Information" tvg-chno=" ",L'Ardennais TV
 https://live.digiteka.com/1/TXhhUTRFNmVLRWhV/aVJTbDNQ/hls/live/playlist.m3u8
@@ -722,6 +737,9 @@ https://nodep002.service.openstream.es/SVoriginOperatorEdge3/smil:43_HD.smil/ind
 #EXTINF:-1 tvg-id="Eurosport2.es" tvg-logo="https://i.imgur.com/f56dHgR.png" group-title="Sport" tvg-chno=" ",Eurosport 2 (España)
 https://nodep002.service.openstream.es/SVoriginOperatorEdge3/smil:59_HD.smil/index.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/1x6zYZr.png" group-title="Sport" tvg-chno=" ",Horse and Country
+https://amg00810-horsecountrytvl-hncfreenz-samsungnz-nq9as.amagi.tv/playlist/amg00810-horsecountrytvl-hncfreenz-samsungnz/playlist.m3u8
+
 #EXTINF:-1 tvg-id="LEquipeLive1.fr" tvg-logo="https://i.ibb.co/KXhYwm0/lequipe.png" group-title="Sport" tvg-chno=" ",L'Equipe Live 1
 https://d3awaj0f2u3w26.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-gy7euubgydp20-ssai-prd/8fd3efae-4468-4ca0-9486-c6cdcb7b65d7/2.m3u8
 
@@ -737,7 +755,10 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01201-cinedigmenterta-realmadrid-ci
 #EXTINF:-1 tvg-id="Redbull.at" tvg-logo="https://i.imgur.com/BcN8B3D.png" group-title="Sport" tvg-chno=" ",Redbull TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
 
-#EXTINF:-1 tvg-logo=" " group-title="Sport" tvg-chno=" ",Tennis Channel
+#EXTINF:-1 tvg-logo="https://i.imgur.com/S6qgwLG.png" group-title="Sport" tvg-chno=" ",Ski TV
+https://d2xeo83q8fcni6.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/SkiTV-SynapseTV/193.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tsljAnY.png" group-title="Sport" tvg-chno=" ",Tennis Channel
 https://tennischannel-int-samsunguk.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo=" " group-title="Sport" tvg-chno=" ",Tennis Channel 2 (T2)
@@ -810,6 +831,9 @@ https://fash1043.cloudycdn.services/slive/ftv_paris_adaptive.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="MensupTV.fr" tvg-logo="http://www.callofliberty.fr/tv/124-MENSUPTV/124-MENSUPTV.png" group-title="Lifestyle" tvg-chno="216",Men's Up TV
 http://www.callofliberty.fr/streaming/MENSUPTV/master.m3u8
+
+#EXTINF:-1 tvg-id="3ABNFrench.us" tvg-logo="https://i.imgur.com/B5gsM7m.png" group-title="Lifestyle",3ABN (Français)
+https://3abn-live.akamaized.net/hls/live/2010546/French/master.m3u8
 
 #EXTINF:-1 tvg-id="ESTV.us" tvg-logo="https://i.imgur.com/qHNV0f5.png" group-title="Lifestyle",ESTV
 https://estv-rakuten-samsung.amagi.tv/playlist.m3u8
@@ -921,14 +945,14 @@ https://muzzik-live.morescreens.com/mts-3/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/sy1BDNK.png" group-title="Musique" tvg-chno=" ",Muzzik Rock & Roll
 https://muzzik-live.morescreens.com/mts-1/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/F69gAWa.png" group-title="Musique" tvg-chno=" ",Rock TV (România)
+https://tv.broadcasting.ro/rocktv/85c83a80-4f71-4f2d-a8d6-43f676896bcb.m3u8
+
 #EXTINF:-1 tvg-id="TheBoxUK.uk" tvg-logo="https://i.imgur.com/e1Cf4Li.png" group-title="Musique" tvg-chno="",The Box
 https://csm-e-boxplus.tls1.yospace.com/csm/extlive/boxplus01,thebox-alldev.m3u8?yo.up=http://boxtv-origin-elb.cds1.yospace.com/uploads/thebox/
 
 #EXTINF:-1 tvg-id="TZik.fr" tvg-logo="https://images.squarespace-cdn.com/content/v1/5d912c8fc92ec9603f7bc3a1/1596601891411-FXH9KZA62RTJBXMYXAOB/green_blue_gradient_logo_transparent_background.png?format=1500w" group-title="Musique",Tzik
 https://myowntvchannel.com:3019/stream/play.m3u8
-
-#EXTINF:-1 tvg-id="V2BEATTV.uk" tvg-logo="https://i.imgur.com/PXGqyLn.png" group-title="Musique" tvg-chno=" ",V2Beat
-https://de1se01.v2beat.live/playlist.m3u8
 
 #EXTINF:-1 tvg-id="V2BEATTV.uk" tvg-logo="https://i.imgur.com/PXGqyLn.png" group-title="Musique" tvg-chno=" ",V2Beat
 https://de1se01.v2beat.live/playlist.m3u8
