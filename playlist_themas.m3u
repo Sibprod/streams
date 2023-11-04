@@ -6,11 +6,19 @@
 #EXTVLCOPT:http-referrer=https://webcast.streamakaci.com/
 https://strhlslb01.streamakaci.tv/ortb/ortb1-multi/playlist.m3u8
 
+#EXTINF:-1 tvg-id="RSILa1.ch" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/RSI_La_1_2012.svg/512px-RSI_La_1_2012.svg.png" group-title="Général" tvg-chno="1",RSI La 1
+http://livetv.ktv.zone/129/play.m3u8
+
+#EXTINF:-1 tvg-id="RTG.gn" tvg-logo="https://i.imgur.com/fQ9rtAh.png" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 Edg/112.0.1722.34" group-title="Général" tvg-chno="1",RTG 1
+#EXTVLCOPT:http-referrer=https://player.castr.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 Edg/112.0.1722.34
+https://stream.castr.com/6358a30fa50e3ae11b6d0424/live_e05d20809c3611edadb72177341481c3/index.m3u8
+
 #EXTINF:-1 tvg-id="RTI1.ci" tvg-logo="https://i.imgur.com/gbcHybd.png" group-title="Général" tvg-chno="1",RTI 1
 https://www.enovativecdn.com/rticdn/smil:rti1.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="RSILa1.ch" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/RSI_La_1_2012.svg/512px-RSI_La_1_2012.svg.png" group-title="Général" tvg-chno="1",RSI La 1
-http://livetv.ktv.zone/129/play.m3u8
+#EXTINF:-1 tvg-id="RTNC1.cd" tvg-logo="https://i.imgur.com/0tJQpog.png" group-title="Général" tvg-chno="1",RTNC 1
+https://tv2.isi-broadcast.tech/ISI-BROADCAST/RTNC-1/index.m3u8
 
 #EXTINF:-1 tvg-id="RTS1.ch" tvg-logo="https://focus.telerama.fr/104x104/60/0000/00/01/clear-202.png" group-title="Général" tvg-chno="1",RTS 1
 http://livetv.ktv.zone/1/play.m3u8
@@ -23,6 +31,9 @@ https://ztnr.rtve.es/ztnr/1688877.m3u8
 
 #EXTINF:-1 tvg-id="AntenneReunion.mu" tvg-logo="http://www.callofliberty.fr/tv/47-AntenneREUNION/47-AntenneREUNION.png" group-title="Général" tvg-chno="2",Antenne Réunion
 https://live-antenne-reunion.zeop.tv/live/c3eds/antreunihd/hls_fta/antreunihd.m3u8?location=ZEOP01
+
+#EXTINF:-1 tvg-id="Canal2International.cm" tvg-logo="https://i.imgur.com/BzA2z7m.png" group-title="Général" tvg-chno="2",Canal 2 International
+https://tgn.bozztv.com/ssh101/ssh101/canal2live/playlist.m3u8
 
 #EXTINF:-1 tvg-id="France2.fr" tvg-logo="https://focus.telerama.fr/104x104/60/0000/00/01/clear-4.png" group-title="Général" tvg-chno="2",France 2
 http://livetv.ktv.zone/4/play.m3u8
@@ -77,6 +88,9 @@ https://telemadrid-23.secure2.footprint.net/master.m3u8
 
 #EXTINF:-1 tvg-id="TV3CAT.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/TV3CAT.svg/512px-TV3CAT.svg.png" group-title="Général" tvg-chno="9",TV3 Catalunya
 https://directes-tv-int.ccma.cat/live-origin/tvi-hls/master.m3u8
+
+#EXTINF:-1 tvg-id="10emerue.cd" tvg-logo="https://i.imgur.com/2bm7SgL.png" group-title="Général" tvg-chno="10",10ème Rue TV
+https://tv1.isi-broadcast.tech/10eme-tv/index.m3u8
 
 #EXTINF:-1 tvg-id=" " tvg-logo="https://i.imgur.com/0OkSa6c.png" group-title="Général" tvg-chno="10",BX1
 https://59959724487e3.streamlock.net:443/stream/live/playlist.m3u8
@@ -168,6 +182,9 @@ http://news.cgtn.com/resource/live/french/cgtn-f.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://experience-cache.proximustv.be/posterserver/poster/DEFAULT/w-250_h-162/t_0089_001.png" group-title="Découverte" tvg-chno="89",Histoire
 https://wza.idipper.com/live/_definst_/channel/3005/HISTOIRE_HD/playlist.m3u8?tracking=IWbbef89510697805275&ticket=e91d1db1-4f2d-4630-b723-e271cf89059e
+
+#EXTINF:-1 tvg-id="MoliereTV.cd" tvg-logo="https://i.imgur.com/4LjW7ZQ.png" group-title="Découverte" tvg-chno="100",Molière TV
+https://tv1.isi-broadcast.tech/MOLIERETV-STREAM1/index.m3u8
 
 #EXTINF:-1 tvg-id="LEspritSorcierTV.fr" tvg-logo="https://i.imgur.com/zyh8yub.png" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 Edg/112.0.1722.34" group-title="Découverte" tvg-chno="111",L'Esprit Sorcier TV
 #EXTVLCOPT:http-referrer=https://player.castr.com/
@@ -323,6 +340,9 @@ https://video1.getstreamhosting.com:1936/8244/8244/playlist.m3u8
 #EXTINF:-1 tvg-id=" " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/MTV-2021.svg/512px-MTV-2021.svg.png" group-title="Divertissement" tvg-chno=" ",MTV (España)
 https://fibergy.cdn.masmediatv.es/SVoriginOperatorDistrib001/smil:256_HD.smil/index.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Divertissement" tvg-chno="",TVI África
+https://video-auth4.iol.pt/live_tvi_africa/live_tvi_africa/edge_servers/tviafrica-480p/playlist.m3u8
+
 --- Information ---
 
 #EXTINF:-1 tvg-id="Euronews.fr" tvg-logo="https://focus.telerama.fr/104x104/60/0000/00/01/clear-140.png" group-title="Information" tvg-chno="4",Euronews (Français)
@@ -412,6 +432,9 @@ https://streamcdnb11-8e7439fdb1694c8da3a0fd63e4dda518.msvdn.net/rainews1/hls/pla
 #EXTINF:-1 tvg-id="BFMBusiness.fr" tvg-logo="https://focus.telerama.fr/104x104/60/0000/00/01/clear-1073.png" group-title="Information" tvg-chno="51",BFM Business
 https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_BUSINESS/index.m3u8?start=LIVE&end=END
 
+#EXTINF:-1 tvg-id="Tele50.cd" tvg-logo="https://i.imgur.com/YJ7CPLq.png" group-title="Information" tvg-chno="52",Télé 50
+https://tv2.isi-broadcast.tech/ISI-BROADCAST/TELE-50/index.m3u8
+
 #EXTINF:-1 tvg-id="Zerounonews.it" tvg-logo="https://i.imgur.com/wYntmOt.png" group-title="Information" tvg-chno="68",Zerouno News TV
 https://5db313b643fd8.streamlock.net/ZerounoTVEventi/ZerounoTVEventi/playlist.m3u8
 
@@ -423,6 +446,9 @@ https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_TECHANDCO/index.m3u8?start=LIVE&
 
 #EXTINF:-1 tvg-id="324.es" tvg-logo="https://i.imgur.com/SG7D0gt.png" group-title="Information" tvg-chno="90",3/24
 https://directes-tv-int.ccma.cat/live-origin/canal324-hls/master.m3u8
+
+#EXTINF:-1 tvg-id="GeopolisTV.cd" tvg-logo="https://i.imgur.com/WzGAIYe.jpg" group-title="Information" tvg-chno="117",Geopolis TV
+https://tv2.isi-broadcast.tech/ISI-BROADCAST/GeopoliceTV/index.m3u8
 
 #EXTINF:-1 tvg-id="Business24Africa.ci" tvg-logo="https://service.canal-overseas.com/image-api/v1/image/663d6c877a14fa32b50f45345c9515ce" group-title="Information" tvg-chno="171",Business TV
 https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/business24_tv/hls_video/index.m3u8
