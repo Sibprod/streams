@@ -17,8 +17,14 @@ https://stream.castr.com/6358a30fa50e3ae11b6d0424/live_e05d20809c3611edadb721773
 #EXTINF:-1 tvg-id="RTI1.ci" tvg-logo="https://i.imgur.com/gbcHybd.png" group-title="Général" tvg-chno="1",RTI 1
 https://www.enovativecdn.com/rticdn/smil:rti1.smil/playlist.m3u8
 
+#EXTINF:-1 tvg-id="RTL.lu" tvg-logo="https://i.imgur.com/zj9aaeB.png" group-title="Général" tvg-chno="1",RTL-Tele Letzëburg
+https://live-edge.rtl.lu/channel1/smil:channel1/playlist.m3u8
+
 #EXTINF:-1 tvg-id="RTNC1.cd" tvg-logo="https://i.imgur.com/0tJQpog.png" group-title="Général" tvg-chno="1",RTNC 1
 https://tv2.isi-broadcast.tech/ISI-BROADCAST/RTNC-1/index.m3u8
+
+#EXTINF:-1 tvg-id="RTP1.pt" tvg-logo="https://i.imgur.com/w7GV86i.png" group-title="Général" tvg-chno="1",RTP 1
+https://streaming-live.rtp.pt/liverepeater/rtp1HD.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="RTS1.ch" tvg-logo="https://focus.telerama.fr/104x104/60/0000/00/01/clear-202.png" group-title="Général" tvg-chno="1",RTS 1
 http://livetv.ktv.zone/1/play.m3u8
@@ -40,6 +46,14 @@ http://livetv.ktv.zone/4/play.m3u8
 
 #EXTINF:-1 tvg-id="RSILA2.ch" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/RSI_La_2_2012.svg/512px-RSI_La_2_2012.svg.png" group-title="Général" tvg-chno="2",RSI La 2
 http://livetv.ktv.zone/137/play.m3u8
+
+#EXTINF:-1 tvg-id="RTG2.gn" tvg-logo="https://i.imgur.com/fQ9rtAh.png" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 Edg/112.0.1722.34" group-title="Général" tvg-chno="1",RTG 1
+#EXTVLCOPT:http-referrer=https://player.castr.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 Edg/112.0.1722.34
+https://stream.castr.com/6358a30fa50e3ae11b6d0424/live_cbde16509c3611ed91f289dac03ffaaf/index.m3u8
+
+#EXTINF:-1 tvg-id="RTL2.lu" tvg-logo="https://i.imgur.com/Zd8tLCe.png" group-title="Général" tvg-chno="2",RTL Zwee
+https://live-edge.rtl.lu/channel2/smil:channel2/playlist.m3u8
 
 #EXTINF:-1 tvg-id="RTS2.ch" tvg-logo="https://focus.telerama.fr/104x104/60/0000/00/01/clear-183.png" group-title="Général" tvg-chno="2",RTS 2
 http://livetv.ktv.zone/2/play.m3u8
@@ -74,6 +88,9 @@ https://nodep002.service.openstream.es/SVoriginOperatorEdge2/smil:11_HD.smil/man
 #EXTINF:-1 tvg-id="M6.fr" tvg-logo="https://focus.telerama.fr/104x104/60/0000/00/01/clear-118.png" group-title="Général" tvg-chno="6",M6
 http://livetv.ktv.zone/8/play.m3u8
 
+#EXTINF:-1 tvg-id="RTP3.pt" tvg-logo="https://i.imgur.com/ohXJmiR.png" group-title="Général" tvg-chno="6",RTP 3
+https://streaming-live.rtp.pt/livetvhlsDVR/rtpnHDdvr.smil/playlist.m3u8
+
 #EXTINF:-1 tvg-id="ARTE.fr" tvg-logo="https://focus.telerama.fr/104x104/60/0000/00/01/clear-111.png" group-title="Général" tvg-chno="7",ARTE (France)
 http://livetv.ktv.zone/9/play.m3u8
 
@@ -82,6 +99,12 @@ https://d15umi5iaezxgx.cloudfront.net/LA7/CLN/HLS-B/Live.m3u8
 
 #EXTINF:-1 tvg-id="C8.fr" tvg-logo="https://focus.telerama.fr/104x104/60/0000/00/01/clear-445.png" group-title="Général" tvg-chno="8",C8
 http://livetv.ktv.zone/10/play.m3u8
+
+#EXTINF:-1 tvg-id="RefletTV.ci" tvg-logo="https://i.imgur.com/EauXR22.png" group-title="Général" tvg-chno="8",Reflet TV
+https://edge-a3.evrideo.tv/8f37c9f0-fe22-44f4-b64a-76ad11730daf_1000026630_HLS/manifest.m3u8
+
+#EXTINF:-1 tvg-id="RTPAcores.pt" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/RTP_Açores_%282016%29.svg/512px-RTP_Açores_%282016%29.svg.png" group-title="Général" tvg-chno="9",RTP Açores
+https://streaming-live.rtp.pt/liverepeater/smil:rtpacoresHD.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Telemadrid.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/TeleMadrid.svg/512px-TeleMadrid.svg.png" group-title="Général" tvg-chno="9",Telemadrid
 https://telemadrid-23.secure2.footprint.net/master.m3u8
@@ -95,8 +118,17 @@ https://tv1.isi-broadcast.tech/10eme-tv/index.m3u8
 #EXTINF:-1 tvg-id=" " tvg-logo="https://i.imgur.com/0OkSa6c.png" group-title="Général" tvg-chno="10",BX1
 https://59959724487e3.streamlock.net:443/stream/live/playlist.m3u8
 
+#EXTINF:-1 tvg-id="RTPAfrica.pt" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/RTP_Madeira_%282017%29.svg/langfr-250px-RTP_Madeira_%282017%29.svg.png" group-title="Général" tvg-chno="10",RTP Madeira
+https://streaming-live.rtp.pt/liverepeater/smil:rtpmadeira.smil/playlist.m3u8
+
 #EXTINF:-1 tvg-id="RTV38.it" tvg-logo="https://i.imgur.com/YOlwudm.png" group-title="Général" tvg-chno="10",RTV 38
 https://845d8509d2cb4f249dd0b2ae5755b6c2.msvdn.net/rtv38/rtv38_live_main/mainabr/playlist_dvr.m3u8
+
+#EXTINF:-1 tvg-id="RTPInternacional.pt" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/RTP_Internacional_2016_%28Reduced_Version%29.svg/512px-RTP_Internacional_2016_%28Reduced_Version%29.svg.png" group-title="Général" tvg-chno="11",RTP Internacional
+https://streaming-live.rtp.pt/liverepeater/smil:rtpi.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RTPAfrica.pt" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/RTP_África_2016_%28Reduced_Version%29.svg/512px-RTP_África_2016_%28Reduced_Version%29.svg.png" group-title="Général" tvg-chno="12",RTP África
+https://streaming-live.rtp.pt/liverepeater/smil:rtpafrica.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="RMCStory.fr" tvg-logo="https://focus.telerama.fr/104x104/60/0000/00/01/clear-1402.png" group-title="Général" tvg-chno="23",RMC Story
 http://livetv.ktv.zone/25/play.m3u8
@@ -139,6 +171,9 @@ http://wzstreaming.rai.it/TVlive/liveStream/master.m3u8
 #EXTINF:-1 tvg-id="SanMarinoRTV.sm" tvg-logo="https://i.imgur.com/lJpOlLv.png" group-title="Général" tvg-chno="831",RTV San Marino 
 https://d2hrvno5bw6tg2.cloudfront.net/smrtv-ch01/_definst_/smil:ch-01.smil/chunklist_b1692000_slita.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Lj4WvXZ.png" group-title="Général" tvg-chno=" ",NTV
+https://strhlslb01.streamakaci.tv/str_ntv_ntv/str_ntv_ntv_multi/playlist.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/zRu9WGh.png" group-title="Général" tvg-chno=" ",Nuova TV 1
 https://nuovatv.net:8443/tv/stream.m3u8
 
@@ -155,6 +190,9 @@ https://tntv-samsung-fr.amagi.tv/hls/amagi_hls_data_samsungfr-tntv-samsungfr/CDN
 
 #EXTINF:-1 tvg-id="France5.fr" tvg-logo="https://focus.telerama.fr/104x104/60/0000/00/01/clear-47.png" group-title="Découverte" tvg-chno="5",France 5
 http://livetv.ktv.zone/7/play.m3u8
+
+#EXTINF:-1 tvg-id="RTPMemoria.pt" tvg-logo="https://i.imgur.com/jCpfdiJ.png" group-title="Découverte" tvg-chno="7",RTP Memória
+https://streaming-live.rtp.pt/liverepeater/smil:rtpmem.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Dmax.es" tvg-logo="https://i.imgur.com/En2sLlW.png" group-title="Découverte" tvg-chno="17",DMax
 https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge/smil:23_HD.smil/manifest.m3u8
@@ -316,17 +354,20 @@ https://fibergy.cdn.masmediatv.es/SVoriginOperatorDistrib001/smil:280_HD.smil/in
 #EXTINF:-1 tvg-id="Mega.es" tvg-logo="https://i.imgur.com/Udrt2eK.png" group-title="Divertissement" tvg-chno="62",Mega
 https://fibergy.cdn.masmediatv.es/SVoriginOperatorDistrib001/smil:281_HD.smil/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bom-channel-it.png" group-title="Divertissement" tvg-chno="68",BOM Channel
+#EXTINF:-1 tvg-id="Bomchannel.it" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bom-channel-it.png" group-title="Divertissement" tvg-chno="68",BOM Channel
 https://5f22d76e220e1.streamlock.net/BOMCHANNEL/BOMCHANNEL/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TVM3.ch" tvg-logo="https://i.imgur.com/zNJlFMg.png" group-title="Divertissement" tvg-chno="69",TVM 3
 https://livevideo.vedge.infomaniak.com/livecast/tvm3/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/cc/canale_italia_it.png" group-title="Divertissement" tvg-chno="71",Canale Italia
+#EXTINF:-1 tvg-id="Canaleitalia.it" tvg-logo="https://www.lyngsat.com/logo/tv/cc/canale_italia_it.png" group-title="Divertissement" tvg-chno="71",Canale Italia
 https://6e94aeeb1b42461d95f973ae34be5167.msvdn.net/ac115_live/canale1.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/MTV-2021.svg/512px-MTV-2021.svg.png" group-title="Divertissement" tvg-chno="73",MTV (France)
+#EXTINF:-1 tvg-id="MTV.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/MTV-2021.svg/512px-MTV-2021.svg.png" group-title="Divertissement" tvg-chno="73",MTV (France)
 https://wza.idipper.com/live/_definst_/channel/3015/MTV_FRANCE_HD/playlist.m3u8?
+
+#EXTINF:-1 tvg-id="TVIReality.pt" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/TVI_Reality_%282017%29.png/200px-TVI_Reality_%282017%29.png" group-title="Divertissement" tvg-chno="99",TVI Reality
+https://video-auth2.iol.pt/live_tvi_reality/live_tvi_reality/edge_servers/tvireality-480p/chunks.m3u8
 
 #EXTINF:-1 tvg-id="111TV.it" tvg-logo="https://i.imgur.com/4jY8yAI.png" group-title="Divertissement" tvg-chno="111",111 TV
 https://5db313b643fd8.streamlock.net/111TV/111TV/playlist.m3u8
@@ -334,7 +375,10 @@ https://5db313b643fd8.streamlock.net/111TV/111TV/playlist.m3u8
 #EXTINF:-1 tvg-id=" " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/512px-Comedy_Central_2018.svg.png" group-title="Divertissement" tvg-chno=" ",Comedy Central (España)
 https://fibergy.cdn.masmediatv.es/SVoriginOperatorDistrib001/smil:254_HD.smil/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Divertissement" tvg-chno="",Ivoire Channel
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/9gS2Y4G/guidelove-logo.png" group-title="Divertissement" tvg-chno="",Guide Love TV
+https://video1.getstreamhosting.com:1936/8056/8056/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/gKbNqQv.png" group-title="Divertissement" tvg-chno="",Ivoire Channel
 https://video1.getstreamhosting.com:1936/8244/8244/playlist.m3u8
 
 #EXTINF:-1 tvg-id=" " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/MTV-2021.svg/512px-MTV-2021.svg.png" group-title="Divertissement" tvg-chno=" ",MTV (España)
@@ -347,6 +391,9 @@ https://video-auth4.iol.pt/live_tvi_africa/live_tvi_africa/edge_servers/tviafric
 
 #EXTINF:-1 tvg-id="Euronews.fr" tvg-logo="https://focus.telerama.fr/104x104/60/0000/00/01/clear-140.png" group-title="Information" tvg-chno="4",Euronews (Français)
 https://raw.githubusercontent.com/Sibprod/streams/main/ressources/dmotion/py/Euronews/EuronewsFR.m3u8
+
+#EXTINF:-1 tvg-id=" " tvg-logo="https://i.imgur.com/bc6tYVZ.png" group-title="Information" tvg-chno="7",CNN Portugal
+https://sktv-forwarders.7m.pl/get.php?x=CNN_Portugal
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/medi-1-tv-afrique-ma.png" group-title="Information" tvg-chno="7",Médi 1 (Afrique)
 https://streaming1.medi1tv.com/live/smil:medi1fr.smil/.m3u8
@@ -550,6 +597,9 @@ https://live-sonybebanjo.simplestreamcdn.com/live8/popmax/bitrate1.isml/live.m3u
 #EXTINF:-1 tvg-id="Paramountchannel.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Paramount_Network.svg/512px-Paramount_Network.svg.png" group-title="Cinéma-Séries" tvg-chno="8",Paramount Channel (España)
 https://nodep002.service.openstream.es/SVoriginOperatorEdge2/smil:22_HD.smil/manifest.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/TVI_Ficção_%282017%29.png/200px-TVI_Ficção_%282017%29.png" group-title="Cinéma-Séries" tvg-chno="12",TVI Ficção
+https://video-auth2.iol.pt/live_tvi_ficcao/live_tvi_ficcao/edge_servers/tvificcao-720p/playlist.m3u8
+
 #EXTINF:-1 tvg-id="TF1SeriesFilms.fr" tvg-logo="https://focus.telerama.fr/104x104/60/0000/00/01/clear-1404.png" group-title="Cinéma-Séries" tvg-chno="20",TF1 Séries Films
 http://livetv.ktv.zone/22/play.m3u8
 
@@ -604,8 +654,11 @@ http://connectiktv.ddns.net:5000/mytvchannel/@mytvchannel/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Cinéma-Séries" tvg-chno=" ",Plex TV
 http://connectiktv.ddns.net:5000/plextv/@plextv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Seriemax.ci" tvg-logo="Cinéma-Séries" group-title=" ",Série Max
+#EXTINF:-1 tvg-id="Seriemax.ci" tvg-logo="" group-title="Cinéma-Séries" tvg-chno=" ",Série Max
 https://video1.getstreamhosting.com:1936/8446/8446/playlist.m3u8
+
+#EXTINF:-1 tvg-id="SICNovelas.pt" tvg-logo="https://i.ibb.co/5hQrgqd/SICNovelas.png" group-title="Cinéma-Séries" tvg-chno=" ",SIC Novelas
+https://fast.live.impresa.pt/out/v1/b5be42c4a68d4ee18461a7156bb8ecf2/sic-novelas.m3u8
 
 #EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="Cinéma-Séries" tvg-chno=" ",SyFy (España)
 https://fibergy.cdn.masmediatv.es/SVoriginOperatorDistrib001/smil:253_HD.smil/index.m3u8
@@ -697,6 +750,9 @@ https://nodep002.service.openstream.es/SVoriginOperatorEdge2/smil:49_HD.smil/man
 https://i.mjh.nz/SamsungTVPlus/GBBB4300001NX.m3u8
 
 --- Lifestyle ---
+
+#EXTINF:-1 tvg-id="LuxeTV.lu" tvg-logo="https://i.imgur.com/24ehonx.png" group-title="Lifestyle" tvg-chno="10",Luxe.TV
+https://alchimie-luxe-fr-rakuten.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TV2000.it" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tv-2000-it.png" group-title="Lifestyle" tvg-chno="28",TV 2000
 https://hls-live-tv2000.akamaized.net/hls/live/2028510/tv2000/master.m3u8
@@ -829,8 +885,23 @@ https://sdn-global-live-streaming-packager-cache.3qsdn.com/13456/13456_264_live.
 #EXTINF:-1 tvg-id="KissTVUK.uk" tvg-logo="https://i.imgur.com/cmwa5Wh.png" group-title="Musique" tvg-chno=" ",Kiss
 https://csm-e-boxplus.tls1.yospace.com/csm/extlive/boxplus01,kiss-alldev.m3u8?spotxc1=195996&spotxc2=190878&yo.up=https://boxtv.secure.footprint.net/kiss/
 
+#EXTINF:-1 tvg-id="KissTV.ro" tvg-logo="https://i.imgur.com/NKfVymH.png" group-title="Musique" tvg-chno=" ",Kiss TV (România)
+https://tv.broadcasting.ro/kisstv/a629c031-2170-4ee9-a36d-87a891aa3131.m3u8
+
 #EXTINF:-1 tvg-id="Magic.uk" tvg-logo="https://i.imgur.com/47ZkVhO.png" group-title="Musique" tvg-chno=" ",Magic
 https://csm-e-boxplus.tls1.yospace.com/csm/extlive/boxplus01,magic-alldev.m3u8?yo.up=http://boxtv-origin-elb.cds1.yospace.com/uploads/magic/
+
+#EXTINF:-1 tvg-id="MagicTV.ro" tvg-logo="https://i.imgur.com/sFIqiw4.png" group-title="Musique" tvg-chno=" ",Magic TV (România)
+https://tv.broadcasting.ro/magictv/925f90db-5c88-4190-a53d-5163cdffe6f4.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/aX70RD2.png" group-title="Musique" tvg-chno=" ",Mooz Dance
+https://rtmp.digitalbroadcast.ro/moozdance/moozdance.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GwATd3Y.png" group-title="Musique" tvg-chno=" ",Mooz Hits
+https://rtmp.digitalbroadcast.ro/moozhits/moozhits.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Ft24x5T.png" group-title="Musique" tvg-chno=" ",Mooz Ro!
+https://rtmp.digitalbroadcast.ro/moozro/moozro.m3u8
 
 #EXTINF:-1 tvg-id="MTV00.es" tvg-logo="https://ritsatv.ru/files/poster/medium/900123.jpg" group-title="Musique" tvg-chno=" ",MTV 00's
 https://fibergy.cdn.masmediatv.es/SVoriginOperatorDistrib001/smil:259_HD.smil/index.m3u8
@@ -1067,6 +1138,9 @@ https://bitcdn-kronehit.bitmovin.com/v2/hls/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Martinique1ere.mq" tvg-logo="https://i.imgur.com/rBhc87a.png" group-title="DAB+" tvg-chno="",Martinique la 1ère
 https://ythls.onrender.com/channel/UCgA9V57lQlZFXkDfhVGTWSg.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/7oLUSeO.png" group-title="DAB+" tvg-chno="",Mayotte One TV
+https://live.mytv.yt:3946/multi_web/play.m3u8
 
 #EXTINF:-1 tvg-id="OndaMadrid.es" tvg-logo="https://i.imgur.com/Q1YwYsR.png" group-title="DAB+" tvg-chno=" ",Onda Madrid
 https://tvradio-1-23.secure2.footprint.net/master.m3u8
