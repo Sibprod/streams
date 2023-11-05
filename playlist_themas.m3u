@@ -381,6 +381,9 @@ https://5db313b643fd8.streamlock.net/111TV/111TV/playlist.m3u8
 #EXTINF:-1 tvg-id=" " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/512px-Comedy_Central_2018.svg.png" group-title="Divertissement" tvg-chno=" ",Comedy Central (España)
 https://fibergy.cdn.masmediatv.es/SVoriginOperatorDistrib001/smil:254_HD.smil/index.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Divertissement" tvg-chno="",Flooxer
+https://fast-channels.atresmedia.com/5c1285e47ed1a861f8125285/5c1285e47ed1a861f8125285.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/9gS2Y4G/guidelove-logo.png" group-title="Divertissement" tvg-chno="",Guide Love TV
 https://video1.getstreamhosting.com:1936/8056/8056/playlist.m3u8
 
