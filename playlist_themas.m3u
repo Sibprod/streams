@@ -595,6 +595,9 @@ https://samsunguk-adn-samsung-fre-qfrlc.amagi.tv/playlist/samsunguk-adn-samsung-
 #EXTINF:-1 tvg-id=" " tvg-logo="https://i.imgur.com/fvVovnc.png" group-title="Jeunesse" tvg-chno=" ",Baby TV (España)
 https://fibergy.cdn.masmediatv.es/SVoriginOperatorDistrib001/smil:262_HD.smil/index.m3u8
 
+#EXTINF:-1 tvg-id=" " tvg-logo="" group-title="Jeunesse" tvg-chno=" ",Kidz
+https://fast-channels.atresmedia.com/648c271d2bfab0e4177a0d61/648c271d2bfab0e4177a0d61/2.m3u8
+
 #EXTINF:-1 tvg-id="NickelodeonJR.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Nick_Jr._logo_2009.svg/512px-Nick_Jr._logo_2009.svg.png" group-title="Jeunesse" tvg-chno="96",Nickelodeon Junior (France)
 https://wza.idipper.com/live/_definst_/channel/3019/NICKELODEON_JNR/playlist.m3u8?tracking=IWbbef89510697805275&ticket=df4181e5-8080-447b-8b52-f99ba93ace44
 
