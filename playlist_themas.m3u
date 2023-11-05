@@ -516,7 +516,10 @@ https://tv2.isi-broadcast.tech/ISI-BROADCAST/GeopoliceTV/index.m3u8
 https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/business24_tv/hls_video/index.m3u8
 
 #EXTINF:-1 tvg-id="BSmart.fr" tvg-logo="http://www.callofliberty.fr/tv/40-BSMART/40-BSMART.png" group-title="Information" tvg-chno="230",B Smart
-http://www.callofliberty.fr/stream/BSMART/master.m3u8
+http://www.callofliberty.fr/streaming/BSMART/master.m3u8
+
+#EXTINF:-1 tvg-id="SkyNews.uk" tvg-logo=" " group-title="Information" tvg-chno="231",Sky News 24
+https://linear021-gb-hls1-prd-ak.cdn.skycdp.com/Content/HLS_001_sd/Live/channel(skynews)/index_hd.m3u8
 
 #EXTINF:-1 tvg-id="GBNews.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/35/GB_News_Logo.svg/512px-GB_News_Logo.svg.png" group-title="Information" tvg-chno="236",GBNews
 https://live-gbnews.simplestreamcdn.com/live5/gbnews/bitrate1.isml/manifest.m3u8
