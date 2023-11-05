@@ -55,6 +55,9 @@ https://stream.castr.com/6358a30fa50e3ae11b6d0424/live_cbde16509c3611ed91f289dac
 #EXTINF:-1 tvg-id="RTL2.lu" tvg-logo="https://i.imgur.com/Zd8tLCe.png" group-title="Général" tvg-chno="2",RTL Zwee
 https://live-edge.rtl.lu/channel2/smil:channel2/playlist.m3u8
 
+#EXTINF:-1 tvg-id="RTP2.pt" tvg-logo=" " group-title="Général" tvg-chno="2",RTP 2
+https://streaming-live.rtp.pt/liverepeater/smil:rtp2HD.smil/playlist.m3u8
+
 #EXTINF:-1 tvg-id="RTS2.ch" tvg-logo="https://focus.telerama.fr/104x104/60/0000/00/01/clear-183.png" group-title="Général" tvg-chno="2",RTS 2
 http://livetv.ktv.zone/2/play.m3u8
 
@@ -185,6 +188,9 @@ https://nuovatv.net:8443/tv2/stream.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://mixor-cdn01.gruppocdt.ch/teleticino/system/images/logo.png" group-title="Général" tvg-chno=" ",Teleticino
 https://vstream-cdn.ch/hls/teleticino_1080p/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo=" " group-title="Général" tvg-chno=" ",TVE Internacional (Europa)
+https://ztnr.rtve.es/ztnr/6891743.m3u8
 
 --- Découverte ---
 
@@ -956,6 +962,9 @@ https://muzzik-live.morescreens.com/mts-1/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/F69gAWa.png" group-title="Musique" tvg-chno=" ",Rock TV (România)
 https://tv.broadcasting.ro/rocktv/85c83a80-4f71-4f2d-a8d6-43f676896bcb.m3u8
+
+#EXTINF:-1 tvg-logo=" " group-title="Musique" tvg-chno=" ",Sol Música
+https://d2glyu450vvghm.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-21u4g5cjglv02/sm.m3u8
 
 #EXTINF:-1 tvg-id="TheBoxUK.uk" tvg-logo="https://i.imgur.com/e1Cf4Li.png" group-title="Musique" tvg-chno="",The Box
 https://csm-e-boxplus.tls1.yospace.com/csm/extlive/boxplus01,thebox-alldev.m3u8?yo.up=http://boxtv-origin-elb.cds1.yospace.com/uploads/thebox/
