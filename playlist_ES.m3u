@@ -1,0 +1,204 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="La1.es" tvg-logo="https://i.imgur.com/1jDS9UC.png" group-title="Général" tvg-chno="1",TVE La 1
+https://ztnr.rtve.es/ztnr/1688877.m3u8
+#EXTINF:-1 tvg-id="La2.es" tvg-logo="https://i.imgur.com/3NwzqoB.png" group-title="Général" tvg-chno="2",TVE La 2
+https://ztnr.rtve.es/ztnr/1688885.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo=" " group-title="Général" tvg-chno=" ",TVE Internacional (Europa)
+https://ztnr.rtve.es/ztnr/6891743.m3u8
+
+#EXTINF:-1 tvg-id="La1.es" tvg-logo="" group-title="Général" tvg-chno="1",TVE La 1
+https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge3/smil:1_HD.smil/manifest.m3u8
+#EXTINF:-1 tvg-id="La2.es" tvg-logo="" group-title="Général" tvg-chno="2",TVE La 2
+https://spa-ha-p003.cdn.masmediatv.es/SVoriginOperatorEdge/smil:2_HD.smil/manifest.m3u8
+#EXTINF:-1 tvg-id="Telemadrid.es" tvg-logo="" group-title="Général" tvg-chno="3",Télémadrid
+https://spa-ha-p003.cdn.masmediatv.es/SVoriginOperatorEdge/smil:3_HD.smil/manifest.m3u8
+#EXTINF:-1 tvg-id="Tdp.es" tvg-logo="" group-title="Sport" tvg-chno=" ",TVE Teledeporte
+https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge/smil:4_HD.smil/manifest.m3u8
+#EXTINF:-1 tvg-id="GolPlay.es" tvg-logo="" group-title="Sport" tvg-chno=" ",Gol Play
+https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge/smil:5_HD.smil/manifest.m3u8
+#EXTINF:-1 tvg-id="Clan.es" tvg-logo="https://www.tvguia.es/sites/default/files/logo/clan.png" group-title="Jeunesse" tvg-chno=" ",TVE Clan
+https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge/smil:6_HD.smil/manifest.m3u8
+#EXTINF:-1 tvg-id="Antena3.es" tvg-logo="" group-title="Général" tvg-chno="103",Antena 3 (SD)
+https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge/smil:7_HD.smil/manifest.m3u8
+#EXTINF:-1 tvg-id="Cuatro.es" tvg-logo="" group-title="Général" tvg-chno="4",Cuatro
+https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge/smil:9_HD.smil/manifest.m3u8
+#EXTINF:-1 tvg-id="Atreseries.es" tvg-logo="" group-title="Cinéma-Séries" tvg-chno="",Atreseries
+https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge2/smil:10_HD.smil/manifest.m3u8
+#EXTINF:-1 tvg-id="Lasexta.es" tvg-logo="" group-title="Général" tvg-chno="6",La Sexta
+https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge2/smil:11_HD.smil/manifest.m3u8
+#EXTINF:-1 tvg-id="24h.es" tvg-logo="" group-title="Information" tvg-chno=" ",TVE Canal 24horas
+https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge/smil:12_HD.smil/manifest.m3u8
+#EXTINF:-1 tvg-id="Neox.es" tvg-logo="" group-title="Information" tvg-chno=" ",Neox
+https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge/smil:13_HD.smil/manifest.m3u8
+#EXTINF:-1 tvg-id="Nova.es" tvg-logo="" group-title="Information" tvg-chno=" ",Nova
+https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge/smil:14_HD.smil/manifest.m3u8
+#EXTINF:-1 tvg-id="Mega.es" tvg-logo="" group-title="Information" tvg-chno=" ",Mega
+https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge/smil:15_HD.smil/manifest.m3u8
+#EXTINF:-1 tvg-id="Fdf.es" tvg-logo="https://www.tvguia.es/sites/default/files/logo/fdf.png" group-title="Cinéma-Séries" tvg-chno=" ",FdF - Factoría de Ficción
+https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge/smil:16_HD.smil/manifest.m3u8
+#EXTINF:-1 tvg-id="Boing.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Boing_2020.svg/512px-Boing_2020.svg.png" group-title="Jeunesse" tvg-chno=" ",Boing (España)
+https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge/smil:17_HD.smil/manifest.m3u8
+#EXTINF:-1 tvg-id="Divinity.es" tvg-logo="https://www.tvguia.es/sites/default/files/logo/divinity.png" group-title="Divertissement" tvg-chno=" ",Divinity
+https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge/smil:18_HD.smil/manifest.m3u8
+#EXTINF:-1 tvg-id="Energy.es" tvg-logo="https://i.imgur.com/tfvpeaS.png" group-title="Cinéma-Séries" tvg-chno=" ",Energy
+https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge/smil:19_HD.smil/manifest.m3u8
+#EXTINF:-1 tvg-id="BeMad.es" tvg-logo="https://www.tvguia.es/sites/default/files/logo/be-mad.png" group-title="Cinéma-Séries" tvg-chno=" ",BeMad
+https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge/smil:20_HD.smil/manifest.m3u8
+#EXTINF:-1 tvg-id="Disneychannel.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Disney_Channel_logo_%282014%29.svg/512px-Disney_Channel_logo_%282014%29.svg.png" group-title="Jeunesse" tvg-chno=" ",Disney Channel (España)
+https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge2/smil:21_HD.smil/manifest.m3u8
+#EXTINF:-1 tvg-id="Paramountchannel.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Paramount_Network.svg/512px-Paramount_Network.svg.png" group-title="Cinéma-Séries" tvg-chno="8",Paramount Channel (España)
+https://nodep002.service.openstream.es/SVoriginOperatorEdge2/smil:22_HD.smil/manifest.m3u8
+#EXTINF:-1 tvg-id="Dkiss.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/DKISS_2019_logo.svg/512px-DKISS_2019_logo.svg.png" group-title="Divertissement" tvg-chno=" ",DKiss
+https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge2/smil:25_HD.smil/manifest.m3u8
+#EXTINF:-1 tvg-id="Ten.es" tvg-logo="https://www.tvguia.es/sites/default/files/logo/ten_3.png" group-title="Divertissement" tvg-chno="10",Ten
+https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge2/smil:26_HD.smil/manifest.m3u8
+#EXTINF:-1 tvg-id="RealmadridTV.es" tvg-logo="https://i.imgur.com/5pMo7dL.png" group-title="Sport" tvg-chno=" ",Real Madrid TV
+https://nodep002.service.openstream.es/SVoriginOperatorEdge2/smil:27_HD.smil/manifest.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="Découverte" tvg-chno=" ",Iberalia
+https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge2/smil:36_HD.smil/manifest.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="Découverte" tvg-chno=" ",Iberalia Caza y Pesca
+https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge2/smil:37_HD.smil/manifest.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="Découverte" tvg-chno=" ",Escapa TV
+https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge2/smil:42_HD.smil/manifest.m3u8
+#EXTINF:-1 tvg-id="Eurosport1.es" tvg-logo="https://i.imgur.com/olQJgm7.png" group-title="Sport" tvg-chno=" ",Eurosport 1 (España)
+https://nodep002.service.openstream.es/SVoriginOperatorEdge3/smil:43_HD.smil/index.m3u8
+#EXTINF:-1 tvg-id="Esport3.es" tvg-logo="https://i.imgur.com/Kbnxu7a.png" group-title="Lifestyle" tvg-chno=" ",Esport 3
+https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge2/smil:48_HD.smil/manifest.m3u8
+#EXTINF:-1 tvg-id="Eurosport2.es" tvg-logo="https://i.imgur.com/f56dHgR.png" group-title="Sport" tvg-chno=" ",Eurosport 2 (España)
+https://nodep002.service.openstream.es/SVoriginOperatorEdge3/smil:59_HD.smil/index.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="Sport" tvg-chno=" ",Bétis Sevilla FC TV
+https://nodep002.service.openstream.es/SVoriginOperatorEdge3/smil:62_HD.smil/index.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="Sport" tvg-chno=" ",Fight Time
+https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge/smil:67_HD.smil/manifest.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="Sport" tvg-chno=" ",TV Sport Moto ADV
+https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge/smil:68_HD.smil/manifest.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="Cinéma-Séries" tvg-chno=" ",Warner TV (España)
+https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge2/smil:69_HD.smil/manifest.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="Cinéma-Séries" tvg-chno=" ",TCM (España)
+https://nodep002.service.openstream.es/SVoriginOperatorEdge3/smil:70_HD.smil/index.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="Information" tvg-chno=" ",Bloomberg
+https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge3/smil:71_HD.smil/manifest.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="Information" tvg-chno=" ",Al-Jazeera
+https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge3/smil:72_HD.smil/manifest.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="Découverte" tvg-chno=" ",CGTN (Español)
+https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge3/smil:73_HD.smil/manifest.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="Général" tvg-chno=" ",TV3 Catalunya
+https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge3/smil:78_HD.smil/manifest.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="Régional" tvg-chno=" ",La 8 Mediterráneo
+https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge3/smil:80_HD.smil/manifest.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="Cinéma-Séries" tvg-chno=" ",SyFy (España)
+https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge3/smil:81_HD.smil/manifest.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="Cinéma-Séries" tvg-chno=" ",Calle 13
+https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge3/smil:96_HD.smil/manifest.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="Général" tvg-chno=" ",ETB 3
+https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge3/smil:98_HD.smil/manifest.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title=" " tvg-chno=" ",Cine Feel Good
+https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge/smil:151_HD.smil/index.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title=" " tvg-chno=" ",Cine Verdi
+https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge/smil:152_HD.smil/index.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title=" " tvg-chno=" ",Extrême Sports Channel
+https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge/smil:153_HD.smil/index.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title=" " tvg-chno=" ",(NSFW) Private HD
+https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge/smil:156_HD.smil/index.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title=" " tvg-chno=" ",(NSFW) EroX HD
+https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge4/smil:221_HD.smil/index.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title=" " tvg-chno=" ",(NSFW) EroXXX HD
+https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge4/smil:222_HD.smil/index.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title=" " tvg-chno=" ",Fashion Box TV
+https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge4/smil:223_HD.smil/index.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title=" " tvg-chno=" ",Viaje
+https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge4/smil:224_HD.smil/index.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title=" " tvg-chno=" ",Fight Box HD
+https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge4/smil:225_HD.smil/index.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title=" " tvg-chno=" ",The Surf Channel
+https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge4/smil:227_HD.smil/index.m3u8
+#EXTINF:-1 tvg-id="HitTV.es" tvg-logo=" " group-title="Régionales" tvg-chno=" ",Viva Televisión
+https://fibergy.cdn.masmediatv.es/SVoriginOperatorDistrib001/smil:230_HD.smil/index.m3u8
+#EXTINF:-1 tvg-id="HitTV.es" tvg-logo=" " group-title="Régionales" tvg-chno=" ",Loja Televisión
+https://fibergy.cdn.masmediatv.es/SVoriginOperatorDistrib001/smil:231_HD.smil/index.m3u8
+#EXTINF:-1 tvg-id="HitTV.es" tvg-logo=" " group-title="Régionales" tvg-chno=" ",Loja Televisión 2
+https://fibergy.cdn.masmediatv.es/SVoriginOperatorDistrib001/smil:232_HD.smil/index.m3u8
+#EXTINF:-1 tvg-id="HitTV.es" tvg-logo=" " group-title="Musique" tvg-chno=" ",Hit TV
+https://fibergy.cdn.masmediatv.es/SVoriginOperatorDistrib001/smil:233_HD.smil/index.m3u8
+#EXTINF:-1 tvg-id="8Madrid.es" tvg-logo=" " group-title="Régionales" tvg-chno=" ",8TV (Madrid)
+https://fibergy.cdn.masmediatv.es/SVoriginOperatorDistrib001/smil:234_HD.smil/index.m3u8
+#EXTINF:-1 tvg-id="EWTN.es" tvg-logo=" " group-title="Lifestyle" tvg-chno=" ",EWTN
+https://fibergy.cdn.masmediatv.es/SVoriginOperatorDistrib001/smil:239_HD.smil/index.m3u8
+#EXTINF:-1 tvg-id="TG7.es" tvg-logo=" " group-title="Régionales" tvg-chno=" ",TG7
+https://fibergy.cdn.masmediatv.es/SVoriginOperatorDistrib001/smil:240_HD.smil/index.m3u8
+#EXTINF:-1 tvg-id=" .es" tvg-logo=" " group-title="Cinéma-Séries" tvg-chno=" ",
+https://fibergy.cdn.masmediatv.es/SVoriginOperatorDistrib001/smil:245_HD.smil/index.m3u8
+#EXTINF:-1 tvg-id=" .es" tvg-logo=" " group-title="Cinéma-Séries" tvg-chno=" ",Fox (España)
+https://fibergy.cdn.masmediatv.es/SVoriginOperatorDistrib001/smil:248_HD.smil/index.m3u8
+#EXTINF:-1 tvg-id="Cineverdi.es" tvg-logo=" " group-title="Cinéma-Séries" tvg-chno=" ",Cine Verdi
+https://fibergy.cdn.masmediatv.es/SVoriginOperatorDistrib001/smil:249_HD.smil/index.m3u8
+#EXTINF:-1 tvg-id="Warner.es" tvg-logo=" " group-title="Cinéma-Séries" tvg-chno=" ",Warner TV (España)
+https://fibergy.cdn.masmediatv.es/SVoriginOperatorDistrib001/smil:250_HD.smil/index.m3u8
+#EXTINF:-1 tvg-id="TCM.es" tvg-logo=" " group-title="Cinéma-Séries" tvg-chno=" ",TCM (España)
+https://fibergy.cdn.masmediatv.es/SVoriginOperatorDistrib001/smil:251_HD.smil/index.m3u8
+#EXTINF:-1 tvg-id="Calle13.es" tvg-logo=" " group-title="Cinéma-Séries" tvg-chno=" ",Calle 13
+https://fibergy.cdn.masmediatv.es/SVoriginOperatorDistrib001/smil:252_HD.smil/index.m3u8
+#EXTINF:-1 tvg-id="Syfy.es" tvg-logo=" " group-title="Cinéma-Séries" tvg-chno=" ",SyFy (España)
+https://fibergy.cdn.masmediatv.es/SVoriginOperatorDistrib001/smil:253_HD.smil/index.m3u8
+#EXTINF:-1 tvg-id="ComedyCentral.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/512px-Comedy_Central_2018.svg.png" group-title="Divertissement" tvg-chno=" ",Comedy Central (España)
+https://fibergy.cdn.masmediatv.es/SVoriginOperatorDistrib001/smil:254_HD.smil/index.m3u8
+#EXTINF:-1 tvg-id="Viaje.es" tvg-logo=" " group-title="Découverte" tvg-chno=" ",Viaje
+https://fibergy.cdn.masmediatv.es/SVoriginOperatorDistrib001/smil:255_HD.smil/index.m3u8
+#EXTINF:-1 tvg-id="MTV.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/MTV-2021.svg/512px-MTV-2021.svg.png" group-title="Divertissement" tvg-chno=" ",MTV (España)
+https://fibergy.cdn.masmediatv.es/SVoriginOperatorDistrib001/smil:256_HD.smil/index.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="Découverte" tvg-chno=" ",National Geographic Channel (España)
+https://fibergy.cdn.masmediatv.es/SVoriginOperatorDistrib001/smil:257_HD.smil/index.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="Découverte" tvg-chno=" ",NatGeo Wild (España)
+https://fibergy.cdn.masmediatv.es/SVoriginOperatorDistrib001/smil:258_HD.smil/index.m3u8
+#EXTINF:-1 tvg-id="MTV00.es" tvg-logo="https://ritsatv.ru/files/poster/medium/900123.jpg" group-title="Musique" tvg-chno=" ",MTV 00's
+https://fibergy.cdn.masmediatv.es/SVoriginOperatorDistrib001/smil:259_HD.smil/index.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Nickelodeon_2009_logo.svg/512px-Nickelodeon_2009_logo.svg.png" group-title="Jeunesse" tvg-chno=" ",Nickeoldeon (España)
+https://fibergy.cdn.masmediatv.es/SVoriginOperatorDistrib001/smil:260_HD.smil/index.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Nick_Jr._logo_2009.svg/512px-Nick_Jr._logo_2009.svg.png" group-title="Jeunesse" tvg-chno=" ",Nickeoldeon Junior (España)
+https://fibergy.cdn.masmediatv.es/SVoriginOperatorDistrib001/smil:261_HD.smil/index.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo="https://i.imgur.com/fvVovnc.png" group-title="Jeunesse" tvg-chno=" ",Baby TV (España)
+https://fibergy.cdn.masmediatv.es/SVoriginOperatorDistrib001/smil:262_HD.smil/index.m3u8
+#EXTINF:-1 tvg-id="Disneyjunior.es" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/bb/Disney_Junior.svg/512px-Disney_Junior.svg.png" group-title="Jeunesse" tvg-chno="70",Disney Junior (España)
+https://fibergy.cdn.masmediatv.es/SVoriginOperatorDistrib001/smil:264_HD.smil/index.m3u8
+#EXTINF:-1 tvg-id="ElToro.es" tvg-logo=" " group-title="Cinéma-Séries" tvg-chno=" ",El Toro TV
+https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge/smil:266_HD.smil/manifest.m3u8
+#EXTINF:-1 tvg-id="ETB4.es" tvg-logo=" " group-title="Général" tvg-chno="3",ETB 4
+https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge/smil:273_HD.smil/manifest.m3u8
+#EXTINF:-1 tvg-id="Antena3.es" tvg-logo="https://i.imgur.com/USbmwiC.png" group-title="Général" tvg-chno="3",Antena 3 (HD)
+https://fibergy.cdn.masmediatv.es/SVoriginOperatorDistrib001/smil:277_HD.smil/index.m3u8
+#EXTINF:-1 tvg-id="Atreseries.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Atreseries_2020_logo.svg/512px-Atreseries_2020_logo.svg.png" group-title="Cinéma-Séries" tvg-chno="30",A3 Series
+https://fibergy.cdn.masmediatv.es/SVoriginOperatorDistrib001/smil:278_HD.smil/index.m3u8
+#EXTINF:-1 tvg-id="Neox.es" tvg-logo="https://i.imgur.com/u4NFyb7.png" group-title="Cinéma-Séries" tvg-chno=" ",Neox
+https://fibergy.cdn.masmediatv.es/SVoriginOperatorDistrib001/smil:279_HD.smil/index.m3u8
+#EXTINF:-1 tvg-id="Nova.es" tvg-logo="https://i.imgur.com/Vx1F4o5.png" group-title="Divertissement" tvg-chno="",Nova
+https://fibergy.cdn.masmediatv.es/SVoriginOperatorDistrib001/smil:280_HD.smil/index.m3u8
+#EXTINF:-1 tvg-id="Mega.es" tvg-logo="https://i.imgur.com/Udrt2eK.png" group-title="Divertissement" tvg-chno="",Mega
+https://fibergy.cdn.masmediatv.es/SVoriginOperatorDistrib001/smil:281_HD.smil/index.m3u8
+
+#EXTINF:-1 tvg-id="RTP1.pt" tvg-logo="https://i.imgur.com/w7GV86i.png" group-title="Général" tvg-chno="1",RTP 1
+https://streaming-live.rtp.pt/liverepeater/rtp1HD.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="RTP2.pt" tvg-logo=" " group-title="Général" tvg-chno="2",RTP 2
+https://streaming-live.rtp.pt/liverepeater/smil:rtp2HD.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="RTP3.pt" tvg-logo=" " group-title="Général" tvg-chno="6",RTP 3
+https://streaming-live.rtp.pt/livetvhlsDVR/rtpndvr.smil/playlist_DVR_slpt.m3u8
+#EXTINF:-1 tvg-id="RTPMemoria.pt" tvg-logo="https://i.imgur.com/jCpfdiJ.png" group-title="Découverte" tvg-chno="7",RTP Memória
+https://streaming-live.rtp.pt/liverepeater/smil:rtpmem.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="RTPMadeira.pt" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/RTP_Madeira_%282017%29.svg/langfr-250px-RTP_Madeira_%282017%29.svg.png" group-title="Général" tvg-chno="10",RTP Madeira
+https://streaming-live.rtp.pt/liverepeater/smil:rtpmadeira.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="RTPInternacional.pt" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/RTP_Internacional_2016_%28Reduced_Version%29.svg/512px-RTP_Internacional_2016_%28Reduced_Version%29.svg.png" group-title="Général" tvg-chno="11",RTP Internacional
+https://streaming-live.rtp.pt/liverepeater/smil:rtpi.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="RTPAfrica.pt" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/RTP_África_2016_%28Reduced_Version%29.svg/512px-RTP_África_2016_%28Reduced_Version%29.svg.png" group-title="Général" tvg-chno="12",RTP África
+https://streaming-live.rtp.pt/liverepeater/smil:rtpafrica.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TV3CAT.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/TV3CAT.svg/512px-TV3CAT.svg.png" group-title="Général" tvg-chno=" ",TV3 Catalunya
+https://directes-tv-int.ccma.cat/live-origin/tvi-hls/master.m3u8
+#EXTINF:-1 tvg-id="324.es" tvg-logo="https://i.imgur.com/SG7D0gt.png" group-title="Information" tvg-chno=" ",3/24
+https://directes-tv-int.ccma.cat/live-origin/canal324-hls/master.m3u8
+
+#EXTINF:-1 tvg-id="Atrescine.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/A3Cine.png/120px-A3Cine.png" group-title="Cinéma-Séries" tvg-chno="31",A3 Cine
+https://live.atresmediainternacional.com/ATRESMEDIA/a3cine-index.m3u8
+
+#EXTINF:-1 tvg-id="RealMadridTV.es" tvg-logo="https://i.imgur.com/5pMo7dL.png" group-title="Sport" tvg-chno=" ",Real Madrid TV
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01201-cinedigmenterta-realmadrid-cineverse/playlist.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="Sport" tvg-chno=" ",TorOlé
+https://nodep002.service.openstream.es/SVoriginOperatorEdge2/smil:49_HD.smil/manifest.m3u8
