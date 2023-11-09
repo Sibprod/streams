@@ -1,0 +1,43 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Général;TNT" tvg-chno="8",C8
+https://raw.githubusercontent.com/Sibprod/streams/main/ressources/dmotion/py/Canal/C8.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Information;TNT" tvg-chno="13",Public Sénat
+https://raw.githubusercontent.com/Sibprod/streams/main/ressources/dmotion/py/Assemblees/PublicSenat.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Information;TNT" tvg-chno="16",CNews
+https://raw.githubusercontent.com/Sibprod/streams/main/ressources/dmotion/py/Canal/CNews.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Information;TNT" tvg-chno="19",Euronews (Français)
+https://raw.githubusercontent.com/Sibprod/streams/main/ressources/dmotion/py/Euronews/EuronewsFR.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Information;TNT" tvg-chno="24",Africanews (Français)
+https://raw.githubusercontent.com/Sibprod/streams/main/ressources/dmotion/py/Euronews/AfricanewsFR.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Information;TNT" tvg-chno="27",Franceinfo
+https://raw.githubusercontent.com/Sibprod/streams/main/ressources/dmotion/py/FranceTV/Franceinfo.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Lifestyle;TNT" tvg-chno="31",N31
+https://raw.githubusercontent.com/Sibprod/streams/main/ressources/dmotion/py/N31/N31.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Régionales;TNT" tvg-chno="31",Télénantes
+https://raw.githubusercontent.com/Sibprod/streams/main/ressources/dmotion/py/Locales/Telenantes.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Régionales;TNT" tvg-chno="31",TL7 (Télévision Loire 7)
+https://raw.githubusercontent.com/Sibprod/streams/main/ressources/dmotion/py/Locales/TL7.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Régionales;TNT" tvg-chno="33",TLC (Télévision Locale du Choletais)
+https://raw.githubusercontent.com/Sibprod/streams/main/ressources/dmotion/py/Locales/TLC.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Information" tvg-chno="396",Ubiznews-OM5
+https://raw.githubusercontent.com/Sibprod/streams/main/ressources/dmotion/py/Ubiznews/Ubiznews.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Découverte" tvg-chno="476",Lyon Capitale TV
+https://raw.githubusercontent.com/Sibprod/streams/main/ressources/dmotion/py/SudRadio/LyonCapitale.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Information" tvg-chno="585",Telesud
+https://raw.githubusercontent.com/Sibprod/streams/main/ressources/dmotion/py/Vision4/Telesud.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Musique;DAB+" tvg-chno="903",Fun Radio
+https://raw.githubusercontent.com/Sibprod/streams/main/ressources/dmotion/py/RTL/FunRadio.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Information;DAB+" tvg-chno="910",RTL
+https://raw.githubusercontent.com/Sibprod/streams/main/ressources/dmotion/py/RTL/RTL.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Musique;DAB+" tvg-chno="911",RTL 2
+https://raw.githubusercontent.com/Sibprod/streams/main/ressources/dmotion/py/RTL2/RTL2.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Information;DAB+" tvg-chno="916",Europe 1
+https://raw.githubusercontent.com/Sibprod/streams/main/ressources/dmotion/py/E1/E1.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Information;DAB+" tvg-chno="920",Franceinfo
+https://raw.githubusercontent.com/Sibprod/streams/main/ressources/dmotion/py/RadioFrance/Franceinfo.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Information;DAB+" tvg-chno="921",France Inter
+https://raw.githubusercontent.com/Sibprod/streams/main/ressources/dmotion/py/RadioFrance/Franceinter.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Information;DAB+" tvg-chno="924",Mouv'
+https://raw.githubusercontent.com/Sibprod/streams/main/ressources/dmotion/py/RadioFrance/Mouv.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Information;DAB+" tvg-chno="938",Sud Radio
+https://raw.githubusercontent.com/Sibprod/streams/main/ressources/dmotion/py/SudRadio/SudRadio.m3u8
