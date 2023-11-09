@@ -1,12 +1,20 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Général;TNT" tvg-chno="8",C8
 https://raw.githubusercontent.com/Sibprod/streams/main/ressources/dmotion/py/Canal/C8.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Information;TNT" tvg-chno="13",LCP 100%
+http://www.callofliberty.fr/direct/LCP/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Information;TNT" tvg-chno="13",Public Sénat
 https://raw.githubusercontent.com/Sibprod/streams/main/ressources/dmotion/py/Assemblees/PublicSenat.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Information;TNT" tvg-chno="16",CNews
 https://raw.githubusercontent.com/Sibprod/streams/main/ressources/dmotion/py/Canal/CNews.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Divertissement;TNT" tvg-chno="17",CStar
+http://www.callofliberty.fr/direct/CSTAR/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Information;TNT" tvg-chno="19",Euronews (Français)
 https://raw.githubusercontent.com/Sibprod/streams/main/ressources/dmotion/py/Euronews/EuronewsFR.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Sport;TNT" tvg-chno="21",L'Équipe
+http://www.callofliberty.fr/direct/LEQUIPE/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Général;TNT" tvg-chno="23",RMC Story
+http://www.callofliberty.fr/direct/RMCSTORY/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Information;TNT" tvg-chno="24",Africanews (Français)
 https://raw.githubusercontent.com/Sibprod/streams/main/ressources/dmotion/py/Euronews/AfricanewsFR.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Information;TNT" tvg-chno="27",Franceinfo
@@ -19,6 +27,14 @@ https://raw.githubusercontent.com/Sibprod/streams/main/ressources/dmotion/py/Loc
 https://raw.githubusercontent.com/Sibprod/streams/main/ressources/dmotion/py/Locales/TL7.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Régionales;TNT" tvg-chno="33",TLC (Télévision Locale du Choletais)
 https://raw.githubusercontent.com/Sibprod/streams/main/ressources/dmotion/py/Locales/TLC.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Lifestyle" tvg-chno="113",Maison & Travaux TV
+http://www.callofliberty.fr/direct/MaisonEtTravauxTV/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Lifestyle" tvg-chno="114",Top Santé TV
+http://www.callofliberty.fr/direct/TOPSanteTV/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Lifestyle" tvg-chno="216",Men's Up TV
+http://www.callofliberty.fr/direct/MENSUPTV/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Information" tvg-chno="230",BSmart
+http://www.callofliberty.fr/direct/BSMART/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Information" tvg-chno="396",Ubiznews-OM5
 https://raw.githubusercontent.com/Sibprod/streams/main/ressources/dmotion/py/Ubiznews/Ubiznews.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Découverte" tvg-chno="476",Lyon Capitale TV
