@@ -1,11 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="La1.es" tvg-logo="https://i.imgur.com/1jDS9UC.png" group-title="Général" tvg-chno="1",TVE La 1
-https://ztnr.rtve.es/ztnr/1688877.m3u8
-#EXTINF:-1 tvg-id="La2.es" tvg-logo="https://i.imgur.com/3NwzqoB.png" group-title="Général" tvg-chno="2",TVE La 2
-https://ztnr.rtve.es/ztnr/1688885.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo=" " group-title="Général" tvg-chno=" ",TVE Internacional (Europa)
-https://ztnr.rtve.es/ztnr/6891743.m3u8
-
 #EXTINF:-1 tvg-id="La1.es" tvg-logo="" group-title="Général" tvg-chno="1",TVE La 1
 https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge3/smil:1_HD.smil/manifest.m3u8
 #EXTINF:-1 tvg-id="La2.es" tvg-logo="" group-title="Général" tvg-chno="2",TVE La 2
@@ -175,6 +168,21 @@ https://fibergy.cdn.masmediatv.es/SVoriginOperatorDistrib001/smil:280_HD.smil/in
 #EXTINF:-1 tvg-id="Mega.es" tvg-logo="https://i.imgur.com/Udrt2eK.png" group-title="Divertissement" tvg-chno="",Mega
 https://fibergy.cdn.masmediatv.es/SVoriginOperatorDistrib001/smil:281_HD.smil/index.m3u8
 
+#EXTINF:-1 tvg-id="La1.es" tvg-logo="https://i.imgur.com/1jDS9UC.png" group-title="Général" tvg-chno="1",TVE La 1
+https://ztnr.rtve.es/ztnr/1688877.m3u8
+#EXTINF:-1 tvg-id="La2.es" tvg-logo="https://i.imgur.com/3NwzqoB.png" group-title="Général" tvg-chno="2",TVE La 2
+https://ztnr.rtve.es/ztnr/1688885.m3u8
+#EXTINF:-1 tvg-id="Canal24Horas.es" tvg-logo="https://i.imgur.com/QYGrq71.png" group-title="Information" tvg-chno=" ",TVE Canal 24 Horas
+https://rtvelivestream-clnx.rtve.es/rtvesec/24h/24h_main_720.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo="https://graph.facebook.com/radionacionalrne/picture?width=200&height=200" group-title="DAB+" tvg-chno=" ",RNE Radio 1
+https://ztnr.rtve.es/ztnr/1938076.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo="https://graph.facebook.com/radio3/picture?width=200&height=200" group-title="DAB+" tvg-chno=" ",RNE Radio 3
+https://ztnr.rtve.es/ztnr/2795617.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo="https://graph.facebook.com/Radio4RNE/picture?width=200&height=200" group-title="DAB+" tvg-chno=" ",RNE Radio 4
+https://ztnr.rtve.es/ztnr/6782425.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo=" " group-title="Général" tvg-chno=" ",TVE Internacional (Europa)
+https://ztnr.rtve.es/ztnr/6891743.m3u8
+
 #EXTINF:-1 tvg-id="RTP1.pt" tvg-logo="https://i.imgur.com/w7GV86i.png" group-title="Général" tvg-chno="1",RTP 1
 https://streaming-live.rtp.pt/liverepeater/rtp1HD.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="RTP2.pt" tvg-logo=" " group-title="Général" tvg-chno="2",RTP 2
@@ -194,6 +202,8 @@ https://streaming-live.rtp.pt/liverepeater/smil:rtpafrica.smil/playlist.m3u8
 https://directes-tv-int.ccma.cat/live-origin/tvi-hls/master.m3u8
 #EXTINF:-1 tvg-id="324.es" tvg-logo="https://i.imgur.com/SG7D0gt.png" group-title="Information" tvg-chno=" ",3/24
 https://directes-tv-int.ccma.cat/live-origin/canal324-hls/master.m3u8
+#EXTINF:-1 tvg-id="SX3.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/SX3_logo.svg/300px-SX3_logo.svg.png" group-title="Jeunesse" tvg-chno=" ",SX3
+https://directes-tv-int.ccma.cat/live-origin/super3-hls/master.m3u8
 
 #EXTINF:-1 tvg-id="Atrescine.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/A3Cine.png/120px-A3Cine.png" group-title="Cinéma-Séries" tvg-chno="31",A3 Cine
 https://live.atresmediainternacional.com/ATRESMEDIA/a3cine-index.m3u8
