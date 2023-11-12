@@ -22,6 +22,10 @@ https://wz4.newradio.it/dyrqkgmjqq/dyrqkgmjqq/playlist.m3u8
 https://live.ipstream.it/etv/etv.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="Primocanale.it" tvg-logo="http://www.simonachiavaccini.com/wp-content/uploads/2012/03/primocanale.jpg" group-title="DTT" tvg-chno="10",Primocanale
 https://msh0203.stream.seeweb.it/live/flv:stream2.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="TVL.it" tvg-logo=" " group-title="DTT" tvg-chno="10",RTV 38
+https://845d8509d2cb4f249dd0b2ae5755b6c2.msvdn.net/rtv38/rtv38_live_main/mainabr/playlist_dvr.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/2/28/Telenorba_-_Logo_2014.svg/260px-Telenorba_-_Logo_2014.svg.png" group-title="DTT" tvg-chno="10",Telenorba
+https://router.xdevel.com/video0s976570-1326/stream/playlist_dvr.m3u8
 #EXTINF:-1 tvg-id=" " tvg-logo="https://telequattro.medianordest.it/wp-content/uploads/2020/10/T4Logo120.png" group-title="DTT" tvg-chno="10",Telequattro
 http://wms.shared.streamshow.it/telequattro/telequattro/playlist.m3u8
 #EXTINF:-1 tvg-id="Videolina.it" tvg-logo="https://i.imgur.com/Z5NeYwu.png" group-title="DTT" tvg-chno="10",Videolina
@@ -46,10 +50,18 @@ https://api.new.livestream.com/accounts/31041674/events/10235982/live.m3u8
 https://5e73cf528f404.streamlock.net/TrentinoTV/livestream/playlist.m3u8
 #EXTINF:-1 tvg-id=" " tvg-logo="https://i.imgur.com/U6OW577.png" group-title="DTT" tvg-chno="12",È TV Marche
 https://live.ipstream.it/etvmarche/etvmarche.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/gv2pLIp.png" group-title="DTT" tvg-chno="12",Sardegna Uno
+https://raw.githubusercontent.com/azgaresncf/strm2hls/main/streams/Sardegna1.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/7KfldrH.png" group-title="DTT" tvg-chno="12",Tele Bari
+http://fl1.mediastreaming.it:1935/telebari/livestream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/teleradiopace-1-it.png" group-title="DTT" tvg-chno="12",TelePace 1
 https://dacastmmd.mmdlive.lldns.net/dacastmmd/2400a5d867124db380eb67bc7b9b605c/playlist.m3u8
 #EXTINF:-1 tvg-id=" " tvg-logo="https://www.tenonline.tv/wp-content/uploads/2023/04/ten_logo_wide.png" group-title="DTT" tvg-chno="12",TEN TV
 https://7640f9b3494e4d1fb307f886e3b60402.msvdn.net/live/S41081260/ohLhSxDNpDNC/playlist.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo="https://i.imgur.com/qYPiXlB.png" group-title="DTT" tvg-chno="12",Top Calcio 
+https://ythls.armelin.one/channel/UC3yM6JHZSBlU8crXIDHK-kQ.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo="https://www.mediapason.it/wp-content/uploads/2016/11/VIDEOGRUPPO-LOGO-MENU-DEFINITIVO.png" group-title="DTT" tvg-chno="12",Videogruppo
+https://ythls.armelin.one/channel/UC3yM6JHZSBlU8crXIDHK-kQ.m3u8
 #EXTINF:-1 tvg-id=" " tvg-logo="https://i.imgur.com/noTgJJp.png" group-title="DTT" tvg-chno="13",Calabria TV
 https://5db313b643fd8.streamlock.net/CalabriaTv2/CalabriaTv2/playlist.m3u8
 #EXTINF:-1 tvg-id="LazioTV.it" tvg-logo="https://i.imgur.com/DAj5Uwb.png" group-title="DTT" tvg-chno="13",Lazio TV
@@ -72,12 +84,18 @@ https://5f22d76e220e1.streamlock.net/primantenna14/primantenna14/playlist.m3u8
 https://stream.ets-sistemi.it:8081/rticalabria/index.m3u8
 #EXTINF:-1 tvg-id=" " tvg-logo="https://i.imgur.com/GGPtHX3.png" group-title="DTT" tvg-chno="14",Teleromagna
 https://livetr.teleromagna.it/teleromagna/live/playlist.m3u8
+#EXTINF:-1 tvg-id="TVL.it" tvg-logo="https://i.imgur.com/2wkSHNI.png" group-title="DTT" tvg-chno="14",TVL
+https://live.mariatvcdn.com/mariatvcdn/70564e1c6884c007c76f0c128d679eed.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat-logo.com/logo/tv/num/7-gold-it.png" group-title="DTT" tvg-chno="15",7 Gold Telerent
+https://stream3.xdevel.com/video0s86-1157/stream/chunks.m3u8
 #EXTINF:-1 tvg-id=" " tvg-logo="https://bergamotv.it/static/website/img/logo.png" group-title="DTT" tvg-chno="15",Bergamo TV
 https://api.new.livestream.com/accounts/245066/events/3063596/live.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/5/5e/Grp_televisione-small.jpg/260px-Grp_televisione-small.jpg" group-title="DTT" tvg-chno="15",GRP Vera TV
 https://play.cdn.enetres.net/79CE6A0C6AF94F7EB0F93BD0DE2949EF028/02204/playlist.m3u8
 #EXTINF:-1 tvg-id="Teleliguriasud.it" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tele_liguria_it_sud.png" group-title="DTT" tvg-chno="15",TLS - Tele Liguria Sud
 https://64b16f23efbee.streamlock.net/teleliguriasud/teleliguriasud/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/0YTYXB9.png" group-title="DTT" tvg-chno="15",Telerama
+https://58d921499d3d3.streamlock.net/TeleRama/livestream/playlist.m3u8
 #EXTINF:-1 tvg-id=" " tvg-logo="https://i.imgur.com/6kK6U3Q.png" group-title="DTT" tvg-chno="15",TRC Bologna
 https://api.new.livestream.com/accounts/31041674/events/10235994/live.m3u8
 #EXTINF:-1 tvg-id=" " tvg-logo="https://i.imgur.com/mBYxWOg.png" group-title="DTT" tvg-chno="16",12 TV Parma
@@ -92,6 +110,8 @@ http://uk4.streamingpulse.com:1935/SuperJtv/SuperJtv/playlist.m3u8
 https://648026e87a75e.streamlock.net/teleone/teleone/playlist.m3u8
 #EXTINF:-1 tvg-id=" " tvg-logo="https://lh7-us.googleusercontent.com/sheets/ACTFsxScQf-MJ9JFR4gLlGkU2rzXEfPXnP97A8aAtAO7PoAExdK2DezKUZOW840XenuHKR6pvVJS93HXOrUIfs4Z1z7jZl7Lzsxktd3flLHPtPEmg0BDLL08wb9itJcxezBcwnv3W2QaDPFRBwxqAuQiXM5cMLJ_s3SU=w60-h47" group-title="DTT" tvg-chno="16",Teleroma 56
 https://api.new.livestream.com/accounts/15092763/events/4335917/live.m3u8
+#EXTINF:-1 tvg-id="Teletruria.it" tvg-logo="https://livetvcentral.com/imgs/tvs/2395.jpg" group-title="DTT" tvg-chno="16",Teletruria
+https://dacastmmd.mmdlive.lldns.net/dacastmmd/f8f4b261e9cd4e72b9bea77d15b1a368/playlist.m3u8
 #EXTINF:-1 tvg-id=" " tvg-logo="https://i.imgur.com/jfXBTGp.png" group-title="DTT" tvg-chno="16",Teletutto
 https://600f07e114306.streamlock.net/TT_TELETUTTO/smil:TT.smil/playlist.m3u8
 #EXTINF:-1 tvg-id=" " tvg-logo="https://cms-v1.lacplay.it/wp-content/uploads/2023/02/OnAir-icon.png" group-title="DTT" tvg-chno="17",La C OnAir
@@ -118,10 +138,14 @@ https://64b16f23efbee.streamlock.net:443/telenova/telenova/playlist.m3u8
 https://0ff9dd7fe9b64bc08a5fc4ed525454c3.msvdn.net/live/S42170132/sT6C3LFaD1iA/playlist.m3u8
 #EXTINF:-1 tvg-id=" " tvg-logo="https://www.tvdream.net/img/cremona1.png" group-title="DTT" tvg-chno="19",Cremona 1
 https://cdn2.streamshow.it/cloud-cremona1/cremona1/chunklist.m3u8
+#EXTINF:-1 tvg-id="Italia7.it" tvg-logo="https://i.imgur.com/YBXkY4w.png" group-title="DTT" tvg-chno="19",Italia 7
+https://streaming.softwarecreation.it/Italia7/Italia7/playlist.m3u8
 #EXTINF:-1 tvg-id="RadionorbaTV.it" tvg-logo="https://i.imgur.com/qftBPM9.png" group-title="DTT" tvg-chno="19",Radio Norba TV
 https://router.xdevel.com/video0s975885-462/stream/playlist_dvr.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/BR7QfUF.png" group-title="DTT" tvg-chno="19",Rete TV Italia
 https://57068da1deb21.streamlock.net/retetvitalia/retetvitalia/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/8/86/Logo_Radio_Televisione_Peloritana.svg/512px-Logo_Radio_Televisione_Peloritana.svg.png" group-title="DTT" tvg-chno="19",RTP
+https://flash2.xdevel.com/rtptv/rtptv/playlist.m3u8
 #EXTINF:-1 tvg-id=" " tvg-logo="https://i.imgur.com/E3ZVcJ3.png" group-title="DTT" tvg-chno="19",Telestense
 https://5e73cf528f404.streamlock.net/TeleEstense/livestream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/AJAYgyN.png" group-title="DTT" tvg-chno="19",Videonovara
@@ -190,8 +214,12 @@ https://router.xdevel.com/video0s975758-473/stream/playlist.m3u8
 https://5f22d76e220e1.streamlock.net:443/EntellaTV/EntellaTV/playlist.m3u8
 #EXTINF:-1 tvg-id=" " tvg-logo="https://i.imgur.com/05YWVCq.png" group-title="DTT" tvg-chno="75",L'Altro Corriere TV
 https://stream.cp.ets-sistemi.it:1936/laltrocorriere-tv/laltrocorriere-tv/playlist.m3u8
+#EXTINF:-1 tvg-id="TVP.it" tvg-logo="https://i.imgur.com/72mAJtf.png" group-title="DTT" tvg-chno="75",TVP - TV Prato
+https://live.mariatvcdn.com/tvprato/2db0dd5674586686a867ec52c3aa8e06.sdp/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://kisskissnapoli.it/wp-content/uploads/2022/03/cropped-logo-kisskiss-napoli.png.webp" group-title="DTT" tvg-chno="76",Kiss Kiss Napoli TV
 https://58f12ffd2447a.streamlock.net/KKTVNapoli/livestream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo=" " group-title="DTT" tvg-chno="75",Onda TV Giovani
+https://5926fc9c7c5b2.streamlock.net/9040/9040/playlist.m3u8
 #EXTINF:-1 tvg-id="RadioPiterPanTV.it" tvg-logo="https://i.imgur.com/hbqVWV4.png" group-title="DTT" tvg-chno="76",Radio Piter Pan TV
 https://58d921499d3d3.streamlock.net/RadioPiterpanTV/livestream/playlist.m3u8
 #EXTINF:-1 tvg-id=" " tvg-logo="https://i.imgur.com/424KS6J.png" group-title="DTT" tvg-chno="76",Telelibertà
@@ -208,6 +236,8 @@ https://cdn10.streamshow.it/cloud-reggiotv/reggiotv/playlist.m3u8
 https://5926fc9c7c5b2.streamlock.net/9094/9094/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/4G8fqtn.png" group-title="DTT" tvg-chno="77",TLT Molise 
 https://5f22d76e220e1.streamlock.net/tltmolise/tltmolise/playlist.m3u8
+#EXTINF:-1 tvg-id="Canale7.it" tvg-logo="https://canale7.tv/assets/front/img/fb_logo.jpg" group-title="DTT" tvg-chno="78",Canale 7
+http://wms.shared.streamshow.it/canale7/canale7/playlist.m3u8
 #EXTINF:-1 tvg-id=" " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/66/LOGO_telePAVIA.png" group-title="DTT" tvg-chno="78",Milano Pavia TV
 http://wms.shared.streamshow.it/telepavia/telepavia/playlist.m3u8
 #EXTINF:-1 tvg-id="MotoriTV.it" tvg-logo="https://i.imgur.com/NWXQKbl.png" group-title="DTT" tvg-chno="78",Motori TV
@@ -242,6 +272,8 @@ https://tsw.streamingwebtv24.it:1936/eslife1/eslife1/playlist.m3u8
 http://ts2000tv.streaming.nextware.it:8081/ts2000tv/ts2000tv/playlist.m3u8
 #EXTINF:-1 tvg-id=" " tvg-logo="https://i.imgur.com/kNrzk3X.png" group-title="DTT" tvg-chno="84",Antenna 2 Bergamo
 https://58f12ffd2447a.streamlock.net/Antenna2/livestream/playlist.m3u8
+#EXTINF:-1 tvg-id="TSD.it" tvg-logo="https://canale3.tv/assets/uploads/2023/06/logo-canale-3.png" group-title="DTT" tvg-chno="84",Canale 3 (Toscana)
+https://stream10.xdevel.com/video0s976737-1984/stream/playlist.m3u8
 #EXTINF:-1 tvg-id=" " tvg-logo="https://i.imgur.com/bgtw1fu.png" group-title="DTT" tvg-chno="84",Lab TV
 http://live.sloode.com:1935/labtv_live/labtv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/qvcf6QC.png" group-title="DTT" tvg-chno="85",Telepace 2
@@ -260,16 +292,22 @@ http://wms.shared.streamshow.it/veratv/veratv/playlist.m3u8
 https://srvx1.selftv.video/dmchannel/live/playlist.m3u8
 #EXTINF:-1 tvg-id=" " tvg-logo="https://i.imgur.com/kNrzk3X.png" group-title="DTT" tvg-chno="88",Rete 55
 https://live1.giocabet.tv/stream/6/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/ImvO2rV.png" group-title="DTT" tvg-chno="88",Tele Foggia
+https://59d7d6f47d7fc.streamlock.net/telefoggia/telefoggia/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat-stream.com/logo/tv/cc/camera_dei_deputati_it.png" group-title="Tivùsat" tvg-chno="89",Camera dei Deputati 
 https://video-ar.radioradicale.it/diretta/camera2/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/uh4R5Ih.png" group-title="DTT" tvg-chno="90",Canale 2 Altamura
 https://59d7d6f47d7fc.streamlock.net/canale2/canale2/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat-stream.com/logo/tv/ss/senato_della_repubblica_it.png" group-title="Tivùsat" tvg-chno="90",Senato
 https://senato-live.morescreens.com/SENATO_1_001/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo=" " group-title="DTT" tvg-chno="90",Telemistretta
+https://live.mariatvcdn.com/telemistretta/8fbcd205ada81b295ee6c211c3a80dde.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="ReteBiellaTV.it" tvg-logo="https://i.imgur.com/e2ryHx7.png" group-title="DTT" tvg-chno="91",Rete Biella TV
 https://sb.top-ix.org/retebiella/streaming/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.antennasud.com/wp-content/uploads/2022/04/quadrati_loghi_92.png" group-title="DTT" tvg-chno="92",Antenna Sud Extra
 https://live.antennasudwebtv.it:9443/hls/vod92.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/crMQmn4.png" group-title="DTT" tvg-chno="90",TeleVideo Agrigento
+https://59d7d6f47d7fc.streamlock.net/tva/tva/playlist.m3u8
 #EXTINF:-1 tvg-id="RTVSanMarinoSport.sm" tvg-logo="https://i.imgur.com/PGm944g.png" group-title="DTT" tvg-chno="93",RTV San Marino Sport
 https://d2hrvno5bw6tg2.cloudfront.net/smrtv-ch02/smil:ch-02.smil/master.m3u8
 #EXTINF:-1 tvg-id=" " tvg-logo="https://i.imgur.com/sCDcYFW.png" group-title="DTT" tvg-chno="94",Stereo 5 TV
@@ -292,6 +330,8 @@ https://5db313b643fd8.streamlock.net/111TV/111TV/playlist.m3u8
 https://f5842579ff984c1c98d63b8d789673eb.msvdn.net/live/S27391994/HVvPMzy/playlist.m3u8
 #EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="DTT" tvg-chno="113",Giocabet.TV
 https://live1.giocabet.tv/stream/1/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/SfGVu6a.png" group-title="DTT" tvg-chno="115",Televallo
+https://5cbd3bc28341f.streamlock.net:444/televallo/live/playlist.m3u8
 #EXTINF:-1 tvg-id="CompanyTV.it" tvg-logo="https://i.imgur.com/A7q1zRj.png" group-title="DTT" tvg-chno="119",Company TV
 https://5929b138b139d.streamlock.net/CompanyTV/smil:CompanyTV.smil/master.m3u8
 #EXTINF:-1 tvg-id=" " tvg-logo="https://i.imgur.com/0iPU3JE.png" group-title="DTT" tvg-chno="119",SL48
@@ -326,6 +366,10 @@ http://wms.shared.streamshow.it/italia2/mp4:italia2/playlist.m3u8
 https://59d7d6f47d7fc.streamlock.net/elivebresciatv/elivebresciatv/playlist.m3u8
 #EXTINF:-1 tvg-id=" " tvg-logo="https://i.imgur.com/SAuAcpv.png" group-title="DTT" tvg-chno="181",RTC Quarta Rete
 https://msh0232.stream.seeweb.it/live/stream00.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="Vuemme.it" tvg-logo="https://i.imgur.com/Cs1kX12.png" group-title="DTT" tvg-chno="188",Vuemme
+https://5db313b643fd8.streamlock.net/Vuemme/Vuemme/playlist.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo="https://www.mediapason.it/wp-content/uploads/2016/05/MILANOW-LOGO-MENU-DEFINITIVO-e1479311105540.png" group-title="DTT" tvg-chno="191",Milanow
+https://ythls.armelin.one/channel/UC3yM6JHZSBlU8crXIDHK-kQ.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://radiojukebox.info/wp-content/uploads/2019/11/manutenzione-e1610699766130.png" group-title="DTT" tvg-chno="192",Radio Jukebox TV
 https://5926fc9c7c5b2.streamlock.net/9108/9108/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://1.bp.blogspot.com/-8gAN3pOqt7M/UK8We1rH1yI/AAAAAAAADjU/bya6H2ZbcJk/s1600/logo-telemia.png" group-title="DTT" tvg-chno="199",TeleMia Extra
