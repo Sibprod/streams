@@ -50,7 +50,8 @@ http://185.202.128.1:1935/TelemoliseStream/telemoliseTV.stream/playlist.m3u8
 https://5f22d76e220e1.streamlock.net/telenord/telenord/playlist.m3u8
 #EXTINF:-1 tvg-id=" " tvg-logo="https://www.televomero.it/wp-content/uploads/2023/10/televomeroLogoNewX2.png" group-title="DTT" tvg-chno="11",Televomero
 https://stream2.xdevel.com/video0s100-23/stream/playlist.m3u8
-#EXTINF:-1 tvg-id=" " tvg-logo="https://i.imgur.com/Kd9JpmI.png" group-title="DTT" tvg-chno="11",TRC Modena
+#EXTINF:-1 tvg-id=" " tvg-logo="https://i.imgur.com/Kd9JpmI.png" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64;x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 Edg/112.0.1722.34" group-title="DTT" tvg-chno="11",TRC Modena
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://api.new.livestream.com/accounts/31041674/events/10235982/live.m3u8
 #EXTINF:-1 tvg-id=" " tvg-logo="https://i.imgur.com/U6OW577.png" group-title="DTT" tvg-chno="12",È TV Marche
 https://live.ipstream.it/etvmarche/etvmarche.stream/playlist.m3u8
@@ -182,7 +183,7 @@ http://livetv.ktv.zone/153/play.m3u8
 https://vimnitaly.akamaized.net/hls/live/2094034/super/master.m3u8
 #EXTINF:-1 tvg-id="RaiNews24.it" tvg-logo="https://i.imgur.com/8juA51j.png" group-title="DTT" tvg-chno="48",RAI News 24
 https://8e7439fdb1694c8da3a0fd63e4dda518.msvdn.net/rainews1/hls/playlist_mo.m3u8
-#EXTINF:-1 tvg-id="SkyTG24.it" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sky-tg-24-it.png" group-title="DTT" tvg-chno="50",IT_50.Sky TG24
+#EXTINF:-1 tvg-id="SkyTG24.it" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sky-tg-24-it.png" group-title="DTT" tvg-chno="50",Sky TG24
 https://ythls.armelin.one/channel/UCz6E3lF72mb6uoJ-mOlNo2A.m3u8
 #EXTINF:-1 tvg-id="ACISportTV.it" tvg-logo="https://www.acisport.it/img/ACISportTV_low.jpg" group-title="Tivùsat" tvg-chno="52",ACI Sport TV
 https://play.cdn.enetres.net/79CE6A0C6AF94F7EB0F93BD0DE2949EF029/02279/playlist.m3u8
