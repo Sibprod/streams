@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-id=" " tvg-logo="https://www.lyngsat-logo.com/logo/tv/rr/rai_1.png" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64;x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 Edg/112.0.1722.34" group-title=" " tvg-chno=" ",Channel
+#EXTINF:-1 tvg-id=" " tvg-logo="https://www.lyngsat-logo.com/logo/tv/rr/rai_1.png" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64;x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 Edg/112.0.1722.34" group-title=" " tvg-chno="1",Armenia 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 http://ott-cdn.ucom.am/s1/index.m3u8
 #EXTINF:-1 tvg-id=" " tvg-logo="https://www.lyngsat-logo.com/logo/tv/rr/rai_1.png" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64;x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 Edg/112.0.1722.34" group-title=" " tvg-chno=" ",Channel
@@ -11,7 +11,7 @@ http://ott-cdn.ucom.am/s03/index.m3u8
 #EXTINF:-1 tvg-id=" " tvg-logo="https://www.lyngsat-logo.com/logo/tv/rr/rai_1.png" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64;x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 Edg/112.0.1722.34" group-title=" " tvg-chno=" ",Channel
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 http://ott-cdn.ucom.am/s4/index.m3u8
-#EXTINF:-1 tvg-id=" " tvg-logo="https://www.lyngsat-logo.com/logo/tv/rr/rai_1.png" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64;x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 Edg/112.0.1722.34" group-title=" " tvg-chno=" ",Channel
+#EXTINF:-1 tvg-id=" " tvg-logo="https://www.lyngsat-logo.com/logo/tv/rr/rai_1.png" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64;x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 Edg/112.0.1722.34" group-title=" " tvg-chno=" ",5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 http://ott-cdn.ucom.am/s5/index.m3u8
 #EXTINF:-1 tvg-id=" " tvg-logo="https://www.lyngsat-logo.com/logo/tv/rr/rai_1.png" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64;x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 Edg/112.0.1722.34" group-title=" " tvg-chno=" ",Channel
@@ -20,10 +20,10 @@ http://ott-cdn.ucom.am/s6/index.m3u8
 #EXTINF:-1 tvg-id=" " tvg-logo="https://www.lyngsat-logo.com/logo/tv/rr/rai_1.png" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64;x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 Edg/112.0.1722.34" group-title=" " tvg-chno=" ",Channel
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 http://ott-cdn.ucom.am/s7/index.m3u8
-#EXTINF:-1 tvg-id=" " tvg-logo="https://www.lyngsat-logo.com/logo/tv/rr/rai_1.png" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64;x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 Edg/112.0.1722.34" group-title=" " tvg-chno=" ",Channel
+#EXTINF:-1 tvg-id=" " tvg-logo="https://www.lyngsat-logo.com/logo/tv/rr/rai_1.png" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64;x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 Edg/112.0.1722.34" group-title=" " tvg-chno=" ",5Plus
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 http://ott-cdn.ucom.am/s8/index.m3u8
-#EXTINF:-1 tvg-id=" " tvg-logo="https://www.lyngsat-logo.com/logo/tv/rr/rai_1.png" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64;x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 Edg/112.0.1722.34" group-title=" " tvg-chno=" ",Channel
+#EXTINF:-1 tvg-id=" " tvg-logo="https://www.lyngsat-logo.com/logo/tv/rr/rai_1.png" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64;x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 Edg/112.0.1722.34" group-title=" " tvg-chno=" ",21HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 http://ott-cdn.ucom.am/s9/index.m3u8
 #EXTINF:-1 tvg-id=" " tvg-logo="https://www.lyngsat-logo.com/logo/tv/rr/rai_1.png" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64;x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 Edg/112.0.1722.34" group-title=" " tvg-chno=" ",Channel
@@ -38,7 +38,7 @@ http://ott-cdn.ucom.am/s12/index.m3u8
 #EXTINF:-1 tvg-id=" " tvg-logo="https://www.lyngsat-logo.com/logo/tv/rr/rai_1.png" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64;x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 Edg/112.0.1722.34" group-title=" " tvg-chno=" ",Channel
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 http://ott-cdn.ucom.am/s13/index.m3u8
-#EXTINF:-1 tvg-id=" " tvg-logo="https://www.lyngsat-logo.com/logo/tv/rr/rai_1.png" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64;x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 Edg/112.0.1722.34" group-title=" " tvg-chno=" ",Channel
+#EXTINF:-1 tvg-id=" " tvg-logo="https://www.lyngsat-logo.com/logo/tv/rr/rai_1.png" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64;x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 Edg/112.0.1722.34" group-title=" " tvg-chno="1",Rossiya 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 http://ott-cdn.ucom.am/s14/index.m3u8
 #EXTINF:-1 tvg-id=" " tvg-logo="https://www.lyngsat-logo.com/logo/tv/rr/rai_1.png" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64;x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 Edg/112.0.1722.34" group-title=" " tvg-chno=" ",Channel
