@@ -1,17 +1,31 @@
 #EXTM3U
+--- KTV ---
+#EXTINF:-1 tvg-id="RAI1.it" tvg-logo="https://www.lyngsat-logo.com/logo/tv/rr/rai_1.png" group-title="KTV" tvg-chno="1",RAI 1
+http://livetv.ktv.zone/130/play.m3u8
+#EXTINF:-1 tvg-id="RAI2.it" tvg-logo="https://www.lyngsat-logo.com/logo/tv/rr/rai_2.png" group-title="KTV" tvg-chno="2",RAI 2
+http://livetv.ktv.zone/131/play.m3u8
+#EXTINF:-1 tvg-id="RAI3.it" tvg-logo="https://www.lyngsat-logo.com/logo/tv/rr/rai_3.png" group-title="KTV" tvg-chno="3",RAI 3
+http://livetv.ktv.zone/132/play.m3u8
+#EXTINF:-1 tvg-id="RAIMovie.it" tvg-logo="https://www.lyngsat-logo.com/logo/tv/rr/rai_movie.png" group-title="DTT" tvg-chno="24",RAI Movie
+http://livetv.ktv.zone/157/play.m3u8
+#EXTINF:-1 tvg-id="RAIPremium.it" tvg-logo="https://www.lyngsat-logo.com/logo/tv/rr/rai_premium.png" group-title="DTT" tvg-chno="25",RAI Premium
+http://livetv.ktv.zone/154/play.m3u8
+#EXTINF:-1 tvg-id="RAIGulp.it" tvg-logo="https://www.lyngsat-logo.com/logo/tv/rr/rai_gulp.png" group-title="DTT" tvg-chno="42",RAI Gulp
+http://livetv.ktv.zone/156/play.m3u8
+#EXTINF:-1 tvg-id="RAIYoyo.it" tvg-logo="https://www.lyngsat-logo.com/logo/tv/rr/rai_yoyo.png" group-title="DTT" tvg-chno="43",RAI YoYo
+http://livetv.ktv.zone/153/play.m3u8
+#EXTINF:-1 tvg-id="RaiNews24.it" tvg-logo="https://i.imgur.com/8juA51j.png" group-title="KTV" tvg-chno="48",RAI News 24
+http://livetv.ktv.zone/133/play.m3u8
+#EXTINF:-1 tvg-id="RAIStoria.it" tvg-logo="https://www.lyngsat-logo.com/logo/tv/rr/rai_storia.png" group-title="DTT" tvg-chno="54",RAI Storia
+http://livetv.ktv.zone/155/play.m3u8
+#EXTINF:-1 tvg-id="RSILa1.ch" tvg-logo=" " group-title="KTV" tvg-chno="1",RSI La 1
+http://livetv.ktv.zone/129/play.m3u8
+#EXTINF:-1 tvg-id="RSILA2.ch" tvg-logo=" " group-title="KTV" tvg-chno="2",RSI La 2
+http://livetv.ktv.zone/137/play.m3u8
+--- DTT Nazionale ---
 #EXTINF:-1 tvg-id="RAI1.it" tvg-logo="https://www.lyngsat-logo.com/logo/tv/rr/rai_1.png" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64;x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 Edg/112.0.1722.34" group-title="DTT" tvg-chno="1",RAI 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 http://ott-cdn.ucom.am/s29/index.m3u8
-#EXTINF:-1 tvg-id="RSILa1.ch" tvg-logo=" " group-title="Cable" tvg-chno="1",RSI La 1
-http://livetv.ktv.zone/129/play.m3u8
-#EXTINF:-1 tvg-id="RAI2.it" tvg-logo="https://www.lyngsat-logo.com/logo/tv/rr/rai_2.png" group-title="DTT" tvg-chno="2",RAI 2
-http://livetv.ktv.zone/131/play.m3u8
-#EXTINF:-1 tvg-id="RSILA2.ch" tvg-logo=" " group-title="Cable" tvg-chno="2",RSI La 2
-http://livetv.ktv.zone/137/play.m3u8
-#EXTINF:-1 tvg-id="RAI3.it" tvg-logo="https://www.lyngsat-logo.com/logo/tv/rr/rai_3.png" group-title="DTT" tvg-chno="3",RAI 3
-http://livetv.ktv.zone/132/play.m3u8
-#EXTINF:-1 tvg-id="Teleticino.it" tvg-logo="https://mixor-cdn01.gruppocdt.ch/teleticino/system/images/logo.png" group-title="Cable" tvg-chno="3",Teleticino
-https://vstream-cdn.ch/hls/teleticino_1080p/index.m3u8
 #EXTINF:-1 tvg-id="La7.it" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ll/la_7.png" group-title="DTT" tvg-chno="7",La 7
 https://d15umi5iaezxgx.cloudfront.net/LA7/CLN/HLS-B/Live.m3u8
 #EXTINF:-1 tvg-id="Antennatre.it" tvg-logo="https://antennatre.medianordest.it/wp-content/uploads/2020/10/A3Logo120.png" group-title="DTT" tvg-chno="10",Antenna Tre (Veneto)
@@ -163,10 +177,6 @@ https://flash2.xdevel.com/rtptv/rtptv/playlist.m3u8
 https://5e73cf528f404.streamlock.net/TeleEstense/livestream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/AJAYgyN.png" group-title="DTT" tvg-chno="19",Videonovara
 https://ed05.top-ix.org/avtvlive/videonovara/streaming/chunklist_w199420119.m3u8
-#EXTINF:-1 tvg-id="RAIMovie.it" tvg-logo="https://www.lyngsat-logo.com/logo/tv/rr/rai_movie.png" group-title="DTT" tvg-chno="24",RAI Movie
-http://livetv.ktv.zone/157/play.m3u8
-#EXTINF:-1 tvg-id="RAIPremium.it" tvg-logo="https://www.lyngsat-logo.com/logo/tv/rr/rai_premium.png" group-title="DTT" tvg-chno="25",RAI Premium
-http://livetv.ktv.zone/154/play.m3u8
 #EXTINF:-1 tvg-id="TV2000.it" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tv-2000-it.png" group-title="DTT" tvg-chno="28",TV 2000
 https://hls-live-tv2000.akamaized.net/hls/live/2028510/tv2000/master.m3u8
 #EXTINF:-1 tvg-id="La7d.it" tvg-logo="https://static.epg.best/it/La7D.it.png" group-title="DTT" tvg-chno="29",La 7d
@@ -175,46 +185,28 @@ https://d15umi5iaezxgx.cloudfront.net/LA7D/CLN/HLS-B/Live.m3u8
 https://qrg.akamaized.net/hls/live/2017383/lsqvc1it/720p/720p.m3u8
 #EXTINF:-1 tvg-id="RTL1025TV.it" tvg-logo="https://i.imgur.com/KdissvS.png" group-title="DTT" tvg-chno="36",RTL 102.5 TV
 https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S97044836/tbbP8T1ZRPBL/playlist_video.m3u8
-#EXTINF:-1 tvg-id="RAIGulp.it" tvg-logo="https://www.lyngsat-logo.com/logo/tv/rr/rai_gulp.png" group-title="DTT" tvg-chno="42",RAI Gulp
-http://livetv.ktv.zone/156/play.m3u8
-#EXTINF:-1 tvg-id="RAIYoyo.it" tvg-logo="https://www.lyngsat-logo.com/logo/tv/rr/rai_yoyo.png" group-title="DTT" tvg-chno="43",RAI YoYo
-http://livetv.ktv.zone/153/play.m3u8
 #EXTINF:-1 tvg-id="Super.it" tvg-logo="https://www.lyngsat-stream.com/logo/tv/ss/super-it.png" group-title="DTT" tvg-chno="47",Super !
 https://vimnitaly.akamaized.net/hls/live/2094034/super/master.m3u8
 #EXTINF:-1 tvg-id="RaiNews24.it" tvg-logo="https://i.imgur.com/8juA51j.png" group-title="DTT" tvg-chno="48",RAI News 24
 https://8e7439fdb1694c8da3a0fd63e4dda518.msvdn.net/rainews1/hls/playlist_mo.m3u8
 #EXTINF:-1 tvg-id="SkyTG24.it" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sky-tg-24-it.png" group-title="DTT" tvg-chno="50",Sky TG24
 https://ythls.armelin.one/channel/UCz6E3lF72mb6uoJ-mOlNo2A.m3u8
-#EXTINF:-1 tvg-id="ACISportTV.it" tvg-logo="https://www.acisport.it/img/ACISportTV_low.jpg" group-title="Tivùsat" tvg-chno="52",ACI Sport TV
-https://play.cdn.enetres.net/79CE6A0C6AF94F7EB0F93BD0DE2949EF029/02279/playlist.m3u8
 #EXTINF:-1 tvg-id=" " tvg-logo="https://canaleitalia.it/wp-content/uploads/2022/06/logo-canale-italia-streaming.png" group-title="DTT" tvg-chno="53",Casa Italia 53
 https://6e94aeeb1b42461d95f973ae34be5167.msvdn.net/ac115_live/canale3.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="RAIStoria.it" tvg-logo="https://www.lyngsat-logo.com/logo/tv/rr/rai_storia.png" group-title="DTT" tvg-chno="54",RAI Storia
-http://livetv.ktv.zone/155/play.m3u8
-#EXTINF:-1 tvg-id="GoldTVSat.it" tvg-logo="https://i.imgur.com/gQzNIg5.png" group-title="Tivùsat" tvg-chno="55",Gold TV Sat 
-https://streaming.softwarecreation.it/GoldTvSat/GoldTvSat/playlist.m3u8
-#EXTINF:-1 tvg-id="Euronews.it" tvg-logo=" " group-title="Tivùsat" tvg-chno="59",Euronews (Italiano)
-https://raw.githubusercontent.com/Sibprod/streams/main/ressources/dmotion/py/Euronews/EuronewsIT.m3u8
 #EXTINF:-1 tvg-id="Sportitalia.it" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sportitalia-it.png" group-title="DTT" tvg-chno="60",Sportitalia
 https://di-j16ei4yq.vo.lswcdn.net/sportitalia/smil:sihd.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="DonnaTV.it" tvg-logo="https://www.lyngsat-logo.com/logo/tv/dd/donna-tv-it.png" group-title="DTT" tvg-chno="62",Donna TV
 https://streaming.softwarecreation.it/DonnaTv/DonnaTv/playlist.m3u8
 #EXTINF:-1 tvg-id="GoTV.it" tvg-logo="https://i.imgur.com/11V0QSp.png" group-title="DTT" tvg-chno="63",Go-TV
 https://6zklxkbbdw9b-hls-live.mariatvcdn.it/msmotor/2f759512164fc6fe4acbed6a5648993a.sdp/playlist.m3u8
-#EXTINF:-1 tvg-id="RadioItaliaTrendTV.it" tvg-logo="https://i.imgur.com/0JzYwI4.png" group-title="Tivùsat" tvg-chno="63",Radio Italia Trend
-https://radioitalia-samsungitaly.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="AlmaTV.it" tvg-logo="https://www.lyngsat-stream.com/logo/tv/aa/alma-tv-it.png" group-title="DTT" tvg-chno="65",Alma TV
 https://streaming.softwarecreation.it/AlmaTv/AlmaTv/playlist.m3u8
 #EXTINF:-1 tvg-id="Radio105TV.it" tvg-logo="https://www.lyngsat-logo.com/logo/radio/rr/radio_105_it_radio.png" group-title="DTT" tvg-chno="66",Radio 105 TV
 https://live2.msr.cdn.mediaset.net/content/hls_h0_clr_vos/live/channel(ec)/index.m3u8
 #EXTINF:-1 tvg-id="R101TV.it" tvg-logo="https://www.lyngsat-logo.com/logo/radio/rr/r101_radio_it.png" group-title="DTT" tvg-chno="67",R101 TV
 https://live2.msr.cdn.mediaset.net/content/hls_h0_clr_vos/live/channel(er)/index.m3u8
-#EXTINF:-1 tvg-id="RadioMonteCarloTV.it" tvg-logo="https://www.lyngsat-logo.com/logo/radio/rr/radio-monte-carlo-it.png" group-title="Tivùsat" tvg-chno="67",Radio Monte-Carlo TV
-https://live2.msr.cdn.mediaset.net/content/hls_h0_clr_vos/live/channel(bb)/index.m3u8
 #EXTINF:-1 tvg-id="Bomchannel.it" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bom-channel-it.png" group-title="DTT" tvg-chno="68",BOM Channel
 https://5f22d76e220e1.streamlock.net/BOMCHANNEL/BOMCHANNEL/playlist.m3u8
-#EXTINF:-1 tvg-id="VirginRadioTV.it" tvg-logo="https://www.lyngsat-logo.com/logo/radio/vv/virgin_radio_it.png" group-title="Tivùsat" tvg-chno="68",Virgin Radio TV
-https://live2.msr.cdn.mediaset.net/content/hls_h0_clr_vos/live/channel(ew)/index.m3u8
 #EXTINF:-1 tvg-id="DeejayTV.it" tvg-logo="https://i.imgur.com/rlaKH6k.png" group-title="DTT" tvg-chno="69",Deejay TV
 https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S85984808/sMO0tz9Sr2Rk/playlist.m3u8
 #EXTINF:-1 tvg-id="RadioItaliaTV.it" tvg-logo="https://i.imgur.com/4VCEJuJ.png" tvg-id="RadioItaliaTV.it" group-title="DTT" tvg-chno="70",Radio Italia TV
@@ -315,12 +307,8 @@ https://srvx1.selftv.video/dmchannel/live/playlist.m3u8
 https://live1.giocabet.tv/stream/6/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/ImvO2rV.png" group-title="DTT" tvg-chno="88",Tele Foggia
 https://59d7d6f47d7fc.streamlock.net/telefoggia/telefoggia/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat-stream.com/logo/tv/cc/camera_dei_deputati_it.png" group-title="Tivùsat" tvg-chno="89",Camera dei Deputati 
-https://video-ar.radioradicale.it/diretta/camera2/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/uh4R5Ih.png" group-title="DTT" tvg-chno="90",Canale 2 Altamura
 https://59d7d6f47d7fc.streamlock.net/canale2/canale2/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat-stream.com/logo/tv/ss/senato_della_repubblica_it.png" group-title="Tivùsat" tvg-chno="90",Senato
-https://senato-live.morescreens.com/SENATO_1_001/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo=" " group-title="DTT" tvg-chno="90",Telemistretta
 https://live.mariatvcdn.com/telemistretta/8fbcd205ada81b295ee6c211c3a80dde.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="ReteBiellaTV.it" tvg-logo="https://i.imgur.com/e2ryHx7.png" group-title="DTT" tvg-chno="91",Rete Biella TV
@@ -449,8 +437,6 @@ https://tmw.fluid.stream/rfviola_tv/livestream/playlist.m3u8?FLID=1
 https://tmw.fluid.stream/RadioBianconeraTV/livestream/playlist.m3u8?FLID=1
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.radiofirenzeviola.it/template/radiofirenzeviola.it/default/img/head-logo.png" group-title="DTT" tvg-chno="602",TMW Radio TV
 https://tmw.fluid.stream/TMWRadioTV/livestream/playlist.m3u8?FLID=1
-#EXTINF:-1 tvg-id="RadioNumberOne.it" tvg-logo="https://i.imgur.com/8cpuaG5.png" group-title="DTT" tvg-chno="631",Radio Number 1
-https://56b50ada2d659.streamlock.net/RN1TV/livestream/playlist.m3u8 
 #EXTINF:-1 tvg-id=" " tvg-logo="https://i.imgur.com/UupkBt6.png" group-title="DTT" tvg-chno="636",Radio 51 TV
 https://59d7d6f47d7fc.streamlock.net/canale51/canale51/playlist.m3u8
 #EXTINF:-1 tvg-id=" " tvg-logo="https://i.imgur.com/GsdVpll.png" group-title="DTT" tvg-chno="645",TV Campane 1
@@ -463,8 +449,6 @@ https://5ce9406b73c33.streamlock.net/RSD/ngrp:livestream_all/playlist.m3u8
 http://5db313b643fd8.streamlock.net:1935/ZerounoTV/ZerounoTV/playlist.m3u8
 #EXTINF:-1 tvg-id="Zerounonews.it" tvg-logo="https://i.imgur.com/wYntmOt.png" group-title="DTT" tvg-chno="681",Zerouno News TV
 https://5db313b643fd8.streamlock.net/ZerounoTVEventi/ZerounoTVEventi/playlist.m3u8
-#EXTINF:-1 tvg-id="UniNettunoUniversityTV.it" tvg-logo="https://i.imgur.com/BOGMeio.png" group-title="Tivùsat" tvg-chno="701",RAI UniNettuno University TV
-https://stream6-rai-it.akamaized.net/live/uninettuno/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat-stream.com/logo/radio/rr/radio-capital-it.png" group-title="DTT" tvg-chno="713",Radio Capital TV
 https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S35394734/Z6U2wGoDYANk/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/m2o_it_tv.png" group-title="DTT" tvg-chno="715",M2O TV
@@ -477,14 +461,8 @@ https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S8448465/zTYa1Z5Op9ue/pl
 https://56b50ada2d659.streamlock.net/RadioBirikinaTV/livestream/playlist.m3u8
 #EXTINF:-1 tvg-id=" " tvg-logo="https://i.imgur.com/3CDxatu.png" group-title="DTT" tvg-chno="781",Radio Yes TV
 https://stream1.aswifi.it/radioyes/live/index.m3u8
-#EXTINF:-1 tvg-id="RAIItalia.it" tvg-logo="https://i.imgur.com/Vg4MUGQ.png" group-title="Sky" tvg-chno="804",RAI Italia
-https://raievent7-live.akamaized.net/hls/live/619186/raievent7/raievent7/playlist.m3u8
 #EXTINF:-1 tvg-id="RAISudtirol.it" tvg-logo="https://www.lyngsat-logo.com/logo/tv/rr/rai-3-sudtirol-it.png" group-title="DTT" tvg-chno="808",RAI Südtirol
 http://wzstreaming.rai.it/TVlive/liveStream/master.m3u8
-#EXTINF:-1 tvg-id="PaciContemporaryChannel.it" tvg-logo="https://i.imgur.com/RtOvD2M.png" group-title="Sky" tvg-chno="809",Paci Contemporary Channel
-https://5f22d76e220e1.streamlock.net/pacicontemporarychannel/pacicontemporarychannel/playlist.m3u8
-#EXTINF:-1 tvg-id="Italianfishing.it" tvg-logo="https://i.imgur.com/qrn6tUO.png" group-title="Sky" tvg-chno="811",Italian Fishing TV
-https://itftv-italianfishingtv-1-it.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="SanMarinoRTV.sm" tvg-logo="https://i.imgur.com/lJpOlLv.png" group-title="DTT" tvg-chno="831",RTV San Marino 
 https://d2hrvno5bw6tg2.cloudfront.net/smrtv-ch01/_definst_/smil:ch-01.smil/chunklist_b1692000_slita.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo=" " group-title="DTT" tvg-chno="872",FM Italia TV
@@ -493,14 +471,47 @@ https://stream2.xdevel.com/video0s975817-1183/stream/playlist.m3u8
 https://stream2.xdevel.com/video1s3-7/stream/playlist.m3u8
 #EXTINF:-1 tvg-id="SuperSix.it" tvg-logo="https://i.imgur.com/kHSuyub.png" group-title="DTT" tvg-chno="877",Super Six
 https://5db313b643fd8.streamlock.net/SUPERSIXLombardia/SUPERSIXLombardia/playlist.m3u8
+--- Tivùsat ---
+#EXTINF:-1 tvg-id="ACISportTV.it" tvg-logo="https://www.acisport.it/img/ACISportTV_low.jpg" group-title="Tivùsat" tvg-chno="52",ACI Sport TV
+https://play.cdn.enetres.net/79CE6A0C6AF94F7EB0F93BD0DE2949EF029/02279/playlist.m3u8
+#EXTINF:-1 tvg-id="GoldTVSat.it" tvg-logo="https://i.imgur.com/gQzNIg5.png" group-title="Tivùsat" tvg-chno="55",Gold TV Sat 
+https://streaming.softwarecreation.it/GoldTvSat/GoldTvSat/playlist.m3u8
+#EXTINF:-1 tvg-id="Euronews.it" tvg-logo=" " group-title="Tivùsat" tvg-chno="59",Euronews (Italiano)
+https://raw.githubusercontent.com/Sibprod/streams/main/ressources/dmotion/py/Euronews/EuronewsIT.m3u8
+#EXTINF:-1 tvg-id="RadioItaliaTrendTV.it" tvg-logo="https://i.imgur.com/0JzYwI4.png" group-title="Tivùsat" tvg-chno="63",Radio Italia Trend
+https://radioitalia-samsungitaly.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="RadioMonteCarloTV.it" tvg-logo="https://www.lyngsat-logo.com/logo/radio/rr/radio-monte-carlo-it.png" group-title="Tivùsat" tvg-chno="67",Radio Monte-Carlo TV
+https://live2.msr.cdn.mediaset.net/content/hls_h0_clr_vos/live/channel(bb)/index.m3u8
+#EXTINF:-1 tvg-id="VirginRadioTV.it" tvg-logo="https://www.lyngsat-logo.com/logo/radio/vv/virgin_radio_it.png" group-title="Tivùsat" tvg-chno="68",Virgin Radio TV
+https://live2.msr.cdn.mediaset.net/content/hls_h0_clr_vos/live/channel(ew)/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat-stream.com/logo/tv/cc/camera_dei_deputati_it.png" group-title="Tivùsat" tvg-chno="89",Camera dei Deputati 
+https://video-ar.radioradicale.it/diretta/camera2/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat-stream.com/logo/tv/ss/senato_della_repubblica_it.png" group-title="Tivùsat" tvg-chno="90",Senato
+https://senato-live.morescreens.com/SENATO_1_001/playlist.m3u8
+#EXTINF:-1 tvg-id="RadioNumberOne.it" tvg-logo="https://i.imgur.com/8cpuaG5.png" group-title="Tivùsat" tvg-chno="631",Radio Number 1
+https://56b50ada2d659.streamlock.net/RN1TV/livestream/playlist.m3u8 
+#EXTINF:-1 tvg-id="UniNettunoUniversityTV.it" tvg-logo="https://i.imgur.com/BOGMeio.png" group-title="Tivùsat" tvg-chno="701",RAI UniNettuno University TV
+https://stream6-rai-it.akamaized.net/live/uninettuno/playlist.m3u8
+--- Sky IT ---
+#EXTINF:-1 tvg-id="RAIItalia.it" tvg-logo="https://i.imgur.com/Vg4MUGQ.png" group-title="Sky" tvg-chno="804",RAI Italia
+https://raievent7-live.akamaized.net/hls/live/619186/raievent7/raievent7/playlist.m3u8
+#EXTINF:-1 tvg-id="PaciContemporaryChannel.it" tvg-logo="https://i.imgur.com/RtOvD2M.png" group-title="Sky" tvg-chno="809",Paci Contemporary Channel
+https://5f22d76e220e1.streamlock.net/pacicontemporarychannel/pacicontemporarychannel/playlist.m3u8
+#EXTINF:-1 tvg-id="Italianfishing.it" tvg-logo="https://i.imgur.com/qrn6tUO.png" group-title="Sky" tvg-chno="811",Italian Fishing TV
+https://itftv-italianfishingtv-1-it.samsung.wurl.tv/playlist.m3u8
+--- Câble ---
+#EXTINF:-1 tvg-id="Teleticino.it" tvg-logo="https://mixor-cdn01.gruppocdt.ch/teleticino/system/images/logo.png" group-title="Cable" tvg-chno="3",Teleticino
+https://vstream-cdn.ch/hls/teleticino_1080p/index.m3u8
 #EXTINF:-1 tvg-id=" " tvg-logo="https://i.imgur.com/0Kmh49G.png" group-title="Cable" tvg-chno=" ",Radio 3i
 https://vstream-cdn.ch/hls/radio3i.m3u8
+--- IPTV ---
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/zRu9WGh.png" group-title="IPTV" tvg-chno="1",Nuova TV 1
 https://nuovatv.net:8443/tv/stream.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/zRu9WGh.png" group-title="IPTV" tvg-chno="2",Nuova TV 2
 https://nuovatv.net:8443/tv2/stream.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/IbzQpfn.png" group-title="IPTV" tvg-chno="2",Retemia
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/IbzQpfn.png" group-title="IPTV" tvg-chno="3",Retemia
 https://5db313b643fd8.streamlock.net:443/Retemia/Retemia/playlist.m3u8
+--- DAB+ ---
 #EXTINF:-1 tvg-id=" " tvg-logo="https://i.imgur.com/sd7BX9H.png" group-title="DAB+" tvg-chno=" ",Radio Alfa TV
 https://585b674743bbb.streamlock.net/9104/9104/playlist.m3u8
 #EXTINF:-1 tvg-id=" " tvg-logo="https://i.imgur.com/sd7BX9H.png" group-title="DAB+" tvg-chno=" ",Radio Musica TV
