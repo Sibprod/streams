@@ -216,7 +216,7 @@ https://59959724487e3.streamlock.net:443/stream/live/playlist.m3u8
 https://livevideo.vedge.infomaniak.com/livecast/etvgp/playlist.m3u8
 #EXTINF:-1 tvg-id="Alsace20.fr" tvg-logo="https://static.epg.best/fr/Alsace20.fr.png" group-title="TNT_Régionale" tvg-chno="30",BFM Régions (Alsace)
 https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_ALSACE/index.m3u8?start=LIVE&end=END
-#EXTINF:-1 tvg-id="BFMLyon.fr" tvg-logo="https://static.epg.best/fr/BFMLyon.fr.png" group-title="TNT_Regionale" tvg-chno="30",BFM Régions (Lyon-Métropole)
+#EXTINF:-1 tvg-id="BFMLyon.fr" tvg-logo="https://static.epg.best/fr/BFMLyon.fr.png" group-title="TNT_Régionale" tvg-chno="30",BFM Régions (Lyon-Métropole)
 https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_LYON/index.m3u8?start=LIVE&end=END
 #EXTINF:-1 tvg-id="BFMMarseille.fr" tvg-logo="https://raw.githubusercontent.com/Sibprod/assets/main/Altice/ALTICE_BFM-Marseille.png" group-title="TNT_Régionale" tvg-chno="30",BFM Régions (Marseille-Provence)
 https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_MARSEILLEPROV/index.m3u8?start=LIVE&end=END
@@ -240,9 +240,9 @@ https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFMGRANDLILLE/index.m3u8?start=LIVE&
 https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_NICECOTEDAZUR/index.m3u8?start=LIVE&end=END
 #EXTINF:-1 tvg-id="Tebeo.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Logo_Tébéo.png/150px-Logo_Tébéo.png" group-title="TNT_Régionale" tvg-chno="31",Tébéo
 https://lives.digiteka.com/stream/e0fe6433-554e-4568-9a7e-31969136d8ff/index-1080p.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TNT_Regionale" tvg-chno="31",Télénantes
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TNT_Régionale" tvg-chno="31",Télénantes
 https://raw.githubusercontent.com/Sibprod/streams/main/ressources/dmotion/py/Locales/Telenantes.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TNT_Regionale" tvg-chno="31",TL7 (Télévision Loire 7)
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TNT_Régionale" tvg-chno="31",TL7 (Télévision Loire 7)
 https://raw.githubusercontent.com/Sibprod/streams/main/ressources/dmotion/py/Locales/TL7.m3u8
 #EXTINF:-1 tvg-id="ViaOccitanie.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Logo_de_ViàOccitanie.png/250px-Logo_de_ViàOccitanie.png" group-title="TNT_Régionale" tvg-chno="31",viàOccitanie
 https://streamer01.myvideoplace.tv/streamer02/hls/MDS_VIA_PAD_301117.m3u8
@@ -260,7 +260,7 @@ https://livevideo.vedge.infomaniak.com/livecast/canal32/manifest.m3u8
 https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_NORMANDIE/index.m3u8?start=LIVE&end=END
 #EXTINF:-1 tvg-id="MoselleTV.fr" tvg-logo="https://moselle.tv/wp-content/uploads/2022/07/LOGO-MOSELLE-TV-BLANC.png" group-title="TNT_Régionale" tvg-chno="33",Moselle TV
 https://live.creacast.com/mirabelletv/smil:mirabelletv.smil/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TNT_Regionale" tvg-chno="33",TLC (Télévision Locale du Choletais)
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TNT_Régionale" tvg-chno="33",TLC (Télévision Locale du Choletais)
 https://raw.githubusercontent.com/Sibprod/streams/main/ressources/dmotion/py/Locales/TLC.m3u8
 #EXTINF:-1 tvg-id="TV7Bordeaux.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/TV7_Bordeaux.png/150px-TV7_Bordeaux.png" group-title="TNT_Régionale" tvg-chno="33",TV7 Sud-Ouest
 http://live.digiteka.com/1/RVNZMmJtUURmd09I/U0dNU0tk/hls/live/playlist.m3u8
@@ -278,7 +278,7 @@ https://live.digiteka.com/1/Zks2L0VsM2V0T242/QTBqcFly/hls/live/playlist.m3u8
 http://biptv.tv/live/biptvstream_orig/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.tvtours.fr/assets/images/template/logo-tvtours-hd.png" group-title="TNT_Régionale" tvg-chno="37",TV Tours - Val de Loire
 https://lives.digiteka.com/stream/920f083a-9e61-4c09-9bc2-bdb664063aa9/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://yt3.googleusercontent.com/ytc/AGIKgqMjJRgpP60ugl_1G5lX6iRReIJiigqUSQqVwfA-Qg=s176-c-k-c0x00ffffff-no-rj" group-title="TNT_Regionale" tvg-chno="801",Alpe d'Huez TV
+#EXTINF:-1 tvg-id="" tvg-logo="https://yt3.googleusercontent.com/ytc/AGIKgqMjJRgpP60ugl_1G5lX6iRReIJiigqUSQqVwfA-Qg=s176-c-k-c0x00ffffff-no-rj" group-title="TNT_Régionale" tvg-chno="801",Alpe d'Huez TV
 https://livevideo.vedge.infomaniak.com/livecast/adhtv/chunklist.m3u8
 --- Bis TV ---
 #EXTINF:-1 tvg-id="Equidia.fr" tvg-logo="https://static.epg.best/fr/Equidia.fr.png" group-title="BisTV" tvg-chno="39",Equidia
@@ -399,7 +399,7 @@ http://www.callofliberty.fr/direct/MENSUPTV/master.m3u8
 https://ythls.armelin.one/channel/UCaEqMbRYYOmI3WrALMhxuIg.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="IPTV" tvg-chno="230",BSmart
 http://www.callofliberty.fr/direct/BSMART/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="IPTV" group-title="264",SOS Docteurs TV
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="IPTV" tvg-chno="264",SOS Docteurs TV
 https://pvqyb34odz24-hls-live.5centscdn.com/doc2/tv.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://codeberg.org/Sibprod/Feed/raw/branch/main/assets/natv_logo.png" group-title="IPTV" tvg-chno="357",NA TV
 https://livevideo.vedge.infomaniak.com/livecast/naradio/playlist.m3u8
