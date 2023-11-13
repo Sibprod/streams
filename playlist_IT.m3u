@@ -512,6 +512,8 @@ https://nuovatv.net:8443/tv2/stream.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/IbzQpfn.png" group-title="IPTV" tvg-chno="3",Retemia
 https://5db313b643fd8.streamlock.net:443/Retemia/Retemia/playlist.m3u8
 --- DAB+ ---
+#EXTINF:-1 tvg-id=" " tvg-logo="https://yt3.googleusercontent.com/ytc/APkrFKaKC43m5E_OY2VqgiXL86Jh9whZj3gcNeLlDd6h=s176-c-k-c0x00ffffff-no-rj" group-title="DAB+" tvg-chno="714",Radio Deejay
+https://ythls.armelin.one/channel/UCuNnpwvG5E-hGKM2F-U5YRg.m3u8
 #EXTINF:-1 tvg-id=" " tvg-logo="https://i.imgur.com/sd7BX9H.png" group-title="DAB+" tvg-chno=" ",Radio Alfa TV
 https://585b674743bbb.streamlock.net/9104/9104/playlist.m3u8
 #EXTINF:-1 tvg-id=" " tvg-logo="https://i.imgur.com/sd7BX9H.png" group-title="DAB+" tvg-chno=" ",Radio Musica TV
