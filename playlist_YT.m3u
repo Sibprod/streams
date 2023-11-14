@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="Gabon24.ga" tvg-logo="https://yt3.googleusercontent.com/6hYz1o3RdUxQ_0yL0dodfXqTTI9kCPxQecISZb9ewMjGrdhMfB6wCud9vihroQw3p41JojYt=s176-c-k-c0x00ffffff-no-rj" group-title="TNT_Afrique" tvg-chno="2",Gabon 24
+https://ythls.armelin.one/channel/UC7E__Dp9FSIgt6iMa5_uvlw.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://yt3.ggpht.com/Fsc48YuvrJh5sWWN6PgAJPmCmahCwh-6R1haMgcltx0ncjvQfukHOG5UEzA7Ow0cwP6-7bFM=s176-c-k-c0x00ffffff-no-rj-mo" group-title="TNT_Afrique" tvg-chno="07",7 Info
 https://ythls.armelin.one/channel/UCqA1FRAWs2VIiXf2cUYSQBQ.m3u8
 #EXTINF:-1 tvg-id=" " tvg-logo="https://i.imgur.com/qYPiXlB.png" group-title="DTT_Regionale" tvg-chno="12",Top Calcio 
@@ -15,8 +17,14 @@ https://ythls.armelin.one/channel/UCQC0xLG_W0QpqAXQ4-yhwBA.m3u8
 https://ythls.armelin.one/channel/UCva-htH2wvmKsG6SkcEJ4Vw.m3u8
 #EXTINF:-1 tvg-id="SkyTG24.it" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sky-tg-24-it.png" group-title="DTT" tvg-chno="50",Sky TG24
 https://ythls.armelin.one/channel/UCz6E3lF72mb6uoJ-mOlNo2A.m3u8
+#EXTINF:-1 tvg-id="France24.fr" tvg-logo="https://tv.cdnartwhere.eu/images/logos_chaines/529.png" group-title="TNT" tvg-chno="75",France 24
+https://ythls.armelin.one/channel/UCCCPCZNChQdGa9EkATeye4g.m3u8
 #EXTINF:-1 tvg-id="Astrocenter.fr" tvg-logo="https://i.imgur.com/3xlJV7O.png" group-title="BisTV" tvg-chno="77",Astrocenter TV
 https://ythls.armelin.one/channel/UCMkQQZsNdRVZ3N7Oj6jVnyg.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://yt3.googleusercontent.com/ytc/AGIKgqM4nI5DLEvf2EjD7EG1QoCVPzLBO2s5eJL_wP5s=s176-c-k-c0x00ffffff-no-rj" group-title="Câble" tvg-chno="109",TVC 9
+https://ythls.armelin.one/channel/UC0JP0ek-HhcqisiEpsZiQZA.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://yt3.ggpht.com/ytc/AGIKgqM2dP80gkZP-sc1ZRFQKEColJHeuS5OlbDEl8o8=s48-c-k-c0x00ffffff-no-rj" group-title="Câble" tvg-chno="119",Télé-Mag Québec
+https://ythls.armelin.one/channel/UCNKXYT-Nng5LBMUQrZJ9zWA.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://yt3.googleusercontent.com/kmBR8wlZ879LmJaVowBubu2v0dC9WotZpd7Sk8fJA5xCIsvwFllb1DS-NtJl7Sh07RREas_vqHI=s176-c-k-c0x00ffffff-no-rj" group-title="IPTV" tvg-chno="217",Sqool TV
 https://ythls.armelin.one/channel/UCaEqMbRYYOmI3WrALMhxuIg.m3u8
 #EXTINF:-1 tvg-id="GrandGeneveTV.fr" tvg-logo="https://www.grand-geneve.tv/wp-content/uploads/2020/06/GG-logo-1024x512-1.jpg" group-title="Câble" tvg-chno="222",Grand Genève TV
@@ -27,6 +35,8 @@ https://ythls.armelin.one/channel/UC7E-LYc1wivk33iyt5bR5zQ.m3u8
 https://ythls.armelin.one/channel/UC3yM6JHZSBlU8crXIDHK-kQ.m3u8
 #EXTINF:-1 tvg-id=" " tvg-logo="https://yt3.googleusercontent.com/ytc/APkrFKaKC43m5E_OY2VqgiXL86Jh9whZj3gcNeLlDd6h=s176-c-k-c0x00ffffff-no-rj" group-title="DAB+" tvg-chno="714",Radio Deejay
 https://ythls.armelin.one/channel/UCuNnpwvG5E-hGKM2F-U5YRg.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://yt3.googleusercontent.com/ZDLMk8sm1aFCkzw_29qLJvIUMQVmBrrzaCIumBYDucp0YhXib6Dz7jxyqbkIsnd89b1UOfMnLA=s176-c-k-c0x00ffffff-no-rj" group-title="France" tvg-chno=" ",Kosmo (Français)
+https://ythls.armelin.one/channel/UCl-ipFGVotx_Tu5YWMEZgsg.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://yt3.googleusercontent.com/2kw8s66dhLUegJ3XrqZSkZMfp77CRhCfYm1NurDwDB2L9sT_-CaoUix_iWjoE_t66b07JzoR=s176-c-k-c0x00ffffff-no-rj" group-title="IPTV" tvg-chno=" ",NASA
 https://ythls.armelin.one/channel/UCLA_DiR1FfKNvjuUpBHmylQ.m3u8
 #EXTINF:-1 tvg-id=" " tvg-logo="https://www.lourdes-france.com/wp-content/uploads/2021/11/logo_TV-Lourdes.png" group-title="IPTV" tvg-chno=" ",TV Lourdes
