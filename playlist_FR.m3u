@@ -129,10 +129,14 @@ http://livetv.ktv.zone/233/play.m3u8
 --- TNT Nationale France ---
 #EXTINF:-1 tvg-id="" tvg-logo="https://focus.telerama.fr/104x104/60/0000/00/01/clear-34.png" group-title="TNT" tvg-chno="4",Canal+ (en clair)
 https://raw.githubusercontent.com/Sibprod/streams/main/CanalPlus.m3u8
+#EXTINF:-1 tvg-id="M6.fr" tvg-logo="https://focus.telerama.fr/104x104/60/0000/00/01/clear-118.png" group-title="TNT" tvg-chno="6",M6
+https://shls-m6-france-prod-dub.shahid.net/out/v1/c8a9f6e000cd4ebaa4d2fc7d18c15988/index.m3u8
 #EXTINF:-1 tvg-id="ARTE.fr" tvg-logo="https://focus.telerama.fr/104x104/60/0000/00/01/clear-111.png" group-title="TNT" tvg-chno="7",ARTE (Français)
 https://artesimulcast.akamaized.net/hls/live/2031003/artelive_fr/index.m3u8 
 #EXTINF:-1 tvg-id="" tvg-logo="https://focus.telerama.fr/104x104/60/0000/00/01/clear-445.png" group-title="TNT" tvg-chno="8",C8
 https://raw.githubusercontent.com/Sibprod/streams/main/ressources/dmotion/py/Canal/C8.m3u8
+#EXTINF:-1 tvg-id="NRJ12.fr" tvg-logo="https://focus.telerama.fr/104x104/60/0000/00/01/clear-444.png" group-title="TNT" tvg-chno="12",NRJ 12
+https://nrj12.nrjaudio.fm/hls/live/2038374/nrj_12/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="TNT" tvg-chno="13",LCP 100%
 http://www.callofliberty.fr/direct/LCP/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="TNT" tvg-chno="13",Public Sénat
@@ -149,6 +153,8 @@ https://raw.githubusercontent.com/Sibprod/streams/main/ressources/dmotion/py/Eur
 http://www.callofliberty.fr/direct/LEQUIPE/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://focus.telerama.fr/104x104/60/0000/00/01/clear-1402.png" group-title="TNT" tvg-chno="23",RMC Story
 http://www.callofliberty.fr/direct/RMCSTORY/master.m3u8
+#EXTINF:-1 tvg-id="Cherie25.fr" tvg-logo="https://focus.telerama.fr/104x104/60/0000/00/01/clear-1399.png" group-title="TNT" tvg-chno="25",Chérie 25
+https://cherie25.nrjaudio.fm/hls/live/2038375/c25/FHD.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://focus.telerama.fr/104x104/60/0000/00/01/clear-2111.png" group-title="TNT" tvg-chno="27",Franceinfo
 https://raw.githubusercontent.com/Sibprod/streams/main/ressources/dmotion/py/FranceTV/Franceinfo.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="TNT" tvg-chno="31",N31
@@ -442,17 +448,21 @@ https://livevideo.vedge.infomaniak.com/livecast/puissancetelevision/playlist.m3u
 https://raw.githubusercontent.com/Sibprod/streams/main/ressources/dmotion/py/Ubiznews/Ubiznews.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="IPTV" tvg-chno="585",Telesud
 https://raw.githubusercontent.com/Sibprod/streams/main/ressources/dmotion/py/Vision4/Telesud.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="IPTV" tvg-chno=" ",Afric 4
+https://vdo2.pro-fhi.net:3112/stream/play.m3u8
 #EXTINF:-1 tvg-id=" " tvg-logo="https://brionnais.tv/uploads/images/user_1_1515016104_social.jpg" group-title="IPTV" tvg-chno=" ",Brionnais TV
 https://live2.mandarine.media:1936/brionnaistv/brionnaistv/playlist.m3u8
 #EXTINF:-1 tvg-id="Cinemax.ci" tvg-logo=" " group-title="IPTV" tvg-chno=" ",Ciné Max
 https://video1.getstreamhosting.com:1936/8432/8432/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTELT2EO0QfaVPuhJR_G9ZHO6RzFmDpRvVpmpGYfoHENQ&s" group-title="IPTV" tvg-chno=" ",Dynamic One
 https://hls.dynamicone.be/hls/dynamicone-1080.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo="https://i.imgur.com/uM1v1sd.png" group-title="IPTV" tvg-chno=" ",Francophonie 24
+https://5421175365ea3.streamlock.net/live/smil:switch.smil/playlist.m3u8
 #EXTINF:-1 tvg-id=" " tvg-logo="https://www.grandcharolais.tv/uploads/images/logo_site_1653752771.png" group-title="IPTV" tvg-chno=" ",Grand Charolais TV
 https://live2.mandarine.media:1936/grandcharolaistv/grandcharolaistv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="IPTV" tvg-chno=" ",Ivoire Channel
 https://video1.getstreamhosting.com:1936/8244/8244/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://yt3.googleusercontent.com/ZDLMk8sm1aFCkzw_29qLJvIUMQVmBrrzaCIumBYDucp0YhXib6Dz7jxyqbkIsnd89b1UOfMnLA=s176-c-k-c0x00ffffff-no-rj" group-title="France" tvg-chno=" ",Kosmo (Français)
+#EXTINF:-1 tvg-id="" tvg-logo="https://yt3.googleusercontent.com/ZDLMk8sm1aFCkzw_29qLJvIUMQVmBrrzaCIumBYDucp0YhXib6Dz7jxyqbkIsnd89b1UOfMnLA=s176-c-k-c0x00ffffff-no-rj" group-title="IPTV" tvg-chno=" ",Kosmo (Français)
 https://ythls.armelin.one/channel/UCl-ipFGVotx_Tu5YWMEZgsg.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://codeberg.org/Sibprod/Feed/raw/branch/main/assets/L%27Ardennais%20TV.png" group-title="IPTV" tvg-chno=" ",L'Ardennais TV
 https://live.digiteka.com/1/TXhhUTRFNmVLRWhV/aVJTbDNQ/hls/live/playlist.m3u8
@@ -738,3 +748,4 @@ https://raw.githubusercontent.com/Sibprod/streams/main/BelRTL.m3u8
 https://59959724487e3.streamlock.net/radio/live/playlist.m3u8
 #EXTINF:-1 tvg-id="Couleur3.ch" tvg-logo="https://i.imgur.com/VOIwYYd.png" group-title="DAB+" tvg-chno="1209",RTS Couleur 3
 https://rtsc3video.akamaized.net/hls/live/2042837/c3video/3/playlist.m3u8
+
