@@ -78,7 +78,7 @@ http://livetv.ktv.zone/52/play.m3u8
 http://livetv.ktv.zone/161/play.m3u8
 #EXTINF:-1 tvg-id="KTO.fr" tvg-logo="https://focus.telerama.fr/104x104/60/0000/00/01/clear-110.png" group-title="KTV" tvg-chno=" ",KTO
 http://livetv.ktv.zone/236/play.m3u8
-#EXTINF:-1 tvg-id="Tiji.fr" tvg-logo="https://focus.telerama.fr/104x104/60/0000/00/01/clear-229.png" group-title="IPTV" tvg-chno=" ",Tiji
+#EXTINF:-1 tvg-id="Tiji.fr" tvg-logo="https://focus.telerama.fr/104x104/60/0000/00/01/clear-229.png" group-title="KTV" tvg-chno=" ",Tiji
 http://livetv.ktv.zone/175/play.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://focus.telerama.fr/104x104/60/0000/00/01/clear-1921.png" group-title="KTV" tvg-chno="3",France 3 Régions (Alpes)
 http://livetv.ktv.zone/210/play.m3u8
@@ -127,27 +127,29 @@ http://livetv.ktv.zone/232/play.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://focus.telerama.fr/104x104/60/0000/00/01/clear-1944.png" group-title="KTV" tvg-chno="3",France 3 Régions (Rhône-Alpes)
 http://livetv.ktv.zone/233/play.m3u8
 --- TNT Nationale France ---
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TNT" tvg-chno="4",Canal+ (en clair)
+#EXTINF:-1 tvg-id="" tvg-logo="https://focus.telerama.fr/104x104/60/0000/00/01/clear-34.png" group-title="TNT" tvg-chno="4",Canal+ (en clair)
 https://raw.githubusercontent.com/Sibprod/streams/main/CanalPlus.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TNT" tvg-chno="8",C8
+#EXTINF:-1 tvg-id="ARTE.fr" tvg-logo="https://focus.telerama.fr/104x104/60/0000/00/01/clear-111.png" group-title="TNT" tvg-chno="7",ARTE (Français)
+https://artesimulcast.akamaized.net/hls/live/2031003/artelive_fr/index.m3u8 
+#EXTINF:-1 tvg-id="" tvg-logo="https://focus.telerama.fr/104x104/60/0000/00/01/clear-445.png" group-title="TNT" tvg-chno="8",C8
 https://raw.githubusercontent.com/Sibprod/streams/main/ressources/dmotion/py/Canal/C8.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="TNT" tvg-chno="13",LCP 100%
 http://www.callofliberty.fr/direct/LCP/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="TNT" tvg-chno="13",Public Sénat
 https://raw.githubusercontent.com/Sibprod/streams/main/ressources/dmotion/py/Assemblees/PublicSenat.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TNT" tvg-chno="16",CNews
+#EXTINF:-1 tvg-id="BFMTV.fr" tvg-logo="https://focus.telerama.fr/104x104/60/0000/00/01/clear-481.png" group-title="TNT" tvg-chno="15",BFM TV
+https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_TV/index.m3u8?start=LIVE&end=END
+#EXTINF:-1 tvg-id="" tvg-logo="https://focus.telerama.fr/104x104/60/0000/00/01/clear-226.png" group-title="TNT" tvg-chno="16",CNews
 https://raw.githubusercontent.com/Sibprod/streams/main/ressources/dmotion/py/Canal/CNews.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TNT" tvg-chno="17",CStar
+#EXTINF:-1 tvg-id="" tvg-logo="https://focus.telerama.fr/104x104/60/0000/00/01/clear-458.png" group-title="TNT" tvg-chno="17",CStar
 http://www.callofliberty.fr/direct/CSTAR/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="TNT" tvg-chno="19",Euronews (Français)
 https://raw.githubusercontent.com/Sibprod/streams/main/ressources/dmotion/py/Euronews/EuronewsFR.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TNT" tvg-chno="21",L'Équipe
+#EXTINF:-1 tvg-id="" tvg-logo="https://focus.telerama.fr/104x104/60/0000/00/01/clear-1401.png" group-title="TNT" tvg-chno="21",L'Équipe
 http://www.callofliberty.fr/direct/LEQUIPE/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TNT" tvg-chno="23",RMC Story
+#EXTINF:-1 tvg-id="" tvg-logo="https://focus.telerama.fr/104x104/60/0000/00/01/clear-1402.png" group-title="TNT" tvg-chno="23",RMC Story
 http://www.callofliberty.fr/direct/RMCSTORY/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TNT" tvg-chno="24",Africanews (Français)
-https://raw.githubusercontent.com/Sibprod/streams/main/ressources/dmotion/py/Euronews/AfricanewsFR.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TNT" tvg-chno="27",Franceinfo
+#EXTINF:-1 tvg-id="" tvg-logo="https://focus.telerama.fr/104x104/60/0000/00/01/clear-2111.png" group-title="TNT" tvg-chno="27",Franceinfo
 https://raw.githubusercontent.com/Sibprod/streams/main/ressources/dmotion/py/FranceTV/Franceinfo.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="TNT" tvg-chno="31",N31
 https://raw.githubusercontent.com/Sibprod/streams/main/ressources/dmotion/py/N31/N31.m3u8
@@ -158,29 +160,37 @@ https://webtvmonacoinfo.mc/live/prod_720/index.m3u8
 #EXTINF:-1 tvg-id="TVMonaco.mc" tvg-logo="https://uploads-ssl.webflow.com/64ef486c2dea3ecce41aa815/64ef4d4df9dc3aad9060ed45_Logo_Rouge_blanc0-p-500.png" group-title="TNT" tvg-chno="71",TV Monaco
 https://production-fast-mcrtv.content.okast.tv/channels/2116dc08-1959-465d-857f-3619daefb66b/b702b2b9-aebd-436c-be69-2118f56f3d86/2025/media.m3u8
 --- TNT Afrique ---
-#EXTINF:-1 tvg-id="ORTB.bj" tvg-logo="https://i.imgur.com/ovhVYvP.png" group-title="TNT_Afrique" tvg-chno="01",ORTB
+#EXTINF:-1 tvg-id="ORTB.bj" tvg-logo="https://i.imgur.com/ovhVYvP.png" group-title="TNT_Afrique" tvg-chno="1",BJ01.ORTB
 #EXTVLCOPT:http-referrer=https://webcast.streamakaci.com/
 https://strhlslb01.streamakaci.tv/ortb/ortb1-multi/playlist.m3u8
-#EXTINF:-1 tvg-id="RTI1.ci" tvg-logo="https://i.imgur.com/gbcHybd.png" group-title="TNT_Afrique" tvg-chno="01",RTI 1
-https://www.enovativecdn.com/rticdn/smil:rti1.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="BB24.bj" tvg-logo="https://ortb.bj/archives/images/logo_bb24_transparent.jpg" group-title="TNT_Afrique" tvg-chno="02",BB 24
+#EXTINF:-1 tvg-id="BB24.bj" tvg-logo="https://ortb.bj/archives/images/logo_bb24_transparent.jpg" group-title="TNT_Afrique" tvg-chno="2",BJ02.BB 24
 
-#EXTINF:-1 tvg-id="RTI2.ci" tvg-logo="https://i.imgur.com/WgdvLoK.png" group-title="TNT_Afrique" tvg-chno="02",RTI 2
-https://www.enovativecdn.com/rticdn/smil:rti2.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="ADOTV.bj" tvg-logo="https://i.imgur.com/pxFamLr.png" group-title="TNT_Afrique" tvg-chno="03",Ado TV
+#EXTINF:-1 tvg-id="ADOTV.bj" tvg-logo="https://i.imgur.com/pxFamLr.png" group-title="TNT_Afrique" tvg-chno="3",BJ03.Ado TV
 https://stream01.adotv-fm.bj/ado-tv-live/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sibprod/assets/main/DIVERS%20-%20Divertissement/DIVERTISSEMENT_NCI.png" group-title="TNT_Afrique" tvg-chno="04",NCI
-https://nci-live.secure2.footprint.net/nci/nci.isml/.m3u8
-#EXTINF:-1 tvg-id="Vision4.cm" tvg-logo="https://i.imgur.com/rUbrFA8.png" group-title="TNT_Afrique" tvg-chno="04",Vision 4
+#EXTINF:-1 tvg-id="Etele.bj" tvg-logo="https://i.imgur.com/HMz2Btm.png" group-title="Afrique" tvg-chno="4",BJ04.E-Télé
+https://livetvsteam.com:1936/etelebenin/etelebenin/playlist.m3u8
+#EXTINF:-1 tvg-id="Vision4.cm" tvg-logo="https://i.imgur.com/rUbrFA8.png" group-title="TNT_Afrique" tvg-chno="4",CM04.Vision 4
 https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/vision4/hls_video/index.m3u8
-#EXTINF:-1 tvg-logo="https://imgs.search.brave.com/Gy07HIiGq9Hj8fbxuW9q8xjkrkyOJe-fyGWKuG3mkwc/rs:fit:900:900:1/g:ce/aHR0cHM6Ly95dDMu/Z2dwaHQuY29tL2Ev/QUFUWEFKeHhwUUlO/cGNKaW1Hckc1YkZI/bUVJRXNleVNJbmRk/S3ZHNWc2VHM9czkw/MC1jLWstYzB4ZmZm/ZmZmZmYtbm8tcmot/bW8" group-title="TNT_Afrique" tvg-chno="06",Life TV
-https://strhlslb01.streamakaci.tv/str_lifetv_lifetv/str_lifetv_multi/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://yt3.ggpht.com/Fsc48YuvrJh5sWWN6PgAJPmCmahCwh-6R1haMgcltx0ncjvQfukHOG5UEzA7Ow0cwP6-7bFM=s176-c-k-c0x00ffffff-no-rj-mo" group-title="TNT_Afrique" tvg-chno="07",7 Info
-https://ythls.armelin.one/channel/UCqA1FRAWs2VIiXf2cUYSQBQ.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/medi-1-tv-afrique-ma.png" group-title="TNT_Afrique" tvg-chno="07",Médi 1 (Afrique)
-https://streaming1.medi1tv.com/live/smil:medi1fr.smil/.m3u8
-#EXTINF:-1 tvg-id="Africa24.cm" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/6/6a/Logo_Africa_24.jpg" group-title="TNT_Afrique" tvg-chno="24",Africa 24
+#EXTINF:-1 tvg-id="Africa24.cm" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/6/6a/Logo_Africa_24.jpg" group-title="TNT_Afrique" tvg-chno="24",CM24.Africa 24
 https://livevideo.vedge.infomaniak.com/livecast/africa24/manifest.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TNT_Afrique" tvg-chno="24",CD24.Africanews (Français)
+https://raw.githubusercontent.com/Sibprod/streams/main/ressources/dmotion/py/Euronews/AfricanewsFR.m3u8
+#EXTINF:-1 tvg-id="RTI1.ci" tvg-logo="https://i.imgur.com/gbcHybd.png" group-title="TNT_Afrique" tvg-chno="1",CI01.RTI 1
+https://www.enovativecdn.com/rticdn/smil:rti1.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="RTI2.ci" tvg-logo="https://i.imgur.com/WgdvLoK.png" group-title="TNT_Afrique" tvg-chno="2",CI02.RTI 2
+https://www.enovativecdn.com/rticdn/smil:rti2.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sibprod/assets/main/DIVERS%20-%20Divertissement/DIVERTISSEMENT_NCI.png" group-title="TNT_Afrique" tvg-chno="4",CI04.NCI
+https://nci-live.secure2.footprint.net/nci/nci.isml/.m3u8
+#EXTINF:-1 tvg-logo="https://imgs.search.brave.com/Gy07HIiGq9Hj8fbxuW9q8xjkrkyOJe-fyGWKuG3mkwc/rs:fit:900:900:1/g:ce/aHR0cHM6Ly95dDMu/Z2dwaHQuY29tL2Ev/QUFUWEFKeHhwUUlO/cGNKaW1Hckc1YkZI/bUVJRXNleVNJbmRk/S3ZHNWc2VHM9czkw/MC1jLWstYzB4ZmZm/ZmZmZmYtbm8tcmot/bW8" group-title="TNT_Afrique" tvg-chno="6",CI06.Life TV
+https://strhlslb01.streamakaci.tv/str_lifetv_lifetv/str_lifetv_multi/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://yt3.ggpht.com/Fsc48YuvrJh5sWWN6PgAJPmCmahCwh-6R1haMgcltx0ncjvQfukHOG5UEzA7Ow0cwP6-7bFM=s176-c-k-c0x00ffffff-no-rj-mo" group-title="TNT_Afrique" tvg-chno="7",CI07.7 Info
+https://ythls.armelin.one/channel/UCqA1FRAWs2VIiXf2cUYSQBQ.m3u8
+#EXTINF:-1 tvg-id="Gabon24.ga" tvg-logo="https://yt3.googleusercontent.com/6hYz1o3RdUxQ_0yL0dodfXqTTI9kCPxQecISZb9ewMjGrdhMfB6wCud9vihroQw3p41JojYt=s176-c-k-c0x00ffffff-no-rj" group-title="TNT_Afrique" tvg-chno="2",GA02.Gabon 24
+https://ythls.armelin.one/channel/UC7E__Dp9FSIgt6iMa5_uvlw.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/medi-1-tv-afrique-ma.png" group-title="TNT_Afrique" tvg-chno="7",MA07.Médi 1 (Afrique)
+https://streaming1.medi1tv.com/live/smil:medi1fr.smil/.m3u8
+#EXTINF:-1 tvg-id="SenTV.sn" tvg-logo="https://i.imgur.com/1BLXnHB.png" group-title="TNT_Afrique" tvg-chno="13",SN13.Sen TV
+https://live3.acangroup.org:1929/acanabr/sentv.stream_all/playlist.m3u8
 --- TNT Bénélux ---
 #EXTINF:-1 tvg-id="RTLTVI.be" tvg-logo="https://focus.telerama.fr/104x104/60/0000/00/01/clear-168.png" group-title="TNT_Benelux" tvg-chno="3",RTL tvi
 https://raw.githubusercontent.com/Sibprod/streams/main/RTLtvi.m3u8
@@ -190,6 +200,15 @@ https://raw.githubusercontent.com/Sibprod/streams/main/RTLclub.m3u8
 https://raw.githubusercontent.com/Sibprod/streams/main/RTLplug.m3u8
 #EXTINF:-1 tvg-id=" " tvg-logo="https://www.lyngsat.com/logo/tv/cc/chambre_des_deputes.png" group-title="TNT_Benelux" tvg-chno="10",Chamber TV
 https://media01.webtvlive.eu/chd-edge/_definst_/smil:chamber_tv_hd.smil/playlist.m3u8
+--- TNT Québec ---
+#EXTINF:-1 tvg-id="CFBT.ca" tvg-logo="https://i.ibb.co/f18g74n/image.png" group-title="TNT_Québec" tvg-chno="1",Ici Radio-Canada Télé
+https://rcavlive.akamaized.net/hls/live/696615/xcancbft/master_3000.m3u8
+#EXTINF:-1 tvg-id="Telequebec.ca" tvg-logo="https://static.epg.best/ca/TeleQuebec.ca.png" group-title="TNT_Québec" tvg-chno="6",Tele-Québec
+https://bcovlive-a.akamaihd.net/575d86160eb143458d51f7ab187a4e68/us-east-1/6101674910001/playlist.m3u8
+#EXTINF:-1 tvg-id="Noovo.ca" tvg-logo="https://i.imgur.com/jhVjkQB.png" group-title="TNT_Québec" tvg-chno="7",Noovo
+https://pe-fa-lp03a.9c9media.com/live/NOOVO/p/hls/00000201/716cf4c845225692/manifest.m3u8
+#EXTINF:-1 tvg-id="CanalSavoir.ca" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/ff/Savoir_tv_logo.png" group-title="TNT_Québec" tvg-chno="8",Savoir.Media
+https://hls.savoir.media/live/stream.m3u8
 --- TNT Suisse ---
 #EXTINF:-1 tvg-id="RougeTV.ch" tvg-logo="https://services.sg101.prd.sctv.ch/content/images/tv/channel/355_image_7_w90.webp" group-title="TNT_Suisse" tvg-chno="04",Carac 1
 https://livevideo.vedge.infomaniak.com/livecast/rougetv/master.m3u8
@@ -230,6 +249,8 @@ https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_TOULONVAR/index.m3u8?start=LIVE&
 https://srv.webtvmanager.fr:3118/live/viatelepaeselive.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://yt3.googleusercontent.com/ytc/APkrFKYYmLuk67hE0daWPrLAnqr0vOmddi79mRD-9EvDsA=s176-c-k-c0x00ffffff-no-rj" group-title="TNT_Régionale" tvg-chno="30",TVPi
 https://ythls.armelin.one/channel/UCwVQAPo6tjC5w5yBBh0WEdA.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.wixstatic.com/media/6081ef_3aadcd3c9cf44eb4a405ec54c92ba8a4~mv2.png/v1/fill/w_119,h_97,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/TV_LOGO_2-removebg-preview.png" group-title="TNT" tvg-chno="30",TV Tarn
+https://live.creacast.com/albi-tv-ch1/stream/master.m3u8
 #EXTINF:-1 tvg-id="BFMDiciAlpesduSud.fr" tvg-logo="https://raw.githubusercontent.com/Sibprod/assets/main/Altice/ALTICE_BFM-Dici-Alpes-du-Sud.png" group-title="TNT_Régionale" tvg-chno="31",BFM Régions (D!ci Alpes-du-Sud)
 https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_DICI_ALPESDUSUD/index.m3u8?start=LIVE&end=END
 #EXTINF:-1 tvg-id="BFMDiciAlpesduSud.fr" tvg-logo="https://raw.githubusercontent.com/Sibprod/assets/main/Altice/ALTICE_BFM-Dici-Haute-Provence.png" group-title="TNT_Régionale" tvg-chno="31",BFM Régions (D!ci Haute-Provence)
@@ -350,6 +371,16 @@ https://katapy.hs.llnwd.net/dieutvwza1/DIEUTVLIVE/smil:dieutv.smil/playlist.m3u8
 https://tv7.live-kd.com/live/tv7/ngrp:tv7_Wifi/playlist.m3u8
 #EXTINF:-1 tvg-id="Superyacht.mc" tvg-logo="https://superyacht.tv/media/cache/header_main_logo/bundles/app/img/logo.png" group-title="Câble" tvg-chno="78",SuperYacht.TV
 https://sy.wns.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="TV3V.fr" tvg-logo="https://www.tv3v.fr/images/logo_tv3v.png" group-title="Câble" tvg-chno="98",TV3V
+https://tv3v.live-kd.com/live/tv3v/livestream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://yt3.googleusercontent.com/ytc/AGIKgqM4nI5DLEvf2EjD7EG1QoCVPzLBO2s5eJL_wP5s=s176-c-k-c0x00ffffff-no-rj" group-title="Câble" tvg-chno="109",TVC 9
+https://ythls.armelin.one/channel/UC0JP0ek-HhcqisiEpsZiQZA.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/sq11nQ1/rdicanada.png" group-title="Câble" tvg-chno="117",Ici RDI
+https://rcavlive.akamaized.net/hls/live/704025/xcanrdi/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://yt3.ggpht.com/ytc/AGIKgqM2dP80gkZP-sc1ZRFQKEColJHeuS5OlbDEl8o8=s48-c-k-c0x00ffffff-no-rj" group-title="Câble" tvg-chno="119",Télé-Mag Québec
+https://ythls.armelin.one/channel/UCNKXYT-Nng5LBMUQrZJ9zWA.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cpac-ca.png" group-title="Câble" tvg-chno="144",CPAC (Français)
+https://d7z3qjdsxbwoq.cloudfront.net/groupa/live/f9809cea-1e07-47cd-a94d-2ddd3e1351db/live.isml/.m3u8
 #EXTINF:-1 tvg-id="GrandGeneveTV.fr" tvg-logo="https://www.grand-geneve.tv/wp-content/uploads/2020/06/GG-logo-1024x512-1.jpg" group-title="Câble" tvg-chno="222",Grand Genève TV
 https://ythls.armelin.one/channel/UCXFfYlxx1CDljLyXwXFbL1A.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Câble" tvg-chno="476",Lyon Capitale TV
@@ -411,12 +442,18 @@ https://livevideo.vedge.infomaniak.com/livecast/puissancetelevision/playlist.m3u
 https://raw.githubusercontent.com/Sibprod/streams/main/ressources/dmotion/py/Ubiznews/Ubiznews.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="IPTV" tvg-chno="585",Telesud
 https://raw.githubusercontent.com/Sibprod/streams/main/ressources/dmotion/py/Vision4/Telesud.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo="https://brionnais.tv/uploads/images/user_1_1515016104_social.jpg" group-title="IPTV" tvg-chno=" ",Brionnais TV
+https://live2.mandarine.media:1936/brionnaistv/brionnaistv/playlist.m3u8
 #EXTINF:-1 tvg-id="Cinemax.ci" tvg-logo=" " group-title="IPTV" tvg-chno=" ",Ciné Max
 https://video1.getstreamhosting.com:1936/8432/8432/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTELT2EO0QfaVPuhJR_G9ZHO6RzFmDpRvVpmpGYfoHENQ&s" group-title="IPTV" tvg-chno=" ",Dynamic One
 https://hls.dynamicone.be/hls/dynamicone-1080.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo="https://www.grandcharolais.tv/uploads/images/logo_site_1653752771.png" group-title="IPTV" tvg-chno=" ",Grand Charolais TV
+https://live2.mandarine.media:1936/grandcharolaistv/grandcharolaistv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="IPTV" tvg-chno=" ",Ivoire Channel
 https://video1.getstreamhosting.com:1936/8244/8244/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://yt3.googleusercontent.com/ZDLMk8sm1aFCkzw_29qLJvIUMQVmBrrzaCIumBYDucp0YhXib6Dz7jxyqbkIsnd89b1UOfMnLA=s176-c-k-c0x00ffffff-no-rj" group-title="France" tvg-chno=" ",Kosmo (Français)
+https://ythls.armelin.one/channel/UCl-ipFGVotx_Tu5YWMEZgsg.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://codeberg.org/Sibprod/Feed/raw/branch/main/assets/L%27Ardennais%20TV.png" group-title="IPTV" tvg-chno=" ",L'Ardennais TV
 https://live.digiteka.com/1/TXhhUTRFNmVLRWhV/aVJTbDNQ/hls/live/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="IPTV" tvg-chno=" ",L'Intelligent.TV
@@ -425,13 +462,19 @@ https://video1.getstreamhosting.com:1936/8210/8210/playlist.m3u8
 https://live.digiteka.com/1/WWRMRDd6RUR1NGZ1/UytudnJv/hls/live/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHy9VkU_plyhToM50r15_Et1A3pRThZjFT4F_TbzWIcqD9qjLPTdM4G29cn6U&s" group-title="IPTV" tvg-chno=" ",L'Union.TV
 https://live.digiteka.com/1/TXhhUTRFNmVLRWhV/aVJTbDNQ/hls/live/playlist.m3u8
-#EXTINF:-1 tvg-id="MDL.fr" tvg-logo="https://i.imgur.com/REN30bx.png" group-title="IPTV",MDL - Le Monde des Loisirs
+#EXTINF:-1 tvg-id="MDL.fr" tvg-logo="https://i.imgur.com/REN30bx.png" group-title="IPTV" tvg-chno=" ",MDL - Le Monde des Loisirs
 http://tv.mondeduloisir.fr:1935/tixtv/smil:web.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="Seriemax.ci" tvg-logo="IPTV" group-title=" ",Série Max
+#EXTINF:-1 tvg-id="NancyWebTV.fr" tvg-logo="https://i.imgur.com/W43rv1R.jpg" group-title="IPTV" tvg-chno=" ",Nancy Web TV
+https://livevideo.vedge.infomaniak.com/livecast/nancy-webtv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://pancrace.tv/uploads/images/logo_site_1485347386.jpg" group-title="IPTV" tvg-chno=" ",Pancrace TV
+https://live2.mandarine.media:1936/pancracetv/pancracetv/playlist.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo="https://brionnais.tv/uploads/images/channel_15_1683538596_thumb.jpg" group-title="IPTV" tvg-chno=" ",Roannais TV
+https://live2.mandarine.media:1936/roannaistv/roannaistv/playlist.m3u8
+#EXTINF:-1 tvg-id="Seriemax.ci" tvg-logo="IPTV" group-title=" " tvg-chno=" " tvg-chno=" ",Série Max
 https://video1.getstreamhosting.com:1936/8446/8446/playlist.m3u8
-#EXTINF:-1 tvg-id="TV5MondeInfo.fr" tvg-logo="IPTV" group-title=" ",TV5 Monde (Info)
+#EXTINF:-1 tvg-id="TV5MondeInfo.fr" tvg-logo="" group-title="IPTV", tvg-chno=" "TV5 Monde (Info)
 https://raw.githubusercontent.com/Sibprod/streams/main/TV5Monde_Info.m3u8
-#EXTINF:-1 tvg-id="TZik.fr" tvg-logo="https://images.squarespace-cdn.com/content/v1/5d912c8fc92ec9603f7bc3a1/1596601891411-FXH9KZA62RTJBXMYXAOB/green_blue_gradient_logo_transparent_background.png?format=1500w" group-title="IPTV",Tzik
+#EXTINF:-1 tvg-id="TZik.fr" tvg-logo="https://images.squarespace-cdn.com/content/v1/5d912c8fc92ec9603f7bc3a1/1596601891411-FXH9KZA62RTJBXMYXAOB/green_blue_gradient_logo_transparent_background.png?format=1500w" group-title="IPTV" tvg-chno=" ",Tzik
 https://myowntvchannel.com:3019/stream/play.m3u8
 --- FAST ---
 #EXTINF:-1 channel-id="pluto-639b54404cfdf7000729b3c1" tvg-id="639b54404cfdf7000729b3c1" tvg-logo="https://images.pluto.tv/channels/639b54404cfdf7000729b3c1/colorLogoPNG.png" group-title="FAST" tvg-chno="35",INA 70
