@@ -472,7 +472,7 @@ https://video1.getstreamhosting.com:1936/8210/8210/playlist.m3u8
 https://live.digiteka.com/1/WWRMRDd6RUR1NGZ1/UytudnJv/hls/live/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHy9VkU_plyhToM50r15_Et1A3pRThZjFT4F_TbzWIcqD9qjLPTdM4G29cn6U&s" group-title="IPTV" tvg-chno=" ",L'Union.TV
 https://live.digiteka.com/1/TXhhUTRFNmVLRWhV/aVJTbDNQ/hls/live/playlist.m3u8
-#EXTINF:-1 tvg-id=" " tvg-logo="https://mlemedia.ch/upload/design/6333f474c31401.16060024.png" group-title="IPTV" tvg-chno=" " tvg-chno=" ",M Le Media
+#EXTINF:-1 tvg-id=" " tvg-logo="https://mlemedia.ch/upload/design/6333f474c31401.16060024.png" group-title="DAB+" tvg-chno=" " tvg-chno="1067",M Le Media
 https://raw.githubusercontent.com/Sibprod/streams/main/ressources/dmotion/py/Canal/MleMedia.m3u8
 #EXTINF:-1 tvg-id="MDL.fr" tvg-logo="https://i.imgur.com/REN30bx.png" group-title="IPTV" tvg-chno=" ",MDL - Le Monde des Loisirs
 http://tv.mondeduloisir.fr:1935/tixtv/smil:web.smil/playlist.m3u8
