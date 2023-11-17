@@ -472,6 +472,8 @@ https://video1.getstreamhosting.com:1936/8210/8210/playlist.m3u8
 https://live.digiteka.com/1/WWRMRDd6RUR1NGZ1/UytudnJv/hls/live/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHy9VkU_plyhToM50r15_Et1A3pRThZjFT4F_TbzWIcqD9qjLPTdM4G29cn6U&s" group-title="IPTV" tvg-chno=" ",L'Union.TV
 https://live.digiteka.com/1/TXhhUTRFNmVLRWhV/aVJTbDNQ/hls/live/playlist.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo="https://mlemedia.ch/upload/design/6333f474c31401.16060024.png" group-title="IPTV" tvg-chno=" " tvg-chno=" ",M Le Media
+https://raw.githubusercontent.com/Sibprod/streams/main/ressources/dmotion/py/Canal/MleMedia.m3u8
 #EXTINF:-1 tvg-id="MDL.fr" tvg-logo="https://i.imgur.com/REN30bx.png" group-title="IPTV" tvg-chno=" ",MDL - Le Monde des Loisirs
 http://tv.mondeduloisir.fr:1935/tixtv/smil:web.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="NancyWebTV.fr" tvg-logo="https://i.imgur.com/W43rv1R.jpg" group-title="IPTV" tvg-chno=" ",Nancy Web TV
@@ -480,7 +482,7 @@ https://livevideo.vedge.infomaniak.com/livecast/nancy-webtv/playlist.m3u8
 https://live2.mandarine.media:1936/pancracetv/pancracetv/playlist.m3u8
 #EXTINF:-1 tvg-id=" " tvg-logo="https://brionnais.tv/uploads/images/channel_15_1683538596_thumb.jpg" group-title="IPTV" tvg-chno=" ",Roannais TV
 https://live2.mandarine.media:1936/roannaistv/roannaistv/playlist.m3u8
-#EXTINF:-1 tvg-id="Seriemax.ci" tvg-logo="IPTV" group-title=" " tvg-chno=" " tvg-chno=" ",Série Max
+#EXTINF:-1 tvg-id="Seriemax.ci" tvg-logo="" group-title="IPTV" tvg-chno=" " tvg-chno=" ",Série Max
 https://video1.getstreamhosting.com:1936/8446/8446/playlist.m3u8
 #EXTINF:-1 tvg-id="TV5MondeInfo.fr" tvg-logo="" group-title="IPTV", tvg-chno=" "TV5 Monde (Info)
 https://raw.githubusercontent.com/Sibprod/streams/main/TV5Monde_Info.m3u8
