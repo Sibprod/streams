@@ -1,7 +1,9 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="Gabon24.ga" tvg-logo="https://yt3.googleusercontent.com/6hYz1o3RdUxQ_0yL0dodfXqTTI9kCPxQecISZb9ewMjGrdhMfB6wCud9vihroQw3p41JojYt=s176-c-k-c0x00ffffff-no-rj" group-title="TNT_Afrique" tvg-chno="2",Gabon 24
 https://ythls.armelin.one/channel/UC7E__Dp9FSIgt6iMa5_uvlw.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://yt3.ggpht.com/Fsc48YuvrJh5sWWN6PgAJPmCmahCwh-6R1haMgcltx0ncjvQfukHOG5UEzA7Ow0cwP6-7bFM=s176-c-k-c0x00ffffff-no-rj-mo" group-title="TNT_Afrique" tvg-chno="07",7 Info
+#EXTINF:-1 tvg-id=" " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/CNA_new_logo.svg/150px-CNA_new_logo.svg.png" group-title="SG_DTTV" tvg-chno="6",CNA (Channel News Asia)
+https://ythls.armelin.one/channel/UC83jt4dlz1Gjl58fzQrrKZg.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://yt3.ggpht.com/Fsc48YuvrJh5sWWN6PgAJPmCmahCwh-6R1haMgcltx0ncjvQfukHOG5UEzA7Ow0cwP6-7bFM=s176-c-k-c0x00ffffff-no-rj-mo" group-title="TNT_Afrique" tvg-chno="7",7 Info
 https://ythls.armelin.one/channel/UCqA1FRAWs2VIiXf2cUYSQBQ.m3u8
 #EXTINF:-1 tvg-id=" " tvg-logo="https://i.imgur.com/qYPiXlB.png" group-title="DTT_Regionale" tvg-chno="12",Top Calcio 
 https://ythls.armelin.one/channel/UC3yM6JHZSBlU8crXIDHK-kQ.m3u8
@@ -9,8 +11,14 @@ https://ythls.armelin.one/channel/UC3yM6JHZSBlU8crXIDHK-kQ.m3u8
 https://ythls.armelin.one/channel/UC3yM6JHZSBlU8crXIDHK-kQ.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="TNT" tvg-chno="19",Euronews (Français)
 https://ythls.armelin.one/channel/UCW2QcKZiU8aUGg4yxCIditg.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://yt3.googleusercontent.com/ytc/APkrFKaTIbDY65TRlB-zfg5Mu8WXbbpYFX7fxHpBbrtSHg=s176-c-k-c0x00ffffff-no-rj" group-title="US_DTTV" tvg-chno="20",NBC 2 News - WBBH TV (South West Florida)
+https://ythls.armelin.one/channel/UCIYVU7fPs_n6gJIBso3ryeg.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://yt3.googleusercontent.com/ytc/APkrFKZNPK3Dh5kF7rShCGh0NhuMWJRiQpsVgsXHul1-Iw=s176-c-k-c0x00ffffff-no-rj" group-title="Freeview_AU" tvg-chno="24",ABC News
+https://ythls.armelin.one/channel/UCVgO39Bk5sMo66-6o6Spn6Q.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="TNT_Afrique" tvg-chno="24",Africanews (Français)
 https://ythls.armelin.one/channel/UC25EuGAePOPvPrUA5cmu3dQ.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://yt3.ggpht.com/ytc/APkrFKYMAgxR1t8YwX9_kSLvr-gCKu5ZyWosTfO8w-y4=s48-c-k-c0x00ffffff-no-rj" group-title="US-DTTV" tvg-chno="26",ABC 7 News - WZVN TV (South West Florida)
+https://ythls.armelin.one/channel/UCq9e_hCv2jvgck8WowW1NXg.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://yt3.googleusercontent.com/ytc/APkrFKYYmLuk67hE0daWPrLAnqr0vOmddi79mRD-9EvDsA=s176-c-k-c0x00ffffff-no-rj" group-title="TNT_Régionale" tvg-chno="30",TVPi
 https://ythls.armelin.one/channel/UCwVQAPo6tjC5w5yBBh0WEdA.m3u8
 #EXTINF:-1 tvg-id="7aLimoges.fr" tvg-logo="https://i.imgur.com/1ccTQ7Z.png" group-title="Câble" tvg-chno="31",7 à Limoges
@@ -37,17 +45,21 @@ https://ythls.armelin.one/channel/UCNKXYT-Nng5LBMUQrZJ9zWA.m3u8
 https://ythls.armelin.one/channel/UCaEqMbRYYOmI3WrALMhxuIg.m3u8
 #EXTINF:-1 tvg-id="GrandGeneveTV.fr" tvg-logo="https://www.grand-geneve.tv/wp-content/uploads/2020/06/GG-logo-1024x512-1.jpg" group-title="Câble" tvg-chno="222",Grand Genève TV
 https://ythls.armelin.one/channel/UCXFfYlxx1CDljLyXwXFbL1A.m3u8
-#EXTINF:-1 tvg-id="SkyNews.uk" tvg-logo="https://yt3.googleusercontent.com/E96qzkAoX81DQs7wqRHR4rNk1esa4quBPzda2QRzImlhoHOVgRdAN8o-S0Rb_hpygo_n4LdhwTE=s176-c-k-c0x00ffffff-no-rj" group-title="Freeview" tvg-chno="233",Sky News (UK)
+#EXTINF:-1 tvg-id="SkyNews.uk" tvg-logo="https://yt3.googleusercontent.com/E96qzkAoX81DQs7wqRHR4rNk1esa4quBPzda2QRzImlhoHOVgRdAN8o-S0Rb_hpygo_n4LdhwTE=s176-c-k-c0x00ffffff-no-rj" group-title="Freeview_UK" tvg-chno="233",Sky News (UK)
 https://ythls.armelin.one/channel/UCoMdktPbSTixAyNGwb-UYkQ.m3u8
-#EXTINF:-1 tvg-id=" " tvg-logo="https://yt3.ggpht.com/YKrh5sIYpesEIHbjfgqwFjFx3ZgIjM_zak2z0LO8QENSgrmgKBes1m65POj9jkmzm0qoKwgl=s88-c-k-c0x00ffffff-no-rj" group-title="Freeview" tvg-chno="235",Al-Jazeera (English)
+#EXTINF:-1 tvg-id=" " tvg-logo="https://yt3.ggpht.com/YKrh5sIYpesEIHbjfgqwFjFx3ZgIjM_zak2z0LO8QENSgrmgKBes1m65POj9jkmzm0qoKwgl=s88-c-k-c0x00ffffff-no-rj" group-title="Freeview_UK" tvg-chno="235",Al-Jazeera (English)
 https://ythls.armelin.one/channel/UCNye-wNBqNL5ZzHSJj3l8Bg.m3u8
+#EXTINF:-1 tvg-id="Newsmax.us" tvg-logo="https://yt3.ggpht.com/fXgXYq-vfZapJMvkRQ2k6L1vj4Zd2J97zKXlsc6G95LdIyfH3PI8o-QPreIbPOkEE0B63i1vNdU=s48-c-k-c0x00ffffff-no-rj" group-title="Freeview_UK" tvg-chno="287",Newsmax
+https://ythls.armelin.one/channel/UCx6h-dWzJ5NpAlja1YsApdg.m3u8
 #EXTINF:-1 tvg-id="VaticanMedia.va" tvg-logo="https://i.imgur.com/9cUUx8H.png" group-title="DTT" tvg-chno="555",Vatican Media (Italiano)
 https://ythls.armelin.one/channel/UC7E-LYc1wivk33iyt5bR5zQ.m3u8
 #EXTINF:-1 tvg-id=" " tvg-logo="https://www.mediapason.it/wp-content/uploads/2016/05/MILANOW-LOGO-MENU-DEFINITIVO-e1479311105540.png" group-title="DTT_Regionale" tvg-chno="191",Milanow
 https://ythls.armelin.one/channel/UC3yM6JHZSBlU8crXIDHK-kQ.m3u8
 #EXTINF:-1 tvg-id=" " tvg-logo="https://yt3.googleusercontent.com/ytc/APkrFKaKC43m5E_OY2VqgiXL86Jh9whZj3gcNeLlDd6h=s176-c-k-c0x00ffffff-no-rj" group-title="DAB+" tvg-chno="714",Radio Deejay
 https://ythls.armelin.one/channel/UCuNnpwvG5E-hGKM2F-U5YRg.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://yt3.googleusercontent.com/ZDLMk8sm1aFCkzw_29qLJvIUMQVmBrrzaCIumBYDucp0YhXib6Dz7jxyqbkIsnd89b1UOfMnLA=s176-c-k-c0x00ffffff-no-rj" group-title="France" tvg-chno=" ",Kosmo (Français)
+#EXTINF:-1 tvg-id=" " tvg-logo="https://yt3.googleusercontent.com/-kcohSPXknvrybix3K6ayjkT3_vn0Hily7cED3KwrlYzXYNzTXrgmg4ea04Yurmzkgk04A6j3Rg=s176-c-k-c0x00ffffff-no-rj" group-title="Câble" tvg-chno=" ",Bloomberg
+https://ythls.armelin.one/channel/UCIALMKvObZNtJ6AmdCLP7LgUCIALMKvObZNtJ6AmdCLP7Lg.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://yt3.googleusercontent.com/ZDLMk8sm1aFCkzw_29qLJvIUMQVmBrrzaCIumBYDucp0YhXib6Dz7jxyqbkIsnd89b1UOfMnLA=s176-c-k-c0x00ffffff-no-rj" group-title="IPTV" tvg-chno=" ",Kosmo (Français)
 https://ythls.armelin.one/channel/UCl-ipFGVotx_Tu5YWMEZgsg.m3u8
 #EXTINF:-1 tvg-id=" " tvg-logo="https://yt3.ggpht.com/aRg78SxBgLivvxY5MvGhI1jQDFnyRImL_1Z3vnvzercJLA8KiWUNWNJyEouudasCiYzt2Hsx4g=s48-c-k-c0x00ffffff-no-rj" group-title="DTT" tvg-chno="12",La Q TV
 https://ythls.armelin.one/channel/UCSedCAiJjYsnzSeDGI-6ikQ.m3u8
@@ -55,10 +67,16 @@ https://ythls.armelin.one/channel/UCSedCAiJjYsnzSeDGI-6ikQ.m3u8
 https://ythls.armelin.one/channel/UCpE3NF-27WpON2wufQ28y7g.m3u8
 #EXTINF:-1 tvg-id="Lineagem.it" tvg-logo="https://yt3.googleusercontent.com/0CZN4YOO0_6HFSFiZBqdlAOHrGqPvlzTHRGC947CiE25glR0qdOF5Idb2FWo_Q08kDHYIpNHrg=s176-c-k-c0x00ffffff-no-rj" group-title="IPTV" tvg-chno=" ",Lineagem TV
 https://ythls.armelin.one/channel/UC-dZ1irw0kSGVg0VoeKLddw.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo="https://yt3.googleusercontent.com/dF1ZRcwWOxfn3AysqfW-MMIod2jPfCfgFkMLYiQWGMOiELVA7-nWN7PaXnEv1RfVxRe5S9z36ow=s176-c-k-c0x00ffffff-no-rj" group-title="Câble" tvg-chno=" ",Live Now from FOX
+https://ythls.armelin.one/channel/UCJg9wBPyKMNA5sRDnvzmkdg.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://yt3.googleusercontent.com/2kw8s66dhLUegJ3XrqZSkZMfp77CRhCfYm1NurDwDB2L9sT_-CaoUix_iWjoE_t66b07JzoR=s176-c-k-c0x00ffffff-no-rj" group-title="IPTV" tvg-chno=" ",NASA
 https://ythls.armelin.one/channel/UCLA_DiR1FfKNvjuUpBHmylQ.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo="https://yt3.googleusercontent.com/ytc/APkrFKYumGr54VqQryV2K6gfGULpTJR3z4AauFbnkEjWMg=s176-c-k-c0x00ffffff-no-rj" group-title="Câble" tvg-chno=" ",Nat Geo Wild (US)
+https://ythls.armelin.one/channel/UCDPk9MG2RexnOMGTD-YnSnA.m3u8
 #EXTINF:-1 tvg-id=" " tvg-logo="https://yt3.googleusercontent.com/ytc/APkrFKbW5ue48unbcbvdn-esgCubY3HXFOlVCdgqHz-Z=s176-c-k-c0x00ffffff-no-rj" group-title="IPTV" tvg-chno=" ",Nordest 24
 https://ythls.armelin.one/channel/UCHiNGA66DhJkWWO5CC8JAVg.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://yt3.googleusercontent.com/46MjT8-gJLsJnHvX303aLvJ-9-peEy9bovWHlUKOdys2rhqw_jf2pminiBPP5gFINkxD84RU=s176-c-k-c0x00ffffff-no-rj" group-title="DAB+" tvg-chno=" ",Radio 24
+https://ythls.armelin.one/channel/UCuiPzxEpLJLTRu2HXzY3gfA.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://yt3.ggpht.com/zJtLviP77uKqO_KWlr2b4WHF8CpQ_XG0pF5uofDPAadUPJcQkoy55un_7qlCyikVJePjmFfL1kE=s48-c-k-c0x00ffffff-no-rj" group-title="IPRadio" tvg-chno=" ",Radio Hits Music - Hits Radio 1
 https://ythls.armelin.one/channel/UC0f4WJAjYdwl4XYHz-6FhyQ.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.radio.fr/images/broadcasts/09/90/35708/3/c300.png" group-title="IPTV" tvg-chno=" ",Tomorrowland - One World Radio
