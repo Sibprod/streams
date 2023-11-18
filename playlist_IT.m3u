@@ -6,17 +6,17 @@ http://livetv.ktv.zone/130/play.m3u8
 http://livetv.ktv.zone/131/play.m3u8
 #EXTINF:-1 tvg-id="RAI3.it" tvg-logo="https://www.lyngsat-logo.com/logo/tv/rr/rai_3.png" group-title="KTV" tvg-chno="3",RAI 3
 http://livetv.ktv.zone/132/play.m3u8
-#EXTINF:-1 tvg-id="RAIMovie.it" tvg-logo="https://www.lyngsat-logo.com/logo/tv/rr/rai_movie.png" group-title="DTT" tvg-chno="24",RAI Movie
+#EXTINF:-1 tvg-id="RAIMovie.it" tvg-logo="https://www.lyngsat-logo.com/logo/tv/rr/rai_movie.png" group-title="KTV" tvg-chno="24",RAI Movie
 http://livetv.ktv.zone/157/play.m3u8
-#EXTINF:-1 tvg-id="RAIPremium.it" tvg-logo="https://www.lyngsat-logo.com/logo/tv/rr/rai_premium.png" group-title="DTT" tvg-chno="25",RAI Premium
+#EXTINF:-1 tvg-id="RAIPremium.it" tvg-logo="https://www.lyngsat-logo.com/logo/tv/rr/rai_premium.png" group-title="KTV" tvg-chno="25",RAI Premium
 http://livetv.ktv.zone/154/play.m3u8
-#EXTINF:-1 tvg-id="RAIGulp.it" tvg-logo="https://www.lyngsat-logo.com/logo/tv/rr/rai_gulp.png" group-title="DTT" tvg-chno="42",RAI Gulp
+#EXTINF:-1 tvg-id="RAIGulp.it" tvg-logo="https://www.lyngsat-logo.com/logo/tv/rr/rai_gulp.png" group-title="KTV" tvg-chno="42",RAI Gulp
 http://livetv.ktv.zone/156/play.m3u8
-#EXTINF:-1 tvg-id="RAIYoyo.it" tvg-logo="https://www.lyngsat-logo.com/logo/tv/rr/rai_yoyo.png" group-title="DTT" tvg-chno="43",RAI YoYo
+#EXTINF:-1 tvg-id="RAIYoyo.it" tvg-logo="https://www.lyngsat-logo.com/logo/tv/rr/rai_yoyo.png" group-title="KTV" tvg-chno="43",RAI YoYo
 http://livetv.ktv.zone/153/play.m3u8
 #EXTINF:-1 tvg-id="RaiNews24.it" tvg-logo="https://i.imgur.com/8juA51j.png" group-title="KTV" tvg-chno="48",RAI News 24
 http://livetv.ktv.zone/133/play.m3u8
-#EXTINF:-1 tvg-id="RAIStoria.it" tvg-logo="https://www.lyngsat-logo.com/logo/tv/rr/rai_storia.png" group-title="DTT" tvg-chno="54",RAI Storia
+#EXTINF:-1 tvg-id="RAIStoria.it" tvg-logo="https://www.lyngsat-logo.com/logo/tv/rr/rai_storia.png" group-title="KTV" tvg-chno="54",RAI Storia
 http://livetv.ktv.zone/155/play.m3u8
 #EXTINF:-1 tvg-id="RSILa1.ch" tvg-logo=" " group-title="KTV" tvg-chno="1",RSI La 1
 http://livetv.ktv.zone/129/play.m3u8
