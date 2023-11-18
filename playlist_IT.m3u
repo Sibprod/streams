@@ -511,6 +511,31 @@ https://nuovatv.net:8443/tv/stream.m3u8
 https://nuovatv.net:8443/tv2/stream.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/IbzQpfn.png" group-title="IPTV" tvg-chno="3",Retemia
 https://5db313b643fd8.streamlock.net:443/Retemia/Retemia/playlist.m3u8
+--- FAST ---
+
+#EXTINF:-1 tvg-id="" tvg-logo=" " group-title="FAST" tvg-chno=" ",Canale Europa
+https://i.mjh.nz/SamsungTVPlus/ITBA1400003WT.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo=" " group-title="FAST" tvg-chno=" ",Euronews en diretta (Italiano)
+https://i.mjh.nz/SamsungTVPlus/ITAJ4500023ZX.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo=" " group-title="FAST" tvg-chno=" ",Explorer HD Channel
+https://i.mjh.nz/SamsungTVPlus/ITBC1100006SA.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo=" " group-title="FAST" tvg-chno=" ",Giornale Radio
+https://i.mjh.nz/SamsungTVPlus/ITBB5000002N0.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo=" " group-title="FAST" tvg-chno=" ",Italian Fishing TV
+https://i.mjh.nz/SamsungTVPlus/ITBB2000001QB.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo=" " group-title="FAST" tvg-chno=" ",La 7
+https://i.mjh.nz/SamsungTVPlus/ITBD1500002NL.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo=" " group-title="FAST" tvg-chno=" ",Radio Italia Trend
+https://i.mjh.nz/SamsungTVPlus/ITBA2200008IM.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo=" " group-title="FAST" tvg-chno=" ",RBN (Radio Bianco Nero)
+https://i.mjh.nz/SamsungTVPlus/ITBD2300001MT.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo=" " group-title="FAST" tvg-chno=" ",Sportitalia SoloCalcio
+https://i.mjh.nz/SamsungTVPlus/ITBC4700002CO.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo=" " group-title="FAST" tvg-chno=" ",Sportitalia HD
+https://i.mjh.nz/SamsungTVPlus/ITBA2200010O1.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo=" " group-title="FAST" tvg-chno=" ",Super! Pop
+https://i.mjh.nz/SamsungTVPlus/ITAJ3800010RX.m3u8
+
 --- DAB+ ---
 #EXTINF:-1 tvg-id=" " tvg-logo="https://yt3.googleusercontent.com/ytc/APkrFKaKC43m5E_OY2VqgiXL86Jh9whZj3gcNeLlDd6h=s176-c-k-c0x00ffffff-no-rj" group-title="DAB+" tvg-chno="714",Radio Deejay
 https://ythls.armelin.one/channel/UCuNnpwvG5E-hGKM2F-U5YRg.m3u8
