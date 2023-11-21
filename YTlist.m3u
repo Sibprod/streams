@@ -25,8 +25,10 @@ https://ythls.armelin.one/channel/UCs231K71Bnu5295_x0MB5Pg.m3u8
 https://ythls.armelin.one/channel/UCVgO39Bk5sMo66-6o6Spn6Q.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="TNT_Afrique" tvg-chno="24",Africanews (Français)
 https://ythls.armelin.one/channel/UC25EuGAePOPvPrUA5cmu3dQ.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://yt3.googleusercontent.com/ytc/APkrFKZwYOwSoNSRkr4DsihYZq4bjFbeuvY0jwtCFRlrmQ=s176-c-k-c0x00ffffff-no-rj" group-title=" " tvg-chno="25",Todo Noticías
-https://ythls.armelin.one/channel/UCj6PcyLvpnIRT_2W_mwa9Aw.m3u8
+#EXTINF:-1 tvg-id="C5N.ar" tvg-logo="https://yt3.googleusercontent.com/nKNFyCErbN5C21SI5A9GwPSNAlC9jaa6JMKN6VuW6jQWSd6lRO6UEamjneVlJUr9qXxQCeRa=s176-c-k-c0x00ffffff-no-rj" group-title="TDT_Argentina" tvg-chno="25",C5N
+https://ythls.armelin.one/channel/UCFgk2Q2mVO1BklRQhSv6p0w.m3u8
+#EXTINF:-1 tvg-id="LNMas.ar" tvg-logo="https://yt3.googleusercontent.com/ytc/APkrFKaP8J1I3vt3cgZwRERx4zIihYdUkQQKB1dciYi6cA=s176-c-k-c0x00ffffff-no-rj" group-title="TDT_Argentina" tvg-chno="25",LN+ (La Nación +)
+https://ythls.armelin.one/channel/UCba3hpU7EFBSk817y9qZkiA.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://yt3.ggpht.com/ytc/APkrFKYMAgxR1t8YwX9_kSLvr-gCKu5ZyWosTfO8w-y4=s48-c-k-c0x00ffffff-no-rj" group-title="US-DTTV" tvg-chno="26",ABC 7 News - WZVN TV (South West Florida)
 https://ythls.armelin.one/channel/UCq9e_hCv2jvgck8WowW1NXg.m3u8
 #EXTINF:-1 tvg-id=" " tvg-logo="https://yt3.googleusercontent.com/qiB2U_CZaAY_4IdZydkjJwMxnGCpr0v-tLoJmKrjG0KeqA3rLdj5hQ73jnOIjq2kmUcPajCvCTA=s176-c-k-c0x00ffffff-no-rj" group-title="TDA" tvg-chno="26",Canal 26
@@ -87,8 +89,6 @@ https://ythls.armelin.one/channel/UCw7SNYrYei7F5ttQO3o-rpA.m3u8
 https://ythls.armelin.one/channel/UCNcdbMyA59zE-Vk668bKWOg.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://yt3.googleusercontent.com/ZDLMk8sm1aFCkzw_29qLJvIUMQVmBrrzaCIumBYDucp0YhXib6Dz7jxyqbkIsnd89b1UOfMnLA=s176-c-k-c0x00ffffff-no-rj" group-title="IPTV" tvg-chno=" ",Kosmo (Français)
 https://ythls.armelin.one/channel/UCl-ipFGVotx_Tu5YWMEZgsg.m3u8
-#EXTINF:-1 tvg-id=" " tvg-logo="https://yt3.googleusercontent.com/ytc/APkrFKaP8J1I3vt3cgZwRERx4zIihYdUkQQKB1dciYi6cA=s176-c-k-c0x00ffffff-no-rj" group-title="Information" tvg-chno=" ",La Nación
-https://ythls.armelin.one/channel/UCba3hpU7EFBSk817y9qZkiA.m3u8
 #EXTINF:-1 tvg-id=" " tvg-logo="https://yt3.googleusercontent.com/ytc/APkrFKZxQiHaq_vP2SlGJqgDmBGF_ptuG9BXUdpBc0NX=s176-c-k-c0x00ffffff-no-rj" group-title="IPTV" tvg-chno=" ",La Tenda TV
 https://ythls.armelin.one/channel/UCpE3NF-27WpON2wufQ28y7g.m3u8
 #EXTINF:-1 tvg-id="Lineagem.it" tvg-logo="https://yt3.googleusercontent.com/0CZN4YOO0_6HFSFiZBqdlAOHrGqPvlzTHRGC947CiE25glR0qdOF5Idb2FWo_Q08kDHYIpNHrg=s176-c-k-c0x00ffffff-no-rj" group-title="IPTV" tvg-chno=" ",Lineagem TV
