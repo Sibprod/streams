@@ -273,3 +273,16 @@ https://live.atresmediainternacional.com/ATRESMEDIA/a3cine-index.m3u8
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01201-cinedigmenterta-realmadrid-cineverse/playlist.m3u8
 #EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="Sport" tvg-chno=" ",TorOlé
 https://nodep002.service.openstream.es/SVoriginOperatorEdge2/smil:49_HD.smil/manifest.m3u8
+
+--- CADENAS LATINOAMERICANAS ---
+
+#EXTINF:-1 tvg-id="TVP.ar" tvg-logo="https://yt3.googleusercontent.com/5lHbUMHAepSNrhSsVMYkzfXNud-xXia5KHM9BP7iN-tK5ZHmyazhWcjL_r9RNgNQSkukolI_QA=s176-c-k-c0x00ffffff-no-rj" group-title="TDT_Argentina" tvg-chno="23",Televisión Pública de Argentina
+https://ythls.armelin.one/channel/UCs231K71Bnu5295_x0MB5Pg.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo="https://yt3.googleusercontent.com/ytc/APkrFKaP8J1I3vt3cgZwRERx4zIihYdUkQQKB1dciYi6cA=s176-c-k-c0x00ffffff-no-rj" group-title="TDT_Argentina" tvg-chno="25",La Nación
+https://ythls.armelin.one/channel/UCba3hpU7EFBSk817y9qZkiA.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo="https://yt3.googleusercontent.com/qiB2U_CZaAY_4IdZydkjJwMxnGCpr0v-tLoJmKrjG0KeqA3rLdj5hQ73jnOIjq2kmUcPajCvCTA=s176-c-k-c0x00ffffff-no-rj" group-title="TDT_Argentina" tvg-chno="26",Canal 26
+https://ythls.armelin.one/channel/UCrpMfcQNog595v5gAS-oUsQ
+#EXTINF:-1 tvg-id="A24.ar" tvg-logo="https://yt3.ggpht.com/UUDeuubaQlPaVvvMJhseVjpR0n3g3bk1kBdyN8iTmbbvK371YcZqYDzzBxqbmerAnWRl21Lp=s48-c-k-c0x00ffffff-no-rj" group-title="TDT_Argentina" tvg-chno="36",A24
+https://ythls.armelin.one/channel/UCR9120YBAqMfntqgRTKmkjQ.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://yt3.googleusercontent.com/ytc/APkrFKZwYOwSoNSRkr4DsihYZq4bjFbeuvY0jwtCFRlrmQ=s176-c-k-c0x00ffffff-no-rj" group-title=" " tvg-chno=" ",Todo Noticías
+https://ythls.armelin.one/channel/UCj6PcyLvpnIRT_2W_mwa9Aw.m3u8
