@@ -32,5 +32,11 @@ https://live-gbnews.simplestreamcdn.com/live5/gbnews/bitrate1.isml/manifest.m3u8
 https://live-talktv-ssai.simplestreamcdn.com/v1/master/82267e84b9e5053b3fd0ade12cb1a146df74169a/talktv-live/index.m3u8
 #EXTINF:-1 tvg-id="AlJazeera.qa" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Aljazeera_eng.svg/200px-Aljazeera_eng.svg.png" group-title="Freeview" tvg-chno="267",UK267.AlJazeera (English)
 https://ythls.armelin.one/channel/UCNye-wNBqNL5ZzHSJj3l8Bg.m3u8
+--- UK_Sky ---
+#EXTINF:-1 tvg-id="HorseCountryTV.uk" tvg-logo="https://i.imgur.com/1x6zYZr.png" group-title="Sky_UK" tvg-chno="253",Horse and Country
+https://hnc-free-viewlift.amagi.tv/HNC_AUSTRALIA.m3u8
+--- UK_Freesat ---
+#EXTINF:-1 tvg-id="QVCExtra.uk" tvg-logo="" group-title="Freesat" tvg-chno="802",UK802.QVC Extra
+https://live-qvcuk.simplestreamcdn.com/live/qvcuk_extra_clean/bitrate1.isml/live.m3u8
 
 
