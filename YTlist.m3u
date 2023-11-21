@@ -5,14 +5,20 @@ https://ythls.armelin.one/channel/UC7E__Dp9FSIgt6iMa5_uvlw.m3u8
 https://ythls.armelin.one/channel/UC83jt4dlz1Gjl58fzQrrKZg.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://yt3.ggpht.com/Fsc48YuvrJh5sWWN6PgAJPmCmahCwh-6R1haMgcltx0ncjvQfukHOG5UEzA7Ow0cwP6-7bFM=s176-c-k-c0x00ffffff-no-rj-mo" group-title="TNT_Afrique" tvg-chno="7",7 Info
 https://ythls.armelin.one/channel/UCqA1FRAWs2VIiXf2cUYSQBQ.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo="https://yt3.ggpht.com/aRg78SxBgLivvxY5MvGhI1jQDFnyRImL_1Z3vnvzercJLA8KiWUNWNJyEouudasCiYzt2Hsx4g=s48-c-k-c0x00ffffff-no-rj" group-title="DTT" tvg-chno="12",La Q TV
+https://ythls.armelin.one/channel/UCSedCAiJjYsnzSeDGI-6ikQ.m3u8
 #EXTINF:-1 tvg-id=" " tvg-logo="https://i.imgur.com/qYPiXlB.png" group-title="DTT_Regionale" tvg-chno="12",Top Calcio 
 https://ythls.armelin.one/channel/UC3yM6JHZSBlU8crXIDHK-kQ.m3u8
 #EXTINF:-1 tvg-id=" " tvg-logo="https://www.mediapason.it/wp-content/uploads/2016/11/VIDEOGRUPPO-LOGO-MENU-DEFINITIVO.png" group-title="DTT_Regionale" tvg-chno="12",Videogruppo
 https://ythls.armelin.one/channel/UC3yM6JHZSBlU8crXIDHK-kQ.m3u8
+#EXTINF:-1 tvg-id="QVC.uk" tvg-logo="https://static.epg.best/gb/QVC.uk.png" group-title="Freeview_UK" tvg-chno="16",QVC
+https://ythls.armelin.one/channel/UCW4gXUEypFeI3xgoQ27LFBA.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="TNT" tvg-chno="19",Euronews (Français)
 https://ythls.armelin.one/channel/UCW2QcKZiU8aUGg4yxCIditg.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://yt3.googleusercontent.com/ytc/APkrFKaTIbDY65TRlB-zfg5Mu8WXbbpYFX7fxHpBbrtSHg=s176-c-k-c0x00ffffff-no-rj" group-title="US_DTTV" tvg-chno="20",NBC 2 News - WBBH TV (South West Florida)
 https://ythls.armelin.one/channel/UCIYVU7fPs_n6gJIBso3ryeg.m3u8
+#EXTINF:-1 tvg-id="TJC.uk" tvg-logo="https://yt3.googleusercontent.com/ytc/APkrFKYyb40pG9318Sv5TGmCEgp9ryuFfKt77jxBg1PQ=s176-c-k-c0x00ffffff-no-rj" group-title="Freeview_UK" tvg-chno="22",TJC 
+https://ythls.armelin.one/channel/UC8dXdHZshMmgDmvFVzjl55Q.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://yt3.googleusercontent.com/ytc/APkrFKZNPK3Dh5kF7rShCGh0NhuMWJRiQpsVgsXHul1-Iw=s176-c-k-c0x00ffffff-no-rj" group-title="Freeview_AU" tvg-chno="24",ABC News
 https://ythls.armelin.one/channel/UCVgO39Bk5sMo66-6o6Spn6Q.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="TNT_Afrique" tvg-chno="24",Africanews (Français)
@@ -31,7 +37,9 @@ https://ythls.armelin.one/channel/UC5qZij2dwUDuF2KAILgj3Qg.m3u8
 https://ythls.armelin.one/channel/UCva-htH2wvmKsG6SkcEJ4Vw.m3u8
 #EXTINF:-1 tvg-id="SkyTG24.it" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sky-tg-24-it.png" group-title="DTT" tvg-chno="50",Sky TG24
 https://ythls.armelin.one/channel/UCz6E3lF72mb6uoJ-mOlNo2A.m3u8
-#EXTINF:-1 tvg-id="France24.fr" tvg-logo="https://tv.cdnartwhere.eu/images/logos_chaines/529.png" group-title="TNT" tvg-chno="75",France 24
+#EXTINF:-1 tvg-id="Idealworld.uk" tvg-logo=" " group-title="Freeview_UK" tvg-chno="51",Ideal World
+https://ythls.armelin.one/channel/UCJbgGTpBWuC87VFIKTTO4RQ.m3u8
+#EXTINF:-1 tvg-id="France24.fr" tvg-logo="https://tv.cdnartwhere.eu/images/logos_chaines/529.png" group-title="TNT" tvg-chno="75",France 24 (French)
 https://ythls.armelin.one/channel/UCCCPCZNChQdGa9EkATeye4g.m3u8
 #EXTINF:-1 tvg-id="Astrocenter.fr" tvg-logo="https://i.imgur.com/3xlJV7O.png" group-title="BisTV" tvg-chno="77",Astrocenter TV
 https://ythls.armelin.one/channel/UCMkQQZsNdRVZ3N7Oj6jVnyg.m3u8
@@ -41,6 +49,8 @@ https://ythls.armelin.one/channel/UCsdlYSvFPEkn12N61zSik4g.m3u8
 https://ythls.armelin.one/channel/UC0JP0ek-HhcqisiEpsZiQZA.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://yt3.ggpht.com/ytc/AGIKgqM2dP80gkZP-sc1ZRFQKEColJHeuS5OlbDEl8o8=s48-c-k-c0x00ffffff-no-rj" group-title="Câble" tvg-chno="119",Télé-Mag Québec
 https://ythls.armelin.one/channel/UCNKXYT-Nng5LBMUQrZJ9zWA.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo="https://www.mediapason.it/wp-content/uploads/2016/05/MILANOW-LOGO-MENU-DEFINITIVO-e1479311105540.png" group-title="DTT_Regionale" tvg-chno="191",Milanow
+https://ythls.armelin.one/channel/UC3yM6JHZSBlU8crXIDHK-kQ.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://yt3.googleusercontent.com/kmBR8wlZ879LmJaVowBubu2v0dC9WotZpd7Sk8fJA5xCIsvwFllb1DS-NtJl7Sh07RREas_vqHI=s176-c-k-c0x00ffffff-no-rj" group-title="IPTV" tvg-chno="217",Sqool TV
 https://ythls.armelin.one/channel/UCaEqMbRYYOmI3WrALMhxuIg.m3u8
 #EXTINF:-1 tvg-id="GrandGeneveTV.fr" tvg-logo="https://www.grand-geneve.tv/wp-content/uploads/2020/06/GG-logo-1024x512-1.jpg" group-title="Câble" tvg-chno="222",Grand Genève TV
@@ -49,20 +59,24 @@ https://ythls.armelin.one/channel/UCXFfYlxx1CDljLyXwXFbL1A.m3u8
 https://ythls.armelin.one/channel/UCoMdktPbSTixAyNGwb-UYkQ.m3u8
 #EXTINF:-1 tvg-id=" " tvg-logo="https://yt3.ggpht.com/YKrh5sIYpesEIHbjfgqwFjFx3ZgIjM_zak2z0LO8QENSgrmgKBes1m65POj9jkmzm0qoKwgl=s88-c-k-c0x00ffffff-no-rj" group-title="Freeview_UK" tvg-chno="235",Al-Jazeera (English)
 https://ythls.armelin.one/channel/UCNye-wNBqNL5ZzHSJj3l8Bg.m3u8
+#EXTINF:-1 tvg-id="GBNews.uk" tvg-logo="https://yt3.googleusercontent.com/9QATDXAANCn4Z5pqMiRj54aYxsZza-nHbKGk6mmEfVfEPp5bsfwHXBzG8XIcJizrT4Ed67RY=s176-c-k-c0x00ffffff-no-rj" group-title="Freeview_UK" tvg-chno="236",GBNews
+https://ythls.armelin.one/channel/UC0vn8ISa4LKMunLbzaXLnOQ.m3u8
+#EXTINF:-1 tvg-id="TalkTV.uk" tvg-logo="https://i.imgur.com/KxHWpQB.png" group-title="Freeview_UK" tvg-chno="237",Talk TV
+https://ythls.armelin.one/channel/UCm0yTweyAa0PwEIp0l3N_gA.m3u8
+#EXTINF:-1 tvg-id="France24.uk" tvg-logo=" " group-title="Freeview_UK" tvg-chno="271",France 24 (English)
+https://ythls.armelin.one/channel/UCQfwfsi5VrQ8yKZ-UWmAEFg.m3u8
 #EXTINF:-1 tvg-id="Newsmax.us" tvg-logo="https://yt3.ggpht.com/fXgXYq-vfZapJMvkRQ2k6L1vj4Zd2J97zKXlsc6G95LdIyfH3PI8o-QPreIbPOkEE0B63i1vNdU=s48-c-k-c0x00ffffff-no-rj" group-title="Freeview_UK" tvg-chno="287",Newsmax
 https://ythls.armelin.one/channel/UCx6h-dWzJ5NpAlja1YsApdg.m3u8
 #EXTINF:-1 tvg-id="VaticanMedia.va" tvg-logo="https://i.imgur.com/9cUUx8H.png" group-title="DTT" tvg-chno="555",Vatican Media (Italiano)
 https://ythls.armelin.one/channel/UC7E-LYc1wivk33iyt5bR5zQ.m3u8
-#EXTINF:-1 tvg-id=" " tvg-logo="https://www.mediapason.it/wp-content/uploads/2016/05/MILANOW-LOGO-MENU-DEFINITIVO-e1479311105540.png" group-title="DTT_Regionale" tvg-chno="191",Milanow
-https://ythls.armelin.one/channel/UC3yM6JHZSBlU8crXIDHK-kQ.m3u8
 #EXTINF:-1 tvg-id=" " tvg-logo="https://yt3.googleusercontent.com/ytc/APkrFKaKC43m5E_OY2VqgiXL86Jh9whZj3gcNeLlDd6h=s176-c-k-c0x00ffffff-no-rj" group-title="DAB+" tvg-chno="714",Radio Deejay
 https://ythls.armelin.one/channel/UCuNnpwvG5E-hGKM2F-U5YRg.m3u8
 #EXTINF:-1 tvg-id=" " tvg-logo="https://yt3.googleusercontent.com/-kcohSPXknvrybix3K6ayjkT3_vn0Hily7cED3KwrlYzXYNzTXrgmg4ea04Yurmzkgk04A6j3Rg=s176-c-k-c0x00ffffff-no-rj" group-title="Câble" tvg-chno=" ",Bloomberg
 https://ythls.armelin.one/channel/UCIALMKvObZNtJ6AmdCLP7LgUCIALMKvObZNtJ6AmdCLP7Lg.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="IPTV" tvg-chno=" ",Disney Junior
+https://ythls.armelin.one/channel/UCNcdbMyA59zE-Vk668bKWOg.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://yt3.googleusercontent.com/ZDLMk8sm1aFCkzw_29qLJvIUMQVmBrrzaCIumBYDucp0YhXib6Dz7jxyqbkIsnd89b1UOfMnLA=s176-c-k-c0x00ffffff-no-rj" group-title="IPTV" tvg-chno=" ",Kosmo (Français)
 https://ythls.armelin.one/channel/UCl-ipFGVotx_Tu5YWMEZgsg.m3u8
-#EXTINF:-1 tvg-id=" " tvg-logo="https://yt3.ggpht.com/aRg78SxBgLivvxY5MvGhI1jQDFnyRImL_1Z3vnvzercJLA8KiWUNWNJyEouudasCiYzt2Hsx4g=s48-c-k-c0x00ffffff-no-rj" group-title="DTT" tvg-chno="12",La Q TV
-https://ythls.armelin.one/channel/UCSedCAiJjYsnzSeDGI-6ikQ.m3u8
 #EXTINF:-1 tvg-id=" " tvg-logo="https://yt3.googleusercontent.com/ytc/APkrFKZxQiHaq_vP2SlGJqgDmBGF_ptuG9BXUdpBc0NX=s176-c-k-c0x00ffffff-no-rj" group-title="IPTV" tvg-chno=" ",La Tenda TV
 https://ythls.armelin.one/channel/UCpE3NF-27WpON2wufQ28y7g.m3u8
 #EXTINF:-1 tvg-id="Lineagem.it" tvg-logo="https://yt3.googleusercontent.com/0CZN4YOO0_6HFSFiZBqdlAOHrGqPvlzTHRGC947CiE25glR0qdOF5Idb2FWo_Q08kDHYIpNHrg=s176-c-k-c0x00ffffff-no-rj" group-title="IPTV" tvg-chno=" ",Lineagem TV
@@ -71,6 +85,8 @@ https://ythls.armelin.one/channel/UC-dZ1irw0kSGVg0VoeKLddw.m3u8
 https://ythls.armelin.one/channel/UCJg9wBPyKMNA5sRDnvzmkdg.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://yt3.googleusercontent.com/2kw8s66dhLUegJ3XrqZSkZMfp77CRhCfYm1NurDwDB2L9sT_-CaoUix_iWjoE_t66b07JzoR=s176-c-k-c0x00ffffff-no-rj" group-title="IPTV" tvg-chno=" ",NASA
 https://ythls.armelin.one/channel/UCLA_DiR1FfKNvjuUpBHmylQ.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo="https://yt3.googleusercontent.com/13FpK4FfJb_I-aTMNRQTmaxLO2vjEi_NzWm1KxOzr-vjYLX7QmfHwn6XC3PfEf4Oay5WjP0CXw=s176-c-k-c0x00ffffff-no-rj" group-title="Câble" tvg-chno=" ",Nat Geo (US)
+https://ythls.armelin.one/channel/UCpVm7bg6pXKo1Pr6k5kxG9A.m3u8
 #EXTINF:-1 tvg-id=" " tvg-logo="https://yt3.googleusercontent.com/ytc/APkrFKYumGr54VqQryV2K6gfGULpTJR3z4AauFbnkEjWMg=s176-c-k-c0x00ffffff-no-rj" group-title="Câble" tvg-chno=" ",Nat Geo Wild (US)
 https://ythls.armelin.one/channel/UCDPk9MG2RexnOMGTD-YnSnA.m3u8
 #EXTINF:-1 tvg-id=" " tvg-logo="https://yt3.googleusercontent.com/ytc/APkrFKbW5ue48unbcbvdn-esgCubY3HXFOlVCdgqHz-Z=s176-c-k-c0x00ffffff-no-rj" group-title="IPTV" tvg-chno=" ",Nordest 24
@@ -83,6 +99,8 @@ https://ythls.armelin.one/channel/UC0f4WJAjYdwl4XYHz-6FhyQ.m3u8
 https://ythls.armelin.one/channel/UCsN8M73DMWa8SPp5o_0IAQQ.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.radio.fr/images/broadcasts/09/90/35708/3/c300.png" group-title="IPTV" tvg-chno=" ",Tomorrowland - One World Radio Daybreak Sessions
 https://ythls.armelin.one/channel/UCsN8M73DMWa8SPp5o_0IAQQ.m3u8
+#EXTINF:-1 tvg-id="TRTWorld.tr" tvg-logo="https://yt3.ggpht.com/4FK_4c1SOUGyQXgvLZ7WDJXB-sE8vVntcrTI7PYCiYkjkftELWfuRiQW_-1w6_uPbSY6T6ij=s88-c-k-c0x00ffffff-no-rj" group-title="IPTV" tvg-chno=" ",TRT World
+https://ythls.armelin.one/channel/UC7fWeaHhqgM4Ry-RMpM2YYw.m3u8
 #EXTINF:-1 tvg-id=" " tvg-logo="https://www.lourdes-france.com/wp-content/uploads/2021/11/logo_TV-Lourdes.png" group-title="IPTV" tvg-chno=" ",TV Lourdes
 https://ythls.armelin.one/channel/UC7zlbnNCnuAPiC3goKcFgUg.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://yt3.googleusercontent.com/ytc/APkrFKZR_9w-alROLFeRq4NpAakGB1__G16jXII2tQKC8w=s176-c-k-c0x00ffffff-no-rj" group-title="IPTV" tvg-chno=" ",Nations Unies TV
