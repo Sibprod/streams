@@ -274,6 +274,11 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01201-cinedigmenterta-realmadrid-ci
 #EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="Sport" tvg-chno=" ",TorOlé
 https://nodep002.service.openstream.es/SVoriginOperatorEdge2/smil:49_HD.smil/manifest.m3u8
 
+--- CANÁLES REGIONALES ---
+
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="Régionales" tvg-chno=" ",7 La Rioja
+https://raw.githubusercontent.com/Sibprod/streams/main/ressources/dmotion/py/Locales/7LaRioja.m3u8
+
 --- CADENAS LATINOAMERICANAS ---
 
 #EXTINF:-1 tvg-id="TVP.ar" tvg-logo="https://yt3.googleusercontent.com/5lHbUMHAepSNrhSsVMYkzfXNud-xXia5KHM9BP7iN-tK5ZHmyazhWcjL_r9RNgNQSkukolI_QA=s176-c-k-c0x00ffffff-no-rj" group-title="TDT_Argentina" tvg-chno="23",Televisión Pública de Argentina
