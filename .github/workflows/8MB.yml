@@ -28,7 +28,7 @@ jobs:
           git config --global user.email "<>"
           git config --global user.name "8 Mont-Blanc bot"
       
-      - name: updating Telenantes
+      - name: updating 8 Mont-Blanc
         run: sh ressources/dmotion/py/8MB/8MB.sh
         
       - name: git add
