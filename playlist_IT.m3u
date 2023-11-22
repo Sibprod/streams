@@ -417,7 +417,7 @@ https://5926fc9c7c5b2.streamlock.net/9108/9108/playlist.m3u8
 #EXTINF:-1 tvg-id="Videolina.it" tvg-logo="https://i.imgur.com/Z5NeYwu.png" group-title="DTT_Regionale" tvg-chno="10",SA10.Videolina
 http://livestreaming.videolina.it/live/Videolina/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/gv2pLIp.png" group-title="DTT_Regionale" tvg-chno="12",SA12.Sardegna Uno
-https://raw.githubusercontent.com/azgaresncf/strm2hls/main/streams/Sardegna1.m3u8
+https://raw.githubusercontent.com/Sibprod/streams/main/ressources/dmotion/py/Locales/Sardegna1.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://uno4.it/wp-content/uploads/2022/03/Risorsa-1@4x.png" group-title="DTT_Regionale" tvg-chno="14",SA14.Uno 4 
 https://cdn95-usa.azotosolutions.com:8443/cdnedge8/smil:live2.smil/playlist_slen.m3u8
 #EXTINF:-1 tvg-id="SuperTVAristanis.it" tvg-logo="https://lh7-us.googleusercontent.com/sheets/ACTFsxQb_ze1FB2Nl05PImwSUVabyD-J4wXdi4BTvTjhv0Rm_nabJkieFjpgrgrYeELuzVv1sH2v71JIxfUvBw5Huw0-FlQGEM9QGPck-nT61iGPZjxa-pNp2tCh4teGTZhxiRoISuqveJhKNWq9xvgHqJ2KNMQveg=w60-h47" group-title="DTT_Regionale" tvg-chno="77",SA77.Super TV Aristanis
