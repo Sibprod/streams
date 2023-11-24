@@ -244,6 +244,11 @@ https://ztnr.rtve.es/ztnr/6891743.m3u8
 #EXTINF:-1 tvg-id="Telecinco.es" tvg-logo="https://estaticos.tdt1.com/canales/logotelecinco.jpg" group-title="Général" tvg-chno="5",Telecinco
 http://167.114.156.136:25461/INFINITV/ZX89NM22/203
 
+#EXTINF:-1 tvg-id="RealMadridTV.es" tvg-logo="https://i.imgur.com/5pMo7dL.png" group-title="Sport" tvg-chno=" ",Real Madrid TV
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01201-cinedigmenterta-realmadrid-cineverse/playlist.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="Sport" tvg-chno=" ",TorOlé
+https://nodep002.service.openstream.es/SVoriginOperatorEdge2/smil:49_HD.smil/manifest.m3u8
+
 #EXTINF:-1 tvg-id="RTP1.pt" tvg-logo="https://i.imgur.com/w7GV86i.png" group-title="Général" tvg-chno="1",RTP 1
 https://streaming-live.rtp.pt/liverepeater/rtp1HD.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="RTP2.pt" tvg-logo=" " group-title="Général" tvg-chno="2",RTP 2
@@ -259,25 +264,16 @@ https://streaming-live.rtp.pt/liverepeater/smil:rtpi.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="RTPAfrica.pt" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/RTP_África_2016_%28Reduced_Version%29.svg/512px-RTP_África_2016_%28Reduced_Version%29.svg.png" group-title="Général" tvg-chno="12",RTP África
 https://streaming-live.rtp.pt/liverepeater/smil:rtpafrica.smil/playlist.m3u8
 
+--- CANÁLES REGIONALES ---
+
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="Régionales" tvg-chno=" ",7 La Rioja
+https://raw.githubusercontent.com/Sibprod/streams/main/ressources/dmotion/py/Locales/7LaRioja.m3u8
 #EXTINF:-1 tvg-id="TV3CAT.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/TV3CAT.svg/512px-TV3CAT.svg.png" group-title="Général" tvg-chno=" ",TV3 Catalunya
 https://directes-tv-int.ccma.cat/live-origin/tvi-hls/master.m3u8
 #EXTINF:-1 tvg-id="324.es" tvg-logo="https://i.imgur.com/SG7D0gt.png" group-title="Information" tvg-chno=" ",3/24
 https://directes-tv-int.ccma.cat/live-origin/canal324-hls/master.m3u8
 #EXTINF:-1 tvg-id="SX3.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/SX3_logo.svg/300px-SX3_logo.svg.png" group-title="Jeunesse" tvg-chno=" ",SX3
 https://directes-tv-int.ccma.cat/live-origin/super3-hls/master.m3u8
-
-#EXTINF:-1 tvg-id="Atrescine.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/A3Cine.png/120px-A3Cine.png" group-title="Cinéma-Séries" tvg-chno="31",A3 Cine
-https://live.atresmediainternacional.com/ATRESMEDIA/a3cine-index.m3u8
-
-#EXTINF:-1 tvg-id="RealMadridTV.es" tvg-logo="https://i.imgur.com/5pMo7dL.png" group-title="Sport" tvg-chno=" ",Real Madrid TV
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01201-cinedigmenterta-realmadrid-cineverse/playlist.m3u8
-#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="Sport" tvg-chno=" ",TorOlé
-https://nodep002.service.openstream.es/SVoriginOperatorEdge2/smil:49_HD.smil/manifest.m3u8
-
---- CANÁLES REGIONALES ---
-
-#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="Régionales" tvg-chno=" ",7 La Rioja
-https://raw.githubusercontent.com/Sibprod/streams/main/ressources/dmotion/py/Locales/7LaRioja.m3u8
 
 --- CADENAS LATINOAMERICANAS ---
 
