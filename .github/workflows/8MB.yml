@@ -1,6 +1,6 @@
 # This is a basic workflow to help you get started with Actions
 # Thanks to pshanmu3 user on github
-name: 8 Mont-Blanc action
+name: 8MB action
 
 # Controls when the workflow will run
 on:
@@ -26,9 +26,9 @@ jobs:
       - name: config
         run: |
           git config --global user.email "<>"
-          git config --global user.name "8 Mont-Blanc bot"
+          git config --global user.name "8MB bot"
       
-      - name: updating 8 Mont-Blanc
+      - name: updating 8MB
         run: sh ressources/dmotion/py/8MB/8MB.sh
         
       - name: git add
@@ -38,5 +38,5 @@ jobs:
 
       - name: commit & push
         run: |
-          git commit -m "8 Mont-Blanc updated"
+          git commit -m "8MB updated"
           git push
