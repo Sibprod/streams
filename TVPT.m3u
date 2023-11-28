@@ -1,0 +1,43 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="RTP1.pt" tvg-logo="https://i.ibb.co/3YZFCjp/rtp1.jpg" group-title="" tvg-chno="",RTP 1
+https://streaming-live.rtp.pt/liverepeater/rtp1HD.smil/playlist_slpor.m3u8
+#EXTINF:-1 tvg-id="RTP2.pt" tvg-logo="https://i.ibb.co/tbFT1V2/rtp2.jpg" group-title="" tvg-chno="",RTP 2
+
+#EXTINF:-1 tvg-id="RTP3.pt" tvg-logo="https://i.ibb.co/HnqCkQj/rtp3.jpg" group-title="" tvg-chno="",RTP 3
+https://streaming-live.rtp.pt/liverepeater/rtpnHD.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="RTPMemoria.pt" tvg-logo="https://i.ibb.co/vZ9S4rV/rtpmem.jpg" group-title="" tvg-chno="",RTP Memória
+
+#EXTINF:-1 tvg-id="RTPAfrica.pt" tvg-logo="https://i.ibb.co/BsdgH54/rtpafr.webp" group-title="" tvg-chno="",RTP África
+https://streaming-live.rtp.pt/liverepeater/rtpafrica.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="RTPAcores.pt" tvg-logo="https://i.ibb.co/9GMzcw7/rtpaco.jpg" group-title="" tvg-chno="",RTP Açores
+https://streaming-live.rtp.pt/liverepeater/rtpacores.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="RTPMadeira.pt" tvg-logo="https://i.ibb.co/bvwwcB9/rtpmad.jpg" group-title="" tvg-chno="",RTP Madeira
+https://streaming-live.rtp.pt/liverepeater/rtpmadeira.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="Antena1.pt" tvg-logo=" " group-title="" tvg-chno="",RTP Antena 1
+https://streaming-live.rtp.pt/liveradio/antena180a/playlist_DVR.m3u8
+#EXTINF:-1 tvg-id="Antena2.pt" tvg-logo=" " group-title="" tvg-chno="",RTP Antena 2
+https://streaming-live.rtp.pt/liveradio/antena280a/playlist.m3u8?DVR
+#EXTINF:-1 tvg-id="Antena3.pt" tvg-logo=" " group-title="" tvg-chno="",RTP Antena 3
+https://streaming-live.rtp.pt/liveradio/antena380a/playlist.m3u8?DVR
+#EXTINF:-1 tvg-id="SIC.pt" tvg-logo="https://i.ibb.co/6r1xHn6/sic.png" group-title="" tvg-chno="",SIC
+https://d1zx6l1dn8vaj5.cloudfront.net/out/v1/b89cc37caa6d418eb423cf092a2ef970/index.m3u8
+#EXTINF:-1 tvg-id="SICNoticias.pt" tvg-logo="https://i.ibb.co/1QHfvZJ/sicnoc.png" group-title="" tvg-chno="",SIC Notícias
+https://d277k9d1h9dro4.cloudfront.net/out/v1/293e7c3464824cbd8818ab8e49dc5fe9/index.m3u8
+#EXTINF:-1 tvg-id="SICNovelas.pt" tvg-logo="" group-title="" tvg-chno="",SIC Novelas
+https://fast.live.impresa.pt/out/v1/b5be42c4a68d4ee18461a7156bb8ecf2/sic-novelas.m3u8
+#EXTINF:-1 tvg-id="TVI.pt" tvg-logo="https://i.ibb.co/pyXp0bk/tvi.png" group-title="" tvg-chno="",TVI
+https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/tvipt/sh/tvi.m3u8
+#EXTINF:-1 tvg-id="TVIInternacional.pt" tvg-logo="" group-title="" tvg-chno="",TVI internacional
+https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/tvipt/sh/tviint.m3u8
+#EXTINF:-1 tvg-id="TVIFiccao.pt" tvg-logo="https://i.ibb.co/hg8wkqj/tvific.jpg",TVI Ficção
+https://video-auth2.iol.pt/live_tvi_ficcao/live_tvi_ficcao/edge_servers/tvificcao-720p/playlist.m3u8
+#EXTINF:-1 tvg-id="TVIReality.pt" tvg-logo="https://i.ibb.co/xYNTr2v/tvirea.jpg",TVI Reality
+https://video-auth4.iol.pt/live_tvi_reality/live_tvi_reality/edge_servers/tvireality-720_passthrough/playlist.m3u8
+#EXTINF:-1 tvg-id="TVIAfrica.pt" tvg-logo="https://i.ibb.co/vvRXDTV/tviafrica.jpg",TVI África
+https://video-auth4.iol.pt/live_tvi_africa/live_tvi_africa/edge_servers/tviafrica-480p/playlist.m3u8
+#EXTINF:-1 tvg-id="CNN.pt" tvg-logo="https://i.ibb.co/XbSHxd5/cnn.png" group-title="" tvg-chno="",CNN (Portugal)
+https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/tvipt/sh/cnnpt.m3u8
+#EXTINF:-1 tvg-id="Euronews.pt" tvg-logo="https://i.ibb.co/VxLFYSj/euronews.png" group-title="" tvg-chno="",Euronews (Português)
+https://7c8b7dbf12d64234a983336fdddb88c2.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-pt_EuroNewsLive/playlist.m3u8
+#EXTINF:-1 tvg-id="ARTV.pt" tvg-logo="https://i.ibb.co/zZwMM3d/arparl.png" group-title="" tvg-chno="",ARTV
+https://playout175.livextend.cloud/livenlin4/_definst_/2liveartvpub2/playlist.m3u8
