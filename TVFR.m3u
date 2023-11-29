@@ -335,11 +335,13 @@ https://ythls.armelin.one/channel/UC0JP0ek-HhcqisiEpsZiQZA.m3u8
 https://rcavlive.akamaized.net/hls/live/704025/xcanrdi/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://yt3.ggpht.com/ytc/AGIKgqM2dP80gkZP-sc1ZRFQKEColJHeuS5OlbDEl8o8=s48-c-k-c0x00ffffff-no-rj" group-title="Canada" tvg-chno="19",Télé-Mag Québec
 https://ythls.armelin.one/channel/UCNKXYT-Nng5LBMUQrZJ9zWA.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/KFhhkEB.png" group-title="Canada" tvg-chno="43",Canal de l'Assemblée Nationale (Québec)
+https://diffusionm.assnat.qc.ca/diffusion/canal17/playlist.m3u8
 #EXTINF:-1 tvg-id="CanalSavoir.ca" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/ff/Savoir_tv_logo.png" group-title="Canada" tvg-chno="47",Savoir.Media
 https://hls.savoir.media/live/stream.m3u8
 #EXTINF:-1 tvg-id="M6International.fr" tvg-logo="https://i.ibb.co/6RYpdNz/m6int.png" group-title="Canada" tvg-chno="67",M6 International
 https://shls-m6-int-prod-dub.shahid.net/out/v1/a315ab77ee7343a7a17dbe7e32eee3ba/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/sq11nQ1/rdicanada.png" group-title="Canada" tvg-chno="116",ICI (International Channel / La Chaîne Internationale)
+#EXTINF:-1 tvg-id="CFHDDT.ca" tvg-logo="https://i.imgur.com/x0vLIWr.png" group-title="Canada" tvg-chno="116",ICI (International Channel / La Chaîne Internationale)
 https://amdici.akamaized.net/hls/live/873426/ICI-Live-Stream/master.m3u8
 --- HAÏTI ---
 #EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="Haïti" tvg-chno=" ",Kajou TV
