@@ -144,6 +144,136 @@ https://ythls.armelin.one/channel/UCaEqMbRYYOmI3WrALMhxuIg.m3u8
 http://www.callofliberty.fr/direct/BSMART/master.m3u8
 #EXTINF:-1 tvg-id="LyonCapitaleTV.fr" tvg-logo="" group-title="France" tvg-chno="476",Lyon Capitale TV
 https://raw.githubusercontent.com/Sibprod/streams/main/ressources/dmotion/py/SudRadio/LyonCapitale.m3u8
+
+#EXTINF:-1 tvg-id=" " tvg-logo="" tvg-group="France" tvg-chno="1015",Euronews (Français)
+https://euronews-euronews-french-3-fr.xiaomi.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo="" tvg-group="France" tvg-chno="1505",MyTime Movie Network
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00500-studiocitypictu-mytimefr-xiaomi/playlist.m3u8
+#EXTINF:-1 channel-id="pluto-639b54404cfdf7000729b3c1" tvg-id="639b54404cfdf7000729b3c1" tvg-logo="https://images.pluto.tv/channels/639b54404cfdf7000729b3c1/colorLogoPNG.png" tvg-chno="2034" group-title="France",INA 70
+https://i.mjh.nz/PlutoTV/639b54404cfdf7000729b3c1-alt.m3u8
+#EXTINF:-1 channel-id="pluto-5f8ed4dbf6bb0800071ffbcb" tvg-id="5f8ed4dbf6bb0800071ffbcb" tvg-logo="https://images.pluto.tv/channels/5f8ed4dbf6bb0800071ffbcb/colorLogoPNG.png" tvg-chno="2080" group-title="France",Pluto TV Polar
+https://i.mjh.nz/PlutoTV/5f8ed4dbf6bb0800071ffbcb-alt.m3u8
+#EXTINF:-1 channel-id="pluto-5f8ed2d1c34c2300073bf02c" tvg-id="5f8ed2d1c34c2300073bf02c" tvg-logo="https://images.pluto.tv/channels/5f8ed2d1c34c2300073bf02c/colorLogoPNG.png" tvg-chno="2085" group-title=group-title="France",Pluto TV Series
+https://i.mjh.nz/PlutoTV/5f8ed2d1c34c2300073bf02c-alt.m3u8
+#EXTINF:-1 channel-id="pluto-5f914f9dccb4de0007df8bc4" tvg-id="5f914f9dccb4de0007df8bc4" tvg-logo="https://images.pluto.tv/channels/5f914f9dccb4de0007df8bc4/colorLogoPNG.png" tvg-chno="2090" group-title=group-title="France",Pluto TV Telenovela
+https://i.mjh.nz/PlutoTV/5f914f9dccb4de0007df8bc4-alt.m3u8
+#EXTINF:-1 channel-id="pluto-625ec7a1c853fd00073b38fd" tvg-id="625ec7a1c853fd00073b38fd" tvg-logo="https://images.pluto.tv/channels/625ec7a1c853fd00073b38fd/colorLogoPNG.png" tvg-chno="2095" group-title="France",Pluto TV Séries Fantastiques
+https://i.mjh.nz/PlutoTV/625ec7a1c853fd00073b38fd-alt.m3u8
+#EXTINF:-1 channel-id="pluto-5f8eb7e3d2ed18000746d09a" tvg-id="5f8eb7e3d2ed18000746d09a" tvg-logo="https://images.pluto.tv/channels/5f8eb7e3d2ed18000746d09a/colorLogoPNG.png" tvg-chno="2100" group-title="France",Pluto TV Teen Series
+https://i.mjh.nz/PlutoTV/5f8eb7e3d2ed18000746d09a-alt.m3u8
+#EXTINF:-1 channel-id="pluto-62f3e0522443200008c567d7" tvg-id="62f3e0522443200008c567d7" tvg-logo="https://images.pluto.tv/channels/62f3e0522443200008c567d7/colorLogoPNG.png" tvg-chno="2225" group-title="France",Pluto TV French Collection
+https://i.mjh.nz/PlutoTV/62f3e0522443200008c567d7-alt.m3u8
+#EXTINF:-1 channel-id="pluto-5f8ed1ff5c39700007e2204a" tvg-id="5f8ed1ff5c39700007e2204a" tvg-logo="https://images.pluto.tv/channels/5f8ed1ff5c39700007e2204a/colorLogoPNG.png" tvg-chno="2300" group-title="France",Pluto TV Action
+https://i.mjh.nz/PlutoTV/5f8ed1ff5c39700007e2204a-alt.m3u8
+#EXTINF:-1 channel-id="pluto-60c3472a51a2050008dad272" tvg-id="60c3472a51a2050008dad272" tvg-logo="https://images.pluto.tv/channels/60c3472a51a2050008dad272/colorLogoPNG.png" tvg-chno="2305" group-title="France",Pluto TV Thrillers
+https://i.mjh.nz/PlutoTV/60c3472a51a2050008dad272-alt.m3u8
+#EXTINF:-1 channel-id="pluto-60c34592c911890007f29a73" tvg-id="60c34592c911890007f29a73" tvg-logo="https://images.pluto.tv/channels/60c34592c911890007f29a73/colorLogoPNG.png" tvg-chno="2310" group-title="France",Pluto TV Sci-Fi
+https://i.mjh.nz/PlutoTV/60c34592c911890007f29a73-alt.m3u8
+#EXTINF:-1 channel-id="pluto-62f3e2d000418d00070f7dbc" tvg-id="62f3e2d000418d00070f7dbc" tvg-logo="https://images.pluto.tv/channels/62f3e2d000418d00070f7dbc/colorLogoPNG.png" tvg-chno="2315" group-title="France",Pluto TV Ciné d'Asie
+https://i.mjh.nz/PlutoTV/62f3e2d000418d00070f7dbc-alt.m3u8
+#EXTINF:-1 channel-id="pluto-5f8ed0f17564a300082b676a" tvg-id="5f8ed0f17564a300082b676a" tvg-logo="https://images.pluto.tv/channels/5f8ed0f17564a300082b676a/colorLogoPNG.png" tvg-chno="2320" group-title="France",Pluto TV Ciné
+https://i.mjh.nz/PlutoTV/5f8ed0f17564a300082b676a-alt.m3u8
+#EXTINF:-1 channel-id="pluto-60812fc8539963000707d1e1" tvg-id="60812fc8539963000707d1e1" tvg-logo="https://images.pluto.tv/channels/60812fc8539963000707d1e1/colorLogoPNG.png" tvg-chno="2325" group-title="France",Pluto TV Romance
+https://i.mjh.nz/PlutoTV/60812fc8539963000707d1e1-alt.m3u8
+#EXTINF:-1 channel-id="pluto-5f8ed168f72fcd0007e56269" tvg-id="5f8ed168f72fcd0007e56269" tvg-logo="https://images.pluto.tv/channels/5f8ed168f72fcd0007e56269/colorLogoPNG.png" tvg-chno="2335" group-title="France",Pluto TV Ciné Rétro
+https://i.mjh.nz/PlutoTV/5f8ed168f72fcd0007e56269-alt.m3u8
+#EXTINF:-1 channel-id="pluto-5f914f4b36d67d0007a91a04" tvg-id="5f914f4b36d67d0007a91a04" tvg-logo="https://images.pluto.tv/channels/5f914f4b36d67d0007a91a04/colorLogoPNG.png" tvg-chno="2400" group-title="France",Pluto TV Investigation
+https://i.mjh.nz/PlutoTV/5f914f4b36d67d0007a91a04-alt.m3u8
+#EXTINF:-1 channel-id="pluto-5f8ed9461b35690007a0bc3a" tvg-id="5f8ed9461b35690007a0bc3a" tvg-logo="https://images.pluto.tv/channels/5f8ed9461b35690007a0bc3a/colorLogoPNG.png" tvg-chno="2405" group-title="France",Pluto TV Paranormal
+https://i.mjh.nz/PlutoTV/5f8ed9461b35690007a0bc3a-alt.m3u8
+#EXTINF:-1 channel-id="pluto-611e6a9b4bb5790007a6f0f8" tvg-id="611e6a9b4bb5790007a6f0f8" tvg-logo="https://images.pluto.tv/channels/611e6a9b4bb5790007a6f0f8/colorLogoPNG.png" tvg-chno="2530" group-title="France",Pluto TV Retro Toons
+https://i.mjh.nz/PlutoTV/611e6a9b4bb5790007a6f0f8-alt.m3u8
+#EXTINF:-1 channel-id="pluto-5f8eccd81062c300078a11df" tvg-id="5f8eccd81062c300078a11df" tvg-logo="https://images.pluto.tv/channels/5f8eccd81062c300078a11df/colorLogoPNG.png" tvg-chno="2535" group-title="France",Gaming TV
+https://i.mjh.nz/PlutoTV/5f8eccd81062c300078a11df-alt.m3u8
+#EXTINF:-1 channel-id="pluto-611e771e2f5f180007002224" tvg-id="611e771e2f5f180007002224" tvg-logo="https://images.pluto.tv/channels/611e771e2f5f180007002224/colorLogoPNG.png" tvg-chno="2610" group-title="France",Pluto TV Histoire
+https://i.mjh.nz/PlutoTV/611e771e2f5f180007002224-alt.m3u8
+#EXTINF:-1 channel-id="pluto-5f8ed3892ed7bb000741a1d2" tvg-id="5f8ed3892ed7bb000741a1d2" tvg-logo="https://images.pluto.tv/channels/5f8ed3892ed7bb000741a1d2/colorLogoPNG.png" tvg-chno="2620" group-title="France",Pluto TV Inside
+https://i.mjh.nz/PlutoTV/5f8ed3892ed7bb000741a1d2-alt.m3u8
+#EXTINF:-1 channel-id="pluto-60925a44f0350600075a1fdc" tvg-id="60925a44f0350600075a1fdc" tvg-logo="https://images.pluto.tv/channels/60925a44f0350600075a1fdc/colorLogoPNG.png" tvg-chno="2625" group-title="France",Pluto TV Animaux
+https://i.mjh.nz/PlutoTV/60925a44f0350600075a1fdc-alt.m3u8
+#EXTINF:-1 channel-id="pluto-5f8ed48146ba9e00078424b6" tvg-id="5f8ed48146ba9e00078424b6" tvg-logo="https://images.pluto.tv/channels/5f8ed48146ba9e00078424b6/colorLogoPNG.png" tvg-chno="2630" group-title="France",Pluto TV Cuisine
+https://i.mjh.nz/PlutoTV/5f8ed48146ba9e00078424b6-alt.m3u8
+#EXTINF:-1 channel-id="pluto-611e7811eb9daf000764cbfd" tvg-id="611e7811eb9daf000764cbfd" tvg-logo="https://images.pluto.tv/channels/611e7811eb9daf000764cbfd/colorLogoPNG.png" tvg-chno="2640" group-title="France",Pluto TV Voyage
+https://i.mjh.nz/PlutoTV/611e7811eb9daf000764cbfd-alt.m3u8
+#EXTINF:-1 channel-id="pluto-60803e541a829e0008e91641" tvg-id="60803e541a829e0008e91641" tvg-logo="https://images.pluto.tv/channels/60803e541a829e0008e91641/colorLogoPNG.png" tvg-chno="2645" group-title="France",Pluto TV Yoga
+https://i.mjh.nz/PlutoTV/60803e541a829e0008e91641-alt.m3u8
+#EXTINF:-1 channel-id="pluto-6092544e7639460007d4835e" tvg-id="6092544e7639460007d4835e" tvg-logo="https://images.pluto.tv/channels/6092544e7639460007d4835e/colorLogoPNG.png" tvg-chno="2710" group-title="France",Pluto TV Reality
+https://i.mjh.nz/PlutoTV/6092544e7639460007d4835e-alt.m3u8
+#EXTINF:-1 channel-id="pluto-5f8eb99ff17815000784a3b0" tvg-id="5f8eb99ff17815000784a3b0" tvg-logo="https://images.pluto.tv/channels/5f8eb99ff17815000784a3b0/colorLogoPNG-1608309057566.png" tvg-chno="2930" group-title="France",Pluto TV Kids Séries
+https://i.mjh.nz/PlutoTV/5f8eb99ff17815000784a3b0-alt.m3u8
+#EXTINF:-1 channel-id="pluto-5f92b625c1ffbc0007e60c37" tvg-id="5f92b625c1ffbc0007e60c37" tvg-logo="https://images.pluto.tv/channels/5f92b625c1ffbc0007e60c37/colorLogoPNG-1608309673073.png" tvg-chno="2935" group-title="France",Pluto TV Kids Collection
+https://i.mjh.nz/PlutoTV/5f92b625c1ffbc0007e60c37-alt.m3u8
+#EXTINF:-1 channel-id="pluto-5f8eba14a4ffb8000764e950" tvg-id="5f8eba14a4ffb8000764e950" tvg-logo="https://images.pluto.tv/channels/5f8eba14a4ffb8000764e950/colorLogoPNG.png" tvg-chno="2940" group-title="France",Pluto TV Kids Animation
+https://i.mjh.nz/PlutoTV/5f8eba14a4ffb8000764e950-alt.m3u8
+#EXTINF:-1 channel-id="pluto-611e6ddc7fcd580007d1eb5f" tvg-id="611e6ddc7fcd580007d1eb5f" tvg-logo="https://images.pluto.tv/channels/611e6ddc7fcd580007d1eb5f/colorLogoPNG.png" tvg-chno="2970" group-title="France",Pluto TV Kids Gaming
+https://i.mjh.nz/PlutoTV/611e6ddc7fcd580007d1eb5f-alt.m3u8
+#EXTINF:-1 channel-id="pluto-5f8ecb336537e8000764a17f" tvg-id="5f8ecb336537e8000764a17f" tvg-logo="https://images.pluto.tv/channels/5f8ecb336537e8000764a17f/colorLogoPNG.png" tvg-chno="2985" group-title="France",Pluto TV Junior
+https://i.mjh.nz/PlutoTV/5f8ecb336537e8000764a17f-alt.m3u8
+#EXTINF:-1 channel-id="pluto-5f8eb91bb9b9e7000817e67f" tvg-id="5f8eb91bb9b9e7000817e67f" tvg-logo="https://images.pluto.tv/channels/5f8eb91bb9b9e7000817e67f/colorLogoPNG.png" tvg-chno="3010" group-title="France",Pluto TV Comédie
+https://i.mjh.nz/PlutoTV/5f8eb91bb9b9e7000817e67f-alt.m3u8
+#EXTINF:-1 channel-id="pluto-625e79fe9b586d000785e330" tvg-id="625e79fe9b586d000785e330" tvg-logo="https://images.pluto.tv/channels/625e79fe9b586d000785e330/colorLogoPNG.png" tvg-chno="3030" group-title="France",Pluto TV Classic Hip-Hop
+https://i.mjh.nz/PlutoTV/625e79fe9b586d000785e330-alt.m3u8
+#EXTINF:-1 channel-id="pluto-6447d08f2858cb0008b9957c" tvg-id="6447d08f2858cb0008b9957c" tvg-logo="https://images.pluto.tv/channels/6447d08f2858cb0008b9957c/colorLogoPNG.png" tvg-chno="3035" group-title="France",Pluto TV Classic Rock
+https://i.mjh.nz/PlutoTV/6447d08f2858cb0008b9957c-alt.m3u8
+#EXTINF:-1 channel-id="pluto-60c8b57beef158000787ac19" tvg-id="60c8b57beef158000787ac19" tvg-logo="https://images.pluto.tv/channels/60c8b57beef158000787ac19/colorLogoPNG.png" tvg-chno="3040" group-title="France",Pluto TV K-Pop
+https://i.mjh.nz/PlutoTV/60c8b57beef158000787ac19-alt.m3u8
+#EXTINF:-1 channel-id="pluto-619b80acac5329000740c022" tvg-id="619b80acac5329000740c022" tvg-logo="https://images.pluto.tv/channels/619b80acac5329000740c022/colorLogoPNG.png" tvg-chno="3050" group-title="France",Pluto TV Love Songs
+https://i.mjh.nz/PlutoTV/619b80acac5329000740c022-alt.m3u8
+#EXTINF:-1 channel-id="pluto-6081310e48d3200007afaf3b" tvg-id="6081310e48d3200007afaf3b" tvg-logo="https://images.pluto.tv/channels/6081310e48d3200007afaf3b/colorLogoPNG.png" tvg-chno="3080" group-title="France",Pluto TV Sports
+https://i.mjh.nz/PlutoTV/6081310e48d3200007afaf3b-alt.m3u8
+#EXTINF:-1 channel-id="pluto-5f8ed327f9e9b0000761141e" tvg-id="5f8ed327f9e9b0000761141e" tvg-logo="https://images.pluto.tv/channels/5f8ed327f9e9b0000761141e/colorLogoPNG-1608309868765.png" tvg-chno="3085" group-title="France",Pluto TV Extrême
+https://i.mjh.nz/PlutoTV/5f8ed327f9e9b0000761141e-alt.m3u8
+#EXTINF:-1 channel-id="pluto-618d4ea306d23b0007356080" tvg-id="618d4ea306d23b0007356080" tvg-logo="https://images.pluto.tv/channels/618d4ea306d23b0007356080/colorLogoPNG.png" tvg-chno="3090" group-title="France",Pluto TV Motor
+https://i.mjh.nz/PlutoTV/618d4ea306d23b0007356080-alt.m3u8
+#EXTINF:-1 channel-id="samsung-FRBC4000001IO" tvg-id="FRBC4000001IO" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBC4000001IO_20230823T033111SQUARE.png_20230823033112.png" tvg-chno="4001" group-title="France",Destination Nature
+https://i.mjh.nz/SamsungTVPlus/FRBC4000001IO.m3u8
+#EXTINF:-1 channel-id="samsung-FRBA1000005TW" tvg-id="FRBA1000005TW" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBA1000005TW_20230222T012114SQUARE.png_20230222012115.png" tvg-chno="4003" group-title="France",Euronews en direct
+https://i.mjh.nz/SamsungTVPlus/FRBA1000005TW.m3u8
+#EXTINF:-1 channel-id="samsung-FRBA2200007G7" tvg-id="FRBA2200007G7" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBA2200007G7_20230913T030647SQUARE.png_20230913030648.png" tvg-chno="4116" group-title="France",ADN
+https://i.mjh.nz/SamsungTVPlus/FRBA2200007G7.m3u8
+#EXTINF:-1 channel-id="samsung-FRBB49000014I" tvg-id="FRBB49000014I" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBB49000014I_20220511T011734SQUARE.png_20220511011736.png" tvg-chno="4117" group-title="France",Gong
+https://i.mjh.nz/SamsungTVPlus/FRBB49000014I.m3u8
+#EXTINF:-1 channel-id="samsung-FRBC3900003ZH" tvg-id="FRBC3900003ZH" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBC3900003ZH_20221012T021120SQUARE.png_20221012021120.png" tvg-chno="4121" group-title="France",MGG FAST
+https://i.mjh.nz/SamsungTVPlus/FRBC3900003ZH.m3u8
+#EXTINF:-1 channel-id="samsung-FRBD110000181" tvg-id="FRBD110000181" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBD110000181_20230510T043938SQUARE.png_20230510043939.png" tvg-chno="4139" group-title="France",Culture Pub
+https://i.mjh.nz/SamsungTVPlus/FRBD110000181.m3u8
+#EXTINF:-1 channel-id="samsung-FRBA1000008LK" tvg-id="FRBA1000008LK" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBA1000008LK_20220713T034405SQUARE.png_20220713034406.png" tvg-chno="4163" group-title="France",BBC Drama
+https://i.mjh.nz/SamsungTVPlus/FRBA1000008LK.m3u8
+#EXTINF:-1 channel-id="samsung-FRBD15000024B" tvg-id="FRBD15000024B" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBD15000024B_20230512T023612SQUARE.png_20230512023612.png" tvg-chno="4174" group-title="France",Passion Novelas
+https://i.mjh.nz/SamsungTVPlus/FRBD15000024B.m3u8
+#EXTINF:-1 channel-id="samsung-FRBC4700001XG" tvg-id="FRBC4700001XG" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBC4700001XG_20230809T053911SQUARE.png_20230809053911.png" tvg-chno="4176" group-title="France",Génération Sitcoms
+https://i.mjh.nz/SamsungTVPlus/FRBC4700001XG.m3u8
+#EXTINF:-1 channel-id="samsung-FRBC800001X0" tvg-id="FRBC800001X0" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBC800001X0_20220810T012631SQUARE.png_20220810012632.png" tvg-chno="4178" group-title="France",Fréquence Novelas
+https://i.mjh.nz/SamsungTVPlus/FRBC800001X0.m3u8
+#EXTINF:-1 channel-id="samsung-FRBD39000064E" tvg-id="FRBD39000064E" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBD39000064E_20231101T032829SQUARE.png_20231101032830.png" tvg-chno="4208" group-title="France",100% Docs
+https://i.mjh.nz/SamsungTVPlus/FRBD39000064E.m3u8
+#EXTINF:-1 channel-id="samsung-FRBD11000038N" tvg-id="FRBD11000038N" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBD11000038N_20231011T084907SQUARE.png_20231011084907.png" tvg-chno="4217" group-title="France",L'Effet Papillon
+https://i.mjh.nz/SamsungTVPlus/FRBD11000038N.m3u8
+#EXTINF:-1 channel-id="samsung-FRBB49000033R" tvg-id="FRBB49000033R" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBB49000033R_20230426T015603SQUARE.png_20230426015603.png" tvg-chno="4221" group-title="France",Homicide
+https://i.mjh.nz/SamsungTVPlus/FRBB49000033R.m3u8
+#EXTINF:-1 channel-id="samsung-FRBB4900002D4" tvg-id="FRBB4900002D4" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBB4900002D4_20220810T012634SQUARE.png_20220810012634.png" tvg-chno="4255" group-title="France",Nature Time
+https://i.mjh.nz/SamsungTVPlus/FRBB4900002D4.m3u8
+#EXTINF:-1 channel-id="samsung-FRBC1400002JN" tvg-id="FRBC1400002JN" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBC1400002JN_20221109T010511SQUARE.png_20221109010511.png" tvg-chno="4316" group-title="France",Le Figaro Live
+https://i.mjh.nz/SamsungTVPlus/FRBC1400002JN.m3u8
+#EXTINF:-1 channel-id="samsung-FRBC3500002E4" tvg-id="FRBC3500002E4" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBC3500002E4_20230614T005623SQUARE.png_20230614005623.png" tvg-chno="4406" group-title="France",Echappées belles & Co
+https://i.mjh.nz/SamsungTVPlus/FRBC3500002E4.m3u8
+#EXTINF:-1 channel-id="samsung-FRBD2600002CR" tvg-id="FRBD2600002CR" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBD2600002CR_20230809T053916SQUARE.png_20230809053917.png" tvg-chno="4412" group-title="France",Maison & Travaux
+https://i.mjh.nz/SamsungTVPlus/FRBD2600002CR.m3u8
+#EXTINF:-1 channel-id="samsung-FRAJ4500020YA" tvg-id="FRAJ4500020YA" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRAJ4500020YA_20220323T075851SQUARE.png_20220323075854.png" tvg-chno="4414" group-title="France",Fashion TV
+https://i.mjh.nz/SamsungTVPlus/FRAJ4500020YA.m3u8
+#EXTINF:-1 channel-id="samsung-FRBB3900001PZ" tvg-id="FRBB3900001PZ" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBB3900001PZ_20220323T080447SQUARE.png_20220323080450.png" tvg-chno="4435" group-title="France",Chefclub TV
+https://i.mjh.nz/SamsungTVPlus/FRBB3900001PZ.m3u8
+#EXTINF:-1 channel-id="samsung-FRBD3600001BQ" tvg-id="FRBD3600001BQ" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBD3600001BQ_20231101T032831SQUARE.png_20231101032832.png" tvg-chno="4482" group-title="France",Drive TV
+https://i.mjh.nz/SamsungTVPlus/FRBD3600001BQ.m3u8
+#EXTINF:-1 channel-id="samsung-FRBC4200004XH" tvg-id="FRBC4200004XH" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBC4200004XH_20230414T072304SQUARE.png_20230414072305.png" tvg-chno="4501" group-title="France",L'Equipe Live 1
+https://i.mjh.nz/SamsungTVPlus/FRBC4200004XH.m3u8
+#EXTINF:-1 channel-id="samsung-FRBC4200005X2" tvg-id="FRBC4200005X2" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBC4200005X2_20230308T021650SQUARE.png_20230308021650.png" tvg-chno="4502" group-title="France",L'Equipe Live 2
+https://i.mjh.nz/SamsungTVPlus/FRBC4200005X2.m3u8
+#EXTINF:-1 channel-id="samsung-FRBC900001LB" tvg-id="FRBC900001LB" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBC900001LB_20230208T013112SQUARE.png_20230208013112.png" tvg-chno="4734" group-title="France",Émotion
+https://i.mjh.nz/SamsungTVPlus/FRBC900001LB.m3u8
+#EXTINF:-1 channel-id="samsung-FRBA1000009KO" tvg-id="FRBA1000009KO" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBA1000009KO_20220323T080440SQUARE.png_20220323080443.png" tvg-chno="4990" group-title="France",Bref Cinéma
+https://i.mjh.nz/SamsungTVPlus/FRBA1000009KO.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://image.jimcdn.com/app/cms/image/transf/dimension=90x90:format=png/path/sc4a623cd5d89b3b8/image/i15f8fb47fc9492dc/version/1643282614/image.png" group-title="France" tvg-chno="9A",Sud Radio
 https://raw.githubusercontent.com/Sibprod/streams/main/ressources/dmotion/py/SudRadio/SudRadio.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://image.jimcdn.com/app/cms/image/transf/dimension=90x90:format=jpg/path/sc4a623cd5d89b3b8/image/i1af3ca38e13bebfd/version/1672737444/image.jpg" group-title="France" tvg-chno="9B",Fun Radio
@@ -178,12 +308,10 @@ https://accesiptv.com/QGHet3DNeRGJ/kX4jGz3KnTPM/592.m3u8
 https://accesiptv.com/QGHet3DNeRGJ/kX4jGz3KnTPM/591.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://yt3.googleusercontent.com/ZDLMk8sm1aFCkzw_29qLJvIUMQVmBrrzaCIumBYDucp0YhXib6Dz7jxyqbkIsnd89b1UOfMnLA=s176-c-k-c0x00ffffff-no-rj" group-title="France" tvg-chno=" ",Kosmo (Français)
 https://ythls.armelin.one/channel/UCl-ipFGVotx_Tu5YWMEZgsg.m3u8
-#EXTINF:-1 tvg-id=" " tvg-logo="http://www.callofliberty.fr/tv/486-LEQUIPElive1/486-LEQUIPElive1.png" group-title="France" tvg-chno=" ",L'Équipe Live 1
-https://d3awaj0f2u3w26.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-gy7euubgydp20-ssai-prd/8fd3efae-4468-4ca0-9486-c6cdcb7b65d7/2.m3u8Q
-#EXTINF:-1 tvg-id=" " tvg-logo="http://www.callofliberty.fr/tv/487-LEQUIPElive2/487-LEQUIPElive2.png" group-title="France" tvg-chno=" ",L'Équipe Live 2
-https://d2l55nvfkhk4sg.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-jg7go1lqzgpny-ssai-prd/435d04a5-ab47-47c5-a2c1-bae01ae6d0c1/2.m3u8
 #EXTINF:-1 tvg-id=" " tvg-logo="https://s1.dmcdn.net/u/9gT3A1aF_7viwIhP6/60x60" group-title="France" tvg-chno=" ",Le Media 24/7
 https://raw.githubusercontent.com/Sibprod/streams/main/ressources/dmotion/py/LeMedia/LeMedia.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo="" tvg-group="France" tvg-chno=" ",Love Wine
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01821-lovetvchannels-lovewinefrance-lgfr/playlist.m3u8
 #EXTINF:-1 tvg-id=" " tvg-logo="https://i.imgur.com/REN30bx.png" group-title="France" tvg-chno=" ",MDL, Le Monde des Loisirs
 http://tv.mondeduloisir.fr:1935/tixtv/smil:web.smil/playlist.m3u8
 #EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="France" tvg-chno=" ",My Comedy
@@ -269,6 +397,8 @@ https://3abn-live.akamaized.net/hls/live/2010546-b/French/master.m3u8
 https://vdo2.pro-fhi.net:3112/stream/play.m3u8
 #EXTINF:-1 tvg-id="Africa24sport.fr" tvg-logo="https://i2.wp.com/africa24tv.com/wp-content/uploads/2021/09/logo.png?fit=300%2C129&ssl=1" group-title="Afrique" tvg-chno=" ",Africa 24 Sport
 https://livevideo.vedge.infomaniak.com/livecast/ik:africa24sport/manifest.m3u8
+#EXTINF:-1 tvg-logo="" tvg-group="Afrique",Africanews
+https://euronews-africanews-french-1-fr.xiaomi.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="Afrique" tvg-chno=" ",Ecclésia TV
 https://video1.getstreamhosting.com:1936/8018/8018/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Afrique" tvg-chno=" ",My TV Channel
@@ -343,12 +473,16 @@ https://hls.savoir.media/live/stream.m3u8
 https://shls-m6-int-prod-dub.shahid.net/out/v1/a315ab77ee7343a7a17dbe7e32eee3ba/index.m3u8
 #EXTINF:-1 tvg-id="CFHDDT.ca" tvg-logo="https://i.imgur.com/x0vLIWr.png" group-title="Canada" tvg-chno="116",ICI (International Channel / La Chaîne Internationale)
 https://amdici.akamaized.net/hls/live/873426/ICI-Live-Stream/master.m3u8
+#EXTINF:-1 channel-id="samsung-CABC2300010E4" tvg-id="CABC2300010E4" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CABC2300010E4_20230627T214840SQUARE.png_20230627214841.png" tvg-chno="1044" group-title="Canada",Radio-Canada Info
+https://i.mjh.nz/SamsungTVPlus/CABC2300010E4.m3u8
 --- HAÏTI ---
 #EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="Haïti" tvg-chno=" ",Kajou TV
 https://video1.getstreamhosting.com:1936/8055/8055/playlist.m3u8
 --- LUXEMBOURG ---
 #EXTINF:-1 tvg-id=" " tvg-logo="https://www.lyngsat.com/logo/tv/cc/chambre_des_deputes.png" group-title="Luxembourg" tvg-chno="11",Chamber TV
 https://media01.webtvlive.eu/chd-edge/_definst_/smil:chamber_tv_hd.smil/playlist.m3u8
+#EXTINF:-1 tvg-id=" "tvg-logo="" tvg-group="Luxembourg" tvg-chno="11",Luxe.TV
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01402-alchimiemedia-luxefr-xiaomi/playlist.m3u8
 --- OUTREMER ---
 #EXTINF:-1 tvg-id="AntenneReunion.mu" tvg-logo="http://www.callofliberty.fr/tv/47-AntenneREUNION/47-AntenneREUNION.png" group-title="Outremer" tvg-chno="2",Antenne Réunion
 https://live-antenne-reunion.zeop.tv/live/c3eds/antreunihd/hls_fta/antreunihd.m3u8?location=ZEOP01
