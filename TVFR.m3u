@@ -57,11 +57,11 @@ http://s2.callofliberty.fr/direct/TF1SERIESFILMS/master.m3u8
 #EXTINF:-1 tvg-id="LEquipe.fr" tvg-logo="https://focus.telerama.fr/104x104/60/0000/00/01/clear-1401.png" group-title="France" tvg-chno="21",L'Équipe
 http://s2.callofliberty.fr/direct/LEQUIPE/master.m3u8
 #EXTINF:-1 tvg-id="6ter.fr" tvg-logo="https://focus.telerama.fr/104x104/60/0000/00/01/clear-1403.png" group-title="France" tvg-chno="22",6Ter
-
+https://accesiptv.com:443/QGHet3DNeRGJ/kX4jGz3KnTPM/95.m3u8
 #EXTINF:-1 tvg-id="RMCStory.fr" tvg-logo="https://focus.telerama.fr/104x104/60/0000/00/01/clear-1402.png" group-title="France" tvg-chno="23",RMC Story
 http://s2.callofliberty.fr/direct/RMCSTORY/master.m3u8
 #EXTINF:-1 tvg-id="RMCDecouverte.fr" tvg-logo="https://focus.telerama.fr/104x104/60/0000/00/01/clear-1400.png" group-title="France" tvg-chno="24",RMC Découverte
-
+https://accesiptv.com:443/QGHet3DNeRGJ/kX4jGz3KnTPM/98.m3u8
 #EXTINF:-1 tvg-id="Cherie25.fr" tvg-logo="https://focus.telerama.fr/104x104/60/0000/00/01/clear-1399.png" group-title="France" tvg-chno="25",Chérie 25
 https://cherie25.nrjaudio.fm/hls/live/2038375/c25/FHD.m3u8
 #EXTINF:-1 tvg-id="LCI.fr" tvg-logo="https://focus.telerama.fr/104x104/60/0000/00/01/clear-112.png" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64;x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 Edg/112.0.1722.34" group-title="France" tvg-chno="26",LCI
@@ -82,6 +82,8 @@ http://www.callofliberty.fr/direct/EQUIDIA/master.m3u8
 https://hls-m007.live-lv3.canalplus-cdn.net/live/disk/canalplusclair-hd/hls-ios-fhd-clair/canalplusclair-hd.m3u8
 #EXTINF:-1 tvg-id="ParisPremiere.fr" tvg-logo="https://focus.telerama.fr/104x104/60/0000/00/01/clear-145.png" group-title="France" tvg-chno="41",Paris Première
 https://raw.githubusercontent.com/Sibprod/streams/main/ParisPremiere.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo=" " group-title="France" tvg-chno="44",AB1
+https://accesiptv.com:443/QGHet3DNeRGJ/kX4jGz3KnTPM/144.m3u8
 #EXTINF:-1 tvg-id="Euronews.fr" tvg-logo="https://focus.telerama.fr/104x104/60/0000/00/01/clear-140.png" group-title="France" tvg-chno="48",Euronews (Français)
 https://7c8b7dbf12d64234a983336fdddb88c2.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-fr_EuroNewsLive/playlist.m3u8
 #EXTINF:-1 tvg-id="BFMBusiness.fr" tvg-logo="https://focus.telerama.fr/104x104/60/0000/00/01/clear-1073.png" group-title="France" tvg-chno="51",BFM Business
@@ -118,6 +120,8 @@ https://live.creacast.com/myzentv-france/smil:myzentv-france.smil/playlist.m3u8
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/trace-urban/encrypted.m3u8
 #EXTINF:-1 tvg-id="ClubbingTV.fr" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/34/FRBB1900001FA_20220323T075747.png" group-title="France" tvg-chno="155",Clubbing TV
 https://clubbingtv-oando.amagi.tv/hls/amagi_hls_data_clubbingt-clubbingtv-oando/CDN/playlist.m3u8
+#EXTINF:-1 tvg-id="RFM.fr" tvg-logo="https://focus.telerama.fr/104x104/60/0000/00/01/clear-241.png" group-title="France" tvg-chno="159",RFM
+https://accesiptv.com:443/QGHet3DNeRGJ/kX4jGz3KnTPM/240.m3u8
 #EXTINF:-1 tvg-id="Melody.fr" tvg-logo="https://i.imgur.com/9GVyQ6x.png" group-title="France" tvg-chno="160",Melody
 https://live.creacast.com/telemelody/smil:telemelody-211112.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="TraceLatina.fr" tvg-logo="https://i.ibb.co/2hgmDs6/traceurb.png" group-title="France" tvg-chno="162",TRACE Latina
@@ -164,6 +168,10 @@ http://livevideo.vedge.infomaniak.com/livecast/ik:bblackafrica/manifest.m3u8
 http://livevideo.vedge.infomaniak.com/livecast/ik:bblackcaribbean/manifest.m3u8
 #EXTINF:-1 tvg-id=" " tvg-logo="https://i.ibb.co/JB18vMW/bblack.png" group-title="France" tvg-chno=" ",Bblack! Classik
 http://livevideo.vedge.infomaniak.com/livecast/ik:bblackclassik/manifest.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo="https://mytelevision.tv/assets/img/chaines/d5tv.png" group-title="France" tvg-chno=" ",D5 Music
+https://accesiptv.com/QGHet3DNeRGJ/kX4jGz3KnTPM/592.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo="https://mytelevision.tv/assets/img/chaines/d5tv.png" group-title="France" tvg-chno=" ",D5TV
+https://accesiptv.com/QGHet3DNeRGJ/kX4jGz3KnTPM/591.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://yt3.googleusercontent.com/ZDLMk8sm1aFCkzw_29qLJvIUMQVmBrrzaCIumBYDucp0YhXib6Dz7jxyqbkIsnd89b1UOfMnLA=s176-c-k-c0x00ffffff-no-rj" group-title="France" tvg-chno=" ",Kosmo (Français)
 https://ythls.armelin.one/channel/UCl-ipFGVotx_Tu5YWMEZgsg.m3u8
 #EXTINF:-1 tvg-id=" " tvg-logo="http://www.callofliberty.fr/tv/486-LEQUIPElive1/486-LEQUIPElive1.png" group-title="France" tvg-chno=" ",L'Équipe Live 1
@@ -174,6 +182,8 @@ https://d2l55nvfkhk4sg.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da
 https://raw.githubusercontent.com/Sibprod/streams/main/ressources/dmotion/py/LeMedia/LeMedia.m3u8
 #EXTINF:-1 tvg-id=" " tvg-logo="https://i.imgur.com/REN30bx.png" group-title="France" tvg-chno=" ",MDL, Le Monde des Loisirs
 http://tv.mondeduloisir.fr:1935/tixtv/smil:web.smil/playlist.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="France" tvg-chno=" ",My Comedy
+https://accesiptv.com/QGHet3DNeRGJ/kX4jGz3KnTPM/590.m3u8
 #EXTINF:-1 tvg-id=" " tvg-logo="https://www.lourdes-france.com/wp-content/uploads/2021/11/logo_TV-Lourdes.png" group-title="France" tvg-chno=" ",TV Lourdes
 https://ythls.armelin.one/channel/UC7zlbnNCnuAPiC3goKcFgUg.m3u8
 --- MONACO ---
