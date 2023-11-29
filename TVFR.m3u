@@ -325,6 +325,8 @@ https://hls.dynamicone.be/hls/dynamicone-1080.m3u8
 https://rcavlive.akamaized.net/hls/live/696615/xcancbft/master_3000.m3u8
 #EXTINF:-1 tvg-id="Noovo.ca" tvg-logo="https://i.imgur.com/jhVjkQB.png" group-title="Canada" tvg-chno="2",Noovo
 https://pe-fa-lp03a.9c9media.com/live/NOOVO/p/hls/00000201/716cf4c845225692/manifest.m3u8
+#EXTINF:-1 tvg-id="TVA.ca" tvg-logo=" " group-title="Canada" tvg-chno="3",TVA
+https://dai.google.com/linear/hls/pa/event/5DUWih-wSeOUg9zszuE-Jw/stream/2918c550-cc1d-40b0-a121-9da88f96084b:CHS/master.m3u8
 #EXTINF:-1 tvg-id="Telequebec.ca" tvg-logo="https://static.epg.best/ca/TeleQuebec.ca.png" group-title="Canada" tvg-chno="4",Tele-Québec
 https://bcovlive-a.akamaihd.net/575d86160eb143458d51f7ab187a4e68/us-east-1/6101674910001/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://yt3.googleusercontent.com/ytc/AGIKgqM4nI5DLEvf2EjD7EG1QoCVPzLBO2s5eJL_wP5s=s176-c-k-c0x00ffffff-no-rj" group-title="Canada" tvg-chno="9",TVC 9
