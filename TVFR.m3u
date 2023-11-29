@@ -228,7 +228,7 @@ https://ythls.armelin.one/channel/UCqA1FRAWs2VIiXf2cUYSQBQ.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://yt3.googleusercontent.com/L8irqEmpi37buYveRShxDoYvBTtJs4UboF4yo7sPY86uzdIy_oJ06A3VsP-TGjzFpEewg_iV1Cw=s176-c-k-c0x00ffffff-no-rj" group-title="Afrique" tvg-chno="24",Africanews (Français)
 https://ythls.armelin.one/channel/UC25EuGAePOPvPrUA5cmu3dQ.m3u8
 #EXTINF:-1 tvg-id=" " tvg-logo="https://i.imgur.com/R4iKU6c.png" group-title="Afrique" tvg-chno="24",Afrique Media
-https://ythls.armelin.one/channel/UCOBMhI7TtRLTAGpcTjNvYCw.m3u8
+https://video1.getstreamhosting.com:1936/8092/8092/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://s2.dmcdn.net/u/1erOl1YsKLpseQ-JA/120x120" group-title="Afrique" tvg-chno="45",Telesud
 https://raw.githubusercontent.com/Sibprod/streams/main/ressources/dmotion/py/Vision4/Telesud.m3u8
 #EXTINF:-1 tvg-id="MoliereTV.cd" tvg-logo="https://i.imgur.com/4LjW7ZQ.png" group-title="Afrique" tvg-chno="63",Molière TV
@@ -257,12 +257,20 @@ https://tv2.isi-broadcast.tech/ISI-BROADCAST/TELE-50/index.m3u8
 https://video1.getstreamhosting.com:1936/8432/8432/playlist.m3u8
 #EXTINF:-1 tvg-id="Seriemax.ci" tvg-logo="" group-title="Afrique" tvg-chno="446",Série Max
 https://video1.getstreamhosting.com:1936/8446/8446/playlist.m3u8
+#EXTINF:-1 tvg-id="AfromagicChannel.ci" tvg-logo="" group-title="Afrique" tvg-chno="490",Afromagic Channel
+https://video1.getstreamhosting.com:1936/8490/8490/playlist.m3u8
+#EXTINF:-1 tvg-id="FitiniTV.ci" tvg-logo="" group-title="Afrique" tvg-chno="492",Fitini TV - B/A (Redmedia / Ivoire Channel group)
+https://video1.getstreamhosting.com:1936/8492/8492/playlist.m3u8
+#EXTINF:-1 tvg-id="NovelaChannel.ci" tvg-logo="" group-title="Afrique" tvg-chno="494",Novela Channel
+https://video1.getstreamhosting.com:1936/8494/8494/playlist.m3u8
 #EXTINF:-1 tvg-id="3ABNFrench.us" tvg-logo="" group-title="Afrique" tvg-chno=" ",3ABN Français
 https://3abn-live.akamaized.net/hls/live/2010546-b/French/master.m3u8
 #EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="Afrique" tvg-chno=" ",Afric 4
 https://vdo2.pro-fhi.net:3112/stream/play.m3u8
 #EXTINF:-1 tvg-id="Africa24sport.fr" tvg-logo="https://i2.wp.com/africa24tv.com/wp-content/uploads/2021/09/logo.png?fit=300%2C129&ssl=1" group-title="Afrique" tvg-chno=" ",Africa 24 Sport
 https://livevideo.vedge.infomaniak.com/livecast/ik:africa24sport/manifest.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="Afrique" tvg-chno=" ",Ecclésia TV
+https://video1.getstreamhosting.com:1936/8018/8018/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Afrique" tvg-chno=" ",My TV Channel
 http://connectiktv.ddns.net:5000/mytvchannel/@mytvchannel/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Afrique" tvg-chno=" ",Plex TV
@@ -331,6 +339,9 @@ https://hls.savoir.media/live/stream.m3u8
 https://shls-m6-int-prod-dub.shahid.net/out/v1/a315ab77ee7343a7a17dbe7e32eee3ba/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/sq11nQ1/rdicanada.png" group-title="Canada" tvg-chno="116",ICI (International Channel / La Chaîne Internationale)
 https://amdici.akamaized.net/hls/live/873426/ICI-Live-Stream/master.m3u8
+--- HAÏTI ---
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="Haïti" tvg-chno=" ",Kajou TV
+https://video1.getstreamhosting.com:1936/8055/8055/playlist.m3u8
 --- LUXEMBOURG ---
 #EXTINF:-1 tvg-id=" " tvg-logo="https://www.lyngsat.com/logo/tv/cc/chambre_des_deputes.png" group-title="Luxembourg" tvg-chno="11",Chamber TV
 https://media01.webtvlive.eu/chd-edge/_definst_/smil:chamber_tv_hd.smil/playlist.m3u8
