@@ -10,8 +10,12 @@ https://live-hls-web-aje.getaj.net/AJE/master.m3u8
 https://live-gbnews.simplestreamcdn.com/live5/gbnews/bitrate1.isml/manifest.m3u8
 #EXTINF:-1 tvg-id="TalkTV.uk" tvg-logo="https://i.ibb.co/XWNXpVg/talk.png" group-title="Royaume-Uni" tvg-chno="237",Talk TV
 https://live-talktv-ssai.simplestreamcdn.com/v1/master/82267e84b9e5053b3fd0ade12cb1a146df74169a/talktv-live/index.m3u8
+#EXTINF:-1 tvg-id="Newsmax.us" tvg-logo="https://yt3.ggpht.com/fXgXYq-vfZapJMvkRQ2k6L1vj4Zd2J97zKXlsc6G95LdIyfH3PI8o-QPreIbPOkEE0B63i1vNdU=s48-c-k-c0x00ffffff-no-rj" group-title="Royaume-Uni" tvg-chno="287",Newsmax
+https://ythls.armelin.one/channel/UCx6h-dWzJ5NpAlja1YsApdg.m3u8
 --- Autres Chaînes ---
-#EXTINF-1 tvg-id="CGTNNews.cn" tvg-logo="https://i.ibb.co/s9gLmqv/cgtnch.png" group-title="Royaume-Uni" tvg-chno=" ",,CGTN News
+#EXTINF-1 tvg-id="Africa24English.fr" tvg-logo="https://i.ibb.co/s9gLmqv/cgtnch.png" group-title="Royaume-Uni" tvg-chno=" ",Africa 24 (English)
+https://livevideo.vedge.infomaniak.com/livecast/ik:africa24english/manifest.m3u8
+#EXTINF-1 tvg-id="CGTNNews.cn" tvg-logo="https://i.ibb.co/s9gLmqv/cgtnch.png" group-title="Royaume-Uni" tvg-chno=" ",CGTN News
 https://news.cgtn.com/resource/live/english/cgtn-news.m3u8
 #EXTINF:-1 tvg-id="DWEnglish.de" tvg-logo="https://i.ibb.co/84XLZJq/dw.png" group-title="Royaume-Uni" tvg-chno=" ",Deutsche Welle (English)
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
