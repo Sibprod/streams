@@ -251,6 +251,9 @@ https://ondamadrid-1-23.secure2.footprint.net/master.m3u8
 https://ythls.armelin.one/channel/UChMCkc02GVSi89TrvhbRasA.m3u8
 #EXTINF:-1 tvg-id="CanalRed.es" tvg-logo="https://graph.facebook.com/canalredtelevision/picture?width=200&height=200" group-title="Madrid" tvg-chno="48.2",Canal Red
 https://ythls.armelin.one/channel/UCky112obBMG68Nw5MrSNNPA.m3u8
+- MURCIA -
+#EXTINF:-1 tvg-id="" tvg-logo="https://graph.facebook.com/la7tele/picture?width=200&height=200" group-title="Murcia" tvg-chno="29.1",7 Region de Murcia
+https://rtv-murcia-live.globalmest.com/principal/smil:principal.smil/playlist.m3u8
 --- Canáles Naciónales que emiten fuero de España ---
 #EXTINF:-1 tvg-id="" tvg-logo=" " group-title="España" tvg-chno="100",TVE Internacional (Europa)
 https://ztnr.rtve.es/ztnr/6891743.m3u8
@@ -283,6 +286,8 @@ https://i.mjh.nz/SamsungTVPlus/ESBC2700012RP.m3u8
 https://i.mjh.nz/SamsungTVPlus/ESBC2700011AZ.m3u8
 #EXTINF:-1 channel-id="samsung-ESBC4100003WE" tvg-id="ESBC4100003WE" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC4100003WE_20230208T013050SQUARE.png_20230208013050.png" tvg-chno="4604" group-title="Espagne",Clan
 https://i.mjh.nz/SamsungTVPlus/ESBC4100003WE.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://graph.facebook.com/cocinafamiliarjr/picture?width=200&height=200" group-title="España" tvg-chno=" ",Cocina Familiar
+https://cloud.fastchannel.es/mic/manifiest/hls/cocinafamiliar/cocinafamiliar.m3u8
 #EXTINF:-1 tvg-id=" " tvg-logo="https://graph.facebook.com/CongresodelosDiputados/picture?width=200&height=200" group-title="España" tvg-chno=" ",Congreso de los Diputados
 https://congresodirecto.akamaized.net/hls/live/2038274/canal1/master.m3u8
 #EXTINF:-1 channel-id="samsung-ESBD1300003VN" tvg-id="ESBD1300003VN" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD1300003VN_20231115T012147SQUARE.png_20231115012147.png" tvg-chno="4158" group-title="Espagne",Corazón
