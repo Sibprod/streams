@@ -117,6 +117,9 @@ https://i.mjh.nz/SamsungTVPlus/GBBB1500003NF.m3u8
 https://temp4.isilive.ca/live/CHCOTV/live/index.m3u8
 #EXTINF-1 tvg-id="NTV.ca" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/bd/CJON-TV.PNG" group-title="Canada" tvg-chno=" ",NTV (Newfoundland TV)
 https://2-fss-1.streamhoster.com/pl_122/201748-1431018-1/playlist.m3u8
+--- Gibraltar ---
+#EXTINF-1 tvg-id="GBC.gi" tvg-logo="https://graph.facebook.com/GBCNewsroom/picture?width=200&height=200" group-title="Gibraltar" tvg-chno=" ",GBC
+http://api.new.livestream.com/accounts/14143407/events/9828641/broadcasts/238844938.m3u8
 --- Irlande ---
 #EXTINF-1 tvg-id="Oireachtas.ie" tvg-logo="https://i.imgur.com/aC4fsCI.png" group-title="Irlande" tvg-chno=" ",Oireachtas
 https://d33zah5htxvoxb.cloudfront.net/el/live/oirtv/hls.m3u8
