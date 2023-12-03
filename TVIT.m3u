@@ -1,0 +1,51 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="RAI1.it" tvg-logo="https://www.lyngsat-logo.com/logo/tv/rr/rai_1.png" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64;x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 Edg/112.0.1722.34" group-title="Italie" tvg-chno="1",RAI 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+http://ott-cdn.ucom.am/s29/index.m3u8
+#EXTINF:-1 tvg-id="RAI1.it" tvg-logo="https://www.lyngsat-logo.com/logo/tv/rr/rai_1.png" group-title="Italie" tvg-chno="1",RAI 1
+http://livetv.ktv.zone/130/play.m3u8
+#EXTINF:-1 tvg-id="RAI2.it" tvg-logo="https://www.lyngsat-logo.com/logo/tv/rr/rai_2.png" group-title="Italie" tvg-chno="2",RAI 2
+http://livetv.ktv.zone/131/play.m3u8
+#EXTINF:-1 tvg-id="RAI3.it" tvg-logo="https://www.lyngsat-logo.com/logo/tv/rr/rai_3.png" group-title="Italie" tvg-chno="3",RAI 3
+http://livetv.ktv.zone/132/play.m3u8
+#EXTINF:-1 tvg-id="La7.it" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ll/la_7.png" group-title="Italie" tvg-chno="7",La 7
+https://d15umi5iaezxgx.cloudfront.net/LA7/CLN/HLS-B/Live.m3u8
+#EXTINF:-1 tvg-id="TV2000.it" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tv-2000-it.png" group-title="Italie" tvg-chno="28",TV 2000
+https://hls-live-tv2000.akamaized.net/hls/live/2028510/tv2000/master.m3u8
+#EXTINF:-1 tvg-id="La7d.it" tvg-logo="https://static.epg.best/it/La7D.it.png" group-title="Italie" tvg-chno="29",La 7d
+https://d15umi5iaezxgx.cloudfront.net/LA7D/CLN/HLS-B/Live.m3u8
+#EXTINF:-1 tvg-id="RAIMovie.it" tvg-logo="https://www.lyngsat-logo.com/logo/tv/rr/rai_movie.png" group-title="Italie" tvg-chno="24",RAI Movie
+http://livetv.ktv.zone/157/play.m3u8
+#EXTINF:-1 tvg-id="RAIPremium.it" tvg-logo="https://www.lyngsat-logo.com/logo/tv/rr/rai_premium.png" group-title="Italie" tvg-chno="25",RAI Premium
+http://livetv.ktv.zone/154/play.m3u8
+#EXTINF:-1 tvg-id="QVC.it" tvg-logo="https://static.epg.best/it/QVC.it.png" group-title="Italie" tvg-chno="32",QVC Italia 
+https://qrg.akamaized.net/hls/live/2017383/lsqvc1it/720p/720p.m3u8
+#EXTINF:-1 tvg-id="RTL1025TV.it" tvg-logo="https://i.imgur.com/KdissvS.png" group-title="Italie" tvg-chno="36",RTL 102.5 TV
+https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S97044836/tbbP8T1ZRPBL/playlist_video.m3u8
+#EXTINF:-1 tvg-id="RAIGulp.it" tvg-logo="https://www.lyngsat-logo.com/logo/tv/rr/rai_gulp.png" group-title="Italie" tvg-chno="42",RAI Gulp
+http://livetv.ktv.zone/156/play.m3u8
+#EXTINF:-1 tvg-id="RAIYoyo.it" tvg-logo="https://www.lyngsat-logo.com/logo/tv/rr/rai_yoyo.png" group-title="Italie" tvg-chno="43",RAI YoYo
+http://livetv.ktv.zone/153/play.m3u8
+#EXTINF:-1 tvg-id="RaiNews24.it" tvg-logo="https://i.imgur.com/8juA51j.png" group-title="Italie" tvg-chno="48",RAI News 24
+http://livetv.ktv.zone/133/play.m3u8
+#EXTINF:-1 tvg-id="Super.it" tvg-logo="https://www.lyngsat-stream.com/logo/tv/ss/super-it.png" group-title="Italie" tvg-chno="47",Super !
+https://vimnitaly.akamaized.net/hls/live/2094034/super/master.m3u8
+#EXTINF:-1 tvg-id="RaiNews24.it" tvg-logo="https://i.imgur.com/8juA51j.png" group-title="Italie" tvg-chno="48",RAI News 24
+https://8e7439fdb1694c8da3a0fd63e4dda518.msvdn.net/rainews1/hls/playlist_mo.m3u8
+#EXTINF:-1 tvg-id="SkyTG24.it" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sky-tg-24-it.png" group-title="Italie" tvg-chno="50",Sky TG24
+https://ythls.armelin.one/channel/UCz6E3lF72mb6uoJ-mOlNo2A.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo="https://canaleitalia.it/wp-content/uploads/2022/06/logo-canale-italia-streaming.png" group-title="Italie" tvg-chno="53",Casa Italia 53
+https://6e94aeeb1b42461d95f973ae34be5167.msvdn.net/ac115_live/canale3.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="RAIStoria.it" tvg-logo="https://www.lyngsat-logo.com/logo/tv/rr/rai_storia.png" group-title="Italie" tvg-chno="54",RAI Storia
+http://livetv.ktv.zone/155/play.m3u8
+#EXTINF:-1 tvg-id="Sportitalia.it" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sportitalia-it.png" group-title="Italie" tvg-chno="60",Sportitalia
+https://di-j16ei4yq.vo.lswcdn.net/sportitalia/smil:sihd.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="SportitaliaSolocalcio.it" tvg-logo="https://i.imgur.com/hu56Ya5.png" group-title="Italie" tvg-chno="60",Sportitalia SoloCalcio
+https://di-j16ei4yq.vo.lswcdn.net/sportitalia/smil:sisolocalcio.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="Sportitalia24.it" tvg-logo="https://net-static.tcccdn.com/template/sportitalia.com/img/streaming/si_live24.png" group-title="Italie" tvg-chno="60",Sportitalia Live 24
+https://di-j16ei4yq.vo.lswcdn.net/sportitalia/smil:silive24.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RSILa1.ch" tvg-logo=" " group-title="Suisse" tvg-chno="1",RSI La 1
+http://livetv.ktv.zone/129/play.m3u8
+#EXTINF:-1 tvg-id="RSILA2.ch" tvg-logo=" " group-title="Suisse" tvg-chno="2",RSI La 2
+http://livetv.ktv.zone/137/play.m3u8
