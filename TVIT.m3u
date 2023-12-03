@@ -151,8 +151,14 @@ https://5f204aff97bee.streamlock.net/AltoAdigeTV/livestream/playlist.m3u8
 - Émilie-Romagne -
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/xYVI5OC.png" group-title="Émilie-Romagne" tvg-chno="10",È TV - Rete 7
 https://live.ipstream.it/etv/etv.stream/playlist.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo="https://www.tvdream.net/img/trc-modena.png" group-title="Émilie-Romagne" tvg-chno="11",TRC Modena
+http://api.new.livestream.com/accounts/31041674/events/10235982/broadcasts/238846186.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo="https://www.tvdream.net/img/telereggio.png" group-title="Émilie-Romagne" tvg-chno="13",Telereggio
+http://api.new.livestream.com/accounts/31041674/events/10233280/broadcasts/238843045.m3u8
 #EXTINF:-1 tvg-id=" " tvg-logo="https://i.imgur.com/GGPtHX3.png" group-title="Émilie-Romagne" tvg-chno="14",Teleromagna
 https://livetr.teleromagna.it/teleromagna/live/playlist.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo="https://www.tvdream.net/img/trc-bologna.png" group-title="Émilie-Romagne" tvg-chno="15",TRC Bologna
+https://api.new.livestream.com/accounts/31041674/events/10235994/broadcasts/238844698.m3u8
 #EXTINF:-1 tvg-id=" " tvg-logo="https://i.imgur.com/mBYxWOg.png" group-title="Émilie-Romagne" tvg-chno="16",12 TV Parma
 https://5929b138b139d.streamlock.net/12TVParma/livestream/playlist.m3u8
 #EXTINF:-1 tvg-id=" " tvg-logo="https://i.imgur.com/YfMVNDE.png" group-title="Émilie-Romagne" tvg-chno="17",TV Qui Modena
