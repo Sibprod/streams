@@ -200,10 +200,10 @@ https://streaming004.gestec-video.com/hls/8TV.m3u8
 #EXTINF:-1 tvg-id="RHVTelevisio.es" tvg-logo="https://estaticos.tdt1.com/canales/logovalenciatelevisio.jpg" group-title="Valencià" tvg-chno="37.1",RHV Televisió
 https://common01.todostreaming.es/live/ribera-livestream.m3u8
 - EUSKADI -
-#EXTINF:-1 tvg-id=" " tvg-logo="https://graph.facebook.com/deportes.eitb.kirolak/picture?width=200&height=200" group-title="Euskadi" tvg-chno="45.1",ETB 1
+#EXTINF:-1 tvg-id=" " tvg-logo="https://graph.facebook.com/eitb/picture?width=200&height=200" group-title="Euskadi" tvg-chno="45.1",ETB 1
 https://multimedia.eitb.eus/live-content/etb1hd-hls/master.m3u8
-#EXTINF:-1 tvg-id=" " tvg-logo="https://graph.facebook.com/deportes.eitb.kirolak/picture?width=200&height=200" group-title="Euskadi" tvg-chno="45.2",ETB 2
-https://multimedia.eitb.eus/live-content/etb1hd-hls/master.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo="https://graph.facebook.com/eitb/picture?width=200&height=200" group-title="Euskadi" tvg-chno="45.2",ETB 2
+https://multimedia.eitb.eus/live-content/etb2hd-hls/master.m3u8
 #EXTINF:-1 tvg-id=" " tvg-logo="https://graph.facebook.com/deportes.eitb.kirolak/picture?width=200&height=200" group-title="Euskadi" tvg-chno="45.5",Kirolak (ETB Deportes)
 https://multimedia.eitb.eus/live-content/oka1hd-hls/master.m3u8
 #EXTINF:-1 tvg-id=" " tvg-logo="https://graph.facebook.com/deportes.eitb.kirolak/picture?width=200&height=200" group-title="Euskadi" tvg-chno="45.5",Kirolak (ETB Deportes) 2
