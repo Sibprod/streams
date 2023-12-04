@@ -125,18 +125,22 @@ https://play.cdn.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/live.smil/playl
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01201-cinedigmenterta-realmadrid-cineverse/playlist.m3u8
 #EXTINF:-1 tvg-id="ElToroTV.es" tvg-logo="https://eltorotv.com/wp-content/uploads/2023/06/cropped-LOGO_ETV-300x86.png" group-title="TDT_ES" tvg-chno="28",El Toro TV
 https://streaming-1.eltorotv.com/lb0/eltorotv-streaming-web/index.m3u8
-#EXTINF:-1 tvg-id="AndorraTV.ad" tvg-logo="https://i.imgur.com/CnhTn8i.png" group-title="TDT_AD" tvg-chno="100",Andorra Diffusió
-https://videos.rtva.ad/live/rtva/playlist.m3u8
-#EXTINF:-1 tvg-id=" " tvg-logo="https://graph.facebook.com/radionacionalrne/picture?width=200&height=200" group-title="TDT_ES" tvg-chno="101",Radio Nacional
+#EXTINF:-1 tvg-id=" " tvg-logo="https://graph.facebook.com/radionacionalrne/picture?width=200&height=200" group-title="TDT_ES" tvg-chno=" ",Radio Nacional
 https://ztnr.rtve.es/ztnr/1938076.m3u8
-#EXTINF:-1 tvg-id=" " tvg-logo="https://graph.facebook.com/radio3/picture?width=200&height=200" group-title="TDT_ES" tvg-chno="102",Radio 3
+#EXTINF:-1 tvg-id=" " tvg-logo="https://graph.facebook.com/radio3/picture?width=200&height=200" group-title="TDT_ES" tvg-chno=" ",Radio 3
 https://ztnr.rtve.es/ztnr/2795617.m3u8
-#EXTINF:-1 tvg-id=" " tvg-logo="https://graph.facebook.com/Radio4RNE/picture?width=200&height=200" group-title="TDT_ES" tvg-chno="111",Radio 4
+#EXTINF:-1 tvg-id=" " tvg-logo="https://graph.facebook.com/Radio4RNE/picture?width=200&height=200" group-title="TDT_ES" tvg-chno=" ",Radio 4
 https://ztnr.rtve.es/ztnr/6782425.m3u8
 #EXTINF:-1 tvg-id=" " tvg-logo="https://graph.facebook.com/del40al1/picture?width=200&height=200" group-title="TDT_ES" tvg-chno=" ",Del 40 al 1
 https://prisaradio-live.prisasd.com/live-content/directo40al1/master.m3u8
-#EXTINF:-1 tvg-id=" " tvg-logo="https://graph.facebook.com/COPE/picture?width=200&height=200" group-title="TDT_ES" tvg-chno="113",COPE
+#EXTINF:-1 tvg-id=" " tvg-logo="https://graph.facebook.com/COPE/picture?width=200&height=200" group-title="TDT_ES" tvg-chno=" ",COPE
 https://hls-directo01-cope-stream.flumotion.com/playlist.m3u8
+--- ANDORRE ---
+#EXTINF:-1 tvg-id="AndorraTV.ad" tvg-logo="https://i.imgur.com/CnhTn8i.png" group-title="TDT_AD" tvg-chno=" ",Andorra Televisió
+https://videos.rtva.ad/live/rtva/playlist.m3u8
+#EXTINF:-1 tvg-id="AndorraTV.ad" tvg-logo="https://i.imgur.com/CnhTn8i.png" group-title="TDT_AD" tvg-chno=" ",Andorra Ràdio
+https://videos.rtva.ad/live/web/playlist.m3u8
+
 --- TDT_AUTONOMICOS ---
 - ANDALUCIA -
 #EXTINF:-1 tvg-id="CanalSur.es" tvg-logo="https://graph.facebook.com/canalsurradioytv/picture?width=200&height=200" group-title="Andalucía" tvg-chno="3",Canal Sur 
@@ -182,14 +186,16 @@ https://ztnr.rtve.es/ztnr/3987218.m3u8
 https://ztnr.rtve.es/ztnr/4952053.m3u8
 #EXTINF:-1 tvg-id="Betevé.es" tvg-logo="https://graph.facebook.com/betevecat/picture?width=200&height=200" group-title="Catalunya" tvg-chno="26.1",betevé
 https://cdnapisec.kaltura.com/p/2346171/sp/234617100/playManifest/entryId/1_n6442jz0/format/applehttp/.m3u8?referrer=aHR0cHM6Ly9iZXRldmUuY2F0
+#EXTINF:-1 tvg-id="TV3.cat" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/TV3CAT.svg/512px-TV3CAT.svg.png" group-title="Catalunya" tvg-chno="30.1",TV3 Catalunya
+https://directes-tv-int.ccma.cat/live-origin/tvi-hls/master.m3u8
+#EXTINF:-1 tvg-id="SX3.cat" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/SX3_logo.svg/300px-SX3_logo.svg.png" group-title="Catalunya" tvg-chno="30.2",SX3
+https://directes-tv-int.ccma.cat/live-origin/super3-hls/master.m3u8
+#EXTINF:-1 tvg-id="324.cat" tvg-logo="https://i.imgur.com/SG7D0gt.png" group-title="Catalunya" tvg-chno="30.3",3/24
+https://directes-tv-int.ccma.cat/live-origin/canal324-hls/master.m3u8
 #EXTINF:-1 tvg-id="TAC12.es" tvg-logo="https://graph.facebook.com/tacdotze/picture?width=200&height=200" group-title="Catalunya" tvg-chno="39.1",TAC 12
 https://ingest1-video.streaming-pro.com/nimble/tac12/playlist.m3u8
-#EXTINF:-1 tvg-id="TV3CAT.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/TV3CAT.svg/512px-TV3CAT.svg.png" group-title="Catalunya" tvg-chno="44.1",TV3 Catalunya
-https://directes-tv-int.ccma.cat/live-origin/tvi-hls/master.m3u8
-#EXTINF:-1 tvg-id="324.es" tvg-logo="https://i.imgur.com/SG7D0gt.png" group-title="Catalunya" tvg-chno="44.2",3/24
-https://directes-tv-int.ccma.cat/live-origin/canal324-hls/master.m3u8
-#EXTINF:-1 tvg-id="SX3.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/SX3_logo.svg/300px-SX3_logo.svg.png" group-title="Catalunya" tvg-chno="44.3",SX3
-https://directes-tv-int.ccma.cat/live-origin/super3-hls/master.m3u8
+#EXTINF:-1 tvg-id="Mola.cat" tvg-logo="https://www.molatv.cat/images/molahitstv.png" group-title="Catalunya" tvg-chno="39.1",Molahits TV
+http://ventdelnord.tv:8080/mola/directe.m3u8
 #EXTINF:-1 tvg-id="Canal4.cat" tvg-logo="https://graph.facebook.com/GRUP4COM/picture?width=200&height=200" group-title="Catalunya" tvg-chno="48.1",Canal 4 
 https://limited35.todostreaming.es/live/mitjans-livestream.m3u8
 - COMMUNITAT VALENCIÀ -
@@ -199,6 +205,8 @@ https://bcovlive-a.akamaihd.net/469e448f034b4d46afa4bcac53297d60/eu-central-1/60
 https://streaming004.gestec-video.com/hls/8TV.m3u8
 #EXTINF:-1 tvg-id="RHVTelevisio.es" tvg-logo="https://estaticos.tdt1.com/canales/logovalenciatelevisio.jpg" group-title="Valencià" tvg-chno="37.1",RHV Televisió
 https://common01.todostreaming.es/live/ribera-livestream.m3u8
+#EXTINF:-1 tvg-id="Canal7TeleValencia.es" tvg-logo="https://i.imgur.com/ILfXDRs.png" group-title="Valencià" tvg-chno="7",7 TeleValencia
+https://live-edge-ams-1.cdn.enetres.net/9E9557EFCEBB43A89CEC8FBD3C500247022/live-500/index.m3u8
 - EUSKADI -
 #EXTINF:-1 tvg-id=" " tvg-logo="https://graph.facebook.com/eitb/picture?width=200&height=200" group-title="Euskadi" tvg-chno="45.1",ETB 1
 https://multimedia.eitb.eus/live-content/etb1hd-hls/master.m3u8
@@ -233,8 +241,12 @@ https://5940924978228.streamlock.net/Directo2/Directo2/playlist.m3u8
 #EXTINF:-1 tvg-id="RTVCE.es" tvg-logo="https://graph.facebook.com/RTVCE/picture?width=200&height=200" group-title="Ceuta" tvg-chno="37.1",RTV Ceuta
 https://cdnlive.codev8.net/rtvcelive/smil:channel1.smil/playlist.m3u8
 - GALICIA -
-#EXTINF:-1 tvg-id="TVGalicia.es" tvg-logo="https://graph.facebook.com/CRTVG/picture?width=200&height=200" group-title="Galicia" tvg-chno="25.1",TVG
+#EXTINF:-1 tvg-id="TVG.es" tvg-logo="https://graph.facebook.com/CRTVG/picture?width=200&height=200" group-title="Galicia" tvg-chno="25.1",TVG
 https://europa-crtvg.flumotion.com/playlist.m3u8
+#EXTINF:-1 tvg-id="TVG2.es" tvg-logo="https://graph.facebook.com/CRTVG/picture?width=200&height=200" group-title="Galicia" tvg-chno="25.3",TVG 2
+https://events2-crtvg.flumotion.com/playlist.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="Galicia" tvg-chno=" ",Parlamento de Galicia TV
+https://events1-crtvg.flumotion.com/playlist.m3u8
 - LA RIOJA -
 #EXTINF:-1 tvg-id="7LaRioja.es" tvg-logo="https://estaticos.tdt1.com/canales/logo7larioja.jpg" group-title="La Rioja" tvg-chno="44.3",7 La Rioja
 https://raw.githubusercontent.com/Sibprod/streams/main/ressources/dmotion/py/Locales/7LaRioja.m3u8
@@ -263,6 +275,8 @@ https://new-international-23.secure2.footprint.net/index.m3u8
 https://multimedia.eitb.eus/live-content/eitbbasque-hls/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i2.wp.com/blocs.mesvilaweb.cat/wp-content/uploads/sites/1858/2018/11/BONDIA.png" group-title="España" tvg-chno="302",Bon Dia
 https://directes-tv-int.ccma.cat/live-origin/bondia-hls/master.m3u8
+#EXTINF:-1 tvg-id="TVG.es" tvg-logo="https://graph.facebook.com/CRTVG/picture?width=200&height=200" group-title="Galicia" tvg-chno="303",TVG America
+https://america-crtvg.flumotion.com/playlist.m3u8
 --- OTROS CÁNALES ABIERTOS ---
 #EXTINF:-1 channel-id="samsung-ESBC4100004J1" tvg-id="ESBC4100004J1" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC4100004J1_20230614T005926SQUARE.png_20230614005927.png" tvg-chno="4305" group-title="Espagne",24h
 https://i.mjh.nz/SamsungTVPlus/ESBC4100004J1.m3u8
@@ -320,5 +334,9 @@ https://ztnr.rtve.es/ztnr/6108704.m3u8
 https://ztnr.rtve.es/ztnr/6108720.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo=" " group-title="España" tvg-chno=" ",Sol Música
 https://d2glyu450vvghm.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-21u4g5cjglv02/1f8a272f-4dce-4021-984f-868a2f1d1137/0.m3u8
+#EXTINF:-1 tvg-id="Taroteame.es" tvg-logo="https://i.imgur.com/OgEeQzl.jpg" group-title="España" tvg-chno=" ",Tarotéame
+https://5d2733224ac48.streamlock.net/taroteame/tarot_web/playlist.m3u8
+#EXTINF:-1 tvg-id="TarotVision.es" tvg-logo="https://i.imgur.com/yOQ9e3a.png" group-title="España" tvg-chno=" ",TarotVisión
+https://stream.andalhost.com/hls/tarotvision.m3u8
 #EXTINF:-1 channel-id="samsung-ESBC410000577" tvg-id="ESBC410000577" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC410000577_20231115T012205SQUARE.png_20231115012205.png" tvg-chno="4005" group-title="Espagne",Teledeporte
 https://i.mjh.nz/SamsungTVPlus/ESBC410000577.m3u8
