@@ -434,12 +434,18 @@ https://cdn140m.panaccess.com/HLS/RTVC/index.m3u8
 #EXTINF:-1 tvg-id=" " tvg-logo="https://i.imgur.com/aRJtor1.png" group-title="Afrique" tvg-chno=" ",Tchaman TV
 https://itelema.stream/live/smil:myStream.smil/playlist.m3u8
 --- BELGIQUE ---
+#EXTINF:-1 tvg-id="LaUne.be" tvg-logo=" " group-title="Belgique" tvg-chno=" ",La Une
+http://pro.one-iptv.com:25443/live/7772544854/9GTNL11788/48165.m3u8
+#EXTINF:-1 tvg-id="Tipik.be" tvg-logo=" " group-title="Belgique" tvg-chno=" ",Tipik
+http://pro.one-iptv.com:25443/live/7772544854/9GTNL11788/48163.m3u8
 #EXTINF:-1 tvg-id="RTLTVI.be" tvg-logo="https://focus.telerama.fr/104x104/60/0000/00/01/clear-168.png" group-title="Belgique" tvg-chno="3",RTL tvi
 https://raw.githubusercontent.com/Sibprod/streams/main/RTLtvi.m3u8
 #EXTINF:-1 tvg-id="ClubRTL.lu" tvg-logo="https://focus.telerama.fr/104x104/60/0000/00/01/clear-50.png" group-title="Belgique" tvg-chno="4",RTL club
 https://raw.githubusercontent.com/Sibprod/streams/main/RTLclub.m3u8
 #EXTINF:-1 tvg-id="PlugRTL.lu" tvg-logo="https://focus.telerama.fr/104x104/60/0000/00/01/clear-377.png" group-title="Belgique" tvg-chno="5",RTL plug
 https://raw.githubusercontent.com/Sibprod/streams/main/RTLplug.m3u8
+#EXTINF:-1 tvg-id="LaTrois.be" tvg-logo=" " group-title="Belgique" tvg-chno=" ",La Trois
+http://pro.one-iptv.com:25443/live/7772544854/9GTNL11788/48164.m3u8
 #EXTINF:-1 tvg-id="AB3.be" tvg-logo="https://focus.telerama.fr/104x104/60/0000/00/01/clear- .png" group-title="Belgique" tvg-chno="7",AB3
 http://pro.one-iptv.com:25443/live/7772544854/9GTNL11788/15215.m3u8
 #EXTINF:-1 tvg-id="AntenneCentre.be" tvg-logo="https://static.epg.best/be/AntenneCentre.be.png" group-title="Belgique" tvg-chno="10",ACTV - Antenne Centre Télévision
