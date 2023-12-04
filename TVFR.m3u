@@ -82,10 +82,20 @@ http://www.callofliberty.fr/direct/EQUIDIA/master.m3u8
 https://hls-m007.live-lv3.canalplus-cdn.net/live/disk/canalplusclair-hd/hls-ios-fhd-clair/canalplusclair-hd.m3u8
 #EXTINF:-1 tvg-id="ParisPremiere.fr" tvg-logo="https://focus.telerama.fr/104x104/60/0000/00/01/clear-145.png" group-title="France" tvg-chno="41",Paris Première
 https://raw.githubusercontent.com/Sibprod/streams/main/ParisPremiere.m3u8
+#EXTINF:-1 tvg-id="CanalPlusSport.fr" tvg-logo="https://focus.telerama.fr/104x104/60/0000/00/01/clear- .png" group-title="France" tvg-chno="42",Canal+ Sport
+http://pro.one-iptv.com:25443/live/7772544854/9GTNL11788/15191.m3u8
+#EXTINF:-1 tvg-id="CanalPlusCinema.fr" tvg-logo="https://focus.telerama.fr/104x104/60/0000/00/01/clear- .png" group-title="France" tvg-chno="43",Canal+ Cinéma
+http://pro.one-iptv.com:25443/live/7772544854/9GTNL11788/15195.m3u8
+#EXTINF:-1 tvg-id="AB1.fr" tvg-logo="https://focus.telerama.fr/104x104/60/0000/00/01/clear-5.png" group-title="France" tvg-chno="44",AB1
+https://accesiptv.com:443/QGHet3DNeRGJ/kX4jGz3KnTPM/144.m3u8
+#EXTINF:-1 tvg-id="Planete.fr" tvg-logo="https://focus.telerama.fr/104x104/60/0000/00/01/clear- .png" group-title="France" tvg-chno="45",Planète+
+http://pro.one-iptv.com:25443/live/7772544854/9GTNL11788/15135.m3u8
 #EXTINF:-1 tvg-id="CanalJ.fr" tvg-logo="https://focus.telerama.fr/104x104/60/0000/00/01/clear-32.png" group-title="France" tvg-chno="47",Canal J
 http://livetv.ktv.zone/176/play.m3u8
 #EXTINF:-1 tvg-id="Euronews.fr" tvg-logo="https://focus.telerama.fr/104x104/60/0000/00/01/clear-140.png" group-title="France" tvg-chno="48",Euronews (Français)
 https://7c8b7dbf12d64234a983336fdddb88c2.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-fr_EuroNewsLive/playlist.m3u8
+#EXTINF:-1 tvg-id="Eurosport1.fr" tvg-logo="https://focus.telerama.fr/104x104/60/0000/00/01/clear- .png" group-title="France" tvg-chno="49",Eurosport 1
+http://pro.one-iptv.com:25443/live/7772544854/9GTNL11788/9281.ts
 #EXTINF:-1 tvg-id="BFMBusiness.fr" tvg-logo="https://focus.telerama.fr/104x104/60/0000/00/01/clear-1073.png" group-title="France" tvg-chno="51",BFM Business
 https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_BUSINESS/index.m3u8?start=LIVE&end=END
 #EXTINF:-1 tvg-id="i24NewsFrench.il" tvg-logo=" " group-title="France" tvg-chno="54",i24 News (Français)
@@ -94,8 +104,7 @@ https://bcovlive-a.akamaihd.net/cc8266d36bb5469b8b4a3097497e06e6/eu-central-1/53
 http://livetv.ktv.zone/61/play.m3u8
 #EXTINF:-1 tvg-id="TV5Monde.fr" tvg-logo="https://focus.telerama.fr/104x104/60/0000/00/01/clear-205.png" group-title="France" tvg-chno="56",TV5 Monde (FBSM)
 https://accesiptv.com:443/QGHet3DNeRGJ/kX4jGz3KnTPM/271.m3u8
-#EXTINF:-1 tvg-id="AB1.fr" tvg-logo="https://focus.telerama.fr/104x104/60/0000/00/01/clear-5.png" group-title="France" tvg-chno="57",AB1
-https://accesiptv.com:443/QGHet3DNeRGJ/kX4jGz3KnTPM/144.m3u8
+
 #EXTINF:-1 tvg-id="Teva.fr" tvg-logo="https://focus.telerama.fr/104x104/60/0000/00/01/clear-191.png" group-title="France" tvg-chno="59",Téva
 https://codeberg.org/Sibprod/streams/raw/branch/master/Teva.m3u8
 #EXTINF:-1 tvg-id="KTO.fr" tvg-logo="https://focus.telerama.fr/104x104/60/0000/00/01/clear-110.png" group-title="France" tvg-chno="61",KTO
@@ -431,6 +440,8 @@ https://raw.githubusercontent.com/Sibprod/streams/main/RTLtvi.m3u8
 https://raw.githubusercontent.com/Sibprod/streams/main/RTLclub.m3u8
 #EXTINF:-1 tvg-id="PlugRTL.lu" tvg-logo="https://focus.telerama.fr/104x104/60/0000/00/01/clear-377.png" group-title="Belgique" tvg-chno="5",RTL plug
 https://raw.githubusercontent.com/Sibprod/streams/main/RTLplug.m3u8
+#EXTINF:-1 tvg-id="AB3.be" tvg-logo="https://focus.telerama.fr/104x104/60/0000/00/01/clear- .png" group-title="Belgique" tvg-chno="7",AB3
+http://pro.one-iptv.com:25443/live/7772544854/9GTNL11788/15215.m3u8
 #EXTINF:-1 tvg-id="AntenneCentre.be" tvg-logo="https://static.epg.best/be/AntenneCentre.be.png" group-title="Belgique" tvg-chno="10",ACTV - Antenne Centre Télévision
 https://tvlocales-live.freecaster.com/95d2f733-1bc2-4bd5-9b96-c53ed3fc450f/95d2f733-1bc2-4bd5-9b96-c53ed3fc450f.isml/master.m3u8
 #EXTINF:-1 tvg-id="Bouke.be" tvg-logo="https://i.imgur.com/STLavel.png" group-title="Belgique" tvg-chno="10",Boukè
@@ -517,7 +528,7 @@ https://uni01rtmp.tulix.tv/4vehtv/4vehtv-firetv/playlist.m3u8
 https://5dcab9aed5331.streamlock.net/mrcompas1/livestream/playlist.m3u8
 --- LUXEMBOURG ---
 #EXTINF:-1 tvg-id="RTL9.lu" tvg-logo="https://focus.telerama.fr/104x104/60/0000/00/01/clear-115.png" group-title="Luxembourg" tvg-chno="9",RTL9 
-http://pro.one-iptv.com:25443/live/7772544854/9GTNL11788/15191.m3u8
+http://pro.one-iptv.com:25443/live/7772544854/9GTNL11788/15130.m3u8
 #EXTINF:-1 tvg-id=" " tvg-logo="https://www.lyngsat.com/logo/tv/cc/chambre_des_deputes.png" group-title="Luxembourg" tvg-chno="10",Chamber TV
 https://media01.webtvlive.eu/chd-edge/_definst_/smil:chamber_tv_hd.smil/playlist.m3u8
 #EXTINF:-1 tvg-id=" "tvg-logo="" tvg-group="Luxembourg" tvg-chno="11",Luxe.TV
