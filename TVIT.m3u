@@ -129,6 +129,8 @@ https://stream.mariatvcdn.com/teledolomiti/a66b8b8ac2baee06f136e87b9805774d.sdp/
 https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S35394734/Z6U2wGoDYANk/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/m2o_it_tv.png" group-title="Italie" tvg-chno="715",M2O TV
 https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S62628868/uhdWBlkC1AoO/playlist.m3u8
+#EXTINF:-1 tvg-id="RAIItalia.it" tvg-logo="https://www.lyngsat-logo.com/logo/tv/rr/rai_italia.png" group-title="Italie" tvg-chno="804",RAI Italia
+https://raievent7-live.akamaized.net/hls/live/619186/raievent7/raievent7/playlist.m3u8
 #EXTINF:-1 tvg-id="RAISudtirol.it" tvg-logo="https://www.lyngsat-logo.com/logo/tv/rr/rai-3-sudtirol-it.png" group-title="Italie" tvg-chno="808",RAI Südtirol
 http://wzstreaming.rai.it/TVlive/liveStream/master.m3u8
 --- SAINT-MARIN ---
