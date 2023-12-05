@@ -104,7 +104,6 @@ https://bcovlive-a.akamaihd.net/cc8266d36bb5469b8b4a3097497e06e6/eu-central-1/53
 http://livetv.ktv.zone/61/play.m3u8
 #EXTINF:-1 tvg-id="TV5Monde.fr" tvg-logo="https://focus.telerama.fr/104x104/60/0000/00/01/clear-205.png" group-title="France" tvg-chno="56",TV5 Monde (FBSM)
 https://accesiptv.com:443/QGHet3DNeRGJ/kX4jGz3KnTPM/271.m3u8
-
 #EXTINF:-1 tvg-id="Teva.fr" tvg-logo="https://focus.telerama.fr/104x104/60/0000/00/01/clear-191.png" group-title="France" tvg-chno="59",Téva
 https://codeberg.org/Sibprod/streams/raw/branch/master/Teva.m3u8
 #EXTINF:-1 tvg-id="KTO.fr" tvg-logo="https://focus.telerama.fr/104x104/60/0000/00/01/clear-110.png" group-title="France" tvg-chno="61",KTO
@@ -161,9 +160,9 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00500-studiocitypictu-mytimefr-xiao
 https://i.mjh.nz/PlutoTV/639b54404cfdf7000729b3c1-alt.m3u8
 #EXTINF:-1 channel-id="pluto-5f8ed4dbf6bb0800071ffbcb" tvg-id="5f8ed4dbf6bb0800071ffbcb" tvg-logo="https://images.pluto.tv/channels/5f8ed4dbf6bb0800071ffbcb/colorLogoPNG.png" tvg-chno="2080" group-title="France",Pluto TV Polar
 https://i.mjh.nz/PlutoTV/5f8ed4dbf6bb0800071ffbcb-alt.m3u8
-#EXTINF:-1 channel-id="pluto-5f8ed2d1c34c2300073bf02c" tvg-id="5f8ed2d1c34c2300073bf02c" tvg-logo="https://images.pluto.tv/channels/5f8ed2d1c34c2300073bf02c/colorLogoPNG.png" tvg-chno="2085" group-title=group-title="France",Pluto TV Series
+#EXTINF:-1 channel-id="pluto-5f8ed2d1c34c2300073bf02c" tvg-id="5f8ed2d1c34c2300073bf02c" tvg-logo="https://images.pluto.tv/channels/5f8ed2d1c34c2300073bf02c/colorLogoPNG.png" tvg-chno="2085" group-title="France",Pluto TV Series
 https://i.mjh.nz/PlutoTV/5f8ed2d1c34c2300073bf02c-alt.m3u8
-#EXTINF:-1 channel-id="pluto-5f914f9dccb4de0007df8bc4" tvg-id="5f914f9dccb4de0007df8bc4" tvg-logo="https://images.pluto.tv/channels/5f914f9dccb4de0007df8bc4/colorLogoPNG.png" tvg-chno="2090" group-title=group-title="France",Pluto TV Telenovela
+#EXTINF:-1 channel-id="pluto-5f914f9dccb4de0007df8bc4" tvg-id="5f914f9dccb4de0007df8bc4" tvg-logo="https://images.pluto.tv/channels/5f914f9dccb4de0007df8bc4/colorLogoPNG.png" tvg-chno="2090" group-title="France",Pluto TV Telenovela
 https://i.mjh.nz/PlutoTV/5f914f9dccb4de0007df8bc4-alt.m3u8
 #EXTINF:-1 channel-id="pluto-625ec7a1c853fd00073b38fd" tvg-id="625ec7a1c853fd00073b38fd" tvg-logo="https://images.pluto.tv/channels/625ec7a1c853fd00073b38fd/colorLogoPNG.png" tvg-chno="2095" group-title="France",Pluto TV Séries Fantastiques
 https://i.mjh.nz/PlutoTV/625ec7a1c853fd00073b38fd-alt.m3u8
@@ -281,7 +280,6 @@ https://i.mjh.nz/SamsungTVPlus/FRBC4200005X2.m3u8
 https://i.mjh.nz/SamsungTVPlus/FRBC900001LB.m3u8
 #EXTINF:-1 channel-id="samsung-FRBA1000009KO" tvg-id="FRBA1000009KO" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBA1000009KO_20220323T080440SQUARE.png_20220323080443.png" tvg-chno="4990" group-title="France",Bref Cinéma
 https://i.mjh.nz/SamsungTVPlus/FRBA1000009KO.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-logo="https://image.jimcdn.com/app/cms/image/transf/dimension=90x90:format=png/path/sc4a623cd5d89b3b8/image/i15f8fb47fc9492dc/version/1643282614/image.png" group-title="France" tvg-chno="9A",Sud Radio
 https://raw.githubusercontent.com/Sibprod/streams/main/ressources/dmotion/py/SudRadio/SudRadio.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://image.jimcdn.com/app/cms/image/transf/dimension=90x90:format=jpg/path/sc4a623cd5d89b3b8/image/i1af3ca38e13bebfd/version/1672737444/image.jpg" group-title="France" tvg-chno="9B",Fun Radio
