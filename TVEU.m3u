@@ -1,0 +1,102 @@
+#EXTM3U
+- ALLEMAGNE -
+#EXTINF:-1 tvg-id="DasErste.de" tvg-logo="https://www.lyngsat.com/logo/tv/dd/das-erste-de.png" group-title="Allemagne" tvg-chno="1",ARD Das Erste
+https://derste247livede.akamaized.net/hls/live/658317/daserste_de/master.m3u8
+#EXTINF:-1 tvg-id="Kika.de" tvg-logo="https://www.ktv.zone/wp-content/uploads/2016/12/kika.jpg" group-title="Allemagne" tvg-chno="3",KiKa
+http://livetv.ktv.zone/68/play.m3u8
+#EXTINF:-1 tvg-id="ARTE.de" tvg-logo=" " group-title="Allemagne" tvg-chno="4",ARTE (Deutschland)
+https://arteliveext.akamaized.net/hls/live/2030993/artelive_de/master_v720.m3u8
+#EXTINF:-1 tvg-id="3Sat.de" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdln02cqep46mlze7TnanBe0B4a2puKqlxKjcJ2z1im_XsrX_itVmsjCqS0iPZQB-sQAs" group-title="Allemagne" tvg-chno="5",3Sat
+http://livetv.ktv.zone/69/play.m3u8
+#EXTINF:-1 tvg-id="ZDFinfo.de" tvg-logo="https://i.imgur.com/vtq1IWp.png" group-title="Allemagne" tvg-chno="9",ZDF Info
+http://livetv.ktv.zone/174/play.m3u8
+#EXTINF:-1 tvg-id="Tagesschau.de" tvg-logo=" " group-title="Allemagne" tvg-chno="10",Tagesschau 24
+https://tagesschau.akamaized.net/hls/live/2020115/tagesschau/tagesschau_1/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Allemagne" tvg-chno="12",BR (Bayern Ründfunk) Nord
+https://mcdn.br.de/br/fs/bfs_nord/hls/de/master.m3u8
+#EXTINF:-1 tvg-id="BRSud.de" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bayerisches-fernsehen-de.png" group-title="Allemagne" tvg-chno="12",BR (Bayern Ründfunk) Süd
+https://mcdn.br.de/br/fs/bfs_sued/hls/de/master.m3u8
+#EXTINF:-1 tvg-id="HRFernsehen.de" tvg-logo="https://www.lyngsat.com/logo/tv/hh/hr-fernsehen-de.svg" group-title="Allemagne" tvg-chno="13",HR (Hessen Ründfunk)
+https://hrhls.akamaized.net/hls/live/2024525/hrhls/index.m3u8
+#EXTINF:-1 tvg-id="NDR.de" tvg-logo="https://www.lyngsat.com/logo/tv/nn/ndr_fernsehen_hh.png" group-title="Allemagne" tvg-chno="15",NDR (Norddeutscher Ründfunk)
+https://mcdn.ndr.de/ndr/hls/ndr/ndr/master.m3u8
+#EXTINF:-1 tvg-id="Radiobremen.de" tvg-logo="" group-title="Allemagne" tvg-chno="16",Radio Bremen
+https://rbhlslive.akamaized.net/hls/live/2020435/rbfs/master.m3u8
+#EXTINF:-1 tvg-id="SR.de" tvg-logo="https://i.imgur.com/OodehFV.png" group-title="Allemagne" tvg-chno="18",Saarland Fernsehen 1
+https://saarland1.iptv-playoutcenter.de/saarland1/saarland1.stream_1/playlist.m3u8
+#EXTINF:-1 tvg-id="SR.de" tvg-logo="https://i.imgur.com/OodehFV.png" group-title="Allemagne" tvg-chno="18",Saarland Fernsehen 2
+https://saarland2.iptv-playoutcenter.de/saarland2/saarland2.stream_2/playlist.m3u8
+#EXTINF:-1 tvg-id="WDR.de" tvg-logo="https://www.lyngsat.com/logo/tv/ww/wdr-fernsehen-de.svg" group-title="Allemagne" tvg-chno="20",WDR (Westdeutscher Ründfunk)
+https://wdrfs247.akamaized.net/hls/live/681509/wdr_msl4_fs247/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Allemagne" tvg-chno="22",QVC (Deutschland)
+https://qvcde-live.akamaized.net/hls/live/2097104/qvc/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Allemagne" tvg-chno="23",QVC 2 (Deutschland)
+https://qvcde-live.akamaized.net/hls/live/2097104/qps/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Allemagne" tvg-chno="24",HSE24
+https://hse24.akamaized.net/hls/live/2006663/hse24/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Allemagne" tvg-chno="25",1-2-3.TV
+https://edge0199-99ictmedia.flex-cdn.net/aabbaa/llabr/DASH/123tv/manifest.mpd
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Allemagne" tvg-chno="26",Shop LC TV
+https://cdn-shop-lc-01.akamaized.net/Content/HLS_HLS/Live/channel(ott)/index.m3u8
+#EXTINF:-1 tvg-id="RTLTelevision.de" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdNSc-10173TltQ-Xz0JdTc-eBZjUPxVHw8-nKDbF1Esbg_JRIS3fv3X6HcLHmbWpHZ4Q&usqp=CAU" group-title="Allemagne" tvg-chno="31",RTL Television
+http://livetv.ktv.zone/152/play.m3u8
+#EXTINF:-1 tvg-id="Vox.de" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQS7QDO5LVtM80VqUqQVQFhnsXLkkCu7PvPSdEtiIje9T0ImnkktY_4kBtgOoJ_ueAckI0" group-title="Allemagne" tvg-chno="33",Vox
+http://livetv.ktv.zone/91/play.m3u8
+#EXTINF:-1 tvg-id="RTLZwei.de" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/RTLZWEI_Logo_2019.svg/512px-RTLZWEI_Logo_2019.svg.png" group-title="Allemagne" tvg-chno="36",RTL Zwei
+http://livetv.ktv.zone/67/play.m3u8
+#EXTINF:-1 tvg-id="Eurosport1.de" tvg-logo="https://www.ktv.zone/wp-content/uploads/2016/12/65.png" group-title="Allemagne" tvg-chno="49",Eurosport 1 (Deutschland)
+http://livetv.ktv.zone/65/play.m3u8
+
+#EXTINF:-1 tvg-id="Deutschewelle.de" tvg-logo="https://2ix2.com/wp-content/uploads/2020/10/77.png" group-title="Allemagne" tvg-chno=" ",Deutsche Welle (Deutsch)
+https://dwamdstream106.akamaized.net/hls/live/2017965/dwstream106/index.m3u8
+#EXTINF:-1 tvg-id="SRF.de" tvg-logo="" group-title="Allemagne" tvg-chno=" ",SRF (Südthüringen Regional Fernsehen)
+https://58de7a369a9c4.streamlock.net/srf/stream_720p/playlist.m3u8
+#EXTINF:-1 tvg-id="SWR3VisualRadio.de" tvg-logo=" " group-title="Allemagne" tvg-chno=" ",SWR3 Visual Radio
+https://swrswr3vr-hls.akamaized.net/hls/live/2018683/swr3vr/master.m3u8
+
+
+
+#EXTINF:-1 tvg-id="" tvg-logo=" " group-title="Allemagne" tvg-chno="604",Deluxe Music
+https://sdn-global-live-streaming-packager-cache.3qsdn.com/13456/13456_264_live.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo=" " group-title="Allemagne" tvg-chno="605",Deluxe Dance by Kontor
+https://sdn-global-live-streaming-packager-cache.3qsdn.com/64733/64733_264_live.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo=" " group-title="Allemagne" tvg-chno="606",Deluxe Rock
+https://sdn-global-live-streaming-packager-cache.3qsdn.com/65181/65181_264_live.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo=" " group-title="Allemagne" tvg-chno="607",Deluxe Rap
+https://sdn-global-live-streaming-packager-cache.3qsdn.com/65183/65183_264_live.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo=" " group-title="Allemagne" tvg-chno="608",Deluxe Flashback
+https://sdn-global-live-streaming-packager-cache.3qsdn.com/65185/65185_264_live.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo=" " group-title="Allemagne" tvg-chno="609",Schlager Deluxe
+https://sdn-global-live-streaming-packager-cache.3qsdn.com/26658/26658_264_live.m3u8
+- AUTRICHE - 
+#EXTINF:-1 tvg-id="" tvg-logo=" " group-title="Autriche" tvg-chno="8",Okto
+https://cdn3.wowza.com/1/MHFtazJReW5rOFhP/N2NWNDZ2/hls/live/playlist.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="Autriche" tvg-chno="9",RS9
+https://ms01.w24.at/R9/smil:liveeventR9.smil/playlist.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="Autriche" tvg-chno="60",Hitradio Ö3
+https://studiocam-oe3.mdn.ors.at/out/u/studiocam_oe3/q6a/manifest_1.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo=" " group-title="Autriche" tvg-chno="",Antenne Vorlarberg
+https://5857db5306b83.streamlock.net/antennevorarlberg-live/_definst_/mp4:livestream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo=" " group-title="Autriche" tvg-chno="",Dorf TV
+http://stream.openplayout.org/hls/dorf_high/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.hedex.tv/uploads/images/clip_5177_1640436564_poster.jpg" group-title="Autriche",Eurodance 90
+https://eurodance90.catcast.tv/content/36987/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo=" " group-title="Autriche" tvg-chno="",FS 1
+http://stream.fs1.tv:8080/hls/webstream.m3u8 
+#EXTINF:-1 tvg-id="" tvg-logo=" " group-title="Autriche" tvg-chno=" ",Kronehit TV
+https://bitcdn-kronehit.bitmovin.com/v2/hls/playlist.m3u8
+#EXTINF:-1 tvg-id="Oe24.at" tvg-logo=" " group-title="Autriche" tvg-chno=" ",Oe24
+https://varoe24live.sf.apa.at/oe24-live1/oe24.smil/playlist.m3u8 
+- LICHTENSTEIN -
+#EXTINF:-1 tvg-id=" " tvg-logo="https://www.lyngsat.com/logo/tv/mm/mediashop-li.svg" group-title="Liechtenstein" tvg-chno=" ",Mediashop - Mein Einkauf
+https://wse.rtccdn.com/eue-1676535314-63f23d48749e2/_definst_/smil:1676535314_live1.smil/playlist.m3u8
+- POLOGNE -
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat-logo.com/logo/tv/num/4-fun-tv-pl.png" group-title="Pologne" tvg-chno=" ",4 Fun TV
+https://stream.4fun.tv:8888/hls/4f_high/index.m3u8
+- SUISSE -
+#EXTINF:-1 tvg-id="SRF1.ch" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Logo_SRF_1.svg/800px-Logo_SRF_1.svg.png" group-title="Suisse" tvg-chno="1",SRF 1
+http://livetv.ktv.zone/128/play.m3u8
+#EXTINF:-1 tvg-id="SRF2.ch" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Logo_SRF_zwei.svg/2560px-Logo_SRF_zwei.svg.png" group-title="Suisse" tvg-chno="2",SRF 2
+http://livetv.ktv.zone/136/play.m3u8
+#EXTINF:-1 tvg-id="Meteonews.ch" tvg-logo="https://i.imgur.com/YtYhbJD.png" group-title="Suisse" tvg-chno=" ",Meteonews
+https://streaming.meteonews.net/hls/stream.m3u8
