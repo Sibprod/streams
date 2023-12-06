@@ -87,44 +87,44 @@ https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge/smil:13_HD.smil/manif
 https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge/smil:14_HD.smil/manifest.m3u8
 #EXTINF:-1 tvg-id="Mega.es" tvg-logo="https://estaticos.tdt1.com/canales/logomega.jpg" group-title="Másmedia" tvg-chno="15",Mega
 https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge/smil:15_HD.smil/manifest.m3u8
-#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="Másmedia_TDT" tvg-chno="29",Canal Sur Andalucía
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="Másmedia" tvg-chno="29",Canal Sur Andalucía
 https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge2/smil:29_HD.smil/manifest.m3u8
-#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="Másmedia_TDT" tvg-chno="31",CMM TV
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="Másmedia" tvg-chno="31",CMM TV
 https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge2/smil:31_HD.smil/manifest.m3u8
-#EXTINF:-1 tvg-id=" " tvg-logo="https://estaticos.tdt1.com/canales/logotelemadrid.jpg" group-title="Másmedia_TDT" tvg-chno="32",Telemadrid 1
+#EXTINF:-1 tvg-id=" " tvg-logo="https://estaticos.tdt1.com/canales/logotelemadrid.jpg" group-title="Másmedia" tvg-chno="32",Telemadrid 1
 https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge2/smil:32_HD.smil/manifest.m3u8
-#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="Másmedia_TDT" tvg-chno="34",Canal Extremadura
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="Másmedia" tvg-chno="34",Canal Extremadura
 https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge2/smil:34_HD.smil/manifest.m3u8
-#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="Másmedia_TDT" tvg-chno="35",7 Región de Murcía (SD)
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="Másmedia" tvg-chno="35",7 Región de Murcía (SD)
 https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge2/smil:35_HD.smil/manifest.m3u8
-#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="Másmedia_TDT" tvg-chno="78",TV3 Catalunya
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="Másmedia" tvg-chno="78",TV3 Catalunya
 https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge3/smil:78_HD.smil/manifest.m3u8
-#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="Másmedia_TDT" tvg-chno="80",La 8 Mediterráneo
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="Másmedia" tvg-chno="80",La 8 Mediterráneo
 https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge3/smil:80_HD.smil/manifest.m3u8
-#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="Másmedia_TDT" tvg-chno="151",Cine Feel Good
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="Másmedia" tvg-chno="151",Cine Feel Good
 https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge/smil:151_HD.smil/index.m3u8
-#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="Másmedia_TDT" tvg-chno="152",Cine Verdi
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="Másmedia" tvg-chno="152",Cine Verdi
 https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge/smil:152_HD.smil/index.m3u8
-#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="Másmedia_TDT" tvg-chno="214",Aragón Televisión 
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="Másmedia" tvg-chno="214",Aragón Televisión 
 https://nodep002.service.openstream.es/SVoriginOperatorEdge/smil:214_HD.smil/manifest.m3u8
-#EXTINF:-1 tvg-id="TG7.es" tvg-logo=" " group-title="Másmedia_TDT" tvg-chno="240",TG7
+#EXTINF:-1 tvg-id="TG7.es" tvg-logo=" " group-title="Másmedia" tvg-chno="240",TG7
 https://fibergy.cdn.masmediatv.es/SVoriginOperatorDistrib001/smil:240_HD.smil/index.m3u8
-#EXTINF:-1 tvg-id="ElToro.es" tvg-logo="https://estaticos.tdt1.com/canales/logoeltorotv.jpg" group-title="Másmedia_TDT" tvg-chno="266",El Toro TV
+#EXTINF:-1 tvg-id="ElToro.es" tvg-logo="https://estaticos.tdt1.com/canales/logoeltorotv.jpg" group-title="Másmedia" tvg-chno="266",El Toro TV
 https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge/smil:266_HD.smil/manifest.m3u8
 --- TDT (señales diversos) ---
-#EXTINF:-1 tvg-id="La1.es" tvg-logo="https://i.imgur.com/1jDS9UC.png" group-title="TDT_ES" tvg-chno="1",La 1
+#EXTINF:-1 tvg-id="La1.es" tvg-logo="https://i.imgur.com/1jDS9UC.png" group-title="España" tvg-chno="1",La 1
 https://ztnr.rtve.es/ztnr/1688877.m3u8
-#EXTINF:-1 tvg-id="La2.es" tvg-logo="https://i.imgur.com/3NwzqoB.png" group-title="TDT_ES" tvg-chno="2",La 2
+#EXTINF:-1 tvg-id="La2.es" tvg-logo="https://i.imgur.com/3NwzqoB.png" group-title="España" tvg-chno="2",La 2
 https://ztnr.rtve.es/ztnr/1688885.m3u8
-#EXTINF:-1 tvg-id="Antena3.es" tvg-logo="https://estaticos.tdt1.com/canales/logoantena3.jpg" group-title="TDT_ES" tvg-chno="4",Antena 3
+#EXTINF:-1 tvg-id="Antena3.es" tvg-logo="https://estaticos.tdt1.com/canales/logoantena3.jpg" group-title="España" tvg-chno="4",Antena 3
 http://167.114.156.136:25461/INFINITV/ZX89NM22/96
-#EXTINF:-1 tvg-id="Telecinco.es" tvg-logo="https://estaticos.tdt1.com/canales/logotelecinco.jpg" group-title="TDT_ES" tvg-chno="5",Telecinco
+#EXTINF:-1 tvg-id="Telecinco.es" tvg-logo="https://estaticos.tdt1.com/canales/logotelecinco.jpg" group-title="España" tvg-chno="5",Telecinco
 http://167.114.156.136:25461/INFINITV/ZX89NM22/203
-#EXTINF:-1 tvg-id="Canal24Horas.es" tvg-logo="https://i.imgur.com/QYGrq71.png" group-title="TDT_ES" tvg-chno="12",24 Horas
+#EXTINF:-1 tvg-id="Canal24Horas.es" tvg-logo="https://i.imgur.com/QYGrq71.png" group-title="España" tvg-chno="12",24 Horas
 https://ztnr.rtve.es/ztnr/1694255.m3u8
-#EXTINF:-1 tvg-id=" " tvg-logo="https://estaticos.tdt1.com/canales/logotrece.jpg" group-title="TDT_ES" tvg-chno="13",Trece
+#EXTINF:-1 tvg-id=" " tvg-logo="https://estaticos.tdt1.com/canales/logotrece.jpg" group-title="España" tvg-chno="13",Trece
 https://play.cdn.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/live.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="RealMadridTV.es" tvg-logo="https://i.imgur.com/5pMo7dL.png" group-title="TDT_ES" tvg-chno="27",Real Madrid TV
+#EXTINF:-1 tvg-id="RealMadridTV.es" tvg-logo="https://i.imgur.com/5pMo7dL.png" group-title="España" tvg-chno="27",Real Madrid TV
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01201-cinedigmenterta-realmadrid-cineverse/playlist.m3u8
 #EXTINF:-1 tvg-id=" " tvg-logo="https://graph.facebook.com/del40al1/picture?width=200&height=200" group-title="España" tvg-chno=" ",Del 40 al 1
 https://prisaradio-live.prisasd.com/live-content/directo40al1/master.m3u8
