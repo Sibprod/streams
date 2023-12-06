@@ -119,6 +119,19 @@ https://i.mjh.nz/SamsungTVPlus/GBBB1500003NF.m3u8
 https://temp4.isilive.ca/live/CHCOTV/live/index.m3u8
 #EXTINF-1 tvg-id="NTV.ca" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/bd/CJON-TV.PNG" group-title="Canada" tvg-chno=" ",NTV (Newfoundland TV)
 https://2-fss-1.streamhoster.com/pl_122/201748-1431018-1/playlist.m3u8
+--- Australie ---
+#EXTINF-1 tvg-id="ADHTV.au" tvg-logo="https://i.ibb.co/zmccMZG/Channels4-profile.jpg" group-title="Australie" tvg-chno=" ",ADH TV
+https://ythls.armelin.one/channel/UCtzTaKI8AkiSjyzm1_JbMUg.m3u8
+#EXTINF-1 tvg-id="AusbizChannel.au" tvg-logo="https://i.imgur.com/8vGGdB0.png" group-title="Australie" tvg-chno=" ",Ausbiz Channel
+https://d9quh89lh7dtw.cloudfront.net/public-output/index.m3u8
+#EXTINF-1 tvg-id="C31Melbourne.au" tvg-logo="https://i.imgur.com/Ge1EutY.png" group-title="Australie" tvg-chno=" ",C31 Melbourne
+https://d1k6kax80wecy5.cloudfront.net/RLnAKY/index.m3u8
+#EXTINF-1 tvg-id="ExpoChannel.au" tvg-logo="https://i.imgur.com/2KzCShW.png" group-title="Australie" tvg-chno=" ",Expo Channel
+https://tvsnhlslivetest.akamaized.net/hls/live/2034711/EXPO-MSL4/master.m3u8
+#EXTINF-1 tvg-id="Tickernews.au" tvg-logo="https://i.imgur.com/z7M0QxV.png" group-title="Australie" tvg-chno=" ",Tickernews
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01486-tickernews-tickernewsweb-ono/playlist.m3u8
+#EXTINF-1 tvg-id="TVSN.au" tvg-logo="https://i.imgur.com/lmoAFm3.png" group-title="Australie" tvg-chno=" ",TVSN
+https://tvsnhlslivetest.akamaized.net/hls/live/2034711/TVSN-MSL4/master.m3u8
 --- Gibraltar ---
 #EXTINF-1 tvg-id="GBC.gi" tvg-logo="https://graph.facebook.com/GBCNewsroom/picture?width=200&height=200" group-title="Gibraltar" tvg-chno=" ",GBC
 http://api.new.livestream.com/accounts/14143407/events/9828641/broadcasts/238844938.m3u8
