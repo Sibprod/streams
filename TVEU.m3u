@@ -10,7 +10,7 @@ http://livetv.ktv.zone/68/play.m3u8
 https://arteliveext.akamaized.net/hls/live/2030993/artelive_de/master_v720.m3u8
 #EXTINF:-1 tvg-id="3Sat.de" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdln02cqep46mlze7TnanBe0B4a2puKqlxKjcJ2z1im_XsrX_itVmsjCqS0iPZQB-sQAs" group-title="Allemagne" tvg-chno="5",3Sat
 http://livetv.ktv.zone/69/play.m3u8
-#EXTINF:-1 tvg-id="ZDF.de" tvg-logo="https://storage.googleapis.com/webshop-live/default/0001/03/c4bad0721b17d94b272735020b1ab9fae70065a1.webp" group-title="Allemagne" tvg-chno="7",ZDF Neo
+#EXTINF:-1 tvg-id="ZDFneo.de" tvg-logo="https://storage.googleapis.com/webshop-live/default/0001/03/c4bad0721b17d94b272735020b1ab9fae70065a1.webp" group-title="Allemagne" tvg-chno="7",ZDF Neo
 https://s6.hopslan.com/zdfneox1/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="ZDFinfo.de" tvg-logo="https://i.imgur.com/vtq1IWp.png" group-title="Allemagne" tvg-chno="9",ZDF Info
 http://livetv.ktv.zone/174/play.m3u8
@@ -106,6 +106,15 @@ https://d33zah5htxvoxb.cloudfront.net/el/live/oirtv/hls.m3u8
 - LICHTENSTEIN -
 #EXTINF:-1 tvg-id=" " tvg-logo="https://www.lyngsat.com/logo/tv/mm/mediashop-li.svg" group-title="Liechtenstein" tvg-chno=" ",Mediashop - Mein Einkauf
 https://wse.rtccdn.com/eue-1676535314-63f23d48749e2/_definst_/smil:1676535314_live1.smil/playlist.m3u8
+- MOLDAVIE -
+#EXTINF-1 tvg-id="" tvg-logo="https://i.imgur.com/ZbQY56v.png" group-title="Moldavie" tvg-chno="1",Moldova 1
+https://v.trm.md/static/streaming-playlists/hls/f272ace4-32c2-4271-bbb6-7fc30a5c6105/master.m3u8
+#EXTINF-1 tvg-id="" tvg-logo="https://i.imgur.com/Hv6Nk8A.png" group-title="Moldavie" tvg-chno="2",Moldova 2
+https://v2.trm.md/static/streaming-playlists/hls/76541c86-d7de-4c73-b4c0-4fe6670b90a8/master.m3u8
+#EXTINF-1 tvg-id="" tvg-logo="https://i.imgur.com/Ul4IIfX.png" group-title="Moldavie" tvg-chno=" ",Realiatea TV (Moldova)
+https://realitatealive.md/tv/rlive.m3u8
+#EXTINF-1 tvg-id="" tvg-logo="https://i.imgur.com/irP8QLs.png" group-title="Moldavie" tvg-chno=" ",Voca Basarabiei
+https://storage.voceabasarabiei.md/hls/vocea_basarabiei.m3u8
 - POLOGNE -
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat-logo.com/logo/tv/num/4-fun-tv-pl.png" group-title="Pologne" tvg-chno=" ",4 Fun TV
 https://stream.4fun.tv:8888/hls/4f_high/index.m3u8
