@@ -82,25 +82,20 @@ https://i.mjh.nz/SamsungTVPlus/GBBA33000529G.m3u8
 https://i.mjh.nz/SamsungTVPlus/GBBD19000026B.m3u8
 #EXTINF:-1 channel-id="samsung-GBBB3800005QO" tvg-id="GBBB3800005QO" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBB3800005QO_20220323T071808SQUARE.png_20220323071810.png" tvg-chno="4731" group-title="Royaume-Uni",XITE Hits UK
 https://i.mjh.nz/SamsungTVPlus/GBBB3800005QO.m3u8
-#EXTINF-1 tvg-id="Africa24English.fr" tvg-logo="https://i.ibb.co/s9gLmqv/cgtnch.png" group-title="Royaume-Uni" tvg-chno=" ",Africa 24 (English)
-https://livevideo.vedge.infomaniak.com/livecast/ik:africa24english/manifest.m3u8
 #EXTINF:-1 tvg-logo="" tvg-group="Royaume-Uni",Bein Sports Xtra
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01334-beinsportsllc-beinxtra-samsungau/playlist.m3u8
-#EXTINF-1 tvg-id="CGTNNews.cn" tvg-logo="https://i.ibb.co/s9gLmqv/cgtnch.png" group-title="Royaume-Uni" tvg-chno=" ",CGTN News
-https://news.cgtn.com/resource/live/english/cgtn-news.m3u8
 #EXTINF:-1 tvg-logo="" tvg-group="Royaume-Uni",DAZN Combat
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00451-dazn-dazncombat-lgfr/playlist.m3u8
 #EXTINF:-1 tvg-logo="" tvg-group="Royaume-Uni",DAZN Women's Sport
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00451-dazn-daznwomenssport-lgfr/playlist.m3u8
-#EXTINF:-1 tvg-id="DWEnglish.de" tvg-logo="https://i.ibb.co/84XLZJq/dw.png" group-title="Royaume-Uni" tvg-chno=" ",Deutsche Welle (English)
-https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
-#EXTINF:-1 tvg-id="France24English.fr" tvg-logo="https://i.ibb.co/hKP8X8B/f24.png" group-title="Royaume-Uni" tvg-chno=" ",France 24 (English)
-https://amg00106-france24-france24-samsunguk-qvpp8.amagi.tv/playlist/amg00106-france24-france24-samsunguk/playlist.m3u8
-#EXTINF:-1 tvg-id="I24NewsEnglish.il" tvg-logo="https://i.ibb.co/j68q1Bp/i24.png" group-title="Royaume-Uni" tvg-chno=" ",i24 News (English)
-https://bcovlive-a.akamaihd.net/6e3dd61ac4c34d6f8fb9698b565b9f50/eu-central-1/5377161796001/playlist-all.m3u8
 #EXTINF:-1 tvg-id="V2BEATTV.uk" tvg-logo="https://i.imgur.com/PXGqyLn.png" group-title="Royaume-Uni" tvg-chno=" ",V2Beat
 https://de1se01.v2beat.live/playlist.m3u8
---- Canada ---
+--- Afrique ---
+- Panafricaines - 
+#EXTINF-1 tvg-id="Africa24English.fr" tvg-logo=" " group-title="Afrique" tvg-chno=" ",Africa 24 English
+https://livevideo.vedge.infomaniak.com/livecast/africa24english/manifest.m3u8
+--- Amérique ---
+- Canada -
 #EXTINF-1 tvg-id="GlobalMontreal.ca" tvg-logo="https://i.imgur.com/bhD2NeE.png" group-title="Canada" tvg-chno="203",Global News
 https://dai.google.com/linear/hls/pa/event/wI13hMWhRSKbyZ8Q1DQR3Q/stream/4e76b1ba-7aad-421d-9e2c-ad6d5c0aef52:GRQ/master.m3u8
 #EXTINF:-1 channel-id="samsung-CABC2300009KD" tvg-id="CABC2300009KD" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CABC2300009KD_20230726T004516SQUARE.png_20230726004517.png" tvg-chno="1043" group-title="Canada",CBC News Explore
@@ -119,7 +114,28 @@ https://i.mjh.nz/SamsungTVPlus/GBBB1500003NF.m3u8
 https://temp4.isilive.ca/live/CHCOTV/live/index.m3u8
 #EXTINF-1 tvg-id="NTV.ca" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/bd/CJON-TV.PNG" group-title="Canada" tvg-chno=" ",NTV (Newfoundland TV)
 https://2-fss-1.streamhoster.com/pl_122/201748-1431018-1/playlist.m3u8
---- Australie ---
+--- Asie ---
+- Chine -
+#EXTINF-1 tvg-id="CGTNNews.cn" tvg-logo="https://i.ibb.co/s9gLmqv/cgtnch.png" group-title="Chine" tvg-chno=" ",CGTN News
+https://news.cgtn.com/resource/live/english/cgtn-news.m3u8
+- Israël -
+#EXTINF:-1 tvg-id="I24NewsEnglish.il" tvg-logo="https://i.ibb.co/j68q1Bp/i24.png" group-title="Israël" tvg-chno=" ",i24 News (English)
+https://bcovlive-a.akamaihd.net/6e3dd61ac4c34d6f8fb9698b565b9f50/eu-central-1/5377161796001/playlist-all.m3u8
+--- Europe ---
+- Allemagne -
+#EXTINF:-1 tvg-id="DWEnglish.de" tvg-logo="https://i.ibb.co/84XLZJq/dw.png" group-title="Allemagne" tvg-chno=" ",Deutsche Welle (English)
+https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
+- France -
+#EXTINF:-1 tvg-id="France24English.fr" tvg-logo="https://i.ibb.co/hKP8X8B/f24.png" group-title="France" tvg-chno=" ",France 24 (English)
+https://amg00106-france24-france24-samsunguk-qvpp8.amagi.tv/playlist/amg00106-france24-france24-samsunguk/playlist.m3u8
+- Gibraltar -
+#EXTINF-1 tvg-id="GBC.gi" tvg-logo="https://graph.facebook.com/GBCNewsroom/picture?width=200&height=200" group-title="Gibraltar" tvg-chno=" ",GBC
+http://api.new.livestream.com/accounts/14143407/events/9828641/broadcasts/238844938.m3u8
+- Pays-Bas -
+#EXTINF-1 tvg-id="DT1.nl" tvg-logo=" " group-title="Pays-Bas" tvg-chno=" ",Dance Television
+https://eu-nl-012.worldcast.tv/dancetelevisionone/dancetelevisionone.m3u8
+--- Océanie ---
+- Australie -
 #EXTINF-1 tvg-id="ADHTV.au" tvg-logo="https://i.ibb.co/zmccMZG/Channels4-profile.jpg" group-title="Australie" tvg-chno=" ",ADH TV
 https://ythls.armelin.one/channel/UCtzTaKI8AkiSjyzm1_JbMUg.m3u8
 #EXTINF-1 tvg-id="AusbizChannel.au" tvg-logo="https://i.imgur.com/8vGGdB0.png" group-title="Australie" tvg-chno=" ",Ausbiz Channel
@@ -132,14 +148,5 @@ https://tvsnhlslivetest.akamaized.net/hls/live/2034711/EXPO-MSL4/master.m3u8
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01486-tickernews-tickernewsweb-ono/playlist.m3u8
 #EXTINF-1 tvg-id="TVSN.au" tvg-logo="https://i.imgur.com/lmoAFm3.png" group-title="Australie" tvg-chno=" ",TVSN
 https://tvsnhlslivetest.akamaized.net/hls/live/2034711/TVSN-MSL4/master.m3u8
---- Gibraltar ---
-#EXTINF-1 tvg-id="GBC.gi" tvg-logo="https://graph.facebook.com/GBCNewsroom/picture?width=200&height=200" group-title="Gibraltar" tvg-chno=" ",GBC
-http://api.new.livestream.com/accounts/14143407/events/9828641/broadcasts/238844938.m3u8
---- Irlande ---
-#EXTINF-1 tvg-id="Oireachtas.ie" tvg-logo="https://i.imgur.com/aC4fsCI.png" group-title="Irlande" tvg-chno=" ",Oireachtas
-https://d33zah5htxvoxb.cloudfront.net/el/live/oirtv/hls.m3u8
-#EXTINF-1 tvg-id="TG4.ie" tvg-logo="https://i.imgur.com/XiAKb4E.png" group-title="Irlande" tvg-chno="4",TG4
-https://dx4452e0qv6r9.cloudfront.net/tg4_vod_national.m3u8
---- Autres pays ---
-#EXTINF-1 tvg-id="DT1.nl" tvg-logo=" " group-title="Pays-Bas" tvg-chno=" ",Dance Television
-https://eu-nl-012.worldcast.tv/dancetelevisionone/dancetelevisionone.m3u8
+- Nouvelle-Zélande -
+
