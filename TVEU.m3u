@@ -109,6 +109,47 @@ https://wse.rtccdn.com/eue-1676535314-63f23d48749e2/_definst_/smil:1676535314_li
 - POLOGNE -
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat-logo.com/logo/tv/num/4-fun-tv-pl.png" group-title="Pologne" tvg-chno=" ",4 Fun TV
 https://stream.4fun.tv:8888/hls/4f_high/index.m3u8
+- ROUMANIE -
+#EXTINF-1 tvg-id="TVRInfo.ro" tvg-logo="https://i.imgur.com/7oE7ThR.png" group-title="Roumanie" tvg-chno="9",TVR Info
+https://mn-nl.mncdn.com/tvrinfo/tvrinfo_mjuypp/index.m3u8
+#EXTINF-1 tvg-id="TVRInternational.ro" tvg-logo="https://i.imgur.com/w28wcHs.png" group-title="Roumanie" tvg-chno="12",TVR International
+https://mn-nl.mncdn.com/tvri_test/smil:tvri_test.smil/index.m3u8
+#EXTINF-1 tvg-id="Digi24.ro" tvg-logo="https://i.imgur.com/2z4F1UT.png" group-title="Roumanie" tvg-chno="",Digi 24
+https://edge-ar.rcs-rds.ro/digi24ar/index.m3u8
+#EXTINF-1 tvg-id="Euronews.ro" tvg-logo="https://i.imgur.com/jUOVUXt.png" group-title="Roumanie" tvg-chno="",Euronews (România)
+https://ythls.armelin.one/channel/UCbATDExtWstHnwWELZnXNZA.m3u8
+#EXTINF-1 tvg-id="ImpactTVdance.ro" tvg-logo="https://i.imgur.com/G5mNdpE.png" group-title="Roumanie" tvg-chno="",Impact TV Dance
+https://online.tvimpact.live/hls/dancetv.m3u8
+#EXTINF-1 tvg-id="InfoTVRomania.ro" tvg-logo="https://i.imgur.com/rLzapB3.png" group-title="Roumanie" tvg-chno="",Info TV România
+https://vmi347009.contaboserver.net/live/stream/index.m3u8
+#EXTINF-1 tvg-id="InfoTVRomania.ro" tvg-logo="https://i.imgur.com/0SMSIm9.png" group-title="Roumanie" tvg-chno="",Kanal D2 (România)
+https://stream2.kanald.ro/iphone/knd-live.m3u8
+#EXTINF-1 tvg-id="KissTV.ro" tvg-logo="https://i.imgur.com/NKfVymH.png" group-title="Roumanie" tvg-chno="",Kiss TV (România)
+https://tv.broadcasting.ro/kisstv/a629c031-2170-4ee9-a36d-87a891aa3131.m3u8
+#EXTINF-1 tvg-id="MagicTV.ro" tvg-logo="https://i.imgur.com/4QLjUGO.png" group-title="Roumanie" tvg-chno="",Magic TV (România)
+https://tv.broadcasting.ro/magictv/925f90db-5c88-4190-a53d-5163cdffe6f4.m3u8
+#EXTINF-1 tvg-id="MeteoTV.ro" tvg-logo="https://i.imgur.com/URCiHUs.png" group-title="Roumanie" tvg-chno="",Meteo TV
+https://ythls.armelin.one/channel/UCme7pPv6AZoSMsFbSYK0esg.m3u8
+#EXTINF-1 tvg-id="MoozDance.ro" tvg-logo="https://i.imgur.com/aX70RD2.png" group-title="Roumanie" tvg-chno="",Mooz Dance
+https://rtmp.digitalbroadcast.ro/moozdance/moozdance.m3u8
+#EXTINF-1 tvg-id="MoozHits.ro" tvg-logo="https://i.imgur.com/GwATd3Y.png" group-title="Roumanie" tvg-chno="",Mooz Hits
+https://rtmp.digitalbroadcast.ro/moozhits/moozhits.m3u8
+#EXTINF-1 tvg-id="MoozRo.ro" tvg-logo="https://i.imgur.com/Ft24x5T.png" group-title="Roumanie" tvg-chno="",Mooz Ro !
+https://rtmp.digitalbroadcast.ro/moozro/moozro.m3u8
+#EXTINF-1 tvg-id="ObservatorNews.ro" tvg-logo="https://i.imgur.com/sarnn0Y.png" group-title="Roumanie" tvg-chno="",Observator News
+https://live1ag.antenaplay.ro/live_ObservatorNews/live_ObservatorNews.m3u8
+#EXTINF-1 tvg-id="Profi24.ro" tvg-logo="https://i.imgur.com/SWcY6iG.png" group-title="Roumanie" tvg-chno="",Profi 24
+https://profi24-u3391.vm.elestio.app/hls/stream.m3u8
+#EXTINF-1 tvg-id="QubTV.ro" tvg-logo="https://i.imgur.com/GvyF2Wh.png" group-title="Roumanie" tvg-chno="",Qub TV
+https://live.djemba.ro/live/qubtvlive/playlist.m3u8
+#EXTINF-1 tvg-id="RealitateaPlus.ro" tvg-logo="https://i.imgur.com/kHvAhfj.png" group-title="Roumanie" tvg-chno="",Realitatea Plus
+https://edge.realitatea.net/realitatea/plus_fq/playlist.m3u8
+#EXTINF-1 tvg-id="RealitateaSportiva.ro" tvg-logo="https://i.imgur.com/kHvAhfj.png" group-title="Roumanie" tvg-chno="",Realitatea Sport
+https://streamx.realitatea.net/realitatea/sportiva_md/playlist.m3u8
+#EXTINF-1 tvg-id="RealitateaStar.ro" tvg-logo="https://i.imgur.com/bNdpyAZ.png" group-title="Roumanie" tvg-chno="",Realitatea Star
+https://streamx.realitatea.net/realitatea/star_md/playlist.m3u8
+#EXTINF-1 tvg-id="RockTV.ro" tvg-logo="https://i.imgur.com/JoPywOp.png" group-title="Roumanie" tvg-chno="",Rock TV (România)
+https://tv.broadcasting.ro/rocktv/85c83a80-4f71-4f2d-a8d6-43f676896bcb.m3u8
 - SUISSE -
 #EXTINF:-1 tvg-id="SRF1.ch" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Logo_SRF_1.svg/800px-Logo_SRF_1.svg.png" group-title="Suisse" tvg-chno="1",SRF 1
 http://livetv.ktv.zone/128/play.m3u8
