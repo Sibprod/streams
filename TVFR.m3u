@@ -50,7 +50,7 @@ https://hls-m013.live-lv3.canalplus-cdn.net/live/disk/cnews-clair-hd/hls-ios-fhd
 http://s2.callofliberty.fr/direct/CSTAR/master.m3u8
 #EXTINF:-1 tvg-id="Gulli.fr" tvg-logo="https://focus.telerama.fr/104x104/60/0000/00/01/clear-482.png" group-title="France" tvg-chno="18",Gulli
 https://origin2-6play.live.6cloud.fr/pool_rnpls9by/gulli/sixplaysd/hls_short_q2hyb21h_gulli/index.m3u8
-#EXTINF:-1 tvg-id="TF1SeriesFilms.fr" tvg-logo="https://focus.telerama.fr/104x104/60/0000/00/01/clear-1404.png" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64;x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 Edg/112.0.1722.34" group-title="France" tvg-chno="20",TF1 Séries & Films (flux alternatif)
+#EXTINF:-1 tvg-id="TF1SeriesFilms.fr" tvg-logo="https://focus.telerama.fr/104x104/60/0000/00/01/clear-1404.png" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64;x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 Edg/112.0.1722.34" group-title="France" tvg-chno="20",TF1 Séries & Films
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=http://s2.callofliberty.fr/
 http://s2.callofliberty.fr/direct/TF1SERIESFILMS/master.m3u8
@@ -59,7 +59,7 @@ http://s2.callofliberty.fr/direct/LEQUIPE/master.m3u8
 #EXTINF:-1 tvg-id="6ter.fr" tvg-logo="https://focus.telerama.fr/104x104/60/0000/00/01/clear-1403.png" group-title="France" tvg-chno="22",6Ter
 http://livetv.ktv.zone/24/play.m3u8
 #EXTINF:-1 tvg-id="RMCStory.fr" tvg-logo="https://focus.telerama.fr/104x104/60/0000/00/01/clear-1402.png" group-title="France" tvg-chno="23",RMC Story
-http://s2.callofliberty.fr/direct/RMCSTORY/master.m3u8
+http://livetv.ktv.zone/25/play.m3u8
 #EXTINF:-1 tvg-id="RMCDecouverte.fr" tvg-logo="https://focus.telerama.fr/104x104/60/0000/00/01/clear-1400.png" group-title="France" tvg-chno="24",RMC Découverte
 http://livetv.ktv.zone/26/play.m3u8
 #EXTINF:-1 tvg-id="Cherie25.fr" tvg-logo="https://focus.telerama.fr/104x104/60/0000/00/01/clear-1399.png" group-title="France" tvg-chno="25",Chérie 25
@@ -346,7 +346,7 @@ https://strhlslb01.streamakaci.tv/ortb/ortb1-multi/playlist.m3u8
 https://stream01.adotv-fm.bj/ado-tv-live/index.m3u8
 - CAMEROUN -
 #EXTINF:-1 tvg-id="CRTV.cm" tvg-logo=" " group-title="Afrique" tvg-chno="1",CRTV
-https://edge.vedge.infomaniak.com/livecast/ik:fluxvideo-crtv/manifest.m3u8
+https://livevideo.vedge.infomaniak.com/livecast/ik:fluxvideo-crtv/manifest.m3u8
 #EXTINF:-1 tvg-id="Canal2.cm" tvg-logo=" " group-title="Afrique" tvg-chno="2",Canal 2 International
 https://tgn.bozztv.com/ssh101/ssh101/canal2live/playlist.m3u8
 #EXTINF:-1 tvg-id="Vision4.cm" tvg-logo="https://i.imgur.com/rUbrFA8.png" group-title="Afrique" tvg-chno="4",Vision 4
@@ -436,17 +436,15 @@ https://live3.acangroup.org:1929/acanabr/sentv.stream_all/playlist.m3u8
 - TOGO -
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Afrique" tvg-chno="264",SOS Docteurs TV
 https://pvqyb34odz24-hls-live.5centscdn.com/doc2/tv.stream/playlist.m3u8
-
+- PANAFRICAINES -
 #EXTINF:-1 tvg-id="3ABNFrench.us" tvg-logo="" group-title="Afrique" tvg-chno=" ",3ABN Français
 https://3abn-live.akamaized.net/hls/live/2010546-b/French/master.m3u8
-
-#EXTINF:-1 tvg-id=" " tvg-logo="https://i.ibb.co/pdnMrZn/a24.png" group-title="Afrique" tvg-chno="170",Africa 24
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="Afrique" tvg-chno=" ",Afric 4
+https://vdo2.pro-fhi.net:3112/stream/play.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo="https://i.ibb.co/pdnMrZn/a24.png" group-title="Afrique" tvg-chno=" ",Africa 24
 https://livevideo.vedge.infomaniak.com/livecast/ik:africa24/manifest.m3u8
 #EXTINF:-1 tvg-id="Africa24sport.fr" tvg-logo="https://i2.wp.com/africa24tv.com/wp-content/uploads/2021/09/logo.png?fit=300%2C129&ssl=1" group-title="Afrique" tvg-chno=" ",Africa 24 Sport
 https://livevideo.vedge.infomaniak.com/livecast/ik:africa24sport/manifest.m3u8
-
-#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="Afrique" tvg-chno=" ",Afric 4
-https://vdo2.pro-fhi.net:3112/stream/play.m3u8
 #EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="Afrique" tvg-chno=" ",Doyi Doslo TV
 https://cageu.bozztv.com/ssh101/ssh101/my23a2r/playlist.m3u8
 --- BELGIQUE ---
