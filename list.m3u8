@@ -1,0 +1,330 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="TF1.fr" tvg-logo="https://focus.telerama.fr/104x104/60/0000/00/01/clear-192.png" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64;x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 Edg/112.0.1722.34" group-title="Français" tvg-chno="1",TF1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://s2.callofliberty.fr/
+http://s2.callofliberty.fr/direct/TF1/master.m3u8
+
+#EXTINF:-1 tvg-id="France2.fr" tvg-logo="https://focus.telerama.fr/104x104/60/0000/00/01/clear-4.png" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64;x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 Edg/112.0.1722.34" group-title="Français" tvg-chno="2",France 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://s2.callofliberty.fr/
+http://s2.callofliberty.fr/direct/France.2/master.m3u8
+
+#EXTINF:-1 tvg-id="France3.fr" tvg-logo="https://focus.telerama.fr/104x104/60/0000/00/01/clear-80.png" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64;x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 Edg/112.0.1722.34" group-title="Français" tvg-chno="3",France 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://s2.callofliberty.fr/
+http://s2.callofliberty.fr/direct/France.3/master.m3u8
+
+#EXTINF:-1 tvg-id="France4.fr" tvg-logo="https://focus.telerama.fr/104x104/60/0000/00/01/clear-78.png" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64;x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 Edg/112.0.1722.34" group-title="Français" tvg-chno="4",France 4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://s2.callofliberty.fr/
+http://s2.callofliberty.fr/direct/France.4/master.m3u8
+
+#EXTINF:-1 tvg-id="France5.fr" tvg-logo="https://focus.telerama.fr/104x104/60/0000/00/01/clear-47.png" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64;x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 Edg/112.0.1722.34" group-title="Français" tvg-chno="5",France 5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://s2.callofliberty.fr/
+http://s2.callofliberty.fr/direct/France.5/master.m3u8
+
+#EXTINF:-1 tvg-id="M6.fr" tvg-logo="https://focus.telerama.fr/104x104/60/0000/00/01/clear-118.png" group-title="Français" tvg-chno="6",M6
+https://shls-m6-france-prod-dub-ak.akamaized.net/out/v1/c8a9f6e000cd4ebaa4d2fc7d18c15988/index.m3u8
+
+#EXTINF:-1 tvg-id="ARTE.fr" tvg-logo="https://focus.telerama.fr/104x104/60/0000/00/01/clear-111.png" group-title="Français" tvg-chno="7",ARTE
+https://artesimulcast.akamaized.net/hls/live/2031003/artelive_fr/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://focus.telerama.fr/104x104/60/0000/00/01/clear-445.png" group-title="Français" tvg-chno="8",C8
+http://s2.callofliberty.fr/direct/C8/master.m3u8
+
+#EXTINF:-1 tvg-id="W9.fr" tvg-logo="https://focus.telerama.fr/104x104/60/0000/00/01/clear-119.png" group-title="Français" tvg-chno="9",W9
+http://livetv.ktv.zone/11/play.m3u8
+
+#EXTINF:-1 tvg-id="TMC.fr" tvg-logo="https://focus.telerama.fr/104x104/60/0000/00/01/clear-195.png" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64;x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 Edg/112.0.1722.34" group-title="Français" tvg-chno="10",TMC
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://s2.callofliberty.fr/
+http://s2.callofliberty.fr/direct/TMC/master.m3u8
+
+#EXTINF:-1 tvg-id="TFX.fr" tvg-logo="https://focus.telerama.fr/104x104/60/0000/00/01/clear-446.png" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64;x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 Edg/112.0.1722.34" group-title="Français" tvg-chno="11",TFX
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://s2.callofliberty.fr/
+http://s2.callofliberty.fr/direct/TFX/master.m3u8
+
+#EXTINF:-1 tvg-id="NRJ12.fr" tvg-logo="https://focus.telerama.fr/104x104/60/0000/00/01/clear-444.png" group-title="Français" tvg-chno="12",NRJ 12
+https://nrj12.nrjaudio.fm/hls/live/2038374/nrj_12/master.m3u8
+
+#EXTINF:-1 tvg-id="LaChaineParlementaire.fr" tvg-logo="http://www.callofliberty.fr/tv/28-LCP/28-LCP.png" group-title="Français" tvg-chno="13",LCP 100%
+http://s2.callofliberty.fr/direct/LCP/master.m3u8
+
+#EXTINF:-1 tvg-id="Parlementaire.fr" tvg-logo="http://www.callofliberty.fr/tv/29-PublicSenat/29-PublicSenat.png" group-title="Français" tvg-chno="13",Public Sénat
+https://raw.githubusercontent.com/Sibprod/streams/main/ressources/dmotion/py/Assemblees/PublicSenat.m3u8
+
+#EXTINF:-1 tvg-id="BFMTV.fr" tvg-logo="https://focus.telerama.fr/104x104/60/0000/00/01/clear-481.png" group-title="Français" tvg-chno="15",BFM TV
+https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_TV/index.m3u8?start=LIVE&end=END
+
+#EXTINF:-1 tvg-id="CNews.fr" tvg-logo="https://focus.telerama.fr/104x104/60/0000/00/01/clear-226.png" group-title="Français" tvg-chno="16",CNews
+https://hls-m013.live-lv3.canalplus-cdn.net/live/disk/cnews-clair-hd/hls-ios-fhd-clair/cnews-clair-hd.m3u8
+
+#EXTINF:-1 tvg-id="CStar.fr" tvg-logo="https://focus.telerama.fr/104x104/60/0000/00/01/clear-458.png" group-title="Français" tvg-chno="17",CStar
+http://s2.callofliberty.fr/direct/CSTAR/master.m3u8
+
+#EXTINF:-1 tvg-id="Gulli.fr" tvg-logo="https://focus.telerama.fr/104x104/60/0000/00/01/clear-482.png" group-title="Français" tvg-chno="18",Gulli
+https://origin2-6play.live.6cloud.fr/pool_rnpls9by/gulli/sixplaysd/hls_short_q2hyb21h_gulli/index.m3u8
+
+#EXTINF:-1 tvg-id="France24.fr" tvg-logo="https://tv.cdnartwhere.eu/images/logos_chaines/529.png" group-title="Français" tvg-chno="19",France 24 (Français)
+https://ythls.armelin.one/channel/UCCCPCZNChQdGa9EkATeye4g.m3u8
+
+#EXTINF:-1 tvg-id="TF1SeriesFilms.fr" tvg-logo="https://focus.telerama.fr/104x104/60/0000/00/01/clear-1404.png" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64;x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 Edg/112.0.1722.34" group-title="Français" tvg-chno="20",TF1 Séries & Films
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://s2.callofliberty.fr/
+http://s2.callofliberty.fr/direct/TF1SERIESFILMS/master.m3u8
+
+#EXTINF:-1 tvg-id="LEquipe.fr" tvg-logo="https://focus.telerama.fr/104x104/60/0000/00/01/clear-1401.png" group-title="Français" tvg-chno="21",L'Équipe
+http://s2.callofliberty.fr/direct/LEQUIPE/master.m3u8
+
+#EXTINF:-1 tvg-id="6ter.fr" tvg-logo="https://focus.telerama.fr/104x104/60/0000/00/01/clear-1403.png" group-title="Français" tvg-chno="22",6Ter
+http://livetv.ktv.zone/24/play.m3u8
+
+#EXTINF:-1 tvg-id="RMCStory.fr" tvg-logo="https://focus.telerama.fr/104x104/60/0000/00/01/clear-1402.png" group-title="Français" tvg-chno="23",RMC Story
+http://livetv.ktv.zone/25/play.m3u8
+
+#EXTINF:-1 tvg-id="RMCDecouverte.fr" tvg-logo="https://focus.telerama.fr/104x104/60/0000/00/01/clear-1400.png" group-title="Français" tvg-chno="24",RMC Découverte
+http://livetv.ktv.zone/26/play.m3u8
+
+#EXTINF:-1 tvg-id="Cherie25.fr" tvg-logo="https://focus.telerama.fr/104x104/60/0000/00/01/clear-1399.png" group-title="Français" tvg-chno="25",Chérie 25
+https://cherie25.nrjaudio.fm/hls/live/2038375/c25/FHD.m3u8
+
+#EXTINF:-1 tvg-id="LCI.fr" tvg-logo="https://focus.telerama.fr/104x104/60/0000/00/01/clear-112.png" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64;x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 Edg/112.0.1722.34" group-title="Français" tvg-chno="26",LCI
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://s2.callofliberty.fr/
+http://s2.callofliberty.fr/direct/LCI/master.m3u8
+
+#EXTINF:-1 tvg-id="Franceinfo.fr" tvg-logo="https://focus.telerama.fr/104x104/60/0000/00/01/clear-2111.png" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64;x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 Edg/112.0.1722.34" group-title="Français" tvg-chno="27",Franceinfo
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://s2.callofliberty.fr/
+http://s2.callofliberty.fr/direct/Franceinfo/master.m3u8
+
+#EXTINF:-1 tvg-id="BFMVar.fr" tvg-logo="https://raw.githubusercontent.com/Sibprod/assets/main/Altice/ALTICE_BFM-Toulon.png" group-title="Français" tvg-chno="30",BFM Régions (Toulon-Var)
+https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_TOULONVAR/index.m3u8?start=LIVE&end=END
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s2.dmcdn.net/u/7fiM11W1elfKAeKOR/120x120" group-title="Français" tvg-chno="31",N31
+https://raw.githubusercontent.com/Sibprod/streams/main/ressources/dmotion/py/N31/N31.m3u8
+
+#EXTINF:-1 tvg-id="20MinutesTV.fr" tvg-logo="https://static-cdn.tv.sfr.net/data/img/apps/chaines/logos/20MINUTESTV100x100.png?h=100" group-title="Français" tvg-chno="32",20 Minutes TV (IdF)
+https://lives.digiteka.com/stream/86d3e867-a272-496b-8412-f59aa0104771/index.m3u8
+
+#EXTINF:-1 tvg-id="France3CorseViaStella.fr" tvg-logo="https://focus.telerama.fr/104x104/60/0000/00/01/clear-308.png" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64;x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 Edg/112.0.1722.34" group-title="Français" tvg-chno="33",France 3 Corse - Via Stella
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://www.callofliberty.fr/
+http://s2.callofliberty.fr/direct/france.3corse/master.m3u8
+
+#EXTINF:-1 tvg-id="LeFigaroIDF.fr" tvg-logo="https://www.planetecsat.com/wp-content/uploads/2023/04/Entete-Figaro-IDF.png" group-title="Français" tvg-chno="34",Le Figaro TV (IdF)
+https://figarotv-live.freecaster.com/live/freecaster/figarotv.m3u8
+
+#EXTINF:-1 tvg-id="CanalJ.fr" tvg-logo="https://focus.telerama.fr/104x104/60/0000/00/01/clear-32.png" group-title="Français" tvg-chno="37",Canal J
+http://livetv.ktv.zone/176/play.m3u8
+
+#EXTINF:-1 tvg-id="Euronews.fr" tvg-logo="https://focus.telerama.fr/104x104/60/0000/00/01/clear-140.png" group-title="Français" tvg-chno="38",Euronews (Français)
+https://7c8b7dbf12d64234a983336fdddb88c2.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-fr_EuroNewsLive/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Equidia.fr" tvg-logo="https://static.epg.best/fr/Equidia.fr.png" group-title="Français" tvg-chno="39",Equidia
+http://s2.callofliberty.fr/direct/EQUIDIA/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://focus.telerama.fr/104x104/60/0000/00/01/clear-34.png" group-title="Français" tvg-chno="40",Canal+ (en clair)
+https://hls-m007.live-lv3.canalplus-cdn.net/live/disk/canalplusclair-hd/hls-ios-fhd-clair/canalplusclair-hd.m3u8
+
+#EXTINF:-1 tvg-id="ParisPremiere.fr" tvg-logo="https://focus.telerama.fr/104x104/60/0000/00/01/clear-145.png" group-title="Français" tvg-chno="41",Paris Première
+https://raw.githubusercontent.com/Sibprod/streams/main/ParisPremiere.m3u8
+
+#EXTINF:-1 tvg-id="BFMBusiness.fr" tvg-logo="https://focus.telerama.fr/104x104/60/0000/00/01/clear-1073.png" group-title="Français" tvg-chno="51",BFM Business
+https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_BUSINESS/index.m3u8?start=LIVE&end=END
+
+#EXTINF:-1 tvg-id="i24NewsFrench.il" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/LOGO_i24NEWS.png/600px-LOGO_i24NEWS.png" group-title="Français" tvg-chno="54",i24 News (Français)
+https://bcovlive-a.akamaihd.net/cc8266d36bb5469b8b4a3097497e06e6/eu-central-1/5377161796001/playlist-all.m3u8
+
+#EXTINF:-1 tvg-id="TV5Monde.fr" tvg-logo="https://focus.telerama.fr/104x104/60/0000/00/01/clear-205.png" group-title="Français" tvg-chno="56",TV5 Monde (FBSM)
+https://accesiptv.com:443/QGHet3DNeRGJ/kX4jGz3KnTPM/271.m3u8
+
+#EXTINF:-1 tvg-id="Teva.fr" tvg-logo="https://focus.telerama.fr/104x104/60/0000/00/01/clear-191.png" group-title="Français" tvg-chno="59",Téva
+https://codeberg.org/Sibprod/streams/raw/branch/master/Teva.m3u8
+
+#EXTINF:-1 tvg-id="M6International.fr" tvg-logo="https://i.ibb.co/6RYpdNz/m6int.png" group-title="Français" tvg-chno="60",M6 International
+https://shls-m6-int-prod-dub.shahid.net/out/v1/a315ab77ee7343a7a17dbe7e32eee3ba/index.m3u8
+
+#EXTINF:-1 tvg-id="KTO.fr" tvg-logo="https://focus.telerama.fr/104x104/60/0000/00/01/clear-110.png" group-title="Français" tvg-chno="61",KTO
+https://live-kto.akamaized.net/hls/live/2033284/KTO/index.m3u8
+
+#EXTINF:-1 tvg-id="Monacoinfo.mc" tvg-logo="http://www.mmd.mc/images/radio/mcinfo.png" group-title="Français" tvg-chno="70",Monaco Info
+https://webtvmonacoinfo.mc/live/prod_720/index.m3u8
+
+#EXTINF:-1 tvg-id="TVMonaco.mc" tvg-logo="https://uploads-ssl.webflow.com/64ef486c2dea3ecce41aa815/64ef4d4df9dc3aad9060ed45_Logo_Rouge_blanc0-p-500.png" group-title="Français" tvg-chno="71",TV Monaco
+https://production-fast-mcrtv.content.okast.tv/channels/2116dc08-1959-465d-857f-3619daefb66b/b702b2b9-aebd-436c-be69-2118f56f3d86/2025/media.m3u8
+
+#EXTINF:-1 tvg-id="TV5MondeEurope.fr" tvg-logo="https://focus.telerama.fr/104x104/60/0000/00/01/clear-232.png" group-title="Français" tvg-chno="75",TV5 Monde (Europe)
+http://livetv.ktv.zone/61/play.m3u8
+
+#EXTINF:-1 tvg-id="Superyacht.mc" tvg-logo="https://superyacht.tv/media/cache/header_main_logo/bundles/app/img/logo.png" group-title="Français" tvg-chno="78",SuperYacht.TV
+https://sy.wns.live/hls/stream.m3u8
+
+#EXTINF:-1 tvg-id="01TV.fr" tvg-logo="https://static-cdn.tv.sfr.net/data/img/apps/chaines/logos/SFR100x100RMCBFMPLAY.png?h=380" group-title="Français" tvg-chno="81",Tech & Co
+https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_TECHANDCO/index.m3u8?start=LIVE&end=END
+
+#EXTINF:-1 tvg-id="CGTNFrench.cn" tvg-logo="https://i.ibb.co/ZgqnqnJ/cgtnfr.png" group-title="Français" tvg-chno="87",CGTN (Français)
+http://news.cgtn.com/resource/live/french/cgtn-f.m3u8
+
+#EXTINF:-1 tvg-id="Tiji.fr" tvg-logo="https://i.ibb.co/vmk02Tc/tiji.png" group-title="Français" tvg-chno="94",Tiji
+https://shls-tiji-tv-prod-dub.shahid.net/out/v1/98f46736bd8c4404b67e4b7a38cc8976/index.m3u8
+
+#EXTINF:-1 tvg-id="Museum.fr" tvg-logo="https://focus.telerama.fr/40x40/80/0000/00/01/clear-1072.png" tvg-chno="Français" tvg-chno="112",Museum TV
+https://live.creacast.com/museum-france/smil:museum-france.smil/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Français" tvg-chno="113",Maison & Travaux TV
+https://d387lnkgycbwl.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-sdi2aweg8u1y4/761cde02-1df4-4a1a-ad50-7033ede188ef/2.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Français" tvg-chno="114",Top Santé TV
+https://d3tuo4zu8l334y.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-x8ri0qojo9mfh/e5997ac8-9e9c-42cc-a2ef-633dc0a4f5a3/2.m3u8
+
+#EXTINF:-1 tvg-id="MyZenTV.fr" tvg-logo="https://i.imgur.com/fIi8o0C.png" group-title="Français" tvg-chno="124",My Zen TV
+https://live.creacast.com/myzentv-france/smil:myzentv-france.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ClubbingTV.fr" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/34/FRBB1900001FA_20220323T075747.png" group-title="Français" tvg-chno="155",Clubbing TV
+https://clubbingtv-oando.amagi.tv/hls/amagi_hls_data_clubbingt-clubbingtv-oando/CDN/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Melody.fr" tvg-logo="https://i.imgur.com/9GVyQ6x.png" group-title="Français" tvg-chno="160",Melody
+https://live.creacast.com/telemelody/smil:telemelody-211112.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="SportenFrance.fr" tvg-logo="https://i.imgur.com/1IXQoWq.png" group-title="Français" tvg-chno="173",Sport En France
+https://sp1564435593.mytvchain.info/live/sp1564435593/index.m3u8
+
+#EXTINF:-1 tvg-id="MensUPTV.fr" tvg-logo="" group-title="Français" tvg-chno="216",Men's Up TV
+http://www.callofliberty.fr/direct/MENSUPTV/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://yt3.googleusercontent.com/kmBR8wlZ879LmJaVowBubu2v0dC9WotZpd7Sk8fJA5xCIsvwFllb1DS-NtJl7Sh07RREas_vqHI=s176-c-k-c0x00ffffff-no-rj" group-title="Français" tvg-chno="217",Sqool TV
+https://ythls.armelin.one/channel/UCaEqMbRYYOmI3WrALMhxuIg.m3u8
+
+#EXTINF:-1 tvg-id="BSmart.fr" tvg-logo="" group-title="Français" tvg-chno="230",BSmart
+http://www.callofliberty.fr/direct/BSMART/master.m3u8
+
+#EXTINF:-1 tvg-id="Noa.fr" tvg-logo="http://www.callofliberty.fr/tv/217-france.3NoA/217-france.3NoA.png" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64;x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 Edg/112.0.1722.34" group-title="Français" tvg-chno="339",France 3 NoA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://www.callofliberty.fr/
+http://s2.callofliberty.fr/direct/france.3NoA/master.m3u8
+
+#EXTINF:-1 tvg-id="TV8MontBlanc.fr" tvg-logo="https://i.ibb.co/74fJt5v/8mblanc.png" group-title="Français" tvg-chno="343",8 Mont-Blanc
+https://raw.githubusercontent.com/Sibprod/streams/main/ressources/dmotion/py/8MB/8MB.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://codeberg.org/Sibprod/Feed/raw/branch/main/assets/natv_logo.png" group-title="Français" tvg-chno="357",NA TV
+https://livevideo.vedge.infomaniak.com/livecast/naradio/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AntenneReunion.mu" tvg-logo="http://www.callofliberty.fr/tv/47-AntenneREUNION/47-AntenneREUNION.png" group-title="Français" tvg-chno="400",Antenne Réunion
+https://live-antenne-reunion.zeop.tv/live/c3eds/antreunihd/hls_fta/antreunihd.m3u8?location=ZEOP01
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://programme-tv.vini.pf/sites/default/files/img-icones/464.png" group-title="Français" tvg-chno="402",Tahiti TV
+https://tntv-samsung-fr.amagi.tv/hls/amagi_hls_data_samsungfr-tntv-samsungfr/CDN/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ETV.gp" tvg-logo="https://www.etv.gp/wp-content/uploads/2021/08/logo-chaine-television-etv-300x132.png" group-title="Français" tvg-chno="411",ETV
+https://livevideo.vedge.infomaniak.com/livecast/etvgp/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://fusiontv.fr/wp-content/uploads/2021/03/cropped-LOGO-FUSION-TV2-2-300x220.png" group-title="Français" tvg-chno="441",Fusion TV
+https://livevideo.vedge.infomaniak.com/livecast/fusiontv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s2.dmcdn.net/u/1erOl1YsKLpseQ-JA/120x120" group-title="Français" tvg-chno="445",Telesud
+https://raw.githubusercontent.com/Sibprod/streams/main/ressources/dmotion/py/Vision4/Telesud.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s1.dmcdn.net/u/4CFDy1a3DhO7zSO3N/120x120" group-title="Français" tvg-chno="496",Ubiznews-OM5
+https://raw.githubusercontent.com/Sibprod/streams/main/ressources/dmotion/py/Ubiznews/Ubiznews.m3u8
+
+#EXTINF:-1 tvg-id="RTS1.ch" tvg-logo="https://focus.telerama.fr/104x104/60/0000/00/01/clear-202.png" group-title="Français" tvg-chno="801",RTS 1
+http://livetv.ktv.zone/1/play.m3u8
+
+#EXTINF:-1 tvg-id="RTS2.ch" tvg-logo="https://focus.telerama.fr/104x104/60/0000/00/01/clear-183.png" group-title="Français" tvg-chno="802",RTS 2
+http://livetv.ktv.zone/2/play.m3u8
+
+#EXTINF:-1 tvg-id="RougeTV.ch" tvg-logo="https://services.sg101.prd.sctv.ch/content/images/tv/channel/355_image_7_w90.webp" group-title="Français" tvg-chno="804",Carac 1
+https://livevideo.vedge.infomaniak.com/livecast/rougetv/master.m3u8
+
+#EXTINF:-1 tvg-id="OneTV.ch" tvg-logo="https://services.sg101.prd.sctv.ch/content/images/tv/channel/301_image_7_w90.webp" group-title="Français" tvg-chno="805",Carac 2
+https://livevideo.vedge.infomaniak.com/livecast/onefmhd/master.m3u8
+
+#EXTINF:-1 tvg-id="LFMTV.ch" tvg-logo="https://services.sg101.prd.sctv.ch/content/images/tv/channel/246_image_7_w90.webp" group-title="Français" tvg-chno="806",Carac 3
+https://livevideo.vedge.infomaniak.com/livecast/lfmhd/master.m3u8
+
+#EXTINF:-1 tvg-id="TVSuissePlus.ch" tvg-logo="https://services.sg101.prd.sctv.ch/content/images/tv/channel/1082_image_7_w90.webp" group-title="Français" tvg-chno="807",Carac 4
+https://livevideo.vedge.infomaniak.com/livecast/compack_media_1/master.m3u8
+
+#EXTINF:-1 tvg-id="RTLTVI.be" tvg-logo="https://focus.telerama.fr/104x104/60/0000/00/01/clear-168.png" group-title="Français" tvg-chno="813",RTL tvi
+https://raw.githubusercontent.com/Sibprod/streams/main/RTLtvi.m3u8
+
+#EXTINF:-1 tvg-id="ClubRTL.lu" tvg-logo="https://focus.telerama.fr/104x104/60/0000/00/01/clear-50.png" group-title="Français" tvg-chno="814",RTL club
+https://raw.githubusercontent.com/Sibprod/streams/main/RTLclub.m3u8
+
+#EXTINF:-1 tvg-id="PlugRTL.lu" tvg-logo="https://focus.telerama.fr/104x104/60/0000/00/01/clear-377.png" group-title="Français" tvg-chno="815",RTL plug
+https://raw.githubusercontent.com/Sibprod/streams/main/RTLplug.m3u8
+
+#EXTINF:-1 tvg-id="LN24.be" tvg-logo="https://i.imgur.com/bp1Qp0d.png" group-title="Français" tvg-chno="818",LN 24
+https://live.digiteka.com/1/bEg0RmFLb1JMYXRI/dGhqbmIw/hls/live/playlist.m3u8
+
+#EXTINF:-1 tvg-id=" " tvg-logo="https://www.lyngsat.com/logo/tv/cc/chambre_des_deputes.png" group-title="Français" tvg-chno="820",Chamber TV
+https://media01.webtvlive.eu/chd-edge/_definst_/smil:chamber_tv_hd.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CFBT.ca" tvg-logo="https://i.ibb.co/f18g74n/image.png" group-title="Français" tvg-chno="821",Ici Radio-Canada Télé
+https://rcavlive.akamaized.net/hls/live/696615/xcancbft/master_3000.m3u8
+
+#EXTINF:-1 tvg-id="Noovo.ca" tvg-logo="https://i.imgur.com/jhVjkQB.png" group-title="Français" tvg-chno="822",Noovo
+https://pe-fa-lp03a.9c9media.com/live/NOOVO/p/hls/00000201/716cf4c845225692/manifest.m3u8
+
+#EXTINF:-1 tvg-id="Telequebec.ca" tvg-logo="https://static.epg.best/ca/TeleQuebec.ca.png" group-title="Français" tvg-chno="824",Tele-Québec
+https://bcovlive-a.akamaihd.net/575d86160eb143458d51f7ab187a4e68/us-east-1/6101674910001/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CanalSavoir.ca" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/ff/Savoir_tv_logo.png" group-title="Français" tvg-chno="825",Savoir.Media
+https://hls.savoir.media/live/stream.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/sq11nQ1/rdicanada.png" group-title="Français" tvg-chno="826",Ici RDI
+https://rcavlive.akamaized.net/hls/live/704025/xcanrdi/master.m3u8
+
+#EXTINF:-1 channel-id="samsung-ESBC4100001NZ" tvg-id="ESBC4100001NZ" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC4100001NZ_20221109T010943SQUARE.png_20221109010943.png" tvg-chno="1" group-title="Español",La 1
+https://i.mjh.nz/SamsungTVPlus/ESBC4100001NZ.m3u8
+
+#EXTINF:-1 channel-id="samsung-ESBC4100002AG" tvg-id="ESBC4100002AG" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC4100002AG_20221109T010944SQUARE.png_20221109010944.png" tvg-chno="2" group-title="Español",La 2
+https://i.mjh.nz/SamsungTVPlus/ESBC4100002AG.m3u8
+
+#EXTINF:-1 tvg-id="Telemadrid.es" tvg-logo="https://estaticos.tdt1.com/canales/logotelemadrid.jpg" group-title="Español" tvg-chno="3",Telemadrid
+https://telemadrid-23.secure2.footprint.net/master.m3u8
+
+#EXTINF:-1 tvg-id="Telemadrid.es" tvg-logo="https://estaticos.tdt1.com/canales/logolaotra.jpg" group-title="Español" tvg-chno="7",La Otra (Telemadrid)
+https://laotra-1-23.secure2.footprint.net/master.m3u8
+
+#EXTINF:-1 channel-id="samsung-ESBC410000577" tvg-id="ESBC410000577" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC410000577_20231115T012205SQUARE.png_20231115012205.png" tvg-chno="11" group-title="Español",Teledeporte
+https://i.mjh.nz/SamsungTVPlus/ESBC410000577.m3u8
+
+#EXTINF:-1 channel-id="samsung-ESBC4100004J1" tvg-id="ESBC4100004J1" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC4100004J1_20230614T005926SQUARE.png_20230614005927.png" tvg-chno="12" group-title="Español",24h
+https://i.mjh.nz/SamsungTVPlus/ESBC4100004J1.m3u8
+
+#EXTINF:-1 channel-id="samsung-ESBC4100003WE" tvg-id="ESBC4100003WE" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC4100003WE_20230208T013050SQUARE.png_20230208013050.png" tvg-chno="20" group-title="Español",Clan
+https://i.mjh.nz/SamsungTVPlus/ESBC4100003WE.m3u8
+
+#EXTINF:-1 tvg-id="TVEInternacional.es" tvg-logo=" " group-title="España" tvg-chno="100",TVE Internacional (Europa)
+https://ztnr.rtve.es/ztnr/6891743.m3u8
+
+#EXTINF:-1 tvg-id=" " tvg-logo="https://graph.facebook.com/atresplayer/picture?width=200&height=200" group-title="España" tvg-chno=" ",Atresmedia Clásicos
+https://fast-channels.atresmedia.com/648ef12c2bfab0e4507e0d61/648ef12c2bfab0e4507e0d61.m3u8
+
+#EXTINF:-1 tvg-id=" " tvg-logo="https://graph.facebook.com/atresplayer/picture?width=200&height=200" group-title="España" tvg-chno=" ",Atresmedia Comedia
+https://fast-channels.atresmedia.com/648ef23d2bfab0e4557e0d61/648ef23d2bfab0e4557e0d61.m3u8
+
+#EXTINF:-1 tvg-id=" " tvg-logo="https://graph.facebook.com/flooxer/picture?width=200&height=200" group-title="España" tvg-chno=" ",Atresmedia Flooxer
+https://fast-channels.atresmedia.com/5c1285e47ed1a861f8125285/5c1285e47ed1a861f8125285.m3u8
+
+#EXTINF:-1 tvg-id=" " tvg-logo="https://graph.facebook.com/atresplayerkidz/picture?width=200&height=200" group-title="España" tvg-chno=" ",Atresmedia Kidz
+https://fast-channels.atresmedia.com/648c271d2bfab0e4177a0d61/648c271d2bfab0e4177a0d61/2.m3u8
+
+#EXTINF:-1 tvg-id=" " tvg-logo="https://graph.facebook.com/atresplayer/picture?width=200&height=200" group-title="España" tvg-chno=" ",Atresmedia Multicine
+https://fast-channels.atresmedia.com/648ef18c1756b0e41daf83cc/648ef18c1756b0e41daf83cc.m3u8
+
+
+
+
+
+
+
+
+
+
+
