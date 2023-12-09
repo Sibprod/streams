@@ -39,16 +39,16 @@ http://livetv.ktv.zone/11/play.m3u8
 
 #EXTINF:-1 tvg-id="TMC.fr" tvg-logo="https://focus.telerama.fr/104x104/60/0000/00/01/clear-195.png" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64;x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 Edg/112.0.1722.34" group-title="Français" tvg-chno="10",TMC
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-referrer=http://s2.callofliberty.fr/
+#EXTVLCOPT:http-referrer=http://s2.callofliberty.fr/direct/TMC/master.m3u8
 http://s2.callofliberty.fr/direct/TMC/master.m3u8
 
 #EXTINF:-1 tvg-id="TFX.fr" tvg-logo="https://focus.telerama.fr/104x104/60/0000/00/01/clear-446.png" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64;x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 Edg/112.0.1722.34" group-title="Français" tvg-chno="11",TFX
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-referrer=http://s2.callofliberty.fr/
+#EXTVLCOPT:http-referrer=http://s2.callofliberty.fr/direct/TFX/master.m3u8
 http://s2.callofliberty.fr/direct/TFX/master.m3u8
 
 #EXTINF:-1 tvg-id="NRJ12.fr" tvg-logo="https://focus.telerama.fr/104x104/60/0000/00/01/clear-444.png" group-title="Français" tvg-chno="12",NRJ 12
-https://nrj12.nrjaudio.fm/hls/live/2038374/nrj_12/master.m3u8
+http://livetv.ktv.zone/14/play.m3u8
 
 #EXTINF:-1 tvg-id="LaChaineParlementaire.fr" tvg-logo="http://www.callofliberty.fr/tv/28-LCP/28-LCP.png" group-title="Français" tvg-chno="13",LCP 100%
 http://s2.callofliberty.fr/direct/LCP/master.m3u8
@@ -73,7 +73,7 @@ https://ythls.armelin.one/channel/UCCCPCZNChQdGa9EkATeye4g.m3u8
 
 #EXTINF:-1 tvg-id="TF1SeriesFilms.fr" tvg-logo="https://focus.telerama.fr/104x104/60/0000/00/01/clear-1404.png" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64;x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 Edg/112.0.1722.34" group-title="Français" tvg-chno="20",TF1 Séries & Films
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-referrer=http://s2.callofliberty.fr/
+#EXTVLCOPT:http-referrer=http://s2.callofliberty.fr/direct/TF1SERIESFILMS/master.m3u8
 http://s2.callofliberty.fr/direct/TF1SERIESFILMS/master.m3u8
 
 #EXTINF:-1 tvg-id="LEquipe.fr" tvg-logo="https://focus.telerama.fr/104x104/60/0000/00/01/clear-1401.png" group-title="Français" tvg-chno="21",L'Équipe
@@ -89,16 +89,16 @@ http://livetv.ktv.zone/25/play.m3u8
 http://livetv.ktv.zone/26/play.m3u8
 
 #EXTINF:-1 tvg-id="Cherie25.fr" tvg-logo="https://focus.telerama.fr/104x104/60/0000/00/01/clear-1399.png" group-title="Français" tvg-chno="25",Chérie 25
-https://cherie25.nrjaudio.fm/hls/live/2038375/c25/FHD.m3u8
+http://livetv.ktv.zone/27/play.m3u8
 
 #EXTINF:-1 tvg-id="LCI.fr" tvg-logo="https://focus.telerama.fr/104x104/60/0000/00/01/clear-112.png" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64;x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 Edg/112.0.1722.34" group-title="Français" tvg-chno="26",LCI
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-referrer=http://s2.callofliberty.fr/
-http://s2.callofliberty.fr/direct/LCI/master.m3u8
+#EXTVLCOPT:http-referrer=http://s2.callofliberty.fr/direct/LCI/master.m3u8
+http://livetv.ktv.zone/28/play.m3u8
 
 #EXTINF:-1 tvg-id="Franceinfo.fr" tvg-logo="https://focus.telerama.fr/104x104/60/0000/00/01/clear-2111.png" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64;x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 Edg/112.0.1722.34" group-title="Français" tvg-chno="27",Franceinfo
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-referrer=http://s2.callofliberty.fr/
+#EXTVLCOPT:http-referrer=http://s2.callofliberty.fr/direct/Franceinfo/master.m3u8
 http://s2.callofliberty.fr/direct/Franceinfo/master.m3u8
 
 #EXTINF:-1 tvg-id="BFMVar.fr" tvg-logo="https://raw.githubusercontent.com/Sibprod/assets/main/Altice/ALTICE_BFM-Toulon.png" group-title="Français" tvg-chno="30",BFM Régions (Toulon-Var)
