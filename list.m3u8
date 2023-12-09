@@ -345,6 +345,12 @@ https://livevideo.vedge.infomaniak.com/livecast/ik:africa24/manifest.m3u8
 #EXTINF:-1 tvg-id="NovelaChannel.ci" tvg-logo="https://i.ibb.co/V3pfjfB/novela-channel-telepack.jpg" group-title="Français" tvg-chno="225",Novela Channel
 https://video1.getstreamhosting.com:1936/8494/8494/playlist.m3u8
 
+#EXTINF:-1 tvg-id="Gabon24.ga" tvg-logo="https://yt3.googleusercontent.com/6hYz1o3RdUxQ_0yL0dodfXqTTI9kCPxQecISZb9ewMjGrdhMfB6wCud9vihroQw3p41JojYt=s176-c-k-c0x00ffffff-no-rj" group-title="Français" tvg-chno="232",Gabon 24
+https://ythls.armelin.one/channel/UC7E__Dp9FSIgt6iMa5_uvlw.m3u8
+
+#EXTINF:-1 tvg-id="RTD.dj" tvg-logo="https://yt3.googleusercontent.com/ytc/APkrFKZVIHN34L6TfoD4FZlAT7ZZvt2OxtjaP9-4srBu-g=s176-c-k-c0x00ffffff-no-rj" group-title="Français" tvg-chno="237",RTD 
+https://ythls.armelin.one/channel/UCB0NxICFmGabAalD46J2i4A.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-logo="http://fusiontv.fr/wp-content/uploads/2021/03/cropped-LOGO-FUSION-TV2-2-300x220.png" group-title="Français" tvg-chno="241",Fusion TV
 https://livevideo.vedge.infomaniak.com/livecast/fusiontv/playlist.m3u8
 
