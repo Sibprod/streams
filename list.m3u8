@@ -292,7 +292,7 @@ https://media01.webtvlive.eu/chd-edge/_definst_/smil:chamber_tv_hd.smil/playlist
 #EXTINF:-1 tvg-id="CanalSavoir.ca" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/ff/Savoir_tv_logo.png" group-title="Français" tvg-chno="121",Savoir.Media
 https://hls.savoir.media/live/stream.m3u8
 
-#EXTINF:-1 tvg-id=" " tvg-logo="https://s1.dmcdn.net/u/9gT3A1aF_7viwIhP6/60x60" group-title="France" tvg-chno="122",Le Media 24/7
+#EXTINF:-1 tvg-id=" " tvg-logo="https://s1.dmcdn.net/u/9gT3A1aF_7viwIhP6/60x60" group-title="Français" tvg-chno="122",Le Media 24/7
 https://raw.githubusercontent.com/Sibprod/streams/main/ressources/dmotion/py/LeMedia/LeMedia.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://programme-tv.vini.pf/sites/default/files/img-icones/464.png" group-title="Français" tvg-chno="123",Tahiti TV
@@ -399,7 +399,7 @@ https://59959724487e3.streamlock.net/radio/live/playlist.m3u8
 #EXTINF:-1 tvg-id="Couleur3.ch" tvg-logo="https://i.imgur.com/VOIwYYd.png" group-title="Français" tvg-chno="406",RTS Couleur 3
 https://rtsc3video.akamaized.net/hls/live/2042837/c3video/3/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://image.jimcdn.com/app/cms/image/transf/dimension=90x90:format=png/path/sc4a623cd5d89b3b8/image/i74520b2049d85ee5/version/1633719175/image.png" group-title="France" tvg-chno="410",Europe 1
+#EXTINF:-1 tvg-id="" tvg-logo="https://image.jimcdn.com/app/cms/image/transf/dimension=90x90:format=png/path/sc4a623cd5d89b3b8/image/i74520b2049d85ee5/version/1633719175/image.png" group-title="Français" tvg-chno="410",Europe 1
 https://raw.githubusercontent.com/Sibprod/streams/main/ressources/dmotion/py/E1/E1.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://image.jimcdn.com/app/cms/image/transf/dimension=90x90:format=png/path/sc4a623cd5d89b3b8/image/i6395d87bf918b110/version/1697201894/image.png" group-title="Français" tvg-chno="411",RTL
@@ -420,7 +420,7 @@ https://raw.githubusercontent.com/Sibprod/streams/main/RadioContact.m3u8
 #EXTINF:-1 tvg-id="Funvision.be" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ff/fun-vision-fr-be.png" group-title="Français" tvg-chno="416",Fun Radio (Belgique)
 https://livevideo.infomaniak.com/streaming/livecast/funradiovisionhd/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://image.jimcdn.com/app/cms/image/transf/dimension=90x90:format=png/path/sc4a623cd5d89b3b8/image/i15f8fb47fc9492dc/version/1643282614/image.png" group-title="V" tvg-chno="420",Sud Radio
+#EXTINF:-1 tvg-id="" tvg-logo="https://image.jimcdn.com/app/cms/image/transf/dimension=90x90:format=png/path/sc4a623cd5d89b3b8/image/i15f8fb47fc9492dc/version/1643282614/image.png" group-title="Français" tvg-chno="420",Sud Radio
 https://raw.githubusercontent.com/Sibprod/streams/main/ressources/dmotion/py/SudRadio/SudRadio.m3u8
 
 #EXTINF:-1 tvg-id="Generations.fr" tvg-logo="https://image.jimcdn.com/app/cms/image/transf/dimension=90x90:format=png/path/sc4a623cd5d89b3b8/image/i14005b7f95e19a93/version/1662284802/image.png" group-title="Français" tvg-chno="421",Générations TV
