@@ -255,6 +255,9 @@ https://livevideo.vedge.infomaniak.com/livecast/etvgp/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://s1.dmcdn.net/u/4CFDy1a3DhO7zSO3N/120x120" group-title="Locales" tvg-chno="396",Ubiznews-OM5
 https://raw.githubusercontent.com/Sibprod/streams/main/ressources/dmotion/py/Ubiznews/Ubiznews.m3u8
 
+#EXTINF:-1 tvg-id=" " tvg-logo="https://www.madrasfm.tv/wp-content/uploads/2021/02/cropped-ffffddsss2.png" group-title="Radiovision" tvg-chno=" ",MFM - Madras FM
+https://livevideo.vedge.infomaniak.com/livecast/madrasfmtv/playlist.m3u8
+
 #EXTINF:-1 tvg-id="RHTGuadeloupe.gp" tvg-logo="https://i.imgur.com/lV8M3nn.jpg" group-title="Radiovision" tvg-chno=" ",RHT - Radio Haute-Tension
 https://livevideo.vedge.infomaniak.com/livecast/livehautetension/playlist.m3u8
 
