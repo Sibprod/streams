@@ -1057,7 +1057,7 @@ https://i.mjh.nz/SamsungTVPlus/GBBC430000128.m3u8
 #EXTINF:-1 channel-id="samsung-GBBD3200003T6" tvg-id="GBBD3200003T6" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBD3200003T6_20230913T031540SQUARE.png_20230913031541.png" group-title=" " tvg-chno="2207",Tiny Pop
 https://i.mjh.nz/SamsungTVPlus/GBBD3200003T6.m3u8
 #EXTGRP:Freeview UK
-#EXTINF:-1 tvg-id="PopMax.uk" tvg-logo="https://i.imgur.com/Z7XTTod.png" group-title="English" tvg-chno="2208",Pop Max
+#EXTINF:-1 tvg-id="PopMax.uk" tvg-logo="https://i.imgur.com/Z7XTTod.png" group-title=" " tvg-chno="2208",Pop Max
 https://live-sonybebanjo.simplestreamcdn.com/live8/popmax/bitrate1.isml/live.m3u8
 #EXTGRP:Freeview UK
 #EXTINF:-1 channel-id="samsung-GBBB2000004BQ" tvg-id="GBBB2000004BQ" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBB2000004BQ_20231115T012324SQUARE.png_20231115012325.png" group-title=" " tvg-chno="2209",Ketchup TV
@@ -1075,10 +1075,10 @@ https://linear021-gb-hls1-prd-ak.cdn.skycdp.com/Content/HLS_001_hd/Live/channel(
 #EXTINF:-1 tvg-id="AlJazeeraEnglish.qa" tvg-logo=" " group-title=" " tvg-chno="2234",Al Jazeera (English)
 https://live-hls-web-aje.getaj.net/AJE/master.m3u8
 #EXTGRP:Freeview UK
-#EXTINF:-1 tvg-id="GBNews.uk" tvg-logo="https://i.ibb.co/dpMQyVx/gbn.png" group-title="English" tvg-chno="1236",GBNews
+#EXTINF:-1 tvg-id="GBNews.uk" tvg-logo="https://i.ibb.co/dpMQyVx/gbn.png" group-title=" " tvg-chno="2236",GBNews
 https://live-gbnews.simplestreamcdn.com/live5/gbnews/bitrate1.isml/manifest.m3u8
 #EXTGRP:Freeview UK
-#EXTINF:-1 tvg-id="TalkTV.uk" tvg-logo="https://i.ibb.co/XWNXpVg/talk.png" group-title="English" tvg-chno="1237",Talk TV
+#EXTINF:-1 tvg-id="TalkTV.uk" tvg-logo="https://i.ibb.co/XWNXpVg/talk.png" group-title=" " tvg-chno="2237",Talk TV
 https://live-talktv-ssai.simplestreamcdn.com/v1/master/82267e84b9e5053b3fd0ade12cb1a146df74169a/talktv-live/index.m3u8
 #EXTGRP:Freeview UK
 #EXTINF:-1 tvg-id="Newsmax.us" tvg-logo="https://yt3.ggpht.com/fXgXYq-vfZapJMvkRQ2k6L1vj4Zd2J97zKXlsc6G95LdIyfH3PI8o-QPreIbPOkEE0B63i1vNdU=s48-c-k-c0x00ffffff-no-rj" group-title=" " tvg-chno="2287",Newsmax
