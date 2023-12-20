@@ -575,6 +575,21 @@ https://ondamadrid-1-23.secure2.footprint.net/master.m3u8
 #EXTGRP:DAB+
 #EXTINF:-1 tvg-id="AndorraTV.ad" tvg-logo="https://i.imgur.com/CnhTn8i.png" group-title=" " tvg-chno="960",Andorra Ràdio
 https://videos.rtva.ad/live/web/playlist.m3u8
+#EXTGRP:DAB+
+#EXTINF:-1 tvg-id="Radio1.be" tvg-logo="https://i.ibb.co/pwCs0YY/512px-VRT-Radio-1-logo-svg.png" group-title=" " tvg-chno="3601",VRT Radio 1
+https://live-radio.vrtcdn.be/groupa/live/d6fdec5d-5d67-4cc3-9f8c-e3e8993c8ee4/live.isml/.m3u8
+#EXTGRP:DAB+
+#EXTINF:-1 tvg-id="Radio2.be" tvg-logo="https://i.ibb.co/47mc8nJ/VRT-Radio-2-2022-svg.png" group-title=" " tvg-chno="3602",VRT Radio 2
+https://live-radio.vrtcdn.be/groupa/live/e96793cc-eac5-4ed2-8eb5-617c2f6abc55/live.isml/.m3u8
+#EXTGRP:DAB+
+#EXTINF:-1 tvg-id="Klara.be" tvg-logo="https://i.ibb.co/YdDkSJW/VRT-Klara-2020-svg.png" group-title=" " tvg-chno="3603",Klara
+https://live-radio.vrtcdn.be/groupb/live/eee20dc8-158a-4194-8d92-0c5a73ffcd3b/live.isml/.m3u8
+#EXTGRP:DAB+
+#EXTINF:-1 tvg-id="MNM.be" tvg-logo="https://i.imgur.com/djkPc9w.png" group-title=" " tvg-chno="3604",MNM
+https://live-radio.vrtcdn.be/groupa/live/bac277a1-306d-44a0-8e2e-e5b9c07fa270/live.isml/.m3u8
+#EXTGRP:DAB+
+#EXTINF:-1 tvg-id="StudioBrussel.be" tvg-logo="https://i.ibb.co/y0TcsXw/512px-VRT-Stu-Bru-logo-svg.png" group-title=" " tvg-chno="3605",Studio Brussel
+https://live-radio.vrtcdn.be/groupb/live/0f394a26-c87d-475e-8590-e9c6e79b28d9/live.isml/.m3u8
 
 #EXTGRP:DTT
 #EXTINF:-1 tvg-id="RAIItalia.it" tvg-logo="https://www.lyngsat-logo.com/logo/tv/rr/rai_italia.png" group-title=" " tvg-chno="500",RAI Italia
@@ -1108,37 +1123,37 @@ https://hnc-free-viewlift.amagi.tv/HNC_AUSTRALIA.m3u8
 #EXTINF:-1 channel-id="samsung-GBBD1100008YW" tvg-id="GBBD1100008YW" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBD1100008YW_20230926T032319SQUARE.png_20230926032320.png" group-title=" " tvg-chno="2356",FIFA+
 https://i.mjh.nz/SamsungTVPlus/GBBD1100008YW.m3u8
 
-#EXTGRP:Deutsche DVB-T2 
+#EXTGRP:[DEU] DVB-T2 
 #EXTINF:-1 tvg-id="DasErste.de" tvg-logo="https://www.lyngsat.com/logo/tv/dd/das-erste-de.png" group-title=" " tvg-chno="3001",ARD Das Erste
 https://derste247livede.akamaized.net/hls/live/658317/daserste_de/master.m3u8
-#EXTGRP:Deutsche DVB-T2 
+#EXTGRP:[DEU] DVB-T2 
 #EXTINF:-1 tvg-id="ARTE.de" tvg-logo=" " group-title=" " tvg-chno="3006",ARTE (Deutschland)
 https://arteliveext.akamaized.net/hls/live/2030993/artelive_de/master_v720.m3u8
-#EXTGRP:Deutsche DVB-T2 
+#EXTGRP:[DEU] DVB-T2 
 #EXTINF:-1 tvg-id="Tagesschau.de" tvg-logo=" " group-title=" " tvg-chno="3010",Tagesschau 24
 https://tagesschau.akamaized.net/hls/live/2020115/tagesschau/tagesschau_1/master.m3u8
-#EXTGRP:Deutsche DVB-T2 
+#EXTGRP:[DEU] DVB-T2  
 #EXTINF:-1 tvg-id="Alpha.de" tvg-logo="https://storage.googleapis.com/webshop-live/default/0001/03/58422b5476d97df20e984c74a2943ca9cd570313.webp" group-title=" " tvg-chno="3011",ARD Alpha
 https://mcdn.br.de/br/fs/ard_alpha/hls/int/master.m3u8
-#EXTGRP:Deutsche DVB-T2 
+#EXTGRP:[DEU] DVB-T2  
 #EXTINF:-1 tvg-id="Oe24.at" tvg-logo=" " group-title=" " tvg-chno="3113",Oe24
 https://varoe24live.sf.apa.at/oe24-live1/oe24.smil/playlist.m3u8
-#EXTGRP:Deutsche DVB-T2
+#EXTGRP:[DEU] DVB-T2 
 #EXTINF:-1 tvg-id="W24.at" tvg-logo=" " group-title=" " tvg-chno="3114",W24
 https://ms02.w24.at/W24/smil:liveevent.smil/playlist.m3u8
-#EXTGRP:Deutsche DVB-T2 
+#EXTGRP:[DEU] DVB-T2  
 #EXTINF:-1 tvg-id="" tvg-logo=" " group-title=" " tvg-chno="3115",Kurier.TV
 https://schautv.mdn.ors.at/out/u/schautv-nodrm_2.m3u8
-#EXTGRP:Deutsche DVB-T2 
+#EXTGRP:[DEU] DVB-T2 
 #EXTINF:-1 tvg-id="" tvg-logo=" " group-title=" " tvg-chno="3116",Krone.TV
 https://kronetv.mdn.ors.at/out/u/kronetv-nodrm.m3u8
-#EXTGRP:Deutsche DVB-T2 
+#EXTGRP:[DEU] DVB-T2 
 #EXTINF:-1 tvg-id="" tvg-logo=" " group-title=" " tvg-chno="3117",Okto
 https://cdn3.wowza.com/1/MHFtazJReW5rOFhP/N2NWNDZ2/hls/live/playlist.m3u8
-#EXTGRP:Deutsche DVB-T2 
+#EXTGRP:[DEU] DVB-T2 
 #EXTINF:-1 tvg-id="R9.at" tvg-logo="https://www.r-9.at/assets/images/logoTop.png" group-title=" " tvg-chno="3150",R9 Österreich
 https://ms01.w24.at/R9/smil:liveeventR9.smil/playlist.m3u8
-#EXTGRP:Deutsche DVB-T2 
+#EXTGRP:[DEU] DVB-T2  
 #EXTINF:-1 tvg-id=" " tvg-logo=" " group-title=" " tvg-chno="3160",Hitradio Ö3
 https://studiocam-oe3.mdn.ors.at/out/u/studiocam_oe3/q6a/manifest_1.m3u8
 #EXTGRP:Thématiques
@@ -1147,9 +1162,36 @@ https://bitcdn-kronehit.bitmovin.com/v2/hls/playlist.m3u8
 #EXTGRP:Thématiques
 #EXTINF:-1 tvg-id="Deutschewelle.de" tvg-logo="https://2ix2.com/wp-content/uploads/2020/10/77.png" group-title=" " tvg-chno="3220",Deutsche Welle (Deutsch)
 https://dwamdstream106.akamaized.net/hls/live/2017965/dwstream106/index.m3u8
+
+#EXTGRP:[NED] DVB-T2
+#EXTINF:-1 tvg-id="VTM.be" tvg-logo="https://i.imgur.com/djkPc9w.png" group-title=" " tvg-chno="3303",VTM
+https://dpp-live-events.medialaancdn.be/events/hls/aes/webstream1.m3u8
+
+#EXTGRP:[ROM] DVB-T2 
+#EXTINF-1 tvg-id="TVRInternational.ro" tvg-logo="https://i.imgur.com/w28wcHs.png" group-title=" " tvg-chno="3500",TVR International
+https://mn-nl.mncdn.com/tvri_test/smil:tvri_test.smil/index.m3u8
+#EXTGRP:[ROM] DVB-T2 
+#EXTINF-1 tvg-id="" tvg-logo="https://i.imgur.com/ZbQY56v.png" group-title=" " tvg-chno="3501",Moldova 1
+https://v.trm.md/static/streaming-playlists/hls/f272ace4-32c2-4271-bbb6-7fc30a5c6105/master.m3u8
+#EXTGRP:[ROM] DVB-T2 
+#EXTINF-1 tvg-id="" tvg-logo="https://i.imgur.com/Hv6Nk8A.png" group-title=" " tvg-chno="3502",Moldova 2
+https://v2.trm.md/static/streaming-playlists/hls/76541c86-d7de-4c73-b4c0-4fe6670b90a8/master.m3u8
+#EXTGRP:[ROM] DVB-T2 
+#EXTINF-1 tvg-id="TVRInfo.ro" tvg-logo="https://i.imgur.com/7oE7ThR.png" group-title=" " tvg-chno="3509",TVR Info
+https://mn-nl.mncdn.com/tvrinfo/tvrinfo_mjuypp/index.m3u8
+#EXTGRP:[ROM] DVB-T2 
+#EXTINF-1 tvg-id="Digi24.ro" tvg-logo="https://i.imgur.com/2z4F1UT.png" group-title=" " tvg-chno="3521",Digi 24
+https://edge-ar.rcs-rds.ro/digi24ar/index.m3u8
+
 #EXTGRP:Thématiques
 #EXTINF-1 tvg-id="MoozDance.ro" tvg-logo="https://i.imgur.com/aX70RD2.png" group-title=" " tvg-chno="3576",Mooz Dance
 https://rtmp.digitalbroadcast.ro/moozdance/moozdance.m3u8
+#EXTGRP:Thématiques
+#EXTINF-1 tvg-id="MoozHits.ro" tvg-logo=" " group-title=" " tvg-chno="3577",Mooz Dance
+https://rtmp.digitalbroadcast.ro/moozhits/moozhits.m3u8
+#EXTGRP:Thématiques
+#EXTINF-1 tvg-id="MoozRo.ro" tvg-logo=" " group-title=" " tvg-chno="3578",Mooz Dance
+https://rtmp.digitalbroadcast.ro/moozro/moozro.m3u8
 
 
 
