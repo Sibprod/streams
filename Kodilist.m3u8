@@ -205,7 +205,7 @@ https://ythls.armelin.one/channel/UCdFv_ZWQ3Xk_NfRiaK-ryGg.m3u8
 #EXTINF:-1 tvg-id="TV8MontBlanc.fr" tvg-logo=" " group-title=" " tvg-chno="318",8 Mont-Blanc
 plugin://plugin.video.dailymotion_com/?url=x3wqv8b&mode=playLiveVideo
 #EXTGRP:TNT
-#EXTINF:-1 tvg-id="AntenneReunion.mu" tvg-logo="http://www.callofliberty.fr/tv/47-AntenneREUNION/47-AntenneREUNION.png" group-title=" " tvg-chno="31",Antenne Réunion
+#EXTINF:-1 tvg-id="AntenneReunion.mu" tvg-logo="http://www.callofliberty.fr/tv/47-AntenneREUNION/47-AntenneREUNION.png" group-title=" " tvg-chno="36",Antenne Réunion
 https://live-antenne-reunion.zeop.tv/live/c3eds/antreunihd/hls_fta/antreunihd.m3u8?location=ZEOP01
 #EXTGRP:Régionales
 #EXTINF:-1 tvg-id="BFMDiciAlpesduSud.fr" tvg-logo="https://raw.githubusercontent.com/Sibprod/assets/main/Altice/ALTICE_BFM-Dici-Alpes-du-Sud.png" group-title=" " tvg-chno="312",BFM Régions (D!ci Alpes-du-Sud)
@@ -220,7 +220,7 @@ https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFMGRANDLILLE/index.m3u8?start=LIVE&
 #EXTINF:-1 tvg-id="BFMCotedAzur.fr" tvg-logo="https://raw.githubusercontent.com/Sibprod/assets/main/Altice/ALTICE_BFM-Nice.png" group-title=" " tvg-chno="314",BFM Régions (Nice-Côte d'Azur)
 https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_NICECOTEDAZUR/index.m3u8?start=LIVE&end=END
 #EXTGRP:Régionales
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/xmhMMDN/tebeo.png" group-title="REG" tvg-chno="315",Tebeo
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/xmhMMDN/tebeo.png" group-title=" " tvg-chno="315",Tebeo
 https://lives.digiteka.com/stream/e0fe6433-554e-4568-9a7e-31969136d8ff/index.m3u8
 #EXTGRP:Régionales
 #EXTINF:-1 tvg-id="Telenantes.fr" tvg-logo=" " group-title=" " tvg-chno="316",Télénantes
@@ -244,10 +244,10 @@ https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFMGRANDLITTORAL/index.m3u8?start=LI
 #EXTINF:-1 tvg-id="Canal32.fr" tvg-logo="https://i.ibb.co/Dpsn6ZV/c32.png" group-title=" " tvg-chno="320",Canal 32
 https://edge13.vedge.infomaniak.com/livecast/ik:canal32/manifest.m3u8
 #EXTGRP:Régionales
-#EXTINF:-1 tvg-id="ASTV.fr" tvg-logo=" " group-title=" " tvg-chno="33",ASTV
+#EXTINF:-1 tvg-id="ASTV.fr" tvg-logo=" " group-title=" " tvg-chno="335",ASTV
 plugin://plugin.video.twitch/?mode=play&channel_name=astvstream
 #EXTGRP:Régionales
-#EXTINF:-1 tvg-id="BFMNormandie.fr" tvg-logo="https://raw.githubusercontent.com/Sibprod/assets/main/Altice/ALTICE_BFM-Normandie.png" group-title="REG" tvg-chno="331",BFM Régions (Normandie)
+#EXTINF:-1 tvg-id="BFMNormandie.fr" tvg-logo="https://raw.githubusercontent.com/Sibprod/assets/main/Altice/ALTICE_BFM-Normandie.png" group-title=" " tvg-chno="331",BFM Régions (Normandie)
 https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_NORMANDIE/index.m3u8?start=LIVE&end=END
 #EXTGRP:Régionales
 #EXTINF:-1 tvg-id="France3CorseViaStella.fr" tvg-logo="https://focus.telerama.fr/104x104/60/0000/00/01/clear-308.png" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64;x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 Edg/112.0.1722.34" group-title=" " tvg-chno="330",France 3 Corse - Via Stella
@@ -397,46 +397,46 @@ plugin://plugin.video.dailymotion_com/?url=x7z3zqa&mode=playLiveVideo
 
 #EXTGRP:DAB+
 #EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="DAB+" tvg-chno="602",France Inter 
-plugin://plugin.video.dailymotion_com/?url=x17qw0a&mode=playVideo
+plugin://plugin.video.dailymotion_com/?url=x17qw0a&mode=playLiveVideo
 #EXTGRP:DAB+
 #EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="DAB+" tvg-chno="602",France Inter [YT Stream]
 https://ythls.armelin.one/channel/UCJldRgT_D7Am-ErRHQZ90uw.m3u8
 #EXTGRP:DAB+
 #EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="DAB+" tvg-chno="603",France Bleu Elsass
-plugin://plugin.video.dailymotion_com/?url=x72b0ey&mode=playVideo
+plugin://plugin.video.dailymotion_com/?url=x72b0ey&mode=playLiveVideo
 #EXTGRP:DAB+
 #EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="DAB+" tvg-chno="606",RTL (France)
-plugin://plugin.video.dailymotion_com/?url=xl1km0&mode=playVideo
+plugin://plugin.video.dailymotion_com/?url=xl1km0&mode=playLiveVideo
 #EXTGRP:DAB+
 #EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="DAB+" tvg-chno="609",RTL 2 (France)
-plugin://plugin.video.dailymotion_com/?url=x2tzzpj&mode=playVideo
+plugin://plugin.video.dailymotion_com/?url=x2tzzpj&mode=playLiveVideo
 #EXTGRP:DAB+
 #EXTINF:-1 tvg-id="NRJ.be" tvg-logo="https://www.lyngsat.com/logo/radio/nn/nrj-belgie-nl.png" group-title="DAB+" tvg-chno="612",NRJ (Belgique)
 https://tv.ngroup.be/live/ngrp:nrj_all/chunklist_w1657522594_b1046608.m3u8
 #EXTGRP:DAB+
 #EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="DAB+" tvg-chno="614",Mouv'
-plugin://plugin.video.dailymotion_com/?url=x8g9lfe&mode=playVideo
+plugin://plugin.video.dailymotion_com/?url=x8g9lfe&mode=playLiveVideo
 #EXTGRP:DAB+
 #EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="DAB+" tvg-chno="616",Europe 1
-plugin://plugin.video.dailymotion_com/?url=xqjkfz&mode=playVideo
+plugin://plugin.video.dailymotion_com/?url=xqjkfz&mode=playLiveVideo
 #EXTGRP:DAB+
 #EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="DAB+" tvg-chno="619",Martinique La 1ère (Radio)
 https://ythls.armelin.one/channel/UCgA9V57lQlZFXkDfhVGTWSg.m3u8
 #EXTGRP:DAB+
 #EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="DAB+" tvg-chno="622",Fun Radio (France)
-plugin://plugin.video.dailymotion_com/?url=xxtuy6&mode=playVideo
+plugin://plugin.video.dailymotion_com/?url=xxtuy6&mode=playLiveVideo
 #EXTGRP:DAB+
 #EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="DAB+" tvg-chno="627",Franceinfo (Radio)
-plugin://plugin.video.dailymotion_com/?url=x26eox4&mode=playVideo
+plugin://plugin.video.dailymotion_com/?url=x26eox4&mode=playLiveVideo
 #EXTGRP:DAB+
 #EXTINF:-1 tvg-id="RFI.fr" tvg-logo="https://www.lyngsat-logo.com/logo/radio/rr/rfi_fr.png" group-title="DAB+" tvg-chno="633",RFI
 https://ythls.armelin.one/channel/UCm4fSpMpPIZ9z6KHoezLUAg.m3u8
 #EXTGRP:DAB+
 #EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="DAB+" tvg-chno="640",M Le Media
-plugin://plugin.video.dailymotion_com/?url=x8j47xa&mode=playVideo
+plugin://plugin.video.dailymotion_com/?url=x8j47xa&mode=playLiveVideo
 #EXTGRP:DAB+
 #EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="DAB+" tvg-chno="647",Sud Radio [DM stream]
-plugin://plugin.video.dailymotion_com/?url=x8jqxru&mode=playVideo
+plugin://plugin.video.dailymotion_com/?url=x8jqxru&mode=playLiveVideo
 #EXTGRP:DAB+
 #EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="DAB+" tvg-chno="647",Sud Radio [YT Stream]
 https://ythls.armelin.one/channel/UCESTwDXpoMgiYBHipMdKTkQ.m3u8
@@ -457,7 +457,7 @@ https://59959724487e3.streamlock.net/radio/live/playlist.m3u8
 https://rtsc3video.akamaized.net/hls/live/2042837/c3video/3/playlist.m3u8
 #EXTGRP:DAB+
 #EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="DAB+" tvg-chno="690",Arabel
-plugin://plugin.video.dailymotion_com/?url=x7teocz&mode=playVideo
+plugin://plugin.video.dailymotion_com/?url=x7teocz&mode=playLiveVideo
 #EXTGRP:DAB+
 #EXTINF:-1 tvg-id="Generations.fr" tvg-logo="https://image.jimcdn.com/app/cms/image/transf/dimension=90x90:format=png/path/sc4a623cd5d89b3b8/image/i14005b7f95e19a93/version/1662284802/image.png" group-title="DAB+" tvg-chno="691",Générations TV
 https://livevideo.vedge.infomaniak.com/livecast/generation-tv/master.m3u8
@@ -466,7 +466,7 @@ https://livevideo.vedge.infomaniak.com/livecast/generation-tv/master.m3u8
 https://live.creacast.com/littoralfm-ch1/stream/playlist.m3u8
 #EXTGRP:DAB+
 #EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="DAB+" tvg-chno="693",VL. [DM stream]
-plugin://plugin.video.dailymotion_com/?url=x35m6bz&mode=playVideo
+plugin://plugin.video.dailymotion_com/?url=x35m6bz&mode=playLiveVideo
 #EXTGRP:DAB+
 #EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="DAB+" tvg-chno="693",VL. [Twitch stream]
 plugin://plugin.video.twitch/?mode=play&channel_name=vlmedia
@@ -492,7 +492,7 @@ https://radioitalia-samsungitaly.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="RadionorbaTV.it" tvg-logo="https://i.imgur.com/qftBPM9.png" group-title=" " tvg-chno="730",Radio Norba TV
 https://router.xdevel.com/video0s975885-462/stream/playlist_dvr.m3u8
 #EXTGRP:DAB+
-#EXTINF:-1 tvg-id="RadioZetaTV.it" tvg-logo="https://www.lyngsat-logo.com/logo/radio/rr/radio_zeta_it.png" group-title="Italiano" tvg-chno="666",Radio Zeta TV
+#EXTINF:-1 tvg-id="RadioZetaTV.it" tvg-logo="https://www.lyngsat-logo.com/logo/radio/rr/radio_zeta_it.png" group-title=" " tvg-chno="731",Radio Zeta TV
 https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S9346184/XEx1LqlYbNic/playlist_video.m3u8
 #EXTGRP:DAB+
 #EXTINF:-1 tvg-id="RadioFrecciaTV.it" tvg-logo="https://www.lyngsat-logo.com/logo/radio/rr/radio_freccia_it.png" group-title=" " tvg-chno="732",Radiofreccia TV
@@ -528,7 +528,7 @@ https://live2.msr.cdn.mediaset.net/content/hls_h0_clr_vos/live/channel(ec)/index
 #EXTINF:-1 tvg-id="R101TV.it" tvg-logo="https://www.lyngsat-logo.com/logo/radio/rr/r101_radio_it.png" group-title=" " tvg-chno="767",R101 TV
 https://live2.msr.cdn.mediaset.net/content/hls_h0_clr_vos/live/channel(er)/index.m3u8
 #EXTGRP:DAB+
-#EXTINF:-1 tvg-id="VirginRadioTV.it" tvg-logo="https://www.lyngsat-logo.com/logo/radio/vv/virgin_radio_it.png" group-title="Italiano" tvg-chno="768",Virgin Radio TV
+#EXTINF:-1 tvg-id="VirginRadioTV.it" tvg-logo="https://www.lyngsat-logo.com/logo/radio/vv/virgin_radio_it.png" group-title=" " tvg-chno="768",Virgin Radio TV
 https://live2.msr.cdn.mediaset.net/content/hls_h0_clr_vos/live/channel(ew)/index.m3u8
 #EXTGRP:DAB+
 #EXTINF:-1 tvg-id="RadioItaliaTV.it" tvg-logo="https://i.imgur.com/4VCEJuJ.png" tvg-id="RadioItaliaTV.it" group-title=" " tvg-chno="770",Radio Italia TV
@@ -669,7 +669,7 @@ https://6zklxkbbdw9b-hls-live.mariatvcdn.it/msmotor/2f759512164fc6fe4acbed6a5648
 #EXTINF:-1 tvg-id="AlmaTV.it" tvg-logo="https://www.lyngsat-stream.com/logo/tv/aa/alma-tv-it.png" group-title=" " tvg-chno="565",Alma TV
 https://streaming.softwarecreation.it/AlmaTv/AlmaTv/playlist.m3u8
 #EXTGRP:DTT
-#EXTINF:-1 tvg-id="BFC.it" tvg-logo="https://bfcvideo.com/wp-content/uploads/2018/12/Logo-BFC-Forbes-small-201812211216.png" group-title="Italiano" tvg-chno="566",BFC
+#EXTINF:-1 tvg-id="BFC.it" tvg-logo="https://bfcvideo.com/wp-content/uploads/2018/12/Logo-BFC-Forbes-small-201812211216.png" group-title=" " tvg-chno="566",BFC
 https://62becaa5a1e2f.streamlock.net/BFC/BFC/playlist.m3u8
 #EXTGRP:DTT
 #EXTINF:-1 tvg-id="" tvg-logo=" " group-title=" " tvg-chno="567",Byoblu
@@ -687,7 +687,7 @@ https://6e94aeeb1b42461d95f973ae34be5167.msvdn.net/ac115_live/canale1.smil/playl
 #EXTINF:-1 tvg-id="TRSport.it" tvg-logo="https://i.imgur.com/ELXmaqg.png" group-title=" " tvg-chno="578",Teleromagna Sport
 https://livetr.teleromagna.it/mia/live/playlist.m3u8
 #EXTGRP:DTT
-#EXTINF:-1 tvg-id="SuperSix.it" tvg-logo="https://i.imgur.com/kHSuyub.png" group-title="Italiano" tvg-chno="586",Super Six
+#EXTINF:-1 tvg-id="SuperSix.it" tvg-logo="https://i.imgur.com/kHSuyub.png" group-title=" " tvg-chno="586",Super Six
 https://5db313b643fd8.streamlock.net/SUPERSIXLombardia/SUPERSIXLombardia/playlist.m3u8
 #EXTGRP:DTT
 #EXTINF:-1 tvg-id="MotoriTV.it" tvg-logo="https://i.imgur.com/NWXQKbl.png" group-title=" " tvg-chno="589",Motori TV
@@ -794,7 +794,7 @@ https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge/smil:23_HD.smil/manif
 #EXTINF:-1 tvg-id="Dkiss.es" tvg-logo="https://estaticos.tdt1.com/canales/logokiss.jpg" group-title=" " tvg-chno="824",DKiss
 https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge2/smil:25_HD.smil/manifest.m3u8
 #EXTGRP:TDT
-#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="https://estaticos.tdt1.com/canales/logobomtv.jpg" tvg-chno="825",BOM Cine
+#EXTINF:-1 tvg-id=" " tvg-logo="https://estaticos.tdt1.com/canales/logobomtv.jpg" group-title="" tvg-chno="825",BOM Cine
 https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge4/smil:97_HD.smil/manifest.m3u8
 #EXTGRP:TDT
 #EXTINF:-1 tvg-id="HitTV.es" tvg-logo="https://estaticos.tdt1.com/canales/logohittv.jpg" group-title=" " tvg-chno="826",Hit TV
@@ -895,11 +895,10 @@ http://ventdelnord.tv:8080/mola/directe.m3u8
 #EXTGRP:TDT
 #EXTINF:-1 tvg-id="IB3.es" tvg-logo="https://yt3.googleusercontent.com/ytc/APkrFKbs_U2PBg-AnFeMXvddKBJjzM4WE7dDCtelGrmO_Q=s176-c-k-c0x00ffffff-no-rj" group-title=" " tvg-chno="870",IB3 Global
 https://tvup-live.secure.footprint.net/ib3global/ib3global.mpd
-
-#EXTGRP:TDA
+#EXTGRP:TDT
 #EXTINF:-1 tvg-id=" " tvg-logo=" " group-title=" " tvg-chno="1834",Telefe HD
 https://tvup-ccpv2-live.secure2.footprint.net/telefehd/telefehd.mpd
-#EXTGRP:TDA
+#EXTGRP:TDT
 #EXTINF:-1 tvg-id=" " tvg-logo=" " group-title=" " tvg-chno="1890",A3Series Internacional
 https://tvup-ccpv2-live.secure2.footprint.net/antena3seriesinternacional/antena3seriesinternacional.mpd
 
@@ -1018,7 +1017,7 @@ https://video-auth4.iol.pt/live_tvi_reality/live_tvi_reality/edge_servers/tvirea
 https://video-auth4.iol.pt/live_tvi_africa/live_tvi_africa/edge_servers/tviafrica-480p/playlist.m3u8
 
 #EXTGRP:Freeview UK
-#EXTINF:-1 tvg-id="STV.uk" tvg-logo="https://i.imgur.com/KiOnQnD.png" group-title="English" tvg-chno="2003",STV
+#EXTINF:-1 tvg-id="STV.uk" tvg-logo="https://i.imgur.com/KiOnQnD.png" group-title=" " tvg-chno="2003",STV
 https://csm-e-stv.tls1.yospace.com/csm/live/139900483.m3u8?yo.l=true&yo.ls=2,3,4,5,6&yo.p=3
 #EXTGRP:Freeview UK
 #EXTINF:-1 channel-id="samsung-GBBD3100006XM" tvg-id="GBBD3100006XM" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBD3100006XM_20231115T012342SQUARE.png_20231115012343.png" group-title=" " tvg-chno="2011",Sky Mix
@@ -1030,7 +1029,7 @@ https://qvcuk-live.akamaized.net/hls/live/2097112/qvc/master.m3u8
 #EXTINF:-1 channel-id="samsung-GBBC900007Q5" tvg-id="GBBC900007Q5" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBC900007Q5_20221123T010227SQUARE.png_20221123010228.png" group-title=" " tvg-chno="2034",GREAT! Movies
 https://i.mjh.nz/SamsungTVPlus/GBBC900007Q5.m3u8
 #EXTGRP:Freeview UK
-#EXTINF:-1 tvg-id="STVPlus1.uk" tvg-logo="https://i.imgur.com/XeSaypp.png" group-title="English" tvg-chno="2035",STV +1
+#EXTINF:-1 tvg-id="STVPlus1.uk" tvg-logo="https://i.imgur.com/XeSaypp.png" group-title=" " tvg-chno="2035",STV +1
 https://csm-e-stv.tls1.yospace.com/csm/live/181023311.m3u8?yo.l=true&yo.ls=2,3,4,5,6&yo.p=3
 #EXTGRP:Freeview UK
 #EXTINF:-1 channel-id="samsung-GBBC900008L9" tvg-id="GBBC900008L9" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBC900008L9_20231011T082520SQUARE.png_20231011082521.png" group-title=" " tvg-chno="2052",GREAT! Christmas
@@ -1148,7 +1147,9 @@ https://bitcdn-kronehit.bitmovin.com/v2/hls/playlist.m3u8
 #EXTGRP:Thématiques
 #EXTINF:-1 tvg-id="Deutschewelle.de" tvg-logo="https://2ix2.com/wp-content/uploads/2020/10/77.png" group-title=" " tvg-chno="3220",Deutsche Welle (Deutsch)
 https://dwamdstream106.akamaized.net/hls/live/2017965/dwstream106/index.m3u8
-
+#EXTGRP:Thématiques
+#EXTINF-1 tvg-id="MoozDance.ro" tvg-logo="https://i.imgur.com/aX70RD2.png" group-title=" " tvg-chno="3576",Mooz Dance
+https://rtmp.digitalbroadcast.ro/moozdance/moozdance.m3u8
 
 
 
