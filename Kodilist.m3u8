@@ -1334,10 +1334,10 @@ plugin://plugin.video.dailymotion_com/?url=x35m6bz&mode=playLiveVideo
 #EXTGRP:DAB+
 #EXTINF:-1 tvg-id="NRJ.be" tvg-logo="https://www.lyngsat.com/logo/radio/nn/nrj-belgie-nl.png" group-title="DAB+" tvg-chno="9020",NRJ (Belgique)
 https://tv.ngroup.be/live/ngrp:nrj_all/chunklist_w1657522594_b1046608.m3u8
-#EXTGRP:IPTV
+#EXTGRP:DAB+
 #EXTINF:-1 tvg-id="" tvg-logo="https://yt3.ggpht.com/qYOHqhSsqJnUw8g2v2MIfugKNIpJQwxfNFlygYMDIdjAMrkdW5FFEuIcNay04EJBPoT3EQSoJg=s48-c-k-c0x00ffffff-no-rj" group-title=" " tvg-chno="9021",Tomorrowland - One World Radio
 https://ythls.armelin.one/video/wBgSH-CGPzg.m3u8
-#EXTGRP:IPTV
+#EXTGRP:DAB+
 #EXTINF:-1 tvg-id="" tvg-logo="https://yt3.ggpht.com/qYOHqhSsqJnUw8g2v2MIfugKNIpJQwxfNFlygYMDIdjAMrkdW5FFEuIcNay04EJBPoT3EQSoJg=s48-c-k-c0x00ffffff-no-rj" group-title=" " tvg-chno="9022",Tomorrowland - Daybreak Sessions
 https://ythls.armelin.one/video/dCpd6_S0rnI.m3u8
 #EXTGRP:DAB+
