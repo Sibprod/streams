@@ -1130,12 +1130,6 @@ https://clubbingtv-oando.amagi.tv/hls/amagi_hls_data_clubbingt-clubbingtv-oando/
 #EXTINF:-1 tvg-id="" tvg-logo=" " group-title=" " tvg-chno="1156",A State Of Trance 
 https://ythls.armelin.one/channel/UCalCDSmZAYD73tqVZ4l8yJg.m3u8
 #EXTGRP:IPTV
-#EXTINF:-1 tvg-id="" tvg-logo="https://yt3.ggpht.com/qYOHqhSsqJnUw8g2v2MIfugKNIpJQwxfNFlygYMDIdjAMrkdW5FFEuIcNay04EJBPoT3EQSoJg=s48-c-k-c0x00ffffff-no-rj" group-title=" " tvg-chno="1157",Tomorrowland - One World Radio
-https://ythls.armelin.one/video/wBgSH-CGPzg.m3u8
-#EXTGRP:IPTV
-#EXTINF:-1 tvg-id="" tvg-logo="https://yt3.ggpht.com/qYOHqhSsqJnUw8g2v2MIfugKNIpJQwxfNFlygYMDIdjAMrkdW5FFEuIcNay04EJBPoT3EQSoJg=s48-c-k-c0x00ffffff-no-rj" group-title=" " tvg-chno="1158",Tomorrowland - Daybreak Sessions
-https://ythls.armelin.one/video/dCpd6_S0rnI.m3u8
-#EXTGRP:IPTV
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTELT2EO0QfaVPuhJR_G9ZHO6RzFmDpRvVpmpGYfoHENQ&s" group-title=" " tvg-chno="1159",Dynamic One
 https://hls.dynamicone.be/hls/dynamicone-1080.m3u8
 #EXTGRP:IPTV
@@ -1340,6 +1334,12 @@ plugin://plugin.video.dailymotion_com/?url=x35m6bz&mode=playLiveVideo
 #EXTGRP:DAB+
 #EXTINF:-1 tvg-id="NRJ.be" tvg-logo="https://www.lyngsat.com/logo/radio/nn/nrj-belgie-nl.png" group-title="DAB+" tvg-chno="9020",NRJ (Belgique)
 https://tv.ngroup.be/live/ngrp:nrj_all/chunklist_w1657522594_b1046608.m3u8
+#EXTGRP:IPTV
+#EXTINF:-1 tvg-id="" tvg-logo="https://yt3.ggpht.com/qYOHqhSsqJnUw8g2v2MIfugKNIpJQwxfNFlygYMDIdjAMrkdW5FFEuIcNay04EJBPoT3EQSoJg=s48-c-k-c0x00ffffff-no-rj" group-title=" " tvg-chno="9021",Tomorrowland - One World Radio
+https://ythls.armelin.one/video/wBgSH-CGPzg.m3u8
+#EXTGRP:IPTV
+#EXTINF:-1 tvg-id="" tvg-logo="https://yt3.ggpht.com/qYOHqhSsqJnUw8g2v2MIfugKNIpJQwxfNFlygYMDIdjAMrkdW5FFEuIcNay04EJBPoT3EQSoJg=s48-c-k-c0x00ffffff-no-rj" group-title=" " tvg-chno="9022",Tomorrowland - Daybreak Sessions
+https://ythls.armelin.one/video/dCpd6_S0rnI.m3u8
 #EXTGRP:DAB+
 #EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="DAB+" tvg-chno="9026",Fun Radio (France)
 plugin://plugin.video.dailymotion_com/?url=xxtuy6&mode=playLiveVideo
