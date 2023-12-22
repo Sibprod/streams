@@ -21,6 +21,9 @@ http://livetv.ktv.zone/7/play.m3u8
 #EXTINF:-1 tvg-id="M6.fr" tvg-logo="https://focus.telerama.fr/104x104/60/0000/00/01/clear-118.png" group-title=" " tvg-chno="6",M6
 https://shls-m6-france-prod-dub-ak.akamaized.net/out/v1/c8a9f6e000cd4ebaa4d2fc7d18c15988/index.m3u8
 #EXTGRP:DVB-T2
+#EXTINF:-1 tvg-id="M6International.fr" tvg-logo="https://i.ibb.co/6RYpdNz/m6int.png" group-title=" " tvg-chno="60",M6 International
+https://shls-m6-int-prod-dub.shahid.net/out/v1/a315ab77ee7343a7a17dbe7e32eee3ba/index.m3u8
+#EXTGRP:DVB-T2
 #EXTINF:-1 tvg-id="ARTE.fr" tvg-logo="https://tv.cdnartwhere.eu/images/logos_chaines/111.png" group-title=" " tvg-chno="7",ARTE
 http://livetv.ktv.zone/9/play.m3u8
 #EXTGRP:DVB-T2
@@ -921,9 +924,6 @@ http://s2.callofliberty.fr/direct/EQUIDIA/master.m3u8
 #EXTGRP:DVB-S
 #EXTINF:-1 tvg-id="ACISportTV.it" tvg-logo="https://www.acisport.it/img/ACISportTV_low.jpg" group-title=" " tvg-chno="2052",ACI Sport TV
 https://live-edge-ams-1.cdn.enetres.net/79CE6A0C6AF94F7EB0F93BD0DE2949EF029/51T9CZFH/index.m3u8
-#EXTGRP:DVB-S
-#EXTINF:-1 tvg-id="M6International.fr" tvg-logo="https://i.ibb.co/6RYpdNz/m6int.png" group-title=" " tvg-chno="2054",M6 International
-https://shls-m6-int-prod-dub.shahid.net/out/v1/a315ab77ee7343a7a17dbe7e32eee3ba/index.m3u8
 #EXTGRP:DVB-S
 #EXTINF:-1 tvg-id="GoldTVSat.it" tvg-logo=" " group-title=" " tvg-chno="2055",Gold TV Sat 
 https://streaming.softwarecreation.it/GoldTvSat/GoldTvSat/playlist.m3u8
