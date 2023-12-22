@@ -1344,6 +1344,9 @@ https://tv.ngroup.be/live/ngrp:nrj_all/chunklist_w1657522594_b1046608.m3u8
 #EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="DAB+" tvg-chno="9026",Fun Radio (France)
 plugin://plugin.video.dailymotion_com/?url=xxtuy6&mode=playLiveVideo
 #EXTGRP:DAB+
+#EXTINF:-1 tvg-id=" " tvg-logo="https://radiomontblanc.fr/images/logo-radio.svg" group-title="DAB+" tvg-chno="9028",Radio Mont-Blanc
+https://live.creacast.com/radiomontblanc-ch1/smil:radiomontblanc-ch1.smil/playlist.m3u8
+#EXTGRP:DAB+
 #EXTINF:-1 tvg-id="BelRTL.be" tvg-logo="https://experience-cache.proximustv.be/posterserver/poster/DEFAULT/w-250_h-162/r_0860_002.png" group-title="DAB+" tvg-chno="9036",bel RTL
 https://bel-live-hls.akamaized.net/hls/live/2038650/BEL-Live-HLS/master.m3u8
 #EXTGRP:DAB+
