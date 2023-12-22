@@ -1340,6 +1340,8 @@ https://ythls.armelin.one/video/wBgSH-CGPzg.m3u8
 #EXTGRP:DAB+
 #EXTINF:-1 tvg-id="" tvg-logo="https://yt3.ggpht.com/qYOHqhSsqJnUw8g2v2MIfugKNIpJQwxfNFlygYMDIdjAMrkdW5FFEuIcNay04EJBPoT3EQSoJg=s48-c-k-c0x00ffffff-no-rj" group-title=" " tvg-chno="9022",Tomorrowland - Daybreak Sessions
 https://ythls.armelin.one/video/dCpd6_S0rnI.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo="https://www.rhonetv.ch/_nuxt/img/logo-rtv-invert.d5b1aff.svg" group-title="DAB+" tvg-chno="9023",Rhône TV
+https://edge15.vedge.infomaniak.com/livecast/ik:rhonetv/playlist.m3u8
 #EXTGRP:DAB+
 #EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="DAB+" tvg-chno="9026",Fun Radio (France)
 plugin://plugin.video.dailymotion_com/?url=xxtuy6&mode=playLiveVideo
