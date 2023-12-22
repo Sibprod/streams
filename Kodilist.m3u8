@@ -652,10 +652,7 @@ plugin://plugin.video.twitch/?mode=play&channel_name=astvstream
 https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_NORMANDIE/index.m3u8?start=LIVE&end=END
 #EXTGRP:Régionales
 #EXTINF:-1 tvg-id="France3CorseViaStella.fr" tvg-logo="https://focus.telerama.fr/104x104/60/0000/00/01/clear-308.png" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64;x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 Edg/112.0.1722.34" group-title=" " tvg-chno="331",France 3 Corse - Via Stella
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-referrer=http://s2.callofliberty.fr/
-#EXTGRP:Régionales
-http://s2.callofliberty.fr/direct/france.3corse/master.m3u8
+http://livetv.ktv.zone/219/play.m3u8
 #EXTGRP:Régionales
 #EXTINF:-1 tvg-id="LMTVSarthe.fr" tvg-logo=" " group-title=" " tvg-chno="332",LMTV Sarthe
 plugin://plugin.video.twitch/?mode=play&channel_name=lmtv_sarthe
@@ -718,9 +715,7 @@ plugin://plugin.video.twitch/?mode=play&channel_name=telegrenoble
 https://new.cache-stream.workers.dev/stream/UCQC0xLG_W0QpqAXQ4-yhwBA/live.m3u8
 #EXTGRP:Régionales
 #EXTINF:-1 tvg-id="Noa.fr" tvg-logo="http://www.callofliberty.fr/tv/217-france.3NoA/217-france.3NoA.png" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64;x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 Edg/112.0.1722.34" group-title=" " tvg-chno="390",France 3 NoA
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-referrer=http://s2.callofliberty.fr/
-http://s2.callofliberty.fr/direct/france.3NoA/master.m3u8
+http://livetv.ktv.zone/224/play.m3u8
 #EXTGRP:Régionales
 #EXTINF:-1 tvg-id="TV3V.fr" tvg-logo="https://www.tv3v.fr/images/logo_tv3v.png" group-title=" " tvg-chno="398",TV3V
 https://tv3v.live-kd.com/live/tv3v/livestream/playlist.m3u8
