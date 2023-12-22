@@ -166,8 +166,48 @@ https://raw.githubusercontent.com/Sibprod/streams/main/RTLclub.m3u8
 #EXTINF:-1 tvg-id="PlugRTL.lu" tvg-logo="https://focus.telerama.fr/104x104/60/0000/00/01/clear-377.png" group-title=" " tvg-chno="63",RTL plug
 https://raw.githubusercontent.com/Sibprod/streams/main/RTLplug.m3u8
 #EXTGRP:DVB-T2
+#EXTINF:-1 tvg-id="LaUne.be" tvg-logo=" " group-title=" " tvg-chno="71",La Une
+http://pro.one-iptv.com:25443/live/7772544854/9GTNL11788/70200.m3u8
+#EXTGRP:DVB-T2
+#EXTINF:-1 tvg-id="Tipik.be" tvg-logo=" " group-title=" " tvg-chno="72",Tipik
+http://pro.one-iptv.com:25443/live/7772544854/9GTNL11788/70201.m3u8
+#EXTGRP:DVB-T2
+#EXTINF:-1 tvg-id="LaTrois.be" tvg-logo=" " group-title=" " tvg-chno="73",La Trois
+http://pro.one-iptv.com:25443/live/7772544854/9GTNL11788/70202.m3u8
+#EXTGRP:DVB-T2
 #EXTINF:-1 tvg-id="AntenneReunion.mu" tvg-logo="http://www.callofliberty.fr/tv/47-AntenneREUNION/47-AntenneREUNION.png" group-title=" " tvg-chno="200",Antenne Réunion
 https://live-antenne-reunion.zeop.tv/live/c3eds/antreunihd/hls_fta/antreunihd.m3u8?location=ZEOP01
+#EXTGRP:DVB-T2
+#EXTINF:-1 tvg-id="RTI1.ci" tvg-logo="https://i.imgur.com/gbcHybd.png" group-title=" " tvg-chno="201",RTI 1
+https://www.enovativecdn.com/rticdn/smil:rti1.smil/playlist.m3u8
+#EXTGRP:DVB-T2
+#EXTINF:-1 tvg-id="RTI2.ci" tvg-logo="https://i.imgur.com/WgdvLoK.png" group-title=" " tvg-chno="202",RTI 2
+https://www.enovativecdn.com/rticdn/smil:rti2.smil/playlist.m3u8
+#EXTGRP:DVB-T2
+#EXTINF:-1 tvg-id="NCI.ci" tvg-logo="https://player.pixagility.live/nci/ncilogo.png" group-title=" " tvg-chno="204",NCI
+https://pixa.cdn.easybroadcast.fr/nci/nci.isml/nci.m3u8
+#EXTGRP:DVB-T2
+#EXTINF:-1 tvg-logo="https://imgs.search.brave.com/Gy07HIiGq9Hj8fbxuW9q8xjkrkyOJe-fyGWKuG3mkwc/rs:fit:900:900:1/g:ce/aHR0cHM6Ly95dDMu/Z2dwaHQuY29tL2Ev/QUFUWEFKeHhwUUlO/cGNKaW1Hckc1YkZI/bUVJRXNleVNJbmRk/S3ZHNWc2VHM9czkw/MC1jLWstYzB4ZmZm/ZmZmZmYtbm8tcmot/bW8" group-title=" " tvg-chno="206",Life TV
+https://strhlslb01.streamakaci.tv/str_lifetv_lifetv/str_lifetv_multi/playlist.m3u8
+#EXTGRP:DVB-T2
+#EXTINF:-1 tvg-id="" tvg-logo="https://yt3.ggpht.com/Fsc48YuvrJh5sWWN6PgAJPmCmahCwh-6R1haMgcltx0ncjvQfukHOG5UEzA7Ow0cwP6-7bFM=s176-c-k-c0x00ffffff-no-rj-mo" group-title=" " tvg-chno="207",7 Info
+https://ythls.armelin.one/channel/UCqA1FRAWs2VIiXf2cUYSQBQ.m3u8
+#EXTGRP:DVB-T2
+#EXTINF:-1 tvg-id=" " tvg-logo="https://i.imgur.com/EauXR22.png" group-title=" " tvg-chno="208",Reflet TV
+https://edge-a3.evrideo.tv/8f37c9f0-fe22-44f4-b64a-76ad11730daf_1000026630_HLS/manifest.m3u8
+#EXTGRP:DVB-T2
+#EXTINF:-1 tvg-id="ORTB.bj" tvg-logo="https://i.imgur.com/ovhVYvP.png" group-title=" " tvg-chno="211",ORTB
+#EXTVLCOPT:http-referrer=https://webcast.streamakaci.com/
+https://strhlslb01.streamakaci.tv/ortb/ortb1-multi/playlist.m3u8
+#EXTGRP:DVB-T2
+#EXTINF:-1 tvg-id="ADOTV.bj" tvg-logo="https://i.imgur.com/pxFamLr.png" group-title=" " tvg-chno="213",Ado TV
+https://stream01.adotv-fm.bj/ado-tv-live/index.m3u8
+#EXTGRP:DVB-T2
+#EXTINF:-1 tvg-id="Canal3.bj" tvg-logo="https://i.imgur.com/NbZ7Y4j.png" group-title=" " tvg-chno="218",Canal 3 Bénin
+https://live.creacast.com/bluediamond/stream/playlist.m3u8
+#EXTGRP:DVB-T2
+#EXTINF:-1 tvg-id="ETele.bj" tvg-logo="https://i.imgur.com/y1eg7OC.png" group-title=" " tvg-chno="222",E-Télé
+https://livetvsteam.com:1936/etelebenin/etelebenin/playlist.m3u8
 
 #EXTGRP:DVB-T2
 #EXTINF:-1 tvg-id="La7.it" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ll/la_7.png" group-title=" " tvg-chno="507",La 7
@@ -896,13 +936,13 @@ https://media02.webtvlive.eu/chd-edge/_definst_/smil:chamber_tv_hd.smil/playlist
 #EXTINF:-1 tvg-id="LyonCapitaleTV.fr" tvg-logo="https://s1.dmcdn.net/u/8vkDy1W6-hQdvqLRR/120x120" group-title=" " tvg-chno="1094",Lyon Capitale TV
 plugin://plugin.video.dailymotion_com/?url=x7z3zqa&mode=playLiveVideo
 #EXTGRP:DVB-C
-#EXTINF-1 tvg-id="MoozDance.ro" tvg-logo="https://i.imgur.com/aX70RD2.png" group-title=" " tvg-chno="1176",Mooz Dance
+#EXTINF-1 tvg-id="MoozDance.ro" tvg-logo="https://i.imgur.com/aX70RD2.png" group-title=" " tvg-chno="1876",Mooz Dance
 https://rtmp.digitalbroadcast.ro/moozdance/moozdance.m3u8
 #EXTGRP:DVB-C
-#EXTINF-1 tvg-id="MoozHits.ro" tvg-logo=" " group-title=" " tvg-chno="1177",Mooz Hits
+#EXTINF-1 tvg-id="MoozHits.ro" tvg-logo=" " group-title=" " tvg-chno="1877",Mooz Hits
 https://rtmp.digitalbroadcast.ro/moozhits/moozhits.m3u8
 #EXTGRP:DVB-C
-#EXTINF-1 tvg-id="MoozRo.ro" tvg-logo=" " group-title=" " tvg-chno="1178",Mooz Ro!
+#EXTINF-1 tvg-id="MoozRo.ro" tvg-logo=" " group-title=" " tvg-chno="1878",Mooz Ro!
 https://rtmp.digitalbroadcast.ro/moozro/moozro.m3u8
 
 [DVB-S]
@@ -1116,6 +1156,9 @@ plugin://plugin.video.twitch/?mode=play&channel_name=rmcsport
 #EXTINF:-1 tvg-id="Astrocenter.fr" tvg-logo="https://i.imgur.com/3xlJV7O.png" group-title=" " tvg-chno="1177",Astrocenter TV
 https://ythls.armelin.one/channel/UCMkQQZsNdRVZ3N7Oj6jVnyg.m3u8
 #EXTGRP:IPTV
+#EXTINF:-1 tvg-id="CGTNFrench.cn" tvg-logo="https://i.ibb.co/ZgqnqnJ/cgtnfr.png" group-title=" " tvg-chno="1187",CGTN (Français)
+http://news.cgtn.com/resource/live/french/cgtn-f.m3u8
+#EXTGRP:IPTV
 #EXTINF:-1 tvg-id="FashionTVParis.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Fashion_TV_logo.svg/512px-Fashion_TV_logo.svg.png" tvg-chno=" " tvg-chno="1213",Fashion TV (Paris)
 https://fash1043.cloudycdn.services/slive/ftv_paris_adaptive.smil/playlist.m3u8
 #EXTGRP:IPTV
@@ -1143,14 +1186,36 @@ https://hnc-free-viewlift.amagi.tv/HNC_AUSTRALIA.m3u8
 #EXTGRP:IPTV
 #EXTINF:-1 channel-id="samsung-GBBD1100008YW" tvg-id="GBBD1100008YW" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBD1100008YW_20230926T032319SQUARE.png_20230926032320.png" group-title=" " tvg-chno="1356",FIFA+
 https://i.mjh.nz/SamsungTVPlus/GBBD1100008YW.m3u8
-
 #EXTGRP:IPTV
-#EXTINF:-1 tvg-id="Deutschewelle.de" tvg-logo="https://2ix2.com/wp-content/uploads/2020/10/77.png" group-title=" " tvg-chno="1420",Deutsche Welle (Deutsch)
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title=" " tvg-chno="1411",L'Intelligent.TV
+https://video1.getstreamhosting.com:1936/8210/8210/playlist.m3u8
+#EXTGRP:IPTV
+#EXTINF:-1 tvg-id="A12TV.fr" tvg-logo="https://vipotv.com/wp-content/uploads/2020/07/a12tv-vipotv.png" group-title=" " tvg-chno="1415",A12 TV
+https://video1.getstreamhosting.com:1936/8250/8250/playlist.m3u8
+#EXTGRP:IPTV
+#EXTINF:-1 tvg-id="Cinemax.ci" tvg-logo=" " group-title=" " tvg-chno="1417",Ciné Max
+https://video1.getstreamhosting.com:1936/8432/8432/playlist.m3u8
+#EXTGRP:IPTV
+#EXTINF:-1 tvg-id="Ivoirechannel.ci" tvg-logo="https://i.imgur.com/gKbNqQv.png" group-title=" " tvg-chno="1418",Ivoire Channel
+https://video1.getstreamhosting.com:1936/8244/8244/playlist.m3u8
+#EXTGRP:IPTV
+#EXTINF:-1 tvg-id="AfromagicChannel.ci" tvg-logo="" group-title=" " tvg-chno="1421",Afromagic Channel
+https://video1.getstreamhosting.com:1936/8490/8490/playlist.m3u8
+#EXTGRP:IPTV
+#EXTINF:-1 tvg-id="Seriemax.ci" tvg-logo="" group-title="IPTV_CI" tvg-chno="1422",Série Max
+https://video1.getstreamhosting.com:1936/8446/8446/playlist.m3u8
+#EXTGRP:IPTV
+#EXTINF:-1 tvg-id="FitiniTV.ci" tvg-logo="" group-title="IPTV_CI" tvg-chno="1423",Fitini TV
+https://video1.getstreamhosting.com:1936/8492/8492/playlist.m3u8
+#EXTGRP:IPTV
+#EXTINF:-1 tvg-id="NovelaChannel.ci" tvg-logo="https://i.ibb.co/V3pfjfB/novela-channel-telepack.jpg" group-title=" " tvg-chno="1425",Novela Channel
+https://video1.getstreamhosting.com:1936/8494/8494/playlist.m3u8
+#EXTGRP:IPTV
+#EXTINF:-1 tvg-id="Deutschewelle.de" tvg-logo="https://2ix2.com/wp-content/uploads/2020/10/77.png" group-title=" " tvg-chno="1620",Deutsche Welle (Deutsch)
 https://dwamdstream106.akamaized.net/hls/live/2017965/dwstream106/index.m3u8
 #EXTGRP:IPTV
-#EXTINF:-1 tvg-id="" tvg-logo=" " group-title=" " tvg-chno="1461",Kronehit TV
+#EXTINF:-1 tvg-id="" tvg-logo=" " group-title=" " tvg-chno="1661",Kronehit TV
 https://bitcdn-kronehit.bitmovin.com/v2/hls/playlist.m3u8
-
 #EXTGRP:IPTV
 #EXTINF:-1 tvg-id=" " tvg-logo="https://yt3.ggpht.com/ytc/AMLnZu_Hd2WYs49wYCBMAphVpvvpBzd-EJFU8XFQgccPIw=s200" group-title=" " tvg-chno="1800",¡Hola! Play
 https://022d66c197dd4a1e9008e0134a74f34e.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-es_HolaPlay/playlist.m3u8
