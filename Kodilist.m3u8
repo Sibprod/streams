@@ -1640,6 +1640,9 @@ https://kissfmtoulondab.ice.infomaniak.ch/kissfmtoulondab-96.aac
 #EXTINF:-1 tvg-id=" " tvg-logo="https://image.jimcdn.com/app/cms/image/transf/dimension=90x90:format=png/path/sc4a623cd5d89b3b8/image/ibe0cbae56039923a/version/1697297186/image.png" group-title="Radio" radio="true" tvg-chno="10143",Kiss FM West Coast
 https://kisswestcoast.ice.infomaniak.ch/kisswestcoast-64.aac
 #EXTGRP:DAB+
+#EXTINF:-1 tvg-id=" " tvg-logo="https://image.jimcdn.com/app/cms/image/transf/dimension=90x90:format=png/path/sc4a623cd5d89b3b8/image/i3b2f1f8d52fa59d0/version/1699196134/image.png" group-title="Radio" radio="true" tvg-chno="10243",Sunshine Radio
+https://sunshine.ice.infomaniak.ch/sunshine-mp3.mp3
+#EXTGRP:DAB+
 #EXTINF:-1 tvg-id=" " tvg-logo="https://image.jimcdn.com/app/cms/image/transf/dimension=90x90:format=jpg/path/sc4a623cd5d89b3b8/image/ia0e4093e6701be7e/version/1697297186/image.jpg" group-title="Radio" radio="true" tvg-chno="10044",Melody
 https://ice.creacast.com/melody-aac-64
 #EXTGRP:DAB+
@@ -1733,86 +1736,95 @@ https://stream.radiofrance.fr/fbazur/fbazur_hifi.m3u8
 #EXTINF:-1 tvg-id=" " tvg-logo="https://image.jimcdn.com/app/cms/image/transf/dimension=90x90:format=png/path/sc4a623cd5d89b3b8/image/iea929271d9fc29cc/version/1697297186/image.png" group-title="Radio" radio="true" tvg-chno="10169",France Bleu (Provence)
 https://stream.radiofrance.fr/fbprovence/fbprovence_hifi.m3u8
 #EXTGRP:DAB+
-#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="Radio" radio="true" tvg-chno="10071",
-
+#EXTINF:-1 tvg-id=" " tvg-logo="https://image.jimcdn.com/app/cms/image/transf/dimension=90x90:format=jpg/path/sc4a623cd5d89b3b8/image/iac89e36adae4b0da/version/1697297186/image.jpg" group-title="Radio" radio="true" tvg-chno="10070",Jazz Radio
+https://jazzradio.ice.infomaniak.ch/jazzradio-high.aac
 #EXTGRP:DAB+
-#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="Radio" radio="true" tvg-chno="10072",
-
+#EXTINF:-1 tvg-id=" " tvg-logo="https://niceradio.com/media/option/thumb/411x400_logo.webp" group-title="Radio" radio="true" tvg-chno="10071",Nice Radio
+https://niceradio.ice.infomaniak.ch/niceradio.aac
 #EXTGRP:DAB+
-#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="Radio" radio="true" tvg-chno="10073",
-
+#EXTINF:-1 tvg-id=" " tvg-logo="https://image.jimcdn.com/app/cms/image/transf/dimension=90x90:format=png/path/sc4a623cd5d89b3b8/image/i243fe10a0cc0fd05/version/1697297187/image.png" group-title="Radio" radio="true" tvg-chno="10072",Oüi FM
+https://ouifm.ice.infomaniak.ch/ouifm-high.mp3
 #EXTGRP:DAB+
-#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="Radio" radio="true" tvg-chno="10074",
-
+#EXTINF:-1 tvg-id=" " tvg-logo="https://image.jimcdn.com/app/cms/image/transf/dimension=90x90:format=jpg/path/sc4a623cd5d89b3b8/image/i8bd06a2bddcb85b1/version/1699196133/image.jpg" group-title="Radio" radio="true" tvg-chno="10073",Nova
+https://novazz.ice.infomaniak.ch/novazz-128.mp3
 #EXTGRP:DAB+
-#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="Radio" radio="true" tvg-chno="10075",
-
+#EXTINF:-1 tvg-id=" " tvg-logo="https://image.jimcdn.com/app/cms/image/transf/dimension=90x90:format=jpg/path/sc4a623cd5d89b3b8/image/i7b76cec774f25db1/version/1699196134/image.jpg" group-title="Radio" radio="true" tvg-chno="10074",TSF Jazz
+https://tsfjazz.ice.infomaniak.ch/tsfjazz-high.mp3
 #EXTGRP:DAB+
-#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="Radio" radio="true" tvg-chno="10076",
-
+#EXTINF:-1 tvg-id=" " tvg-logo="https://image.jimcdn.com/app/cms/image/transf/dimension=90x90:format=png/path/sc4a623cd5d89b3b8/image/i0371001d6a81db4d/version/1696858436/image.png" group-title="Radio" radio="true" tvg-chno="10075",Africa Radio
+https://african1paris.ice.infomaniak.ch/african1paris-128.mp3
 #EXTGRP:DAB+
-#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="Radio" radio="true" tvg-chno="10077",
-
+#EXTINF:-1 tvg-id=" " tvg-logo="https://image.jimcdn.com/app/cms/image/transf/dimension=90x90:format=png/path/sc4a623cd5d89b3b8/image/i95e2100b44894562/version/1697297186/image.png" group-title="Radio" radio="true" tvg-chno="10076",Générations
+https://generationfm.ice.infomaniak.ch/generationfm-high.aac
 #EXTGRP:DAB+
-#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="Radio" radio="true" tvg-chno="10078",
-
+#EXTINF:-1 tvg-id=" " tvg-logo="https://image.jimcdn.com/app/cms/image/transf/dimension=90x90:format=png/path/sc4a623cd5d89b3b8/image/i288db1b126734c97/version/1697297186/image.png" group-title="Radio" radio="true" tvg-chno="10077",Hello Riviera
+https://ice.creacast.com/hello-riviera-mp3
 #EXTGRP:DAB+
-#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="Radio" radio="true" tvg-chno="10079",
-
+#EXTINF:-1 tvg-id=" " tvg-logo="https://image.jimcdn.com/app/cms/image/transf/dimension=90x90:format=png/path/sc4a623cd5d89b3b8/image/ie34b2e2f1926b775/version/1697297186/image.png" group-title="Radio" radio="true" tvg-chno="10078",Les Inrocks Radio
+https://inrocksradio.ice.infomaniak.ch/inrocksradio-128.mp3
 #EXTGRP:DAB+
-#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="Radio" radio="true" tvg-chno="10080",
-
+#EXTINF:-1 tvg-id=" " tvg-logo="https://image.jimcdn.com/app/cms/image/transf/dimension=90x90:format=png/path/sc4a623cd5d89b3b8/image/i7572aa42c5af968b/version/1697297186/image.png" group-title="Radio" radio="true" tvg-chno="10079",L!ke Radio
+https://dici.ice.infomaniak.ch/dici-96.mp3
 #EXTGRP:DAB+
-#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="Radio" radio="true" tvg-chno="10081",
-
+#EXTINF:-1 tvg-id=" " tvg-logo="https://image.jimcdn.com/app/cms/image/transf/dimension=90x90:format=jpg/path/sc4a623cd5d89b3b8/image/i9f838cdebf7267af/version/1697297187/image.jpg" group-title="Radio" radio="true" tvg-chno="10080",Paname
+http://paname.ice.infomaniak.ch/paname-128.mp3
 #EXTGRP:DAB+
-#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="Radio" radio="true" tvg-chno="10083",
-
+#EXTINF:-1 tvg-id=" " tvg-logo="https://image.jimcdn.com/app/cms/image/transf/dimension=90x90:format=png/path/sc4a623cd5d89b3b8/image/id6c250dd701c85e7/version/1699196133/image.png" group-title="Radio" radio="true" tvg-chno="10081",Radio Pitchoun
+https://webradio.tvradio-pitchoun.fr:8443/radiopitchoun.aac
 #EXTGRP:DAB+
-#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="Radio" radio="true" tvg-chno="10084",
-
+#EXTINF:-1 tvg-id=" " tvg-logo="https://image.jimcdn.com/app/cms/image/transf/dimension=90x90:format=png/path/sc4a623cd5d89b3b8/image/ibfef8825fbbe6d7d/version/1699196134/image.png" group-title="Radio" radio="true" tvg-chno="10082",Radio Vallée
+https://radiola.me/radio/8090/stream
+#EXTGRP:DAB+
+#EXTINF:-1 tvg-id=" " tvg-logo="https://image.jimcdn.com/app/cms/image/transf/dimension=90x90:format=png/path/sc4a623cd5d89b3b8/image/ic446c5f3051f5c2e/version/1699196134/image.png" group-title="Radio" radio="true" tvg-chno="10083",TRACE Radio (Paris)
+https://stream.rcs.revma.com/5k3fce0q54zuv
+#EXTGRP:DAB+
+#EXTINF:-1 tvg-id=" " tvg-logo="https://image.jimcdn.com/app/cms/image/transf/dimension=90x90:format=png/path/sc4a623cd5d89b3b8/image/i3c7f88d464230fc9/version/1699196134/image.png" group-title="Radio" radio="true" tvg-chno="10084",Virage Radio
+http://virageradio.ice.infomaniak.ch/virageradio-high.mp3
 #EXTGRP:DAB+
 #EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="Radio" radio="true" tvg-chno="10085",
 
 #EXTGRP:DAB+
-#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="Radio" radio="true" tvg-chno="10086",
-
+#EXTINF:-1 tvg-id=" " tvg-logo="https://image.jimcdn.com/app/cms/image/transf/dimension=90x90:format=png/path/sc4a623cd5d89b3b8/image/ia54eb36b35373f51/version/1661588741/image.png" group-title="Radio" radio="true" tvg-chno="10086",Ado
+https://start-adofm.ice.infomaniak.ch/start-adofm-high.mp3
 #EXTGRP:DAB+
-#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="Radio" radio="true" tvg-chno="10087",
-
+#EXTINF:-1 tvg-id=" " tvg-logo="https://image.jimcdn.com/app/cms/image/transf/dimension=90x90:format=png/path/sc4a623cd5d89b3b8/image/ib439c9552a56c2e4/version/1697297186/image.png" group-title="Radio" radio="true" tvg-chno="10087",Beur FM
+https://beurfm.ice.infomaniak.ch/beurfm-high.mp3
 #EXTGRP:DAB+
-#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="Radio" radio="true" tvg-chno="10088",
-
+#EXTINF:-1 tvg-id=" " tvg-logo="https://image.jimcdn.com/app/cms/image/transf/dimension=90x90:format=png/path/sc4a623cd5d89b3b8/image/i379b22ce5c094770/version/1697297186/image.png" group-title="Radio" radio="true" tvg-chno="10088",Cannes Radio
+https://stream.rcs.revma.com/2ykc70sauwzuv.mp3
 #EXTGRP:DAB+
-#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="Radio" radio="true" tvg-chno="10089",
-
-#EXTGRP:DAB+
-#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="Radio" radio="true" tvg-chno="10090",
-
-#EXTGRP:DAB+
-#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="Radio" radio="true" tvg-chno="10091",
-
-#EXTGRP:DAB+
-#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="Radio" radio="true" tvg-chno="10092",
-
-#EXTGRP:DAB+
-#EXTINF:-1 tvg-id=" " tvg-logo="https://image.jimcdn.com/app/cms/image/transf/dimension=90x90:format=jpg/path/sc4a623cd5d89b3b8/image/ie8203dc76cc73399/version/1697297186/image.jpg" group-title="Radio" radio="true" tvg-chno="10094",Figaro Radio
+#EXTINF:-1 tvg-id=" " tvg-logo="https://image.jimcdn.com/app/cms/image/transf/dimension=90x90:format=jpg/path/sc4a623cd5d89b3b8/image/ie8203dc76cc73399/version/1697297186/image.jpg" group-title="Radio" radio="true" tvg-chno="10089",Figaro Radio
 https://ice.creacast.com/figaro-radio
 #EXTGRP:DAB+
-#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="Radio" radio="true" tvg-chno="10095",
-
+#EXTINF:-1 tvg-id=" " tvg-logo="https://image.jimcdn.com/app/cms/image/transf/dimension=90x90:format=png/path/sc4a623cd5d89b3b8/image/i3e1ef053e4fa3f44/version/1697297186/image.png" group-title="Radio" radio="true" tvg-chno="10090",France Maghreb 2
+https://francemaghreb2.ice.infomaniak.ch/francemaghreb2-high.mp3
 #EXTGRP:DAB+
-#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="Radio" radio="true" tvg-chno="10096",
-
+#EXTINF:-1 tvg-id=" " tvg-logo="https://image.jimcdn.com/app/cms/image/transf/dimension=90x90:format=jpg/path/sc4a623cd5d89b3b8/image/i796b4bfc7483cf2f/version/1697297186/image.jpg" group-title="Radio" radio="true" tvg-chno="10091",Grimaldi FM
+http://91.121.29.128:8058/;stream.mp3
 #EXTGRP:DAB+
-#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="Radio" radio="true" tvg-chno="10097",
-
+#EXTINF:-1 tvg-id=" " tvg-logo="https://image.jimcdn.com/app/cms/image/transf/dimension=90x90:format=png/path/sc4a623cd5d89b3b8/image/ib3898fb4af72d844/version/1699196133/image.png" group-title="Radio" radio="true" tvg-chno="10092",Radio Star
+https://www.radioking.com/play/radio-star
 #EXTGRP:DAB+
-#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="Radio" radio="true" tvg-chno="10098",
-
+#EXTINF:-1 tvg-id=" " tvg-logo="https://image.jimcdn.com/app/cms/image/transf/dimension=90x90:format=jpg/path/sc4a623cd5d89b3b8/image/i6f3df05bb3e4aea6/version/1697297186/image.jpg" group-title="Radio" radio="true" tvg-chno="10093",Alta Frequenza
+http://altafrequenza.ice.infomaniak.ch/altafrequenza-128.mp3
 #EXTGRP:DAB+
-#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="Radio" radio="true" tvg-chno="10099",
-
+#EXTINF:-1 tvg-id=" " tvg-logo="https://image.jimcdn.com/app/cms/image/transf/dimension=90x90:format=jpg/path/sc4a623cd5d89b3b8/image/ibdac8f38b2810ac8/version/1697297186/image.jpg" group-title="Radio" radio="true" tvg-chno="10094",Clin d'Oeil FM
+http://clindoeilfm1061.ice.infomaniak.ch/clindoeilfm1061-128.mp3
+#EXTGRP:DAB+
+#EXTINF:-1 tvg-id=" " tvg-logo="https://image.jimcdn.com/app/cms/image/transf/dimension=90x90:format=jpg/path/sc4a623cd5d89b3b8/image/ic9aced56ca05d7f0/version/1697297187/image.jpg" group-title="Radio" radio="true" tvg-chno="10095",Phare FM
+http://str0.creacast.com/pharefm
+#EXTGRP:DAB+
+#EXTINF:-1 tvg-id=" " tvg-logo="https://image.jimcdn.com/app/cms/image/transf/dimension=90x90:format=png/path/sc4a623cd5d89b3b8/image/i82f470d9ecef2d79/version/1701381431/image.png" group-title="Radio" radio="true" tvg-chno="10096",Radio CapSao
+https://ice.creacast.com/capsao_b
+#EXTGRP:DAB+
+#EXTINF:-1 tvg-id=" " tvg-logo="https://image.jimcdn.com/app/cms/image/transf/dimension=90x90:format=png/path/sc4a623cd5d89b3b8/image/i40d42d2300ebf6e2/version/1701381431/image.png" group-title="Radio" radio="true" tvg-chno="10097",Radio Chalom Nitsan (RCN)
+http://rcnradiochalomcotedazur.ice.infomaniak.ch/rcnradiochalomcotedazur-128.mp3
+#EXTGRP:DAB+
+#EXTINF:-1 tvg-id=" " tvg-logo="https://image.jimcdn.com/app/cms/image/transf/dimension=90x90:format=png/path/sc4a623cd5d89b3b8/image/i79434c7a767feae6/version/1699196134/image.png" group-title="Radio" radio="true" tvg-chno="10098",Séquence FM
+http://163.172.37.18:8000/sequence-annecy.mp3
+#EXTGRP:DAB+
+#EXTINF:-1 tvg-id=" " tvg-logo="https://image.jimcdn.com/app/cms/image/transf/dimension=90x90:format=jpg/path/sc4a623cd5d89b3b8/image/i8b1db3fc51152537/version/1699196134/image.jpg" group-title="Radio" radio="true" tvg-chno="10099",So Good Radio
+https://www.radioking.com/play/so-good-radio
 #EXTGRP:DAB+
 #EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="Radio" radio="true" tvg-chno="10100",
 
@@ -1820,16 +1832,16 @@ https://ice.creacast.com/figaro-radio
 #EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="Radio" radio="true" tvg-chno="10101",
 
 #EXTGRP:DAB+
-#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="Radio" radio="true" tvg-chno="10102",
-
+#EXTINF:-1 tvg-id=" " tvg-logo="https://www.radioking.com/api/track/cover/86b45a51-c76b-4639-8531-2d08861d809e?width=160&height=160" group-title="Radio" radio="true" tvg-chno="10102",Air 06
+https://www.radioking.com/play/air06
 #EXTGRP:DAB+
-#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="Radio" radio="true" tvg-chno="10103",
-
+#EXTINF:-1 tvg-id=" " tvg-logo="https://image.jimcdn.com/app/cms/image/transf/dimension=90x90:format=png/path/sc4a623cd5d89b3b8/image/i7c1940583d3dda2a/version/1697297186/image.png" group-title="Radio" radio="true" tvg-chno="10103",Dynamyk
+http://nice.stream.dynamyk.fm/rntnice.mp3
 #EXTGRP:DAB+
-#EXTINF:-1 tvg-id=" " tvg-logo="https://image.jimcdn.com/app/cms/image/transf/dimension=90x90:format=png/path/sc4a623cd5d89b3b8/image/i3b2f1f8d52fa59d0/version/1699196134/image.png" group-title="Radio" radio="true" tvg-chno="10104",Sunshine Radio
-https://sunshine.ice.infomaniak.ch/sunshine-mp3.mp3
+#EXTINF:-1 tvg-id=" " tvg-logo="https://image.jimcdn.com/app/cms/image/transf/dimension=90x90:format=png/path/sc4a623cd5d89b3b8/image/ic8ef9acaf037b14f/version/1697297186/image.png" group-title="Radio" radio="true" tvg-chno="10104",Eu!Radio
+https://euradio.fr/stream/
 #EXTGRP:DAB+
-#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="Radio" radio="true" tvg-chno="10105",
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="Radio" radio="true" tvg-chno="10105",Lérins Radio
 
 #EXTGRP:DAB+
 #EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="Radio" radio="true" tvg-chno="10106",
