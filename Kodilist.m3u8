@@ -1607,26 +1607,26 @@ https://dreamsiteradiocp6.com/proxy/rmfrance1?mp=/stream
 #EXTINF:-1 tvg-id=" " tvg-logo="https://image.jimcdn.com/app/cms/image/transf/dimension=90x90:format=jpg/path/sc4a623cd5d89b3b8/image/ib8f53e0732ba1f8e/version/1699196133/image.jpg" group-title="Radio" radio="true" tvg-chno="10035",Radio Monaco
 https://radiomonaco.ice.infomaniak.ch/radiomonaco-96.aac
 #EXTGRP:DAB+
-#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="Radio" radio="true" tvg-chno="10036",RMC 1
-
+#EXTINF:-1 tvg-id=" " tvg-logo="https://www.radiomontecarlo.net/images/logos/1/logo_white.jpg?v=1601535387595" group-title="Radio" radio="true" tvg-chno="10036",RMC 1
+https://icy.unitedradio.it/RMC.aac
 #EXTGRP:DAB+
-#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="Radio" radio="true" tvg-chno="10037",RMC 2
-
+#EXTINF:-1 tvg-id=" " tvg-logo="https://www.rmc2.net/wp-content/uploads/2019/03/logoMC2.png" group-title="Radio" radio="true" tvg-chno="10037",RMC 2
+https://stream.rcs.revma.com/fxp289cp81uvv
 #EXTGRP:DAB+
-#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="Radio" radio="true" tvg-chno="10038",Replay News
-
+#EXTINF:-1 tvg-id=" " tvg-logo="https://image.jimcdn.com/app/cms/image/transf/dimension=90x90:format=png/path/sc4a623cd5d89b3b8/image/iade4779b5cee7f6b/version/1699196134/image.png" group-title="Radio" radio="true" tvg-chno="10038",Replay News
+https://replaynews.ice.infomaniak.ch/replaynews-192.mp3
 #EXTGRP:DAB+
-#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="Radio" radio="true" tvg-chno="10039",Riviera Radio
-
+#EXTINF:-1 tvg-id=" " tvg-logo="https://image.jimcdn.com/app/cms/image/transf/dimension=90x90:format=jpg/path/sc4a623cd5d89b3b8/image/i2cc13270202531e6/version/1699196134/image.jpg" group-title="Radio" radio="true" tvg-chno="10039",Riviera Radio
+https://rivieraradio.ice.infomaniak.ch/rivieraradio-high.mp3
 #EXTGRP:DAB+
-#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="Radio" radio="true" tvg-chno="10040",Tech Radio
-
+#EXTINF:-1 tvg-id=" " tvg-logo="https://image.jimcdn.com/app/cms/image/transf/dimension=90x90:format=png/path/sc4a623cd5d89b3b8/image/i365fde81b6fa9b4d/version/1699196134/image.png" group-title="Radio" radio="true" tvg-chno="10040",Tech Radio
+https://amilaradio.ice.infomaniak.ch/amilaradio-128.mp3
 #EXTGRP:DAB+
 #EXTINF:-1 tvg-id=" " tvg-logo="https://image.jimcdn.com/app/cms/image/transf/dimension=90x90:format=png/path/sc4a623cd5d89b3b8/image/i896b06158bf8da4c/version/1700651396/image.png" group-title="Radio" radio="true" tvg-chno="10041",Fréquence Mistral
 https://azuracast.fmistral-serveur.com/listen/fm_marseille/radio.mp3
 #EXTGRP:DAB+
-#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="Radio" radio="true" tvg-chno="10042",Hope Radio
-
+#EXTINF:-1 tvg-id=" " tvg-logo="https://image.jimcdn.com/app/cms/image/transf/dimension=90x90:format=png/path/sc4a623cd5d89b3b8/image/if3e2f874f83d8b7f/version/1697297186/image.png" group-title="Radio" radio="true" tvg-chno="10042",Hope Radio
+https://listen.radioking.com/radio/273406/stream/318889
 #EXTGRP:DAB+
 #EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="Radio" radio="true" tvg-chno="10043",Kiss FM West Coast
 
