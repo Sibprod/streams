@@ -1580,71 +1580,74 @@ https://rfm.lmn.fm/rfm.128.aac/playlist.m3u8
 #EXTINF:-1 tvg-id=" " tvg-logo="https://image.jimcdn.com/app/cms/image/transf/dimension=90x90:format=png/path/sc4a623cd5d89b3b8/image/id0336a23eb52966f/version/1697296784/image.png" group-title="Radio" radio="true" tvg-chno="10026",RMC Info
 https://audio.bfmtv.com/rmcradio_128.mp3
 #EXTGRP:DAB+
-#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="Radio" radio="true" tvg-chno="10027",
+#EXTINF:-1 tvg-id=" " tvg-logo="https://image.jimcdn.com/app/cms/image/transf/dimension=90x90:format=jpg/path/sc4a623cd5d89b3b8/image/i5055b6e9a40b1ad8/version/1697297186/image.jpg" group-title="Radio" radio="true" tvg-chno="10027",Crooner Radio
+http://croonerradio.ice.infomaniak.ch/croonerradio-hifi.mp3
+#EXTGRP:DAB+
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="Radio" radio="true" tvg-chno="10028",La Grande Musique
 
 #EXTGRP:DAB+
-#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="Radio" radio="true" tvg-chno="10028",
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="Radio" radio="true" tvg-chno="10029",MC Doualiya
 
 #EXTGRP:DAB+
-#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="Radio" radio="true" tvg-chno="10029",
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="Radio" radio="true" tvg-chno="10030",Medi 1 (Maghreb)
 
 #EXTGRP:DAB+
-#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="Radio" radio="true" tvg-chno="10030",
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="Radio" radio="true" tvg-chno="10030",Medi 1 (Afrique)
 
 #EXTGRP:DAB+
-#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="Radio" radio="true" tvg-chno="10031",
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="Radio" radio="true" tvg-chno="10031",Premium Radio
 
 #EXTGRP:DAB+
-#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="Radio" radio="true" tvg-chno="10032",
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="Radio" radio="true" tvg-chno="10032",Radio 105
 
 #EXTGRP:DAB+
-#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="Radio" radio="true" tvg-chno="10033",
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="Radio" radio="true" tvg-chno="10033",Radio Ethic
 
 #EXTGRP:DAB+
-#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="Radio" radio="true" tvg-chno="10034",
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="Radio" radio="true" tvg-chno="10034",Radio Maria (France)
 
 #EXTGRP:DAB+
-#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="Radio" radio="true" tvg-chno="10035",
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="Radio" radio="true" tvg-chno="10035",Radio Monaco
 
 #EXTGRP:DAB+
-#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="Radio" radio="true" tvg-chno="10036",
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="Radio" radio="true" tvg-chno="10036",RMC 1
 
 #EXTGRP:DAB+
-#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="Radio" radio="true" tvg-chno="10037",
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="Radio" radio="true" tvg-chno="10037",RMC 2
 
 #EXTGRP:DAB+
-#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="Radio" radio="true" tvg-chno="10038",
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="Radio" radio="true" tvg-chno="10038",Replay News
 
 #EXTGRP:DAB+
-#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="Radio" radio="true" tvg-chno="10039",
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="Radio" radio="true" tvg-chno="10039",Riviera Radio
 
 #EXTGRP:DAB+
-#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="Radio" radio="true" tvg-chno="10040",
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="Radio" radio="true" tvg-chno="10040",Tech Radio
 
 #EXTGRP:DAB+
-#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="Radio" radio="true" tvg-chno="10041",
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="Radio" radio="true" tvg-chno="10041",Fréquence Mistral
 
 #EXTGRP:DAB+
-#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="Radio" radio="true" tvg-chno="10042",
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="Radio" radio="true" tvg-chno="10042",Hope Radio
 
 #EXTGRP:DAB+
-#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="Radio" radio="true" tvg-chno="10043",
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="Radio" radio="true" tvg-chno="10043",Kiss FM West Coast
 
 #EXTGRP:DAB+
-#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="Radio" radio="true" tvg-chno="10044",
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="Radio" radio="true" tvg-chno="10044",Melody In Paris
 
 #EXTGRP:DAB+
-#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="Radio" radio="true" tvg-chno="10045",
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="Radio" radio="true" tvg-chno="10045",Metropolys (Riviera)
 
 #EXTGRP:DAB+
-#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="Radio" radio="true" tvg-chno="10046",
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="Radio" radio="true" tvg-chno="10046",My Zen Radio
 
 #EXTGRP:DAB+
 #EXTINF:-1 tvg-id=" " tvg-logo="https://netradio.fr/wp-content/uploads/2022/12/Netradio-White-on-Red-1920x1080-1.jpg" group-title="Radio" radio="true" tvg-chno="10047",Netradio
 https://stream10.xdevel.com/audio0s977605-2115/stream/icecast.audio
 #EXTGRP:DAB+
-#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="Radio" radio="true" tvg-chno="10048",
-
+#EXTINF:-1 tvg-id=" " tvg-logo="https://image.jimcdn.com/app/cms/image/transf/dimension=90x90:format=png/path/sc4a623cd5d89b3b8/image/i518e120e6938ef88/version/1699196133/image.png" group-title="Radio" radio="true" tvg-chno="10048",Radio J
+https://image.jimcdn.com/app/cms/image/transf/dimension=90x90:format=png/path/sc4a623cd5d89b3b8/image/i518e120e6938ef88/version/1699196133/image.png
 #EXTGRP:DAB+
 #EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="Radio" radio="true" tvg-chno="10049",
 
@@ -1661,7 +1664,7 @@ https://yellowradio.ice.infomaniak.ch/yellowradio.mp3
 #EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="Radio" radio="true" tvg-chno="10053",
 
 #EXTGRP:DAB+
-#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="Radio" radio="true" tvg-chno="10054",
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="Radio" radio="true" tvg-chno="10054",Radio Émotion
 
 #EXTGRP:DAB+
 #EXTINF:-1 tvg-id=" " tvg-logo="https://image.jimcdn.com/app/cms/image/transf/dimension=90x90:format=png/path/sc4a623cd5d89b3b8/image/i1d16211e4dc0b6db/version/1699196133/image.png" group-title="Radio" radio="true" tvg-chno="10055",FG
@@ -1748,7 +1751,7 @@ https://stream.radiofrance.fr/fbprovence/fbprovence_hifi.m3u8
 #EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="Radio" radio="true" tvg-chno="10081",
 
 #EXTGRP:DAB+
-#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="Radio" radio="true" tvg-chno="10082",
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="Radio" radio="true" tvg-chno="10082",Melody
 
 #EXTGRP:DAB+
 #EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="Radio" radio="true" tvg-chno="10083",
@@ -1814,7 +1817,7 @@ https://stream.rcs.revma.com/zfad8vm4srhvv
 #EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="Radio" radio="true" tvg-chno="10103",
 
 #EXTGRP:DAB+
-#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="Radio" radio="true" tvg-chno="10104",
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="Radio" radio="true" tvg-chno="10104",Sunshine Radio
 
 #EXTGRP:DAB+
 #EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="Radio" radio="true" tvg-chno="10105",
