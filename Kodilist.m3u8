@@ -1907,7 +1907,7 @@ https://ice.creacast.com/top_fm
 #EXTINF:-1 tvg-id=" " tvg-logo="https://images.lesindesradios.fr/fit-in/300x2000/filters:format(webp)/filters:quality(100)/radios/voltage/images/logo_QNDx5cC0eN.png" group-title="Radio" radio="true" tvg-chno="11000",Voltage
 https://start-voltage.ice.infomaniak.ch/start-voltage-high.mp3
 #EXTGRP:DAB+
-tvg-logo="https://www.radio.de/images/broadcasts/d7/93/105161/5/c300.png" group-title="Radio" radio="true" tvg-chno="11001",Hits 1
+#EXTINF:-1 tvg-id=" " tvg-logo=tvg-logo="https://www.radio.de/images/broadcasts/d7/93/105161/5/c300.png" group-title="Radio" radio="true" tvg-chno="11001",Hits 1
 https://radio7.pro-fhi.net/radio/9006/hits1hd
 #EXTGRP:DAB+
 #EXTINF:-1 tvg-id=" " tvg-logo="https://www.radiosensations.fr/paris/templates/style/sensations/img/logo.svg" group-title="Radio" radio="true" tvg-chno="11002",Radio Sensations (Paris)
