@@ -1583,32 +1583,29 @@ https://audio.bfmtv.com/rmcradio_128.mp3
 #EXTINF:-1 tvg-id=" " tvg-logo="https://image.jimcdn.com/app/cms/image/transf/dimension=90x90:format=jpg/path/sc4a623cd5d89b3b8/image/i5055b6e9a40b1ad8/version/1697297186/image.jpg" group-title="Radio" radio="true" tvg-chno="10027",Crooner Radio
 http://croonerradio.ice.infomaniak.ch/croonerradio-hifi.mp3
 #EXTGRP:DAB+
-#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="Radio" radio="true" tvg-chno="10028",La Grande Musique
-
+#EXTINF:-1 tvg-id=" " tvg-logo="https://image.jimcdn.com/app/cms/image/transf/dimension=90x90:format=png/path/sc4a623cd5d89b3b8/image/icf8fa7e887148e92/version/1697297186/image.png" group-title="Radio" radio="true" tvg-chno="10028",La Grande Musique
+https://www.radioking.com/play/la-grande-musique
 #EXTGRP:DAB+
-#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="Radio" radio="true" tvg-chno="10029",MC Doualiya
-
+#EXTINF:-1 tvg-id=" " tvg-logo="https://image.jimcdn.com/app/cms/image/transf/dimension=90x90:format=png/path/sc4a623cd5d89b3b8/image/i9663a3ad5f711ffe/version/1697297187/image.png" group-title="Radio" radio="true" tvg-chno="10029",MC Doualiya
+https://montecarlodoualiya128k.ice.infomaniak.ch/mc-doualiya.mp3
 #EXTGRP:DAB+
-#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="Radio" radio="true" tvg-chno="10030",Medi 1 (Maghreb)
-
+#EXTINF:-1 tvg-id=" " tvg-logo="https://image.jimcdn.com/app/cms/image/transf/dimension=90x90:format=png/path/sc4a623cd5d89b3b8/image/i6972b826202740c0/version/1697297186/image.png" group-title="Radio" radio="true" tvg-chno="10030",Medi 1 (Maghreb)
+https://streaming1.medi1tv.com/radio/radio_mag.stream_aac/playlist.m3u8
 #EXTGRP:DAB+
-#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="Radio" radio="true" tvg-chno="10030",Medi 1 (Afrique)
-
+#EXTINF:-1 tvg-id=" " tvg-logo="https://image.jimcdn.com/app/cms/image/transf/dimension=90x90:format=png/path/sc4a623cd5d89b3b8/image/i216e64813a46a00c/version/1697297223/image.png" group-title="Radio" radio="true" tvg-chno="10031",Premium Radio
+https://premium.ice.infomaniak.ch/premium-192.aac
 #EXTGRP:DAB+
-#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="Radio" radio="true" tvg-chno="10031",Premium Radio
-
+#EXTINF:-1 tvg-id=" " tvg-logo="https://image.jimcdn.com/app/cms/image/transf/dimension=90x90:format=png/path/sc4a623cd5d89b3b8/image/ifdb6c2ca6116090f/version/1696858419/image.png" group-title="Radio" radio="true" tvg-chno="10032",Radio 105
+https://icy.unitedradio.it/Radio105.aac
 #EXTGRP:DAB+
-#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="Radio" radio="true" tvg-chno="10032",Radio 105
-
+#EXTINF:-1 tvg-id=" " tvg-logo="https://image.jimcdn.com/app/cms/image/transf/dimension=90x90:format=png/path/sc4a623cd5d89b3b8/image/i5f5bdd4201dd6f5c/version/1699196133/image.png" group-title="Radio" radio="true" tvg-chno="10033",Radio Ethic
+http://163.172.37.18:8000/radioethic.mp3
 #EXTGRP:DAB+
-#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="Radio" radio="true" tvg-chno="10033",Radio Ethic
-
+#EXTINF:-1 tvg-id=" " tvg-logo="https://image.jimcdn.com/app/cms/image/transf/dimension=90x90:format=jpg/path/sc4a623cd5d89b3b8/image/ib5188ce45e6fcdd2/version/1699196133/image.jpg" group-title="Radio" radio="true" tvg-chno="10034",Radio Maria (France)
+https://dreamsiteradiocp6.com/proxy/rmfrance1?mp=/stream
 #EXTGRP:DAB+
-#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="Radio" radio="true" tvg-chno="10034",Radio Maria (France)
-
-#EXTGRP:DAB+
-#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="Radio" radio="true" tvg-chno="10035",Radio Monaco
-
+#EXTINF:-1 tvg-id=" " tvg-logo="https://image.jimcdn.com/app/cms/image/transf/dimension=90x90:format=jpg/path/sc4a623cd5d89b3b8/image/ib8f53e0732ba1f8e/version/1699196133/image.jpg" group-title="Radio" radio="true" tvg-chno="10035",Radio Monaco
+https://radiomonaco.ice.infomaniak.ch/radiomonaco-96.aac
 #EXTGRP:DAB+
 #EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="Radio" radio="true" tvg-chno="10036",RMC 1
 
@@ -1625,8 +1622,8 @@ http://croonerradio.ice.infomaniak.ch/croonerradio-hifi.mp3
 #EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="Radio" radio="true" tvg-chno="10040",Tech Radio
 
 #EXTGRP:DAB+
-#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="Radio" radio="true" tvg-chno="10041",Fréquence Mistral
-
+#EXTINF:-1 tvg-id=" " tvg-logo="https://image.jimcdn.com/app/cms/image/transf/dimension=90x90:format=png/path/sc4a623cd5d89b3b8/image/i896b06158bf8da4c/version/1700651396/image.png" group-title="Radio" radio="true" tvg-chno="10041",Fréquence Mistral
+https://azuracast.fmistral-serveur.com/listen/fm_marseille/radio.mp3
 #EXTGRP:DAB+
 #EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="Radio" radio="true" tvg-chno="10042",Hope Radio
 
@@ -1714,9 +1711,6 @@ https://stream.rcs.revma.com/wknqhm4yuchvv
 #EXTGRP:DAB+
 #EXTINF:-1 tvg-id=" " tvg-logo="https://image.jimcdn.com/app/cms/image/transf/dimension=90x90:format=png/path/sc4a623cd5d89b3b8/image/iea929271d9fc29cc/version/1697297186/image.png" group-title="Radio" radio="true" tvg-chno="10070",France Bleu (Azur)
 https://stream.radiofrance.fr/fbazur/fbazur_hifi.m3u8
-#EXTGRP:DAB+
-#EXTINF:-1 tvg-id=" " tvg-logo="https://image.jimcdn.com/app/cms/image/transf/dimension=90x90:format=png/path/sc4a623cd5d89b3b8/image/iea929271d9fc29cc/version/1697297186/image.png" group-title="Radio" radio="true" tvg-chno="10070",France Bleu (Provence)
-https://stream.radiofrance.fr/fbprovence/fbprovence_hifi.m3u8
 #EXTGRP:DAB+
 #EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="Radio" radio="true" tvg-chno="10071",
 
@@ -1876,6 +1870,15 @@ https://stream.rcs.revma.com/zfad8vm4srhvv
 #EXTGRP:DAB+
 #EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="Radio" radio="true" tvg-chno="10123",
 
+#EXTGRP:DAB+
+#EXTINF:-1 tvg-id=" " tvg-logo="https://image.jimcdn.com/app/cms/image/transf/dimension=90x90:format=png/path/sc4a623cd5d89b3b8/image/i6972b826202740c0/version/1697297186/image.png" group-title="Radio" radio="true" tvg-chno="10130",Medi 1 (Afrique)
+https://streaming1.medi1tv.com/radio/radio_afr.stream_aac/playlist.m3u8
+#EXTGRP:DAB+
+#EXTINF:-1 tvg-id=" " tvg-logo="https://image.jimcdn.com/app/cms/image/transf/dimension=90x90:format=jpg/path/sc4a623cd5d89b3b8/image/ib8f53e0732ba1f8e/version/1699196133/image.jpg" group-title="Radio" radio="true" tvg-chno="10135",Radio Monaco Mix DJ
+https://streamingp.shoutcast.com/radio-monaco-mixdj-aac
+#EXTGRP:DAB+
+#EXTINF:-1 tvg-id=" " tvg-logo="https://image.jimcdn.com/app/cms/image/transf/dimension=90x90:format=png/path/sc4a623cd5d89b3b8/image/iea929271d9fc29cc/version/1697297186/image.png" group-title="Radio" radio="true" tvg-chno="10170",France Bleu (Provence)
+https://stream.radiofrance.fr/fbprovence/fbprovence_hifi.m3u8
 #EXTGRP:DAB+
 #EXTINF:-1 tvg-id=" " tvg-logo="https://images.lesindesradios.fr/fit-in/300x2000/filters:format(webp)/filters:quality(100)/radios/voltage/images/logo_QNDx5cC0eN.png" group-title="Radio" radio="true" tvg-chno="10201",Voltage
 https://start-voltage.ice.infomaniak.ch/start-voltage-high.mp3
