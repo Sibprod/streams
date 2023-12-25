@@ -1877,32 +1877,31 @@ https://radiocotevaroise.ice.infomaniak.ch/radiocotevaroise-128.mp3
 #EXTINF:-1 tvg-id=" " tvg-logo="https://cdn.onlineradiobox.com/img/l/2/66502.v8.png" group-title="Radio" radio="true" tvg-chno="10116",RCB
 https://onlineradiobox.com/ping/fr.rcb962
 #EXTGRP:DAB+
-#EXTINF:-1 tvg-id=" " tvg-logo="http://www.radio-active.net/images/logo-header-radio-active.png" group-title="Radio" radio="true" tvg-chno="10117",Radio Active
-http://www.radio-active.net:8000/active
+#EXTINF:-1 tvg-id=" " tvg-logo=tvg-logo="https://image.jimcdn.com/app/cms/image/transf/dimension=90x90:format=png/path/sc4a623cd5d89b3b8/image/i5f496e9f173ecb2b/version/1697620078/image.png" group-title="Radio" radio="true" tvg-chno="10117",Tactic Radio
+https://www.radioking.com/play/radio-star-marignane/49343
 #EXTGRP:DAB+
-#EXTINF:-1 tvg-id=" " tvg-logo="https://www.radio.fr/images/broadcasts/f7/99/23271/c300.png" group-title="Radio" radio="true" tvg-chno="10118",Gapeau FM
-https://gapeaufm.ice.infomaniak.ch/gapeaufm-64.mp3
-#EXTGRP:DAB+
-#EXTINF:-1 tvg-id=" " tvg-logo="https://www.radio.fr/images/broadcasts/6a/19/118395/1/c300.png" group-title="Radio" radio="true" tvg-chno="10119",Antithèse, La Radio lycéenne de Lorgues
-https://listen.radioking.com/radio/11549/stream/63448
-#EXTGRP:DAB+
-#EXTINF:-1 tvg-id=" " tvg-logo="https://www.radio.fr/images/broadcasts/0f/9a/5680/2/c300.png" group-title="Radio" radio="true" tvg-chno="10120",Métropole Radio
-http://stream2.comequip.eu:8002/metropole
-#EXTGRP:DAB+
-#EXTINF:-1 tvg-id=" " tvg-logo="http://www.radiosaintebaume.com/upload/design/631f4ac287a496.78563114.png" group-title="Radio" radio="true" tvg-chno="10121",Radio Sainte-Baume
-http://radiosaintebaume.ice.infomaniak.ch/radiosaintebaume-128.mp3
-#EXTGRP:DAB+
-#EXTINF:-1 tvg-id=" " tvg-logo="https://mosaiquefm.fr/wp-content/uploads/2022/01/cropped-header2.png" group-title="Radio" radio="true" tvg-chno="10122",Mosaïque FM
-https://mosaiquefm.potin.xyz:8443/stream
-#EXTGRP:DAB+
-#EXTINF:-1 tvg-id=" " tvg-logo="https://image.radioking.io/radios/344635/logo/eb26736f-0b1d-4688-a42a-685fb17c077f.png" group-title="Radio" radio="true" tvg-chno="10123",Radio Cerise
-https://www.radioking.com/play/radio-cerise
-#EXTGRP:DAB+
-#EXTINF:-1 tvg-id=" " tvg-logo="https://radio-verdon.com/wp-content/uploads/2019/02/logo-radio-verdon.png" group-title="Radio" radio="true" tvg-chno="10124",Radio Verdon
-https://radio3.pro-fhi.net/radio/9056/stream.mp3
-#EXTGRP:DAB+
-#EXTINF:-1 tvg-id=" " tvg-logo="https://image.jimcdn.com/app/cms/image/transf/dimension=90x90:format=jpg/path/sc4a623cd5d89b3b8/image/i5ccb556469dfa252/version/1697620057/image.jpg" group-title="Radio" radio="true" tvg-chno="10488",Top FM
+#EXTINF:-1 tvg-id=" " tvg-logo="https://image.jimcdn.com/app/cms/image/transf/dimension=90x90:format=jpg/path/sc4a623cd5d89b3b8/image/i5ccb556469dfa252/version/1697620057/image.jpg" group-title="Radio" radio="true" tvg-chno="10134",Top FM
 https://ice.creacast.com/top_fm
+
+#EXTGRP:FM
+#EXTINF:-1 tvg-id=" " tvg-logo="http://www.radio-active.net/images/logo-header-radio-active.png" group-title="Radio" radio="true" tvg-chno="10900",Radio Active
+http://www.radio-active.net:8000/active
+#EXTGRP:FM
+#EXTINF:-1 tvg-id=" " tvg-logo="https://www.radio.fr/images/broadcasts/f7/99/23271/c300.png" group-title="Radio" radio="true" tvg-chno="10901",Gapeau FM
+https://gapeaufm.ice.infomaniak.ch/gapeaufm-64.mp3
+#EXTGRP:FM
+#EXTINF:-1 tvg-id=" " tvg-logo="https://www.radio.fr/images/broadcasts/0f/9a/5680/2/c300.png" group-title="Radio" radio="true" tvg-chno="10902",Métropole Radio
+http://stream2.comequip.eu:8002/metropole
+#EXTGRP:FM
+#EXTINF:-1 tvg-id=" " tvg-logo="http://www.radiosaintebaume.com/upload/design/631f4ac287a496.78563114.png" group-title="Radio" radio="true" tvg-chno="10903",Radio Sainte-Baume
+http://radiosaintebaume.ice.infomaniak.ch/radiosaintebaume-128.mp3
+#EXTGRP:FM
+#EXTINF:-1 tvg-id=" " tvg-logo="https://mosaiquefm.fr/wp-content/uploads/2022/01/cropped-header2.png" group-title="Radio" radio="true" tvg-chno="10904",Mosaïque FM
+https://mosaiquefm.potin.xyz:8443/stream
+#EXTGRP:FM
+#EXTINF:-1 tvg-id=" " tvg-logo="https://radio-verdon.com/wp-content/uploads/2019/02/logo-radio-verdon.png" group-title="Radio" radio="true" tvg-chno="10905",Radio Verdon
+https://radio3.pro-fhi.net/radio/9056/stream.mp3
+
 #EXTGRP:DAB+
 #EXTINF:-1 tvg-id=" " tvg-logo="https://images.lesindesradios.fr/fit-in/300x2000/filters:format(webp)/filters:quality(100)/radios/voltage/images/logo_QNDx5cC0eN.png" group-title="Radio" radio="true" tvg-chno="11000",Voltage
 https://start-voltage.ice.infomaniak.ch/start-voltage-high.mp3
@@ -1915,30 +1914,37 @@ https://sensationsparisdab.ice.infomaniak.ch/sensationsparisdab-192.mp3
 #EXTGRP:DAB+
 #EXTINF:-1 tvg-id=" " tvg-logo="https://m40radio.fr/wp-content/uploads/logo-noel.png" group-title="Radio" radio="true" tvg-chno="11040",M40
 https://s1.mcast.digital/listen/m40/m40radio-128.mp3
-#EXTGRP:DAB+
-#EXTINF:-1 tvg-id=" " tvg-logo="https://m40radio.fr/wp-content/uploads/logo-noel.png" group-title="Radio" radio="true" tvg-chno="11041",Le Klub by M40
-https://s1.mcast.digital/listen/le-klub-by-m40/le-klub-by-m40-128.mp3
-#EXTGRP:DAB+
+
+#EXTGRP:IPRADIO
 #EXTINF:-1 tvg-id=" " tvg-logo="https://hotmixradio.com/uploads/media/station-info/06/446-14.webp?v=1-0" group-title="Radio" radio="true" tvg-chno="12000",Hotmix Radio Dance
 https://streamingp.shoutcast.com/hotmixradio-dance-128.mp3
-#EXTGRP:DAB+
+#EXTGRP:IPRADIO
 #EXTINF:-1 tvg-id=" " tvg-logo="https://cdn.onlineradiobox.com/img/l/5/9235.v14.png" group-title="Radio" radio="true" tvg-chno="12001",Prysm Radio 1
 https://stream.rcs.revma.com/p9qyxmfucrruv
-#EXTGRP:DAB+
+#EXTGRP:IPRADIO
 #EXTINF:-1 tvg-id=" " tvg-logo="https://cdn.onlineradiobox.com/img/l/0/5250.v7.png" group-title="Radio" radio="true" tvg-chno="12002",House Nation Radio
 https://onlineradiobox.com/json/fr/housenatrad/play
-#EXTGRP:DAB+
+#EXTGRP:IPRADIO
 #EXTINF:-1 tvg-id=" " tvg-logo="https://www.pulsradio.com/img/logo-pulsradio.png" group-title="Radio" radio="true" tvg-chno="12003",Puls'radio Dance
 https://icecast.pulsradio.com/pulsHD.mp3
-#EXTGRP:DAB+
+#EXTGRP:IPRADIO
 #EXTINF:-1 tvg-id=" " tvg-logo="https://www.pulsradio.com/img/logo-hitparty.png" group-title="Radio" radio="true" tvg-chno="12013",Hitparty by Puls'radio
 https://icecast.pulsradio.com/hitpartyHD.mp3
-#EXTGRP:DAB+
+#EXTGRP:IPRADIO
 #EXTINF:-1 tvg-id=" " tvg-logo="https://cdn.onlineradiobox.com/img/l/7/5477.v11.png" group-title="Radio" radio="true" tvg-chno="12004",Eurodance 90
 https://scraper2.onlineradiobox.com/fr.airlounraded90
-#EXTGRP:DAB+
+#EXTGRP:IPRADIO
 #EXTINF:-1 tvg-id=" " tvg-logo="https://www.radio.fr/images/broadcasts/08/f6/188055/1/c300.png" group-title="Radio" radio="true" tvg-chno="12005",Mixstation
 https://manager8.streamradio.fr:3235/stream
+#EXTGRP:IPRADIO
+#EXTINF:-1 tvg-id=" " tvg-logo="https://m40radio.fr/wp-content/uploads/logo-noel.png" group-title="Radio" radio="true" tvg-chno="12006",Le Klub by M40
+https://s1.mcast.digital/listen/le-klub-by-m40/le-klub-by-m40-128.mp3
+#EXTGRP:IPRADIO
+#EXTINF:-1 tvg-id=" " tvg-logo="https://www.radio.fr/images/broadcasts/6a/19/118395/1/c300.png" group-title="Radio" radio="true" tvg-chno="12007",Antithèse, La Radio lycéenne de Lorgues
+https://listen.radioking.com/radio/11549/stream/63448
+#EXTGRP:IPRADIO
+#EXTINF:-1 tvg-id=" " tvg-logo="https://image.radioking.io/radios/344635/logo/eb26736f-0b1d-4688-a42a-685fb17c077f.png" group-title="Radio" radio="true" tvg-chno="12008",Radio Cerise
+https://www.radioking.com/play/radio-cerise
 
 
 
