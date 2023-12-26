@@ -1472,6 +1472,9 @@ https://stream1.xdevel.com/video0s975770-326/stream/playlist.m3u8
 #EXTINF:-1 tvg-id=" " tvg-logo=" " group-title=" " tvg-chno="9781",Radio Italia Anni 60
 https://5f204aff97bee.streamlock.net/Anni60TV/livestream/playlist.m3u8
 #EXTGRP:DAB+
+#EXTINF:-1 tvg-id=" " tvg-logo="https://www.mitology.tv/wp-content/uploads/2023/09/MitologyTV-favicon-120x82.png" group-title=" " tvg-chno="9782",Mitology TV
+https://64b16f23efbee.streamlock.net/mitologytv/mitologytv/playlist.m3u8
+#EXTGRP:DAB+
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQz6pMX63Sjzc_NTmDu2PxY0ccUTJfujGnc9L_dVR1CZOLQReI1EOpW0fDPVA&s" group-title=" " tvg-chno="9783",Radio Birikina TV
 https://56b50ada2d659.streamlock.net/RadioBirikinaTV/livestream/playlist.m3u8
 #EXTGRP:DAB+
@@ -2042,8 +2045,84 @@ https://nr2.newradio.it/proxy/mbcloud223?mp=/stream
 #EXTGRP:DAB+
 #EXTINF:-1 tvg-id=" " tvg-logo="https://www.litaliaindigitale.it/wp-content/uploads/2023/03/RADIO-MANILA-n.png" group-title="Radio" radio="true" tvg-chno="10820",Radio Manila
 http://stream15.top-ix.org:8000/radiomanila
-
-
+#EXTGRP:DAB+
+#EXTINF:-1 tvg-id=" " tvg-logo="https://www.litaliaindigitale.it/wp-content/uploads/2022/09/BABBOLEO-SUONO.png" group-title="Radio" radio="true" tvg-chno="10821",Babboleo Suono
+https://bbl.fluidstream.eu/babboleo_suono.aac
+#EXTGRP:DAB+
+#EXTINF:-1 tvg-id=" " tvg-logo="https://www.litaliaindigitale.it/wp-content/uploads/2022/06/RADIO-ALDEBARAN.png" group-title="Radio" radio="true" tvg-chno="10822",Radio Aldebaran
+https://nr11.newradio.it:19157/stream?ext=.mp3
+#EXTGRP:DAB+
+#EXTINF:-1 tvg-id=" " tvg-logo="https://www.litaliaindigitale.it/wp-content/uploads/2022/02/RBE-TV.png" group-title="Radio" radio="true" tvg-chno="10823",RBE (Radio Beckwith Evangelica)
+https://api.spreaker.com/v2/episodes/8025323/ondemand.mp3
+#EXTGRP:DAB+
+#EXTINF:-1 tvg-id=" " tvg-logo="https://www.litaliaindigitale.it/wp-content/uploads/2022/02/Radio-Canelli-Monferrato-133.png" group-title="Radio" radio="true" tvg-chno="10824",Radio Canelli
+https://nr5.newradio.it/proxy/radiocan?mp=/stream
+#EXTGRP:DAB+
+#EXTINF:-1 tvg-id=" " tvg-logo="https://www.litaliaindigitale.it/wp-content/uploads/2022/01/RADIO-MATER.png" group-title="Radio" radio="true" tvg-chno="10825",Radio Mater
+https://radiocast.cloud/radio/8000/radio.mp3
+#EXTGRP:DAB+
+#EXTINF:-1 tvg-id=" " tvg-logo="https://www.litaliaindigitale.it/wp-content/uploads/2022/05/Radio-Mitology.png" group-title="Radio" radio="true" tvg-chno="10826",Radio Mitology 70-80
+https://onair15.xdevel.com/proxy/radiocatsdogs2
+#EXTGRP:DAB+
+#EXTINF:-1 tvg-id=" " tvg-logo="https://www.litaliaindigitale.it/wp-content/uploads/2022/06/RADIO-ALDEBARAN.png" group-title="Radio" radio="true" tvg-chno="10827",Radio Bruno Gold
+https://stream2.xdevel.com/audio2s975355-55/stream/icecast.audio
+#EXTGRP:DAB+
+#EXTINF:-1 tvg-id=" " tvg-logo="https://www.litaliaindigitale.it/wp-content/uploads/2022/02/Radio-Vallebelbo-National-Sanremo-133.png" group-title="Radio" radio="true" tvg-chno="10828",Radio Vallebelbo
+https://nr14.newradio.it:8687/stream?ext=.mp3
+#EXTGRP:DAB+
+#EXTINF:-1 tvg-id=" " tvg-logo="https://www.litaliaindigitale.it/wp-content/uploads/2022/01/Radio-City.png" group-title="Radio" radio="true" tvg-chno="10829",Radio City
+https://onair15.xdevel.com/proxy/radiocity
+#EXTGRP:DAB+
+#EXTINF:-1 tvg-id=" " tvg-logo="https://www.litaliaindigitale.it/wp-content/uploads/2022/03/TELERADIO-PACE.png" group-title="Radio" radio="true" tvg-chno="10830",Radiopace
+https://stream.mariatvcdn.com/trpradio/c92dd777d146ffcd75d0b6cfb13a9153.sdp/chunks.m3u8
+#EXTGRP:DAB+
+#EXTINF:-1 tvg-id=" " tvg-logo="https://www.litaliaindigitale.it/wp-content/uploads/2023/04/BABBOLEO-1.png" group-title="Radio" radio="true" tvg-chno="10831",Radio Babboleo
+https://bbl.fluidstream.eu/babboleo.aac
+#EXTGRP:DAB+
+#EXTINF:-1 tvg-id=" " tvg-logo="https://www.litaliaindigitale.it/wp-content/uploads/2023/04/BABBOLEO-LAB.png" group-title="Radio" radio="true" tvg-chno="10832",Babboleo Lab
+https://bbl.fluidstream.eu/babboleo_lab.aac
+#EXTGRP:DAB+
+#EXTINF:-1 tvg-id=" " tvg-logo="https://www.litaliaindigitale.it/wp-content/uploads/2022/02/Radio-Number-One.png" group-title="Radio" radio="true" tvg-chno="10841",Radio Number 1
+https://ice18.fluidstream.net/area12.mp3
+#EXTGRP:DAB+
+#EXTINF:-1 tvg-id=" " tvg-logo="http://players1.fluidstream.it/RadioNostalgiaLI/images/logo320.png" group-title="Radio" radio="true" tvg-chno="10842",Radio Nostalgia (Liguria)
+http://rn1.fluidstream.eu/nostalgia_li.aac
+#EXTGRP:DAB+
+#EXTINF:-1 tvg-id=" " tvg-logo="https://www.litaliaindigitale.it/wp-content/uploads/2022/02/RADIO-CUSANO-CAMPUS.png" group-title="Radio" radio="true" tvg-chno="10843",Radio Cusano Campus
+https://bay1.streamfm.it:8030/aacp
+#EXTGRP:DAB+
+#EXTINF:-1 tvg-id=" " tvg-logo="https://www.litaliaindigitale.it/wp-content/uploads/2022/03/RADIO-FRA-LE-NOTE.png" group-title="Radio" radio="true" tvg-chno="10844",Radio Fra Le Note
+https://sr7.inmystream.it/proxy/radiofralenote?mp=/stream
+#EXTGRP:DAB+
+#EXTINF:-1 tvg-id=" " tvg-logo="https://www.litaliaindigitale.it/wp-content/uploads/2022/01/ONE-DANCE.png" group-title="Radio" radio="true" tvg-chno="10845",One Dance
+https://ice04.fluidstream.net/rn1_2.aac
+#EXTGRP:DAB+
+#EXTINF:-1 tvg-id=" " tvg-logo="https://www.litaliaindigitale.it/wp-content/uploads/2022/05/DISCORADIO.png" group-title="Radio" radio="true" tvg-chno="10846",Discoradio
+https://stream.discoradio.radio/audio/discoto.stream_aac64/chunklist.m3u8
+#EXTGRP:DAB+
+#EXTINF:-1 tvg-id=" " tvg-logo="https://www.litaliaindigitale.it/wp-content/uploads/2022/05/DIMENSIONE-SUONO-SOFT.png" group-title="Radio" radio="true" tvg-chno="10847",Dimensione Suono Soft
+https://stream.dimensionesuonosoft.radio/audio/dssc.stream_aac64/chunklist.m3u8
+#EXTGRP:DAB+
+#EXTINF:-1 tvg-id=" " tvg-logo="https://www.litaliaindigitale.it/wp-content/uploads/2022/09/RADIO-19.png" group-title="Radio" radio="true" tvg-chno="10849",Radio 19
+http://rn1.fluidstream.eu/radio19.aac
+#EXTGRP:DAB+
+#EXTINF:-1 tvg-id=" " tvg-logo="https://www.litaliaindigitale.it/wp-content/uploads/2022/06/RADIO-ALEX.png" group-title="Radio" radio="true" tvg-chno="10850",Alex 
+https://sr9.inmystream.it:18560/stream
+#EXTGRP:DAB+
+#EXTINF:-1 tvg-id=" " tvg-logo="https://www.litaliaindigitale.it/wp-content/uploads/2023/04/Radio-Nane.png" group-title="Radio" radio="true" tvg-chno="10851",Radio Nane'
+https://stream4.xdevel.com/audio0s976774-1547/stream/icecast.audio
+#EXTGRP:DAB+
+#EXTINF:-1 tvg-id=" " tvg-logo="https://www.litaliaindigitale.it/wp-content/uploads/2021/11/RADIO-CITY-4-YOU.png" group-title="Radio" radio="true" tvg-chno="10852",Radio City 4 You
+https://streamsrv2.nets-sr.com:8004/stream
+#EXTGRP:DAB+
+#EXTINF:-1 tvg-id=" " tvg-logo="https://www.litaliaindigitale.it/wp-content/uploads/2022/01/Radio-Margherita.png" group-title="Radio" radio="true" tvg-chno="10853",Radio Margherita
+https://stream5.xdevel.com/audio0s975929-659/stream/icecast.audio
+#EXTGRP:DAB+
+#EXTINF:-1 tvg-id=" " tvg-logo="https://www.litaliaindigitale.it/wp-content/uploads/2022/06/RADIO-ONDA-DURTO.png" group-title="Radio" radio="true" tvg-chno="10854",Radio Onda d'Urto
+https://hochimin.urtostream.org:8443/radiondadurto.mp3
+#EXTGRP:DAB+
+#EXTINF:-1 tvg-id=" " tvg-logo="https://www.litaliaindigitale.it/wp-content/uploads/2021/10/RTL-102.5.png" group-title="Radio" radio="true" tvg-chno="10860",RTL 102.5
+https://streamcdnp1-dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S97044836/WjpMtPyNjHwj/playlist.m3u8
 
 #EXTGRP:FM
 #EXTINF:-1 tvg-id=" " tvg-logo="http://www.radio-active.net/images/logo-header-radio-active.png" group-title="Radio" radio="true" tvg-chno="10900",Radio Active
