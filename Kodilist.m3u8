@@ -167,13 +167,13 @@ https://raw.githubusercontent.com/Sibprod/streams/main/RTLclub.m3u8
 https://raw.githubusercontent.com/Sibprod/streams/main/RTLplug.m3u8
 #EXTGRP:DVB-T2
 #EXTINF:-1 tvg-id="LaUne.be" tvg-logo=" " group-title=" " tvg-chno="71",La Une
-http://pro.one-iptv.com:25443/live/7772544854/9GTNL11788/70200.m3u8
+ 
 #EXTGRP:DVB-T2
 #EXTINF:-1 tvg-id="Tipik.be" tvg-logo=" " group-title=" " tvg-chno="72",Tipik
-http://pro.one-iptv.com:25443/live/7772544854/9GTNL11788/70201.m3u8
+ 
 #EXTGRP:DVB-T2
 #EXTINF:-1 tvg-id="LaTrois.be" tvg-logo=" " group-title=" " tvg-chno="73",La Trois
-http://pro.one-iptv.com:25443/live/7772544854/9GTNL11788/70202.m3u8
+ 
 #EXTGRP:DVB-T2
 #EXTINF:-1 tvg-id="AntenneReunion.mu" tvg-logo="http://www.callofliberty.fr/tv/47-AntenneREUNION/47-AntenneREUNION.png" group-title=" " tvg-chno="200",Antenne Réunion
 https://live-antenne-reunion.zeop.tv/live/c3eds/antreunihd/hls_fta/antreunihd.m3u8?location=ZEOP01
@@ -219,10 +219,16 @@ https://premio.link/business24/smil:business24.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/teleradiopace-1-it.png" group-title=" " tvg-chno="512",TelePace 1
 https://dacastmmd.mmdlive.lldns.net/dacastmmd/2400a5d867124db380eb67bc7b9b605c/playlist.m3u8
 #EXTGRP:DVB-T2
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/m2o_it_tv.png" group-title=" " tvg-chno="9715",M2O TV
+https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S62628868/uhdWBlkC1AoO/playlist.m3u8
+#EXTGRP:DVB-T2
 #EXTINF:-1 tvg-id="CanaleEuropaTV.it" tvg-logo=" " user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 Edg/112.0.1722.34" group-title=" " tvg-chno="516",Canale Europa TV
 #EXTVLCOPT:http-referrer=https://player.castr.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 Edg/112.0.1722.34
 https://stream.castr.com/604b6e10ad1e130d20dedd12/live_1b2633f0158b11eeb388a5854e7a8f3a/index.m3u8
+#EXTGRP:DVB-T2
+#EXTINF:-1 tvg-id="VH1.it" tvg-logo="https://www.lyngsat-logo.com/logo/tv/vv/vh1-us.png" group-title=" " tvg-chno="522",VH1 (Italia)
+https://content.uplynk.com/channel/36953f5b6546464590d2fcd954bc89cf.m3u8
 #EXTGRP:DVB-T2
 #EXTINF:-1 tvg-id="Italiachannel.it" tvg-logo="https://i.imgur.com/AVDkd2K.png" group-title=" " tvg-chno="523",Italia Channel
 https://stream1.aswifi.it/italiachannel/stream/index.m3u8
@@ -1344,7 +1350,10 @@ https://ythls.armelin.one/video/dCpd6_S0rnI.m3u8
 https://stream7.xdevel.com/video0s976748-1674/stream/chunks.m3u8
 #EXTGRP:DAB+
 #EXTINF:-1 tvg-id=" " tvg-logo="https://www.radiosensations.fr/paris/templates/style/sensations/img/logo.svg" group-title="DAB+" tvg-chno="9024",Sensations
-https://www.dailymotion.com/video/x5pjocu
+plugin://plugin.video.dailymotion_com/?url=x5pjocu&mode=playLiveVideo
+#EXTGRP:DAB+
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="DAB+" tvg-chno="9025",RTVFM
+plugin://plugin.video.twitch/?mode=play&channel_name=rtvfm
 #EXTGRP:DAB+
 #EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="DAB+" tvg-chno="9026",Fun Radio (France)
 plugin://plugin.video.dailymotion_com/?url=xxtuy6&mode=playLiveVideo
@@ -1397,14 +1406,8 @@ https://5db313b643fd8.streamlock.net/111TV/111TV/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat-stream.com/logo/radio/rr/radio-capital-it.png" group-title=" " tvg-chno="9713",Radio Capital TV
 https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S35394734/Z6U2wGoDYANk/master.m3u8
 #EXTGRP:DAB+
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/m2o_it_tv.png" group-title=" " tvg-chno="9715",M2O TV
-https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S62628868/uhdWBlkC1AoO/playlist.m3u8
-#EXTGRP:DAB+
 #EXTINF:-1 tvg-id="CompanyTV.it" tvg-logo="https://i.imgur.com/A7q1zRj.png" group-title=" " tvg-chno="9719",Company TV
 https://5929b138b139d.streamlock.net/CompanyTV/smil:CompanyTV.smil/master.m3u8
-#EXTGRP:DAB+
-#EXTINF:-1 tvg-id="VH1.it" tvg-logo="https://www.lyngsat-logo.com/logo/tv/vv/vh1-us.png" group-title=" " tvg-chno="9722",VH1 Italia
-https://content.uplynk.com/channel/36953f5b6546464590d2fcd954bc89cf.m3u8
 #EXTGRP:DAB+
 #EXTINF:-1 tvg-id="RadioItaliaTrendTV.it" tvg-logo="https://i.imgur.com/0JzYwI4.png" group-title=" " tvg-chno="9726",Radio Italia Trend
 https://radioitalia-samsungitaly.amagi.tv/playlist.m3u8
