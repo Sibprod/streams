@@ -57,6 +57,9 @@ https://56b50ada2d659.streamlock.net/RadioBirikinaTV/livestream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://radiojukebox.info/wp-content/uploads/2019/11/manutenzione-e1610699766130.png" group-title=" " tvg-chno="192",Radio Jukebox TV
 https://5926fc9c7c5b2.streamlock.net/9108/9108/playlist.m3u8
 #EXTGRP:DAB+ Visual
+#EXTINF:-1 tvg-id="RadioTicinoChannel.ch" tvg-logo="https://radioticino.com/wp-content/uploads/2019/09/logon.png" group-title="DAB+ Visual" tvg-chno="220",Radio Ticino Channel [Radiovision]
+https://2-fss-2.themediacdn.com/pl_124/amlst:204654-1927794/playlist.m3u8
+#EXTGRP:DAB+ Visual
 #EXTINF:-1 tvg-id="RTL1025News.it" tvg-logo="https://i.imgur.com/vAtzwXK.png" group-title=" " tvg-chno="233",RTL 102.5 News TV
 https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S38122967/2lyQRIAAGgRR/playlist_video.m3u8
 #EXTGRP:DAB+ Visual
@@ -84,11 +87,17 @@ https://56b50ada2d659.streamlock.net/RN1TV/livestream/playlist.m3u8
 #EXTINF:-1 tvg-id=" " tvg-logo="https://i.imgur.com/UupkBt6.png" group-title=" " tvg-chno="636",Radio 51 TV
 https://59d7d6f47d7fc.streamlock.net/canale51/canale51/playlist.m3u8
 #EXTGRP:DAB+ Visual
+#EXTINF:-1 tvg-id=" " tvg-logo="https://www.litaliaindigitale.it/wp-content/uploads/2023/05/RADIO-RADICALE.png" group-title=" " tvg-chno="677",Radio Radicale TV
+https://video-ar.radioradicale.it/diretta/padtv2/playlist.m3u8
+#EXTGRP:DAB+ Visual
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMdjSbv2uBgQJnOG2aqb47ClHEHOpBPU3Vl-IOof4J2CDpMrlwiJwczGCfDz8&s" group-title=" " tvg-chno="675",Radio Kiss Kiss Italia TV
 https://58f12ffd2447a.streamlock.net/KKTV01/livestream/playlist.m3u8
 #EXTGRP:DAB+ Visual
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat-stream.com/logo/radio/rr/radio-capital-it.png" group-title=" " tvg-chno="713",Radio Capital TV
 https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S35394734/Z6U2wGoDYANk/master.m3u8
+#EXTGRP:DAB+ Visual
+#EXTINF:-1 tvg-id="M2O.it" tvg-logo="https://www.litaliaindigitale.it/wp-content/uploads/2021/10/RADIO-M2O.png" group-title=" " tvg-chno="715",M2O TV 
+https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S62628868/uhdWBlkC1AoO/playlist.m3u8
 #EXTGRP:DAB+ Visual
 #EXTINF:-1 tvg-id="RadioItaliaTrendTV.it" tvg-logo="https://i.imgur.com/0JzYwI4.png" group-title=" " tvg-chno="726",Radio Italia Trend
 https://radioitalia-samsungitaly.amagi.tv/playlist.m3u8
@@ -102,14 +111,20 @@ https://live2.msr.cdn.mediaset.net/content/hls_h0_clr_vos/live/channel(bb)/index
 #EXTINF:-1 tvg-id="VirginRadioTV.it" tvg-logo="https://www.lyngsat-logo.com/logo/radio/vv/virgin_radio_it.png" group-title=" " tvg-chno="786",Virgin Radio TV
 https://live2.msr.cdn.mediaset.net/content/hls_h0_clr_vos/live/channel(ew)/index.m3u8
 #EXTGRP:DAB+ Visual
+#EXTINF:-1 tvg-id="RadionorbaTV.it" tvg-logo="https://i.imgur.com/qftBPM9.png" group-title=" " tvg-chno="899",Radio Serie A TV by RDS
+https://stream.radioseriea.com/50773f0d0070476a8612d9984c6059d8/index.m3u8
+#EXTGRP:DAB+ Visual
 #EXTINF:-1 tvg-id=" " tvg-logo="https://graph.facebook.com/radionacionalrne/picture?width=200&height=200" group-title="DAB+" tvg-chno="3304",RNE Radio 1
 https://ztnr.rtve.es/ztnr/1938076.m3u8
 #EXTGRP:DAB+ Visual
 #EXTINF:-1 tvg-id=" " tvg-logo="https://www.radiosensations.fr/paris/templates/style/sensations/img/logo.svg" group-title=" " tvg-chno="9232",Sensations
 plugin://plugin.video.dailymotion_com/?url=x5pjocu&mode=playLiveVideo
 #EXTGRP:DAB+ Visual
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.litaliaindigitale.it/wp-content/uploads/2021/11/RADIO-SYSTEM.png" group-title=" " tvg-chno="10204",Radio System
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.litaliaindigitale.it/wp-content/uploads/2021/11/RADIO-SYSTEM.png" group-title=" " tvg-chno="10204",Radio System [Radiovision]
 https://srvx1.selftv.video/systemtv/live/manifest.mpd
+#EXTGRP:DAB+ Visual
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title=" " tvg-chno="10314",M Le Media [Radiovision]
+plugin://plugin.video.dailymotion_com/?url=x8j47xa&mode=playLiveVideo
 #EXTGRP:DAB+ Visual
 #EXTINF:-1 tvg-id=" " tvg-logo="https://images.lesindesradios.fr/fit-in/300x2000/filters:format(webp)/filters:quality(100)/radios/littoral/images/logo_XVXnlAO28F.png" group-title=" " tvg-chno="11125",Littoral TV [Radiovision]
 https://live.creacast.com/littoralfm-ch1/stream/playlist.m3u8
@@ -122,6 +137,12 @@ https://tv.ngroup.be/live/ngrp:nrj_all/chunklist_w1657522594_b1046608.m3u8
 #EXTGRP:DAB+ Visual
 #EXTINF:-1 tvg-id="RTL1025TVRomeoandJuliet.it" tvg-logo="https://www.phonostar.de/images/auto_created/rtl_1025_romeo184x184.png" group-title=" " tvg-chno="12105",RTL 102.5 Romeo & Juliet
 https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S8448465/zTYa1Z5Op9ue/playlist_video.m3u8
+#EXTGRP:DAB+
+#EXTINF:-1 tvg-id="Couleur3.ch" tvg-logo="https://i.imgur.com/VOIwYYd.png" group-title="DAB+ Visual" tvg-chno="12109",RTS Couleur 3 [Radiovision]
+https://rtsc3video.akamaized.net/hls/live/2042837/c3video/3/playlist.m3u8
+#EXTGRP:DAB+
+#EXTINF:-1 tvg-id="Radio3i.ch" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Radio3i_wiki.png/200px-Radio3i_wiki.png" group-title="DAB+ Visual" tvg-chno="12115",Radio 3i [Radiovision]
+https://vstream-cdn.ch/hls/radio3i_720p/index.m3u8
 #EXTGRP:DAB+ Visual
 #EXTINF:-1 tvg-id="Radio1.be" tvg-logo="https://i.ibb.co/pwCs0YY/512px-VRT-Radio-1-logo-svg.png" group-title=" " tvg-chno="12121",VRT Radio 1
 https://live-radio.vrtcdn.be/groupa/live/d6fdec5d-5d67-4cc3-9f8c-e3e8993c8ee4/live.isml/.m3u8
@@ -137,10 +158,18 @@ https://live-radio.vrtcdn.be/groupa/live/bac277a1-306d-44a0-8e2e-e5b9c07fa270/li
 #EXTGRP:DAB+ Visual
 #EXTINF:-1 tvg-id="Radio2.be" tvg-logo="https://i.ibb.co/47mc8nJ/VRT-Radio-2-2022-svg.png" group-title=" " tvg-chno="12134",VRT Radio 2
 https://live-radio.vrtcdn.be/groupa/live/e96793cc-eac5-4ed2-8eb5-617c2f6abc55/live.isml/.m3u8
+#EXTGRP:DAB+
+#EXTINF:-1 tvg-id=" " tvg-logo="https://www.dabplus.be/wp-content/uploads/sites/5/2022/09/Arabel-StationLogo.png" group-title=" " tvg-chno="12222",Arabel [Radiovision]
+plugin://plugin.video.dailymotion_com/?url=x7teocz&mode=playLiveVideo
 #EXTGRP:DAB+ Visual
 #EXTINF:-1 tvg-id=" " tvg-logo="https://graph.facebook.com/radio3/picture?width=200&height=200" group-title="DAB+" tvg-chno="40006",RNE Radio 3
 https://ztnr.rtve.es/ztnr/2795617.m3u8
-
+#EXTGRP:DAB+ Visual
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="DAB+ Visual" tvg-chno=" ",VL. [Twitch stream] [Radiovision]
+plugin://plugin.video.twitch/?mode=play&channel_name=vlmedia
+#EXTGRP:DAB+ Visual
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="DAB+ Visual" tvg-chno=" ",VL. [DM stream] [Radiovision]
+plugin://plugin.video.dailymotion_com/?url=x35m6bz&mode=playLiveVideo
 #EXTGRP:DAB+ Visual
 #EXTINF:-1 tvg-id="Ondamadrid.es" tvg-logo="https://estaticos.tdt1.com/canales/logoondamadrid.jpg" group-title=" " tvg-chno=" ",Onda Madrid 101.3
 https://tvradio-1-23.secure2.footprint.net/master.m3u8
@@ -696,9 +725,8 @@ http://stream15.top-ix.org:8000/radiomanila
 
 [MUX DABCOM F04 - 10C (Genève, CH)]
 
-#EXTGRP:DAB+
-#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="DAB+ Visual" tvg-chno="10314",M Le Media [Radiovision]
-plugin://plugin.video.dailymotion_com/?url=x8j47xa&mode=playLiveVideo
+#EXTINF:-1 tvg-id=" " tvg-logo="https://mlemedia.ch/upload/design/6333f474c31401.16060024.png" group-title=" " tvg-chno="10314",M Le Media
+https://mlaradio.ice.infomaniak.ch/mlaradio.mp3
 
 [MUX HolaDAB.es - 10D (Madrid, ES)]
 
@@ -840,17 +868,54 @@ https://stream-ssl.radios-arra.fr:8443/allianceplus
 
 [MUX BW 1 - 11D (Bruxelles, BE)]
 
-
+#EXTGRP:DAB+
+#EXTINF:-1 tvg-id="BX1Plus.be" tvg-logo="https://www.mediaspecs.be/wp-content/uploads/2019/09/logoradio-185x185.png" group-title=" " tvg-chno="11410",BX1+
+https://59959724487e3.streamlock.net/radioaudio/aac:live.aac/playlist.m3u8
+#EXTGRP:DAB+
+#EXTINF:-1 tvg-id="NRJ.be" tvg-logo="https://www.lyngsat.com/logo/radio/nn/nrj-belgie-nl.png" group-title=" " tvg-chno="11414",NRJ (Belgique)
+https://scdn.nrjaudio.fm/audio1/fr/30001/aac_64.mp3
 
 [MUX SRG-SSR F01 - 12A (Genève, CH)]
 
 #EXTGRP:DAB+
-#EXTINF:-1 tvg-id="Couleur3.ch" tvg-logo="https://i.imgur.com/VOIwYYd.png" group-title="DAB+ Visual" tvg-chno="12109",RTS Couleur 3 [Radiovision]
-https://rtsc3video.akamaized.net/hls/live/2042837/c3video/3/playlist.m3u8
+#EXTINF:-1 tvg-id="La1ere.ch" tvg-logo=" " group-title=" " tvg-chno="12107",RTS La 1ère
+https://lsaplus.swisstxt.ch/audio/la-1ere_96.stream/playlist_DVR.m3u8
+#EXTGRP:DAB+
+#EXTINF:-1 tvg-id="Espace2.ch" tvg-logo=" " group-title=" " tvg-chno="12108",RTS Espace 2
+https://lsaplus.swisstxt.ch/audio/espace-2_96.stream/playlist_DVR.m3u8
+#EXTGRP:DAB+
+#EXTINF:-1 tvg-id="Couleur3.ch" tvg-logo="https://i.imgur.com/VOIwYYd.png" group-title=" " tvg-chno="12109",RTS Couleur 3
+https://lsaplus.swisstxt.ch/audio/couleur3_96.stream/playlist_DVR.m3u8
+#EXTGRP:DAB+
+#EXTINF:-1 tvg-id="OptionMusique.ch" tvg-logo=" " group-title=" " tvg-chno="12110",RTS Option Musique 
+https://lsaplus.swisstxt.ch/audio/option-musique_96.stream/playlist_DVR.m3u8
 
-[MUX DAB+ VRT - 12A (Bruxelles, BE)]
+[MUX SRG-SSR F01 - 12A (Lugano, CH)]
 
+#EXTGRP:DAB+
+#EXTINF:-1 tvg-id="Reteuno.ch" tvg-logo=" " group-title=" " tvg-chno="12126",RSI Rete Uno
+https://lsaplus.swisstxt.ch/audio/reteuno_96.stream/playlist_DVR.m3u8
+#EXTGRP:DAB+
+#EXTINF:-1 tvg-id="Retedue.ch" tvg-logo=" " group-title=" " tvg-chno="12127",RSI Rete Due
+https://lsaplus.swisstxt.ch/audio/retedue_96.stream/playlist_DVR.m3u8
+#EXTGRP:DAB+
+#EXTINF:-1 tvg-id="Retetre.ch" tvg-logo=" " group-title=" " tvg-chno="12128",RSI Rete Tre
+https://lsaplus.swisstxt.ch/audio/retetre_96.stream/playlist_DVR.m3u8
+#EXTGRP:DAB+
+#EXTINF:-1 tvg-id="Radio3i.ch" tvg-logo=" " group-title=" " tvg-chno="12135",Radio 3i
+https://icecast.gruppocdt.ch/radio3i-256.mp3
 
+[MUX EuroDAB - 12A (Gênes, IT)]
+
+#EXTGRP:DAB+
+#EXTINF:-1 tvg-id="RadioVaticana.it" tvg-logo="https://www.litaliaindigitale.it/wp-content/uploads/2021/10/RADIO-VATICANA.png" group-title=" " tvg-chno="12155",Radio Vaticana (Italiano)
+https://radio.vaticannews.va/stream-it
+#EXTGRP:DAB+
+#EXTINF:-1 tvg-id="RadioSubasioXL.it" tvg-logo="https://www.litaliaindigitale.it/wp-content/uploads/2023/01/SUBASIO-XL.png" group-title=" " tvg-chno="12160",Radio Subasio XL
+https://icy.unitedradio.it/SubasioXL.mp3
+#EXTGRP:DAB+
+#EXTINF:-1 tvg-id="inBlu2000.it" tvg-logo="https://www.litaliaindigitale.it/wp-content/uploads/2023/01/INBLU-2000-n.png" group-title=" " tvg-chno="12161",Radio inBlu2000
+https://www.radioinblu.it/live-stream/inblu2000-playlist.m3u8
 
 [MUX MCR 2 - 12B (Monaco, MC)]
 
@@ -887,18 +952,28 @@ https://yellowradio.ice.infomaniak.ch/yellowradio.mp3
 
 [MUX DAB BXL - 12B (Bruxelles, BE)]
 
-#EXTGRP:DAB+
-#EXTINF:-1 tvg-id=" " tvg-logo="https://www.dabplus.be/wp-content/uploads/sites/5/2022/09/Arabel-StationLogo.png" group-title="DAB+ Visual" tvg-chno="12222",Arabel [Radiovision]
-plugin://plugin.video.dailymotion_com/?url=x7teocz&mode=playLiveVideo
+
 
 [MUX DAB ITALIA - 12C (Imperia, IT)]
 
+#EXTGRP:DAB+
+#EXTINF:-1 tvg-id=" " tvg-logo="https://www.litaliaindigitale.it/wp-content/uploads/2021/10/RADIO-MARIA.png" group-title=" " tvg-chno="12301",Radio Maria
+https://dreamsiteradiocp5.com/proxy/rmitalia
+#EXTGRP:DAB+
+#EXTINF:-1 tvg-id=" " tvg-logo="https://www.litaliaindigitale.it/wp-content/uploads/2023/05/RADIO-RADICALE.png" group-title=" " tvg-chno="12302",Radio Radicale 
+https://live.radioradicale.it/live.mp3
+#EXTGRP:DAB+
+#EXTINF:-1 tvg-id=" " tvg-logo="https://www.litaliaindigitale.it/wp-content/uploads/2021/10/Radio-Deejay.png" group-title="DAB+" tvg-chno="12303",Radio Deejay
+https://4c4b867c89244861ac216426883d1ad0.msvdn.net/radiodeejay/radiodeejay/master_ma.m3u8
+#EXTGRP:DAB+
+#EXTINF:-1 tvg-id=" " tvg-logo="https://www.litaliaindigitale.it/wp-content/uploads/2021/10/R101-TV-1.png" group-title="DAB+" tvg-chno="12304",R101
+https://icecast.unitedradio.it/r101
 #EXTGRP:DAB+
 #EXTINF:-1 tvg-id=" " tvg-logo="https://www.litaliaindigitale.it/wp-content/uploads/2021/10/RADIO-CAPITAL.png" group-title="DAB+" tvg-chno="12305",Radio Capital
 https://4c4b867c89244861ac216426883d1ad0.msvdn.net/radiocapital/radiocapital/master_ma.m3u8
 #EXTGRP:DAB+
 #EXTINF:-1 tvg-id=" " tvg-logo="https://www.litaliaindigitale.it/wp-content/uploads/2023/05/RDS-Relax.png" group-title="DAB+" tvg-chno="12306",M2O
-https://4c4b867c89244861ac216426883d1ad0.msvdn.net/radiom2obck/radiom2obck/play1.m3u8
+https://4c4b867c89244861ac216426883d1ad0.msvdn.net/radiom2obck/radiom2obck/master_ma.m3u8
 #EXTGRP:DAB+
 #EXTINF:-1 tvg-id=" " tvg-logo="https://lh3.googleusercontent.com/pw/ACtC-3f88-5J6CGwo0wlwvGBs7o1_R1_T0bmBniJzBVAQ1ZQ2gMfDl8wBkfWujbU_thF7PbpoUOfE2nrTcx9gTnhzFoCu96atg78wdM8VWlzRQrRL8I_QpogxQRRb34XaGTFNIuv5tEb6spqn4V4-tf-oa4hlg=w133-h99-no?authuser=0" group-title="DAB+" tvg-chno="12307",Radio 24
 https://ilsole24ore-radio.akamaized.net/hls/live/2035301/radio24/playlist-48000.m3u8
@@ -906,14 +981,24 @@ https://ilsole24ore-radio.akamaized.net/hls/live/2035301/radio24/playlist-48000.
 #EXTINF:-1 tvg-id=" " tvg-logo="https://www.litaliaindigitale.it/wp-content/uploads/2022/06/RDS.png" group-title="DAB+" tvg-chno="12308",RDS
 https://stream.rds.radio/audio/rds.stream_aac/playlist.m3u8
 #EXTGRP:DAB+
+#EXTINF:-1 tvg-id=" " tvg-logo="https://www.litaliaindigitale.it/wp-content/uploads/2022/04/ACI-radio-logo.png" group-title="DAB+" tvg-chno="12310",ACI Radio
+https://nr7.newradio.it:18003/stream
+#EXTGRP:DAB+
 #EXTINF:-1 tvg-id=" " tvg-logo="https://www.litaliaindigitale.it/wp-content/uploads/2023/08/RADIO-SERIE-A-RDS.png" group-title="DAB+" tvg-chno="12314",Serie A con RDS
 https://stream.rds.radio/audio/seriea.stream_aac/chunklist.m3u8
 #EXTGRP:DAB+
 #EXTINF:-1 tvg-id=" " tvg-logo="https://www.litaliaindigitale.it/wp-content/uploads/2023/05/RDS-Relax.png" group-title="DAB+" tvg-chno="12316",RDS Relax
 https://stream.rds.radio/audio/rdsrelax.stream_aac/chunklist.m3u8
 #EXTGRP:DAB+
+#EXTINF:-1 tvg-id=" " tvg-logo="https://lh7-us.googleusercontent.com/sheets/AMQP-djPWrp6jPhlByRN6SF60nllmgl0L0VocU40jUOGkI9niUjtf3RIumqTXyvhSFLm2JV06EcMgGi-jUVS67T4s4OYeF73LPbsbsvywGKCYLEaGzwB63QhRdAqMWLVULOZ_ZC1xIEijmDPj1_ENheOZ_dd1hcbzn3_=w60-h43" group-title="DAB+" tvg-chno="12317",Radio Capital FunkyTown
+https://4c4b867c89244861ac216426883d1ad0.msvdn.net/radiocapitalfunkytownbck/radiocapitalfunkytownbck/master_ma.m3u8
+#EXTGRP:DAB+
 #EXTINF:-1 tvg-id=" " tvg-logo="https://www.litaliaindigitale.it/wp-content/uploads/2023/05/M2O-DANCE.png" group-title="DAB+" tvg-chno="12318",M2O Dance
 https://4c4b867c89244861ac216426883d1ad0.msvdn.net/radiom2odance/radiom2odance/master_ma.m3u8
+#EXTGRP:DAB+
+#EXTINF:-1 tvg-id=" " tvg-logo="https://www.litaliaindigitale.it/wp-content/uploads/2023/05/Deejay-30-Songs.png" group-title="DAB+" tvg-chno="12320",Radio Deejay - 30 Songs
+https://4c4b867c89244861ac216426883d1ad0.msvdn.net/radiodeejay30songsbck/radiodeejay30songsbck/master_ma.m3u8
+
 
 [MUX MAUT - C44 (Barcelone, ES)]
 
@@ -931,13 +1016,6 @@ https://directes-radio-int.ccma.cat/live-content/catalunya-musica-hls/bitrate_1.
 https://directes-radio-int.ccma.cat/live-content/icat-hls/bitrate_1.m3u8
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-#EXTGRP:DAB+
-#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="DAB+ Visual" tvg-chno=" ",VL. [Twitch stream] [Radiovision]
-plugin://plugin.video.twitch/?mode=play&channel_name=vlmedia
-#EXTGRP:DAB+
-#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="DAB+ Visual" tvg-chno=" ",VL. [DM stream] [Radiovision]
-plugin://plugin.video.dailymotion_com/?url=x35m6bz&mode=playLiveVideo
 
 #EXTGRP:DAB+
 #EXTINF:-1 tvg-id=" " tvg-logo="https://www.litaliaindigitale.it/wp-content/uploads/2022/09/BABBOLEO-SUONO.png" group-title="Radio" radio="true" tvg-chno=" ",Babboleo Suono
