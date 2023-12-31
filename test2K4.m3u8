@@ -1,10 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="" tvg-chno="772" group-title=" ",Radio Monte-Carlo TV
-#EXTVLCOPT:user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Safari/605.1.15
-#EXTVLCOPT:http-referrer=https://static3.mediasetplay.mediaset.it/
-https://live02-col.msr.cdn.mediaset.net/live/ch-bb/bb-clr.isml/index_hr.m3u8
-
-#EXTM3U
 #EXT-X-VERSION:6
 ## Created with Unified Streaming Platform (version=1.11.17-26567)
 
