@@ -3,3 +3,34 @@
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Safari/605.1.15
 #EXTVLCOPT:http-referrer=https://static3.mediasetplay.mediaset.it/
 https://live02-col.msr.cdn.mediaset.net/live/ch-bb/bb-clr.isml/index_hr.m3u8
+
+#EXTM3U
+#EXT-X-VERSION:6
+## Created with Unified Streaming Platform (version=1.11.17-26567)
+
+# AUDIO groups
+#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="audio-aach-96",LANGUAGE="it",NAME="Italian",DEFAULT=YES,AUTOSELECT=YES,CHANNELS="2",URI="https://live02-col.msr.cdn.mediaset.net/live/ch-bb/bb-clr-audio_1=96000.m3u8"
+
+# variants
+#EXT-X-STREAM-INF:BANDWIDTH=2672000,AVERAGE-BANDWIDTH=2429000,CODECS="mp4a.40.5,avc1.64002A",RESOLUTION=1024x576,FRAME-RATE=25,VIDEO-RANGE=SDR,AUDIO="audio-aach-96",CLOSED-CAPTIONS=NONE
+https://live02-col.msr.cdn.mediaset.net/live/ch-bb/bb-clr-video=2200000.m3u8
+
+# variants
+#EXT-X-STREAM-INF:BANDWIDTH=704000,AVERAGE-BANDWIDTH=640000,CODECS="mp4a.40.5,avc1.64002A",RESOLUTION=512x288,FRAME-RATE=25,VIDEO-RANGE=SDR,AUDIO="audio-aach-96",CLOSED-CAPTIONS=NONE
+https://live02-col.msr.cdn.mediaset.net/live/ch-bb/bb-clr-video=512000.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=1273000,AVERAGE-BANDWIDTH=1157000,CODECS="mp4a.40.5,avc1.64002A",RESOLUTION=768x432,FRAME-RATE=25,VIDEO-RANGE=SDR,AUDIO="audio-aach-96",CLOSED-CAPTIONS=NONE
+https://live02-col.msr.cdn.mediaset.net/live/ch-bb/bb-clr-video=1000000.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=1973000,AVERAGE-BANDWIDTH=1793000,CODECS="mp4a.40.5,avc1.64002A",RESOLUTION=1024x576,FRAME-RATE=25,VIDEO-RANGE=SDR,AUDIO="audio-aach-96",CLOSED-CAPTIONS=NONE
+https://live02-col.msr.cdn.mediaset.net/live/ch-bb/bb-clr-video=1600000.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=3605000,AVERAGE-BANDWIDTH=3277000,CODECS="mp4a.40.5,avc1.64002A",RESOLUTION=1280x720,FRAME-RATE=25,VIDEO-RANGE=SDR,AUDIO="audio-aach-96",CLOSED-CAPTIONS=NONE
+https://live02-col.msr.cdn.mediaset.net/live/ch-bb/bb-clr-video=3000000.m3u8
+
+# variants
+#EXT-X-STREAM-INF:BANDWIDTH=107000,AVERAGE-BANDWIDTH=97000,CODECS="mp4a.40.5",AUDIO="audio-aach-96"
+https://live02-col.msr.cdn.mediaset.net/live/ch-bb/bb-clr-audio_1=96000.m3u8
+
+# keyframes
+#EXT-X-I-FRAME-STREAM-INF:BANDWIDTH=75000,CODECS="avc1.64002A",RESOLUTION=512x288,VIDEO-RANGE=SDR,URI="https://live02-col.msr.cdn.mediaset.net/live/ch-bb/keyframes/bb-clr-video=512000.m3u8"
+#EXT-X-I-FRAME-STREAM-INF:BANDWIDTH=146000,CODECS="avc1.64002A",RESOLUTION=768x432,VIDEO-RANGE=SDR,URI="https://live02-col.msr.cdn.mediaset.net/live/ch-bb/keyframes/bb-clr-video=1000000.m3u8"
+#EXT-X-I-FRAME-STREAM-INF:BANDWIDTH=234000,CODECS="avc1.64002A",RESOLUTION=1024x576,VIDEO-RANGE=SDR,URI="https://live02-col.msr.cdn.mediaset.net/live/ch-bb/keyframes/bb-clr-video=1600000.m3u8"
+#EXT-X-I-FRAME-STREAM-INF:BANDWIDTH=438000,CODECS="avc1.64002A",RESOLUTION=1280x720,VIDEO-RANGE=SDR,URI="https://live02-col.msr.cdn.mediaset.net/live/ch-bb/keyframes/bb-clr-video=3000000.m3u8"
