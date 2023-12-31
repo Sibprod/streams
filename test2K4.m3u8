@@ -22,9 +22,3 @@ https://live02-col.msr.cdn.mediaset.net/live/ch-bb/bb-clr-video=3000000.m3u8
 # variants
 #EXT-X-STREAM-INF:BANDWIDTH=107000,AVERAGE-BANDWIDTH=97000,CODECS="mp4a.40.5",AUDIO="audio-aach-96"
 https://live02-col.msr.cdn.mediaset.net/live/ch-bb/bb-clr-audio_1=96000.m3u8
-
-# keyframes
-#EXT-X-I-FRAME-STREAM-INF:BANDWIDTH=75000,CODECS="avc1.64002A",RESOLUTION=512x288,VIDEO-RANGE=SDR,URI="https://live02-col.msr.cdn.mediaset.net/live/ch-bb/keyframes/bb-clr-video=512000.m3u8"
-#EXT-X-I-FRAME-STREAM-INF:BANDWIDTH=146000,CODECS="avc1.64002A",RESOLUTION=768x432,VIDEO-RANGE=SDR,URI="https://live02-col.msr.cdn.mediaset.net/live/ch-bb/keyframes/bb-clr-video=1000000.m3u8"
-#EXT-X-I-FRAME-STREAM-INF:BANDWIDTH=234000,CODECS="avc1.64002A",RESOLUTION=1024x576,VIDEO-RANGE=SDR,URI="https://live02-col.msr.cdn.mediaset.net/live/ch-bb/keyframes/bb-clr-video=1600000.m3u8"
-#EXT-X-I-FRAME-STREAM-INF:BANDWIDTH=438000,CODECS="avc1.64002A",RESOLUTION=1280x720,VIDEO-RANGE=SDR,URI="https://live02-col.msr.cdn.mediaset.net/live/ch-bb/keyframes/bb-clr-video=3000000.m3u8"
