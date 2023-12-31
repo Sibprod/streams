@@ -136,7 +136,6 @@ https://vdo2.pro-fhi.net:3628/live/uppodsfqlive.m3u8
 #EXTINF:-1 tvg-id="EuronewsFrench.fr" tvg-logo="https://yt3.googleusercontent.com/HTOTZi2U8zk4wk6MqJa07U5PpZ_G8wKOMYI49rlaxUUPVGWEfOK-FXFnPU6t2Eiowfz-F1Tm4Q=s176-c-k-c0x00ffffff-no-rj" group-title="TNT" tvg-chno="939",Euronews (Français)
 https://ythls.armelin.one/channel/UCW2QcKZiU8aUGg4yxCIditg.m3u8
 #EXTINF:-1 tvg-id="RAI1.it" tvg-logo="https://www.lyngsat-logo.com/logo/tv/rr/rai_1.png" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64;x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 Edg/112.0.1722.34" group-title="Italie" tvg-chno="1",RAI 1 (SD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-http://ott-cdn.ucom.am/s29/index.m3u8
+http://livetv.ktv.zone/130/play.m3u8
 
 
