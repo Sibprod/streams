@@ -215,6 +215,10 @@ https://live.creacast.com/bluediamond/stream/playlist.m3u8
 https://livetvsteam.com:1936/etelebenin/etelebenin/playlist.m3u8
 
 #EXTGRP:DVB-T2
+#EXTINF:-1 tvg-id="" tvg-logo="" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 Edg/112.0.1722.34" group-title="" tvg-chno="504", Rete 4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 Edg/112.0.1722.34
+https://live03-col.msf.cdn.mediaset.net/live/ch-r4/r4-clr.isml/manifest.mpd
+#EXTGRP:DVB-T2
 #EXTINF:-1 tvg-id="" tvg-logo="" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 Edg/112.0.1722.34" group-title="" tvg-chno="505", Canale 5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 Edg/112.0.1722.34
 https://timlivetu0.cb.ticdn.it/Content/HLS/Live/channel(canale5)/index.m3u8
