@@ -6,7 +6,7 @@
 #EXTINF:-1 tvg-id="TF1.fr" tvg-logo="https://focus.telerama.fr/104x104/60/0000/00/01/clear-192.png" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64;x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 Edg/112.0.1722.34" group-title=" " tvg-chno="1",TF1
 http://livetv.ktv.zone/3/play.m3u8
 #EXTGRP:DVB-T2
-#EXTINF:-1 tvg-id="France2.fr" tvg-logo="https://focus.telerama.fr/104x104/60/0000/00/01/clear-4.png" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64;x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 Edg/112.0.1722.34" group-title=" " tvg-chno="2",France 2
+#EXTINF:-1 tvg-id="France2.fr" tvg-logo="https://focus.telerama.fr/104x104/60/0000/00/01/clear-4.png" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64;x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 Edg/112.0.1722.34" group-title=" " tvg-chno="902",France 2
 http://livetv.ktv.zone/4/play.m3u8
 #EXTINF:-1 tvg-id="France2.fr" tvg-logo="https://focus.telerama.fr/104x104/60/0000/00/01/clear-4.png" group-title=" " tvg-chno="2",France 2
 rtp://233.32.36.99:7500
@@ -31,6 +31,7 @@ http://livetv.ktv.zone/9/play.m3u8
 #EXTGRP:DVB-T2
 #EXTINF:-1 tvg-id="C8.fr" tvg-logo="https://tv.cdnartwhere.eu/images/logos_chaines/445.png" group-title=" " tvg-chno="8",C8
 plugin://plugin.video.dailymotion_com/?url=x5gv5rr&mode=playLiveVideo
+#EXTGRP:DVB-T2
 #EXTINF:-1 tvg-id="W9.fr" tvg-logo="https://focus.telerama.fr/104x104/60/0000/00/01/clear-119.png" group-title=" " tvg-chno="9",W9
 http://livetv.ktv.zone/11/play.m3u8
 #EXTGRP:DVB-T2
@@ -84,9 +85,10 @@ plugin://plugin.video.dailymotion_com/?url=k5VKYQn5hAE4vfry927&mode=playLiveVide
 #EXTGRP:DVB-T2
 #EXTINF:-1 tvg-id=" " tvg-logo="https://www.sport-tv.org/wp-content/uploads/2022/11/Chaine-LEquipe-Live-1.jpg" group-title=" " tvg-chno="211",L'Equipe Live 1
 plugin://plugin.video.dailymotion_com/?url=k1kypsRZF9plQhqwBRS&mode=playLiveVideo
-#EXTGRP:IPTV
+#EXTGRP:DVB-T2
 #EXTINF:-1 tvg-id=" " tvg-logo="https://www.sport-tv.org/wp-content/uploads/2022/11/Chaine-LEquipe-Live-2.jpg" group-title=" " tvg-chno="212",L'Equipe Live 2
 plugin://plugin.video.dailymotion_com/?url=k5TgcOKBUTM2KnqwBWC&mode=playLiveVideo
+#EXTGRP:DVB-T2
 #EXTINF:-1 tvg-id="6ter.fr" tvg-logo="https://focus.telerama.fr/104x104/60/0000/00/01/clear-1403.png" group-title=" " tvg-chno="22",6Ter
 http://livetv.ktv.zone/24/play.m3u8
 #EXTGRP:DVB-T2
@@ -114,6 +116,7 @@ https://production-fast-mcrtv.content.okast.tv/channels/2116dc08-1959-465d-857f-
 https://ott.tv5monde.com/Content/HLS/Live/channel(fbs)/variant.m3u8
 #EXTINF:-1 tvg-id="RTS1.ch" tvg-logo="https://focus.telerama.fr/104x104/60/0000/00/01/clear-202.png" group-title=" " tvg-chno="31",RTS 1
 http://livetv.ktv.zone/1/play.m3u8
+#EXTGRP:DVB-T2
 #EXTINF:-1 tvg-id="RTS2.ch" tvg-logo="https://focus.telerama.fr/104x104/60/0000/00/01/clear-183.png" group-title=" " tvg-chno="32",RTS 2
 http://livetv.ktv.zone/2/play.m3u8
 #EXTGRP:DVB-T2
@@ -212,8 +215,10 @@ https://live.creacast.com/bluediamond/stream/playlist.m3u8
 https://livetvsteam.com:1936/etelebenin/etelebenin/playlist.m3u8
 
 #EXTGRP:DVB-T2
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="" tvg-chno="505", Canale 5
+#EXTINF:-1 tvg-id="" tvg-logo="" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 Edg/112.0.1722.34" group-title="" tvg-chno="505", Canale 5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 Edg/112.0.1722.34
 https://timlivetu0.cb.ticdn.it/Content/DASH/Live/channel(canale5)/manifest.mpd
+#EXTGRP:DVB-T2
 #EXTINF:-1 tvg-id="La7.it" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ll/la_7.png" group-title=" " tvg-chno="507",La 7
 https://d15umi5iaezxgx.cloudfront.net/LA7/CLN/HLS-B/Live.m3u8
 #EXTGRP:DVB-T2
@@ -223,7 +228,7 @@ https://premio.link/business24/smil:business24.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/teleradiopace-1-it.png" group-title=" " tvg-chno="512",TelePace 1
 https://dacastmmd.mmdlive.lldns.net/dacastmmd/2400a5d867124db380eb67bc7b9b605c/playlist.m3u8
 #EXTGRP:DVB-T2
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/m2o_it_tv.png" group-title=" " tvg-chno="9715",M2O TV
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/m2o_it_tv.png" group-title=" " tvg-chno="715",M2O TV
 https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S62628868/uhdWBlkC1AoO/playlist.m3u8
 #EXTGRP:DVB-T2
 #EXTINF:-1 tvg-id="CanaleEuropaTV.it" tvg-logo=" " user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 Edg/112.0.1722.34" group-title=" " tvg-chno="516",Canale Europa TV
