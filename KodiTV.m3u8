@@ -212,6 +212,8 @@ https://live.creacast.com/bluediamond/stream/playlist.m3u8
 https://livetvsteam.com:1936/etelebenin/etelebenin/playlist.m3u8
 
 #EXTGRP:DVB-T2
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="" tvg-chno="505", Canale 5
+https://timlivetu0.cb.ticdn.it/Content/DASH/Live/channel(canale5)/manifest.mpd
 #EXTINF:-1 tvg-id="La7.it" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ll/la_7.png" group-title=" " tvg-chno="507",La 7
 https://d15umi5iaezxgx.cloudfront.net/LA7/CLN/HLS-B/Live.m3u8
 #EXTGRP:DVB-T2
