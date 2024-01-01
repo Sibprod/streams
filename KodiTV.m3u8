@@ -222,7 +222,7 @@ https://live03-col.msf.cdn.mediaset.net/live/ch-r4/r4-clr.isml/manifest.mpd
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="" tvg-chno="505", Canale 5
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type =dash
-https://timlivetu0.cb.ticdn.it/Content/HLS/Live/channel(canale5)/index.m3u8
+https://timlivetu0.cb.ticdn.it/Content/DASH/Live/channel(canale5)/manifest.mpd
 #EXTGRP:DVB-T2
 #EXTINF:-1 tvg-id="La7.it" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ll/la_7.png" group-title=" " tvg-chno="507",La 7
 https://d15umi5iaezxgx.cloudfront.net/LA7/CLN/HLS-B/Live.m3u8
