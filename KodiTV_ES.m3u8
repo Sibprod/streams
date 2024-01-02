@@ -181,6 +181,66 @@ https://multimedia.eitb.eus/live-content/eitbbasque-hls/master.m3u8
 #EXTINF:-1 tvg-id="TVG.es" tvg-logo="https://graph.facebook.com/CRTVG/picture?width=200&height=200" group-title=" " tvg-chno="456",TVG America
 https://america-crtvg.flumotion.com/playlist.m3u8
 
+[IPTV]
+
+#EXTGRP:IPTV
+#EXTINF:-1 tvg-id=" " tvg-logo="https://yt3.ggpht.com/ytc/AMLnZu_Hd2WYs49wYCBMAphVpvvpBzd-EJFU8XFQgccPIw=s200" group-title=" " tvg-chno="1800",¡Hola! Play
+https://022d66c197dd4a1e9008e0134a74f34e.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-es_HolaPlay/playlist.m3u8
+#EXTGRP:IPTV
+#EXTINF:-1 tvg-id="" tvg-logo="https://graph.facebook.com/elconfidencial/picture?width=200&height=200" group-title=" " tvg-chno="1801",El Confidencial
+https://daqnsnf5phf17.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-sde7fypd1420w-prod/fast-channel-elconfidencial/fast-channel-elconfidencial.m3u8
+#EXTGRP:IPTV
+#EXTINF:-1 tvg-id="" tvg-logo="https://graph.facebook.com/elpais/picture?width=200&height=200" group-title=" " tvg-chno="1802",El País
+https://d2xqbi89ghm9hh.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-79fx3huimw4xc-ssai-prd/fast-channel-el-pais.m3u8
+#EXTGRP:IPTV
+#EXTINF:-1 tvg-id="" tvg-logo="https://graph.facebook.com/LaVanguardia/picture?width=200&height=200" group-title=" " tvg-chno="1803",La Vanguardia
+https://ythls.armelin.one/channel/UClLLRs_mFTsNT5U-DqTYAGg/.m3u8
+#EXTGRP:IPTV
+#EXTINF:-1 tvg-id=" " tvg-logo="https://graph.facebook.com/atresplayer/picture?width=200&height=200" group-title=" " tvg-chno="1804",Atresmedia Clásicos
+https://fast-channels.atresmedia.com/648ef12c2bfab0e4507e0d61/648ef12c2bfab0e4507e0d61.m3u8
+#EXTGRP:IPTV
+#EXTINF:-1 tvg-id=" " tvg-logo="https://graph.facebook.com/atresplayer/picture?width=200&height=200" group-title=" " tvg-chno="1805",Atresmedia Comedia
+https://fast-channels.atresmedia.com/648ef23d2bfab0e4557e0d61/648ef23d2bfab0e4557e0d61.m3u8
+#EXTGRP:IPTV
+#EXTINF:-1 tvg-id=" " tvg-logo="https://graph.facebook.com/atresplayer/picture?width=200&height=200" group-title=" " tvg-chno="1806",Atresmedia Multicine
+https://fast-channels.atresmedia.com/648ef18c1756b0e41daf83cc/648ef18c1756b0e41daf83cc.m3u8
+#EXTGRP:IPTV
+#EXTINF:-1 channel-id="samsung-ESBD1300003VN" tvg-id="ESBD1300003VN" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD1300003VN_20231115T012147SQUARE.png_20231115012147.png" group-title=" " tvg-chno="1807",Corazón
+https://i.mjh.nz/SamsungTVPlus/ESBD1300003VN.m3u8
+#EXTGRP:IPTV
+#EXTINF:-1 tvg-id=" " tvg-logo="https://graph.facebook.com/flooxer/picture?width=200&height=200" group-title=" " tvg-chno="1808",Atresmedia Flooxer
+https://fast-channels.atresmedia.com/5c1285e47ed1a861f8125285/5c1285e47ed1a861f8125285.m3u8
+#EXTGRP:IPTV
+#EXTINF:-1 channel-id="samsung-ESBA330004064" tvg-id="ESBA330004064" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBA330004064_20220323T081613SQUARE.png_20220323081615.png" group-title=" " tvg-chno="1809",Flash
+https://i.mjh.nz/SamsungTVPlus/ESBA330004064.m3u8
+#EXTGRP:IPTV
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.monpetitforfait.com/comparateur-box-internet/wp-content/uploads/2020/06/solmusica_tv.png" group-title=" " tvg-chno="1810",Sol Música
+https://d2glyu450vvghm.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-21u4g5cjglv02/1f8a272f-4dce-4021-984f-868a2f1d1137/0.m3u8
+#EXTGRP:IPTV
+#EXTINF:-1 tvg-id=" " tvg-logo="https://graph.facebook.com/atresplayerkidz/picture?width=200&height=200" group-title=" " tvg-chno="1811",Atresmedia Kidz
+https://fast-channels.atresmedia.com/648c271d2bfab0e4177a0d61/648c271d2bfab0e4177a0d61/2.m3u8
+#EXTGRP:IPTV
+#EXTINF:-1 tvg-id=" " tvg-logo="https://graph.facebook.com/Pequeradio/picture?width=200&height=200" group-title=" " tvg-chno="1812",Pequeradio TV
+https://canadaremar2.todostreaming.es/live/peque-pequetv.m3u8
+#EXTGRP:IPTV
+#EXTINF:-1 tvg-id="CanalSurCocina.es" tvg-logo="https://yt3.googleusercontent.com/ytc/APkrFKb6DZpbxOMbN_VANCdenLck4ceg7gxMk5tnkjmM=s200" group-title=" " tvg-chno="1813",Canal Sur Andalucía Cocina
+https://cloud.fastchannel.es/mic/manifiest/hls/acocina/acocina.m3u8
+#EXTGRP:IPTV
+#EXTINF:-1 tvg-id="CanalSurTurismo.es" tvg-logo="https://yt3.googleusercontent.com/ytc/APkrFKYsl5e6jEIMtXIoTUHvkJqXxDfASrvQP_QFRRww=s200" group-title=" " tvg-chno="1814",Canal Sur Andalucía Turismo
+https://cloud.fastchannel.es/mic/manifiest/hls/aturismo/aturismo.m3u8
+#EXTGRP:IPTV
+#EXTINF:-1 tvg-id="" tvg-logo="https://graph.facebook.com/cocinafamiliarjr/picture?width=200&height=200" group-title=" " tvg-chno="1815",Cocina Familiar
+https://cloud.fastchannel.es/mic/manifiest/hls/cocinafamiliar/cocinafamiliar.m3u8
+#EXTGRP:IPTV
+#EXTINF:-1 tvg-id="Taroteame.es" tvg-logo="https://i.imgur.com/OgEeQzl.jpg" group-title=" " tvg-chno="1816",Tarotéame
+https://5d2733224ac48.streamlock.net/taroteame/tarot_web/playlist.m3u8
+#EXTGRP:IPTV
+#EXTINF:-1 tvg-id="TarotVision.es" tvg-logo="https://i.imgur.com/yOQ9e3a.png" group-title=" " tvg-chno="1817",TarotVisión
+https://stream.andalhost.com/hls/tarotvision.m3u8
+#EXTGRP:IPTV
+#EXTINF:-1 channel-id="samsung-ESBD3600001Q1" tvg-id="ESBD3600001Q1" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD3600001Q1_20231115T012153SQUARE.png_20231115012153.png" group-title=" " tvg-chno="1818",La Liga
+https://i.mjh.nz/SamsungTVPlus/ESBD3600001Q1.m3u8
+
 [ISDB-T]
 
 #EXTGRP:ISDB-T
