@@ -127,7 +127,7 @@ https://live03-col.msf.cdn.mediaset.net/live/ch-ts/ts-clr.isml/manifest.mpd
 https://hls-live-tv2000.akamaized.net/hls/live/2028510/tv2000/master.m3u8
 #EXTGRP:DVB-T2_Nazionale
 #EXTINF:-1 tvg-id="La7d.it" tvg-logo="https://static.epg.best/it/La7D.it.png" group-title=" " tvg-chno="29",La 7d
-https://d15umi5iaezxgx.cloudfront.net/LA7D/CLN/HLS-B/Live.m3u8
+https://d15umi5iaezxgx.cloudfront.net/LA7D/CLN/HLS/Live.m3u8
 #EXTGRP:DVB-T2_Nazionale
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="" tvg-chno="30",La 5
 #KODIPROP:inputstream=inputstream.adaptive
@@ -162,7 +162,7 @@ https://live03-col.msf.cdn.mediaset.net/live/ch-fu/fu-clr.isml/manifest.mpd
 #EXTINF:-1 tvg-id="RTL1025TV.it" tvg-logo="https://i.imgur.com/KdissvS.png" group-title=" " tvg-chno="36",RTL 102.5 TV
 https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S97044836/tbbP8T1ZRPBL/playlist_video.m3u8
 #EXTGRP:DVB-T2_Nazionale
-#EXTINF:-1 tvg-id="" tvg-logo=" " group-title="" tvg-chno="37",Warner TV (Italia)
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/Tundrak/IPTV-Italia/8a74a7e14557a57e3317867a549af34aac4dd3b0/logos/warnertv.png" group-title="" tvg-chno="37",Warner TV (Italia)
 https://amg16146-wbdi-amg16146c4-samsung-it-1837.playouts.now.amagi.tv/playlist/amg16146-warnerbrosdiscoveryitalia-warnertv-samsungit/playlist.m3u8
 #EXTGRP:DVB-T2_Nazionale
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/gg/giallo_it.png" group-title="" tvg-chno="38",Giallo
@@ -182,7 +182,7 @@ https://live03-col.msf.cdn.mediaset.net/live/ch-lt/lt-clr.isml/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key=
 https://live03-col.msf.cdn.mediaset.net/live/ch-kb/kb-clr.isml/manifest.mpd
 #EXTGRP:DVB-T2_Nazionale
-#EXTINF:-1 tvg-id="" tvg-logo=" " group-title="" tvg-chno="41",K2 (Italia)
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/Tundrak/IPTV-Italia/8a74a7e14557a57e3317867a549af34aac4dd3b0/logos/k2.png" group-title="" tvg-chno="41",K2 (Italia)
 https://amg16146-wbdi-amg16146c6-samsung-it-1839.playouts.now.amagi.tv/playlist/amg16146-warnerbrosdiscoveryitalia-k2-samsungit/playlist.m3u8
 #EXTGRP:DVB-T2_Nazionale
 #EXTINF:-1 tvg-id="RaiGulp.it" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/raigulp.png" group-title=" " tvg-chno="42",Rai Gulp
@@ -193,7 +193,7 @@ http://livetv.ktv.zone/156/play.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 http://livetv.ktv.zone/153/play.m3u8 
 #EXTGRP:DVB-T2_Nazionale
-#EXTINF:-1 tvg-id="" tvg-logo=" " group-title="" tvg-chno="44",Frisbee
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/Tundrak/IPTV-Italia/8a74a7e14557a57e3317867a549af34aac4dd3b0/logos/frisbee.png" group-title="" tvg-chno="44",Frisbee
 https://amg16146-wbdi-amg16146c7-samsung-it-1840.playouts.now.amagi.tv/playlist/amg16146-warnerbrosdiscoveryitalia-frisbee-samsungit/playlist.m3u8
 #EXTGRP:DVB-T2_Nazionale
 #EXTINF:-1 tvg-id="Cartoonito.it" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/cartoonito.png" group-title=" " tvg-chno="46",Cartoonito
@@ -242,7 +242,7 @@ http://livetv.ktv.zone/155/play.m3u8
 #KODIPROP:inputstream.adaptive.license_key=
 https://live03-col.msf.cdn.mediaset.net/live/ch-kq/kq-clr.isml/manifest.mpd
 #EXTGRP:DVB-T2_Nazionale
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="" tvg-chno="56",HGTV (Italia)
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/Tundrak/IPTV-Italia/8a74a7e14557a57e3317867a549af34aac4dd3b0/logos/homegardentv.png" group-title="" tvg-chno="56",HGTV (Italia)
 https://amg16146-wbdi-amg16146c9-samsung-it-1842.playouts.now.amagi.tv/playlist/amg16146-warnerbrosdiscoveryitalia-hgtv-samsungit/playlist.m3u8
 #EXTGRP:DVB-T2_Nazionale
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="" tvg-chno="59",Motor Trend (Italia)
@@ -367,9 +367,6 @@ https://content.uplynk.com/channel/36953f5b6546464590d2fcd954bc89cf.m3u8
 #EXTGRP:DVB-T2_Nazionale
 #EXTINF:-1 tvg-id="EuroTV.it" tvg-logo="" group-title=" " tvg-chno="168",Euro TV
 https://5f22d76e220e1.streamlock.net/eurotv/eurotv/playlist.m3u8
-#EXTGRP:DVB-S
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/ee/explorer-hd-channel-it.png" group-title=" " tvg-chno="176",Explorer HD Channel
-https://3e836341ee364c90b4519e5f0ae6c193.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/ONO_ExplorerHD/playlist.m3u8
 #EXTGRP:DVB-T2_Regionale
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ii/italia_2_it.png" group-title=" " tvg-chno="179",[CAM] Italia 2 News
 https://59d7d6f47d7fc.streamlock.net/italia2/italia2/playlist.m3u8
@@ -501,9 +498,15 @@ https://video-ar.radioradicale.it/diretta/camera2/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat-stream.com/logo/tv/ss/senato_della_repubblica_it.png" group-title=" " tvg-chno="90",Senato
 https://senato-live.morescreens.com/SENATO_1_001/playlist.m3u8
 #EXTGRP:DVB-S
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/ee/explorer-hd-channel-it.png" group-title=" " tvg-chno="176",Explorer HD Channel
+https://3e836341ee364c90b4519e5f0ae6c193.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/ONO_ExplorerHD/playlist.m3u8
+#EXTGRP:DVB-S
 #EXTINF:-1 tvg-id="UniNettunoUniversityTV.it" tvg-logo="https://i.imgur.com/BOGMeio.png" group-title=" " tvg-chno="701",UniNettuno University TV
 https://stream6-rai-it.akamaized.net/live/uninettuno/playlist.m3u8
 #EXTGRP:DVB-S
-#EXTINF:-1 tvg-id="RAIItalia.it" tvg-logo="https://www.lyngsat-logo.com/logo/tv/rr/rai_italia.png" group-title=" " tvg-chno="804",RAI Italia
+#EXTINF:-1 tvg-id="RAIitalia.it" tvg-logo="https://www.lyngsat-logo.com/logo/tv/rr/rai_italia.png" group-title=" " tvg-chno="804",RAI Italia
 https://raievent7-live.akamaized.net/hls/live/619186/raievent7/raievent7/playlist.m3u8
+#EXTGRP:DVB-S
+#EXTINF:-1 tvg-id="" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBB2000001QB_20230208T013137SQUARE.png_20230208013138.png" group-title=" " tvg-chno="811",Italian Fishing TV
+https://145e69d8f2754bf382ca09be379ac725.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Samsung-it_ItalianFishingTV/playlist.m3u8
 
