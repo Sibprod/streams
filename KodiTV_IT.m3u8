@@ -63,8 +63,11 @@ https://845d8509d2cb4f249dd0b2ae5755b6c2.msvdn.net/rtv38/rtv38_live_main/mainabr
 #EXTINF:-1 tvg-id="TVAVicenza.it" tvg-logo=" " group-title=" " tvg-chno="10",[VEN] TVA Vicenza
 https://fms.telemar.it:1936/live/diretta_1/playlist.m3u8
 #EXTGRP:DVB-T2_Regionale
-#EXTINF:-1 tvg-id="Telenord.it" tvg-logo="https://www.lyngsat-stream.com/logo/tv/tt/telenord_it.png" group-title=" " tvg-chno="11",(LIG] Telenord
+#EXTINF:-1 tvg-id="Telenord.it" tvg-logo="https://www.lyngsat-stream.com/logo/tv/tt/telenord_it.png" group-title=" " tvg-chno="11",[LIG] Telenord
 https://5f22d76e220e1.streamlock.net/telenord/telenord/playlist.m3u8
+#EXTGRP:DVB-T2_Regionale
+#EXTINF:-1 tvg-id="RTTR.it" tvg-logo=" " group-title=" " tvg-chno="11",[TRE] RTTR
+https://5f204aff97bee.streamlock.net/RTTRlive/livestream/playlist.m3u8
 #EXTGRP:DVB-T2_Regionale
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/teleradiopace-1-it.png" group-title=" " tvg-chno="12",[LIG] TelePace 1
 https://dacastmmd.mmdlive.lldns.net/dacastmmd/2400a5d867124db380eb67bc7b9b605c/playlist.m3u8
@@ -248,9 +251,12 @@ https://amg16146-wbdi-amg16146c10-samsung-it-1843.playouts.now.amagi.tv/playlist
 #EXTGRP:DVB-T2_Nazionale
 #EXTINF:-1 tvg-id="Sportitalia.it" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sportitalia-it.png" group-title=" " tvg-chno="60",Sportitalia
 https://di-j16ei4yq.vo.lswcdn.net/sportitalia/smil:sihd.smil/playlist.m3u8
-#EXTGRP:DVB-T2_Nazionale
+#EXTGRP:DVB-T2_Nazionale_HBBTV
 #EXTINF:-1 tvg-id="Sportitalia24.it" tvg-logo="https://net-static.tcccdn.com/template/sportitalia.com/img/streaming/si_live24.png" group-title=" " tvg-chno="60",Sportitalia (Live 24)
 https://di-j16ei4yq.vo.lswcdn.net/sportitalia/smil:silive24.smil/playlist.m3u8
+#EXTGRP:DVB-T2_Nazionale_HBBTV
+#EXTINF:-1 tvg-id="SportitaliaSolocalcio.it" tvg-logo="https://i.imgur.com/hu56Ya5.png" group-title=" " tvg-chno="269",Sportitalia SoloCalcio
+https://di-j16ei4yq.vo.lswcdn.net/sportitalia/smil:sisolocalcio.smil/playlist.m3u8
 #EXTGRP:DVB-T2_Nazionale
 #EXTINF:-1 tvg-id="CampioneSport.it" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/campionesport.png" group-title=" " tvg-chno="61",Campionesport
 https://5f22d76e220e1.streamlock.net/campionesport/campionesport/playlist.m3u8
@@ -275,6 +281,9 @@ https://live02-seg.msr.cdn.mediaset.net/live/ch-er/er-clr.isml/index.m3u8
 #EXTGRP:DVB-T2_Nazionale
 #EXTINF:-1 tvg-id="Bomchannel.it" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bom-channel-it.png" group-title=" " tvg-chno="68",BOM Channel
 https://5f22d76e220e1.streamlock.net/BOMCHANNEL/BOMCHANNEL/playlist.m3u8
+#EXTGRP:DVB-T2_Nazionale_HBBTV
+#EXTINF:-1 tvg-id="ZerounoTVNews.it" tvg-logo=" " group-title=" " tvg-chno="68",Zerouno TV News
+https://5db313b643fd8.streamlock.net/ZerounoTVEventi/ZerounoTVEventi/playlist.m3u8
 #EXTGRP:DVB-T2_Nazionale
 #EXTINF:-1 tvg-id="DeejayTV.it" tvg-logo="https://i.imgur.com/rlaKH6k.png" group-title=" " tvg-chno="69",Deejay TV
 https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S85984808/sMO0tz9Sr2Rk/playlist.m3u8
@@ -416,9 +425,6 @@ https://stream.rdstv.radio/out/v1/ec85f72b87f04555aa41d616d5be41dc/index_8.m3u8
 #EXTGRP:DVB-T2_Nazionale
 #EXTINF:-1 tvg-id="RadioZetaTV.it" tvg-logo="https://www.lyngsat-logo.com/logo/radio/rr/radio_zeta_it.png" group-title=" " tvg-chno="266",Radio Zeta TV
 https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S9346184/XEx1LqlYbNic/playlist_video.m3u8
-#EXTGRP:DVB-T2_Nazionale
-#EXTINF:-1 tvg-id="SportitaliaSolocalcio.it" tvg-logo="https://i.imgur.com/hu56Ya5.png" group-title=" " tvg-chno="269",Sportitalia SoloCalcio
-https://di-j16ei4yq.vo.lswcdn.net/sportitalia/smil:sisolocalcio.smil/playlist.m3u8
 #EXTGRP:DVB-T2_Regionale
 #EXTINF:-1 tvg-id="RAISudtirol.it" tvg-logo="https://www.lyngsat-logo.com/logo/tv/rr/rai-3-sudtirol-it.png" group-title=" " tvg-chno="308",RAI Südtirol
 http://wzstreaming.rai.it/TVlive/liveStream/master.m3u8
