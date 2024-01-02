@@ -47,3 +47,6 @@ https://video-auth4.iol.pt/live_tvi_reality/live_tvi_reality/edge_servers/tvirea
 #EXTGRP:DVB-S
 #EXTINF:-1 tvg-id="TVIAfrica.pt" tvg-logo="https://i.ibb.co/vvRXDTV/tviafrica.jpg" group-title=" " tvg-chno=" ",TVI África
 https://video-auth4.iol.pt/live_tvi_africa/live_tvi_africa/edge_servers/tviafrica-480p/playlist.m3u8
+#EXTGRP:DVB-S
+#EXTINF:-1 tvg-id="TVIInternacional.pt" tvg-logo="" group-title=" " tvg-chno="400",TVI internacional
+https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/tvipt/sh/tviint.m3u8
