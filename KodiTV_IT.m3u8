@@ -40,7 +40,7 @@ https://live03-col.msf.cdn.mediaset.net/live/ch-c5/c5-clr.isml/manifest.mpd
 https://live03-col.msf.cdn.mediaset.net/live/ch-i1/i1-clr.isml/manifest.mpd
 #EXTGRP:DVB-T2_Nazionale
 #EXTINF:-1 tvg-id="La7.it" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ll/la_7.png" group-title=" " tvg-chno="7",La 7
-https://d15umi5iaezxgx.cloudfront.net/LA7/CLN/HLS-B/Live.m3u8
+https://d3749synfikwkv.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-74ylxpgd78bpb/Live.m3u8
 #EXTGRP:DVB-T2_Nazionale
 #EXTINF:-1 tvg-id="Tv8.it" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/tv8.png" group-title=" " tvg-chno="8",TV8
 https://hlslive-web-gcdn-skycdn-it.akamaized.net/TACT/11223/tv8web/master.m3u8?hdnea=st=1701861650~exp=1765449000~acl=/*~hmac=84c9f3f71e57b13c3a67afa8b29a8591ea9ed84bf786524399545d94be1ec04d
@@ -318,8 +318,11 @@ https://5f22d76e220e1.streamlock.net/rbetv/rbetv/playlist.m3u8
 #EXTINF:-1 tvg-id="RTVSanMarinoSport.sm" tvg-logo="https://i.imgur.com/PGm944g.png" group-title=" " tvg-chno="93",[SM] [ERO] RTV San Marino Sport
 https://d2hrvno5bw6tg2.cloudfront.net/smrtv-ch02/smil:ch-02.smil/master.m3u8
 #EXTGRP:DVB-T2_Regionale
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.radiocity4you.it/wp-content/uploads/2022/08/city4you-web.png" group-title=" " tvg-chno="98",[PIE] Radio 4 You TV
-https://streamsrv2.nets-sr.com:19360/4youtv/4youtv.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://radio4you.net/wp-content/uploads/2021/07/city4you-tv-logo-300x300.jpg" group-title=" " tvg-chno="98",[PIE] Radio 4 You TV
+https://streamsrv2.nets-sr.com:19360/4youtv/passthru.m3u8
+#EXTGRP:DVB-T2_Nazionale
+#EXTINF:-1 tvg-id="La7.it" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ll/la_7.png" group-title=" " tvg-chno="107",La 7.it
+https://d15umi5iaezxgx.cloudfront.net/LA7/CLN/HLS-B/Live.m3u8
 #EXTGRP:DVB-T2_Regionale
 #EXTINF:-1 tvg-id="111TV.it" tvg-logo="https://i.imgur.com/4jY8yAI.png" group-title=" " tvg-chno="111",[LIG] 111 TV
 https://5db313b643fd8.streamlock.net/111TV/111TV/playlist.m3u8
