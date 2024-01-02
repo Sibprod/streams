@@ -65,7 +65,6 @@ https://ythls.armelin.one/channel/UCx6h-dWzJ5NpAlja1YsApdg.m3u8
 #EXTINF:-1 channel-id="samsung-GBBB4300001NX" tvg-id="GBBB4300001NX" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBB4300001NX_20221109T010820SQUARE.png_20221109010820.png" group-title=" " tvg-chno="95",Viaplay Xtra
 https://i.mjh.nz/SamsungTVPlus/GBBB4300001NX.m3u8
 
-
 #EXTGRP:IPTV_UK
 #EXTINF:-1 channel-id="samsung-GBAK3504500A" tvg-id="GBAK3504500A" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBAK3504500A_20221012T015857SQUARE.png_20221012015858.png" group-title=" " tvg-chno="1310",5 Cops
 https://i.mjh.nz/SamsungTVPlus/GBAK3504500A.m3u8
@@ -81,6 +80,9 @@ https://i.mjh.nz/SamsungTVPlus/GBAK3504501A.m3u8
 #EXTGRP:IPTV_UK
 #EXTINF:-1 tvg-id="HorseCountryTV.uk" tvg-logo="https://i.imgur.com/1x6zYZr.png" group-title=" " tvg-chno="1345",Horse and Country
 https://hnc-free-viewlift.amagi.tv/HNC_AUSTRALIA.m3u8
+#EXTGRP:IPTV_UK
+#EXTINF:-1 channel-id="samsung-GBBD19000026B" tvg-id="GBBD19000026B" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBD19000026B_20230614T010133SQUARE.png_20230614010134.png" group-title=" " tvg-chno="1353",TRACE UK
+https://i.mjh.nz/SamsungTVPlus/GBBD19000026B.m3u8
 #EXTGRP:IPTV_UK
 #EXTINF:-1 channel-id="samsung-GBBD1100008YW" tvg-id="GBBD1100008YW" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBD1100008YW_20230926T032319SQUARE.png_20230926032320.png" group-title=" " tvg-chno="1356",FIFA+
 https://i.mjh.nz/SamsungTVPlus/GBBD1100008YW.m3u8
@@ -120,16 +122,24 @@ https://kronetv.mdn.ors.at/out/u/kronetv-nodrm.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo=" " group-title=" " tvg-chno="7067",Okto
 https://cdn3.wowza.com/1/MHFtazJReW5rOFhP/N2NWNDZ2/hls/live/playlist.m3u8
 
+#EXTGRP:IPTV
+#EXTINF:-1 tvg-id="Deutschewelle.de" tvg-logo="https://2ix2.com/wp-content/uploads/2020/10/77.png" group-title=" " tvg-chno="20",Deutsche Welle (Deutsch)
+https://dwamdstream106.akamaized.net/hls/live/2017965/dwstream106/index.m3u8
+#EXTGRP:IPTV
+#EXTINF:-1 tvg-id="" tvg-logo=" " group-title=" " tvg-chno="61",Kronehit TV
+https://bitcdn-kronehit.bitmovin.com/v2/hls/playlist.m3u8
+
 #EXTGRP:DVB-T2_Letzëburg
-#EXTINF:-1 tvg-id="" tvg-logo=" " group-title=" " tvg-chno="7080",RTL-TV Letzëburg
+#EXTINF:-1 tvg-id="" tvg-logo=" " group-title=" " tvg-chno="80",RTL-TV Letzëburg
 https://stream.rtl.lu/data/live/tele/channel1/playlist.m3u8
 #EXTGRP:DVB-T2_Letzëburg
-#EXTINF:-1 tvg-id="" tvg-logo=" " group-title=" " tvg-chno="7081",RTL Zwee
+#EXTINF:-1 tvg-id="" tvg-logo=" " group-title=" " tvg-chno="81",RTL Zwee
 https://stream.rtl.lu/data/live/tele/channel2/playlist.m3u8
-#EXTGRP:DVB-T2_Letzëburg
-#EXTINF:-1 tvg-id="" tvg-logo=" " group-title=" " tvg-chno="7082",Apart TV
+
+#EXTGRP:DVB-C_Letzëburg
+#EXTINF:-1 tvg-id="" tvg-logo=" " group-title=" " tvg-chno="82",Apart TV
 https://2-fss-2.streamhoster.com/pl_124/206820-4338160-1/playlist.m3u8
 
 #EXTGRP:DVB-T2_Vlaanderen
-#EXTINF:-1 tvg-id="VTM.be" tvg-logo="https://i.imgur.com/djkPc9w.png" group-title=" " tvg-chno="7093",VTM
+#EXTINF:-1 tvg-id="VTM.be" tvg-logo="https://i.imgur.com/djkPc9w.png" group-title=" " tvg-chno="3",VTM
 https://dpp-live-events.medialaancdn.be/events/hls/aes/webstream1.m3u8
