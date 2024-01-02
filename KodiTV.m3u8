@@ -219,760 +219,6 @@ https://live.creacast.com/bluediamond/stream/playlist.m3u8
 #EXTINF:-1 tvg-id="ETele.bj" tvg-logo="https://i.imgur.com/y1eg7OC.png" group-title=" " tvg-chno="2022",E-Télé
 https://livetvsteam.com:1936/etelebenin/etelebenin/playlist.m3u8
 
-#EXTGRP:DVB-T2
-#EXTINF:-1 tvg-id="RAIItalia.it" tvg-logo="https://www.lyngsat-logo.com/logo/tv/rr/rai_italia.png" group-title=" " tvg-chno="1000",RAI Italia
-https://raievent7-live.akamaized.net/hls/live/619186/raievent7/raievent7/playlist.m3u8
-#EXTGRP:DVB-T2
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="" tvg-chno="1000", Mediaset International
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=
-https://live03-col.msf.cdn.mediaset.net/live/ch-my/my-clr.isml/manifest.mpd
-#EXTGRP:DVB-T2
-#EXTINF:-1 tvg-id="Rai1.it" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/rai1.png" group-title=" " tvg-chno="1001",RAI 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-http://livetv.ktv.zone/130/play.m3u8
-#EXTGRP:DVB-T2
-#EXTINF:-1 tvg-id="Rai2.it" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/rai2.png" group-title=" " tvg-chno="1002",RAI 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-http://livetv.ktv.zone/131/play.m3u8 
-#EXTGRP:DVB-T2
-#EXTINF:-1 tvg-id="Rai3.it" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/rai3.png" group-title=" " tvg-chno="1003",RAI 3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-http://livetv.ktv.zone/132/play.m3u8
-#EXTGRP:DVB-T2
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="" tvg-chno="1004",Rete 4
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=
-https://live03-col.msf.cdn.mediaset.net/live/ch-r4/r4-clr.isml/manifest.mpd
-#EXTGRP:DVB-T2
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="" tvg-chno="1005",Canale 5
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=
-https://live03-col.msf.cdn.mediaset.net/live/ch-c5/c5-clr.isml/manifest.mpd
-#EXTGRP:DVB-T2
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="" tvg-chno="1006",Italia 1
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=
-https://live03-col.msf.cdn.mediaset.net/live/ch-i1/i1-clr.isml/manifest.mpd
-#EXTGRP:DVB-T2
-#EXTINF:-1 tvg-id="La7.it" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ll/la_7.png" group-title=" " tvg-chno="1007",La 7
-https://d15umi5iaezxgx.cloudfront.net/LA7/CLN/HLS-B/Live.m3u8
-#EXTGRP:DVB-T2
-#EXTINF:-1 tvg-id="Tv8.it" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/tv8.png" group-title=" " tvg-chno="1008",TV8
-https://hlslive-web-gcdn-skycdn-it.akamaized.net/TACT/11223/tv8web/master.m3u8?hdnea=st=1701861650~exp=1765449000~acl=/*~hmac=84c9f3f71e57b13c3a67afa8b29a8591ea9ed84bf786524399545d94be1ec04d
-#EXTGRP:DVB-T2
-#EXTINF:-1 tvg-id="RTV38.it" tvg-logo=" " group-title=" " tvg-chno="1010",RTV 38
-https://845d8509d2cb4f249dd0b2ae5755b6c2.msvdn.net/rtv38/rtv38_live_main/mainabr/playlist_dvr.m3u8
-#EXTGRP:DVB-T2
-#EXTINF:-1 tvg-id="Primocanale.it" tvg-logo="http://www.simonachiavaccini.com/wp-content/uploads/2012/03/primocanale.jpg" group-title=" " tvg-chno="1010",Primocanale
-https://msh0203.stream.seeweb.it/live/flv:stream2.sdp/playlist.m3u8
-#EXTGRP:DVB-T2
-#EXTINF:-1 tvg-id="Videolina.it" tvg-logo="https://i.imgur.com/Z5NeYwu.png" group-title=" " tvg-chno="1010",Videolina
-http://livestreaming.videolina.it/live/Videolina/playlist.m3u8
-#EXTGRP:DVB-T2
-#EXTINF:-1 tvg-id="Telenord.it" tvg-logo="https://www.lyngsat-stream.com/logo/tv/tt/telenord_it.png" group-title=" " tvg-chno="1011",Telenord
-https://5f22d76e220e1.streamlock.net/telenord/telenord/playlist.m3u8
-#EXTGRP:DVB-T2
-#EXTINF:-1 tvg-id=" " tvg-logo="https://s1.dmcdn.net/u/9X5221Z_Sdmrru_C0/120x120" group-title=" " tvg-chno="1012",Sardegna 1
-plugin://plugin.video.dailymotion_com/?url=x893du6&mode=playLiveVideo
-#EXTGRP:DVB-T2
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/teleradiopace-1-it.png" group-title=" " tvg-chno="1012",TelePace 1
-https://dacastmmd.mmdlive.lldns.net/dacastmmd/2400a5d867124db380eb67bc7b9b605c/playlist.m3u8
-#EXTGRP:DVB-T2
-#EXTINF:-1 tvg-id="Primantenna.it" tvg-logo="https://www.lyngsat-stream.com/logo/tv/pp/primantenna_it.png" group-title=" " tvg-chno="1014",Primantenna
-https://5f22d76e220e1.streamlock.net/primantenna14/primantenna14/playlist.m3u8
-#EXTGRP:DVB-T2
-#EXTINF:-1 tvg-id="Teleliguriasud.it" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tele_liguria_it_sud.png" group-title=" " tvg-chno="1015",TLS - Tele Liguria Sud
-https://64b16f23efbee.streamlock.net/teleliguriasud/teleliguriasud/playlist.m3u8
-#EXTGRP:DVB-T2
-#EXTINF:-1 tvg-id="RSI1.ch" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/RSI_La_1_2012.svg/1200px-RSI_La_1_2012.svg.png" group-title=" " tvg-chno="1018",RSI La 1
-http://livetv.ktv.zone/129/play.m3u8
-#EXTGRP:DVB-T2
-#EXTINF:-1 tvg-id="RSI2.ch" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/RSI_La_2_2012.svg/1200px-RSI_La_2_2012.svg.png" group-title=" " tvg-chno="1019",RSI La 2
-http://livetv.ktv.zone/137/play.m3u8
-#EXTGRP:DVB-T2
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="" tvg-chno="1020",20 Mediaset
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=
-https://live03-col.msf.cdn.mediaset.net/live/ch-lb/lb-clr.isml/manifest.mpd
-#EXTGRP:DVB-T2
-#EXTINF:-1 tvg-id="Rai4.it" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/rai4.png" group-title=" " tvg-chno="1021",RAI 4
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-
-#EXTGRP:DVB-T2
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="" tvg-chno="1022",Iris
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=
-https://live03-col.msf.cdn.mediaset.net/live/ch-ki/ki-clr.isml/manifest.mpd
-#EXTGRP:DVB-T2
-#EXTINF:-1 tvg-id="Rai5.it" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/rai5.png" group-title=" " tvg-chno="1023",RAI 5
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-
-#EXTGRP:DVB-T2
-#EXTINF:-1 tvg-id="RaiMovie.it" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/raimovie.png" group-title=" " tvg-chno="1024",Rai Movie
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-http://livetv.ktv.zone/157/play.m3u8
-#EXTGRP:DVB-T2
-#EXTINF:-1 tvg-id="RaiPremium.it" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/raipremium.png" group-title=" " tvg-chno="1025",Rai Premium
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-http://livetv.ktv.zone/154/play.m3u8
-#EXTGRP:DVB-T2
-#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/cielo.png" group-title="" tvg-chno="1026",Cielo
-https://hlslive-web-gcdn-skycdn-it.akamaized.net/TACT/11219/cieloweb/master.m3u8?hdnea=st=1701861650~exp=1765449000~acl=/*~hmac=84c9f3f71e57b13c3a67afa8b29a8591ea9ed84bf786524399545d94be1ec04d
-#EXTGRP:DVB-T2
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="" tvg-chno="1027",Twenty-Seven
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=
-https://live03-col.msf.cdn.mediaset.net/live/ch-ts/ts-clr.isml/manifest.mpd
-#EXTGRP:DVB-T2
-#EXTINF:-1 tvg-id="TV2000.it" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tv-2000-it.png" group-title=" " tvg-chno="1028",TV 2000
-https://hls-live-tv2000.akamaized.net/hls/live/2028510/tv2000/master.m3u8
-#EXTGRP:DVB-T2
-#EXTINF:-1 tvg-id="La7d.it" tvg-logo="https://static.epg.best/it/La7D.it.png" group-title=" " tvg-chno="1029",La 7d
-https://d15umi5iaezxgx.cloudfront.net/LA7D/CLN/HLS-B/Live.m3u8
-#EXTGRP:DVB-T2
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="" tvg-chno="1030", La 5
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=
-https://live03-col.msf.cdn.mediaset.net/live/ch-ka/ka-clr.isml/manifest.mpd
-#EXTGRP:DVB-T2
-#EXTINF:-1 tvg-id="QVC.it" tvg-logo="https://static.epg.best/it/QVC.it.png" group-title=" " tvg-chno="1032",QVC Italia 
-https://qrg.akamaized.net/hls/live/2017383/lsqvc1it/720p/720p.m3u8
-#EXTGRP:DVB-T2
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="" tvg-chno="1034",Ciné 34
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=
-https://live03-col.msf.cdn.mediaset.net/live/ch-b6/b6-clr.isml/manifest.mpd
-#EXTGRP:DVB-T2
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="" tvg-chno="1035",Focus
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=
-https://live03-col.msf.cdn.mediaset.net/live/ch-fu/fu-clr.isml/manifest.mpd
-#EXTGRP:DVB-T2
-#EXTINF:-1 tvg-id="RTL1025TV.it" tvg-logo="https://i.imgur.com/KdissvS.png" group-title=" " tvg-chno="1036",RTL 102.5 TV
-https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S97044836/tbbP8T1ZRPBL/playlist_video.m3u8
-#EXTGRP:DVB-T2
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="" tvg-chno="1039",Top Crime
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=
-https://live03-col.msf.cdn.mediaset.net/live/ch-lt/lt-clr.isml/manifest.mpd
-#EXTGRP:DVB-T2
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="" tvg-chno="1040",Boing (Italia)
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=
-https://live03-col.msf.cdn.mediaset.net/live/ch-kb/kb-clr.isml/manifest.mpd
-#EXTGRP:DVB-T2
-#EXTINF:-1 tvg-id="RaiGulp.it" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/raigulp.png" group-title=" " tvg-chno="1042",Rai Gulp
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-http://livetv.ktv.zone/156/play.m3u8 
-#EXTGRP:DVB-T2
-#EXTINF:-1 tvg-id="RaiYoyo.it" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/raiyoyo.png" group-title=" " tvg-chno="1043",Rai Yoyo
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-http://livetv.ktv.zone/153/play.m3u8 
-#EXTGRP:DVB-T2
-#EXTINF:-1 tvg-id="Cartoonito.it" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/cartoonito.png" group-title=" " tvg-chno="1046",Cartoonito
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=
-https://live03-col.msf.cdn.mediaset.net/live/ch-la/la-clr.isml/manifest.mpd
-#EXTGRP:DVB-T2
-#EXTINF:-1 tvg-id="Super.it" tvg-logo="https://www.lyngsat-stream.com/logo/tv/ss/super-it.png" group-title=" " tvg-chno="1047",Super !
-https://vimnitaly.akamaized.net/hls/live/2094034/super/master.m3u8
-#EXTGRP:DVB-T2
-#EXTINF:-1 tvg-id="RaiNews24.it" tvg-logo="https://i.imgur.com/8juA51j.png" group-title=" " tvg-chno="1048",RAI News 24 HD
-https://8e7439fdb1694c8da3a0fd63e4dda518.msvdn.net/rainews1/hls/playlist_mo.m3u8
-#EXTGRP:DVB-T2
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="" tvg-chno="1049",Mediaset Italia 2
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=
-https://live03-col.msf.cdn.mediaset.net/live/ch-i2/i2-clr.isml/manifest.mpd
-#EXTGRP:DVB-T2
-#EXTINF:-1 tvg-id="SkyTG24.it" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sky-tg-24-it.png" group-title=" " tvg-chno="1050",Sky TG24
-https://ythls.armelin.one/channel/UCz6E3lF72mb6uoJ-mOlNo2A.m3u8
-#EXTGRP:DVB-T2
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="" tvg-chno="1051",TGCom 24
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=
-https://live03-col.msf.cdn.mediaset.net/live/ch-kf/kf-clr.isml/manifest.mpd
-#EXTGRP:DVB-T2
-#EXTINF:-1 tvg-id=" " tvg-logo="https://canaleitalia.it/wp-content/uploads/2022/06/logo-canale-italia-streaming.png" group-title=" " tvg-chno="1053",Casa Italia 53
-https://6e94aeeb1b42461d95f973ae34be5167.msvdn.net/ac115_live/canale3.smil/playlist.m3u8
-#EXTGRP:DVB-T2
-#EXTINF:-1 tvg-id="RAIStoria.it" tvg-logo="https://www.lyngsat-logo.com/logo/tv/rr/rai_storia.png" group-title=" " tvg-chno="1054",RAI Storia
-http://livetv.ktv.zone/155/play.m3u8
-#EXTGRP:DVB-T2
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="" tvg-chno="1055",Mediaset Extra
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=
-https://live03-col.msf.cdn.mediaset.net/live/ch-kq/kq-clr.isml/manifest.mpd
-#EXTGRP:DVB-T2
-#EXTINF:-1 tvg-id="Sportitalia.it" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sportitalia-it.png" group-title=" " tvg-chno="1060",Sportitalia
-https://di-j16ei4yq.vo.lswcdn.net/sportitalia/smil:sihd.smil/playlist.m3u8
-#EXTGRP:DVB-T2
-#EXTINF:-1 tvg-id="Sportitalia24.it" tvg-logo="https://net-static.tcccdn.com/template/sportitalia.com/img/streaming/si_live24.png" group-title=" " tvg-chno="1060",Sportitalia Live 24
-https://di-j16ei4yq.vo.lswcdn.net/sportitalia/smil:silive24.smil/playlist.m3u8
-#EXTGRP:DVB-T2
-#EXTINF:-1 tvg-id="CampioneSport.it" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/campionesport.png" group-title=" " tvg-chno="1061",Campionesport
-https://5f22d76e220e1.streamlock.net/campionesport/campionesport/playlist.m3u8
-#EXTGRP:DVB-T2
-#EXTINF:-1 tvg-id="DonnaTV.it" tvg-logo="https://www.lyngsat-logo.com/logo/tv/dd/donna-tv-it.png" group-title=" " tvg-chno="1062",Donna TV
-https://streaming.softwarecreation.it/DonnaTv/DonnaTv/playlist.m3u8
-#EXTGRP:DVB-T2
-#EXTINF:-1 tvg-id="GoTV.it" tvg-logo="https://i.imgur.com/11V0QSp.png" group-title=" " tvg-chno="1063",Go-TV
-https://6zklxkbbdw9b-hls-live.mariatvcdn.it/msmotor/2f759512164fc6fe4acbed6a5648993a.sdp/playlist.m3u8
-#EXTGRP:DVB-T2
-#EXTINF:-1 tvg-id="SuperTennis.it" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/supertennis.png" group-title=" " tvg-chno="1064",Supertennis
-https://supertennix-l3-live1.secure.footprint.net/restreamer/supertennix_client/gpu-a-c0-16/restreamer/rtmp/hls/h24_supertennix/manifest.m3u8
-#EXTGRP:DVB-T2
-#EXTINF:-1 tvg-id="AlmaTV.it" tvg-logo="https://www.lyngsat-stream.com/logo/tv/aa/alma-tv-it.png" group-title=" " tvg-chno="1065",Alma TV
-https://streaming.softwarecreation.it/AlmaTv/AlmaTv/playlist.m3u8
-#EXTGRP:DVB-T2
-#EXTINF:-1 tvg-id="Radio105TV.it" tvg-logo="https://www.lyngsat-logo.com/logo/radio/rr/radio_105_it_radio.png" group-title=" " tvg-chno="1066",Radio 105 TV
-https://live02-seg.msr.cdn.mediaset.net/live/ch-ec/ec-clr.isml/index.m3u8
-#EXTGRP:DVB-T2
-#EXTINF:-1 tvg-id="R101TV.it" tvg-logo="https://www.lyngsat-logo.com/logo/radio/rr/r101_radio_it.png" group-title="" tvg-chno="1067",R101 TV
-https://live02-seg.msr.cdn.mediaset.net/live/ch-er/er-clr.isml/index.m3u8
-#EXTGRP:DVB-T2
-#EXTINF:-1 tvg-id="Bomchannel.it" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bom-channel-it.png" group-title=" " tvg-chno="1068",BOM Channel
-https://5f22d76e220e1.streamlock.net/BOMCHANNEL/BOMCHANNEL/playlist.m3u8
-#EXTGRP:DVB-T2
-#EXTINF:-1 tvg-id="DeejayTV.it" tvg-logo="https://i.imgur.com/rlaKH6k.png" group-title=" " tvg-chno="1069",Deejay TV
-https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S85984808/sMO0tz9Sr2Rk/playlist.m3u8
-#EXTGRP:DVB-T2
-#EXTINF:-1 tvg-id="RadioItaliaTV.it" tvg-logo="https://i.imgur.com/4VCEJuJ.png" tvg-id="RadioItaliaTV.it" group-title=" " tvg-chno="1070",Radio Italia TV
-https://radioitaliatv.akamaized.net/hls/live/2093117/RadioitaliaTV/master.m3u8
-#EXTGRP:DVB-T2
-#EXTINF:-1 tvg-id="Canaleitalia.it" tvg-logo="https://www.lyngsat.com/logo/tv/cc/canale_italia_it.png" group-title=" " tvg-chno="1071",Canale Italia
-https://6e94aeeb1b42461d95f973ae34be5167.msvdn.net/ac115_live/canale1.smil/playlist.m3u8
-#EXTGRP:DVB-T2
-#EXTINF:-1 tvg-id="RadioBrunoTv.it" tvg-logo="https://i.imgur.com/y4vKE83.png" group-title=" " tvg-chno="1073",Radio Bruno TV
-https://router.xdevel.com/video0s975758-473/stream/playlist.m3u8
-#EXTGRP:DVB-T2
-#EXTINF:-1 tvg-id="EntellaTV.it" tvg-logo="https://i.imgur.com/1VPXKrW.png" group-title=" " tvg-chno="1075",Entella TV
-https://5f22d76e220e1.streamlock.net:443/EntellaTV/EntellaTV/playlist.m3u8
-#EXTGRP:DVB-T2
-#EXTINF:-1 tvg-id="Radio104.it" tvg-logo="https://www.radio104.it/wp-content/uploads/2020/08/cropped-LOGO-RADIO-104-LIKE-IT-NERO-rid.png" group-title=" " tvg-chno="1077",Radio 104 TV
-https://57068da1deb21.streamlock.net/radio104/radio104/playlist.m3u8
-#EXTGRP:DVB-T2
-#EXTINF:-1 tvg-id="BabayagaTV.it" tvg-logo="https://www.babayaga.fun/uploads/1/2/8/7/128771604/babayaga-rosso.png" group-title=" " tvg-chno="1078",Baba Yaga TV
-https://stream1.xdevel.com/video0s975770-326/stream/playlist.m3u8
-#EXTGRP:DVB-T2
-#EXTINF:-1 tvg-id="MotoriTV.it" tvg-logo="https://i.imgur.com/NWXQKbl.png" group-title=" " tvg-chno="1078",Motori TV
-https://5f22d76e220e1.streamlock.net/servizio01/servizio01/playlist.m3u8
-#EXTGRP:DVB-T2
-#EXTINF:-1 tvg-id="TRSport.it" tvg-logo="https://i.imgur.com/ELXmaqg.png" group-title=" " tvg-chno="1078",Teleromagna Sport
-https://livetr.teleromagna.it/mia/live/playlist.m3u8
-#EXTGRP:DVB-T2
-#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title=" " tvg-chno="1081",Radio Italia Anni 60
-https://5f204aff97bee.streamlock.net/Anni60TV/livestream/playlist.m3u8
-#EXTGRP:DVB-T2
-#EXTINF:-1 tvg-id=" " tvg-logo="https://www.mitology.tv/wp-content/uploads/2023/09/MitologyTV-favicon-120x82.png" group-title=" " tvg-chno="1082",Mitology TV
-https://64b16f23efbee.streamlock.net/mitologytv/mitologytv/playlist.m3u8
-#EXTGRP:DVB-T2
-#EXTINF:-1 tvg-id="RBETV.it" tvg-logo="https://rbe.it/wp-content/themes/rbe6/img/RBE-web-01.png" group-title=" " tvg-chno="1087",RBE TV
-https://5f22d76e220e1.streamlock.net/rbetv/rbetv/playlist.m3u8
-#EXTGRP:DVB-T2
-#EXTINF:-1 tvg-id="RTVSanMarinoSport.sm" tvg-logo="https://i.imgur.com/PGm944g.png" group-title=" " tvg-chno="1093",RTV San Marino Sport
-https://d2hrvno5bw6tg2.cloudfront.net/smrtv-ch02/smil:ch-02.smil/master.m3u8
-#EXTGRP:DVB-T2
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.radiocity4you.it/wp-content/uploads/2022/08/city4you-web.png" group-title=" " tvg-chno="1098",Radio 4 You TV
-https://streamsrv2.nets-sr.com:19360/4youtv/4youtv.m3u8
-#EXTGRP:DVB-T2
-#EXTINF:-1 tvg-id="111TV.it" tvg-logo="https://i.imgur.com/4jY8yAI.png" group-title=" " tvg-chno="1111",111 TV
-https://5db313b643fd8.streamlock.net/111TV/111TV/playlist.m3u8
-#EXTGRP:DVB-T2
-#EXTINF:-1 tvg-id="CompanyTV.it" tvg-logo="https://i.imgur.com/A7q1zRj.png" group-title=" " tvg-chno="1119",Company TV
-https://5929b138b139d.streamlock.net/CompanyTV/smil:CompanyTV.smil/master.m3u8
-#EXTGRP:DVB-T2
-#EXTINF:-1 tvg-id="Italiachannel.it" tvg-logo="https://i.imgur.com/AVDkd2K.png" group-title=" " tvg-chno="1123",Italia Channel
-https://stream1.aswifi.it/italiachannel/stream/index.m3u8
-#EXTGRP:DVB-T2
-#EXTINF:-1 tvg-id="GoldTV.it" tvg-logo="https://www.lyngsat-logo.com/logo/tv/gg/gold-tv-it.png" group-title=" " tvg-chno="1128",Gold TV
-https://streaming.softwarecreation.it/GoldTv/GoldTv/playlist.m3u8
-#EXTGRP:DVB-T2
-#EXTINF:-1 tvg-id=" " tvg-logo="https://yt3.googleusercontent.com/ytc/AGIKgqNm0K0bOOGXtvQf5fuaLrM0fGmsS08Ap7AiZV_u=s176-c-k-c0x00ffffff-no-rj" group-title=" " tvg-chno="1134",Juwelo Italia
-https://ythls.onrender.com/channel/UClnnxbOKTj46d0rc5d9R94w.m3u8
-#EXTGRP:DVB-T2
-#EXTINF:-1 tvg-id="OrlerTV.it" tvg-logo="https://www.lyngsat-logo.com/logo/tv/oo/orler_tv_it.png" group-title=" " tvg-chno="1144",Orler TV
-https://w1.mediastreaming.it/orlertv/livestream/playlist.m3u8
-#EXTGRP:DVB-T2
-#EXTINF:-1 tvg-id="PadrePioTV.it" tvg-logo="https://upload.wikimedia.org/wikipedia/it/7/78/Tele_Radio_Padre_Pio.png" group-title=" " tvg-chno="1145",Padre Pio TV
-https://600f07e114306.streamlock.net/PadrePioTV/livestream/playlist.m3u8
-#EXTGRP:DVB-T2
-#EXTINF:-1 tvg-id="FascinoTV.it" tvg-logo="https://www.donnashopping.tv/wp-content/uploads/2020/10/donnashoppint-tv-logo.png" group-title=" " tvg-chno="1157",Fascino TV
-https://5f22d76e220e1.streamlock.net/fascinotv/fascinotv/playlist.m3u8
-#EXTGRP:DVB-T2
-#EXTINF:-1 tvg-id="Kisskiss.it" tvg-logo="https://i.imgur.com/ja6c2YZ.png" group-title=" " tvg-chno="1158",Radio Kiss Kiss TV
-https://58f12ffd2447a.streamlock.net/KKMulti/livestream/playlist.m3u8
-#EXTGRP:DVB-T2
-#EXTINF:-1 tvg-id="NTN.it" tvg-logo="" group-title=" " tvg-chno="1166",NTN - Nuova Televisione Nazionale
-https://stream4.xdevel.com/video0s975955-782/stream/playlist.m3u8
-#EXTGRP:DVB-T2
-#EXTINF:-1 tvg-id="VH1.it" tvg-logo="https://www.lyngsat-logo.com/logo/tv/vv/vh1-us.png" group-title=" " tvg-chno="1167",VH1 (Italia)
-https://content.uplynk.com/channel/36953f5b6546464590d2fcd954bc89cf.m3u8
-#EXTGRP:DVB-T2
-#EXTINF:-1 tvg-id="EuroTV.it" tvg-logo="" group-title=" " tvg-chno="1168",Euro TV
-https://5f22d76e220e1.streamlock.net/eurotv/eurotv/playlist.m3u8
-#EXTGRP:DVB-T2
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/ee/explorer-hd-channel-it.png" group-title=" " tvg-chno="1176",Explorer HD Channel
-https://3e836341ee364c90b4519e5f0ae6c193.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/ONO_ExplorerHD/playlist.m3u8
-#EXTGRP:DVB-T2
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ii/italia_2_it.png" group-title=" " tvg-chno="1179",Italia 2 News
-https://59d7d6f47d7fc.streamlock.net/italia2/italia2/playlist.m3u8
-#EXTGRP:DVB-T2
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQz6pMX63Sjzc_NTmDu2PxY0ccUTJfujGnc9L_dVR1CZOLQReI1EOpW0fDPVA&s" group-title=" " tvg-chno="1183",Radio Birikina TV
-https://56b50ada2d659.streamlock.net/RadioBirikinaTV/livestream/playlist.m3u8
-#EXTGRP:DVB-T2
-#EXTINF:-1 tvg-id="" tvg-logo="https://radiojukebox.info/wp-content/uploads/2019/11/manutenzione-e1610699766130.png" group-title=" " tvg-chno="1192",Radio Jukebox TV
-https://5926fc9c7c5b2.streamlock.net/9108/9108/playlist.m3u8
-#EXTGRP:DVB-T2
-#EXTINF:-1 tvg-id="APChannel.it" tvg-logo="https://www.aplife.it/wp-content/uploads/2022/07/Logo-AP-Life.png" group-title=" " tvg-chno="1220",AP Channel
-https://stream.cp.ets-sistemi.it:1936/life120-live/life120-live/playlist.m3u8
-#EXTGRP:DVB-T2
-#EXTINF:-1 tvg-id="RadioTicinoChannel.ch" tvg-logo="https://radioticino.com/wp-content/uploads/2019/09/logon.png" group-title=" " tvg-chno="1220",Radio Ticino Channel [Radiovision]
-https://2-fss-2.themediacdn.com/pl_124/amlst:204654-1927794/playlist.m3u8
-#EXTGRP:DVB-T2
-#EXTINF:-1 tvg-id="RTL1025News.it" tvg-logo="https://i.imgur.com/vAtzwXK.png" group-title=" " tvg-chno="1233",RTL 102.5 News TV
-https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S38122967/2lyQRIAAGgRR/playlist_video.m3u8
-#EXTGRP:DVB-T2
-#EXTINF:-1 tvg-id="" tvg-logo="https://cusanonews7.cusanoitaliatv.it/wp-content/uploads/2023/09/logo_news7_01.png" group-title=" " tvg-chno="1234",Cusano News 7
-https://stream9.xdevel.com/video1s975363-1596/stream/playlist.m3u8
-#EXTGRP:DVB-T2
-#EXTINF:-1 tvg-id="" tvg-logo="https://paroledivita.org/images/logo/favicon_blue_1C91F7.png" group-title=" " tvg-chno="1245",Parole di Vita TV
-https://5db313b643fd8.streamlock.net/Paroledivita/Paroledivita/playlist.m3u8
-#EXTGRP:DVB-T2
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.tci-italia.it/wp-content/uploads/2022/12/LOGO-2023.png" group-title=" " tvg-chno="1248",TCI
-https://tbn-jw.cdn.vustreams.com/live/tci/live.isml/live.m3u8
-#EXTGRP:DVB-T2
-#EXTINF:-1 tvg-id="RadioLiberta.it" tvg-logo="https://i.imgur.com/HRvPlf5.png" group-title=" " tvg-chno="1252",Radio Libertà
-https://router.xdevel.com/video0s975360-67/stream/playlist_dvr.m3u8
-#EXTGRP:DVB-T2
-#EXTINF:-1 tvg-id=" " tvg-logo="https://www.tvdream.net/img/mariavision.png" group-title=" " tvg-chno="1255",Maria Visión TV
-https://1601580044.rsc.cdn77.org/live/_jcn_/amlst:CHANNEL_2/playlist.m3u8
-#EXTGRP:DVB-T2
-#EXTINF:-1 tvg-id="RadioFrecciaTV.it" tvg-logo="https://www.lyngsat-logo.com/logo/radio/rr/radio_freccia_it.png" group-title=" " tvg-chno="1258",Radiofreccia TV
-https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S3160845/0tuSetc8UFkF/playlist_video.m3u8
-#EXTGRP:DVB-T2
-#EXTINF:-1 tvg-id="BikeChannel.it" tvg-logo="https://i.imgur.com/wZh7aI8.png" group-title=" " tvg-chno="1259",Bike
-https://62becaa5a1e2f.streamlock.net/BIKE/BIKE/playlist.m3u8
-#EXTGRP:DVB-T2
-#EXTINF:-1 tvg-id="BFC.it" tvg-logo="https://bfcvideo.com/wp-content/uploads/2018/12/Logo-BFC-Forbes-small-201812211216.png" group-title=" " tvg-chno="1260",BFC
-https://62becaa5a1e2f.streamlock.net/BFC/BFC/playlist.m3u8
-#EXTGRP:DVB-T2
-#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title=" " tvg-chno="1261",Giornale Radio TV
-https://5e73cf528f404.streamlock.net/GR_sport/livestream/playlist.m3u8
-#EXTGRP:DVB-T2
-#EXTINF:-1 tvg-id="" tvg-logo=" " group-title=" " tvg-chno="1262",Byoblu
-https://streamcdnm3-09bd1346f7a44cc9ac230cc1cb22ca4f.msvdn.net/live/S39249178/EnTK3KeeN1Eg/playlist.m3u8
-#EXTGRP:DVB-T2
-#EXTINF:-1 tvg-id="" tvg-logo="https://cusanoitaliatv.it/wp-content/uploads/2020/07/Logo-Radio-Cusano-Tv-Italia.png" group-title=" " tvg-chno="1264",Cusano Italia TV
-https://router.xdevel.com/video0s975363-69/stream/playlist.m3u8
-#EXTGRP:DVB-T2
-#EXTINF:-1 tvg-id="RDSSocialTV.it" tvg-logo="https://www.lyngsat-stream.com/logo/tv/rr/rds-social-tv-it.png" group-title=" " tvg-chno="1265",RDS Social TV
-https://stream.rdstv.radio/out/v1/ec85f72b87f04555aa41d616d5be41dc/index_8.m3u8
-#EXTGRP:DVB-T2
-#EXTINF:-1 tvg-id="RadioZetaTV.it" tvg-logo="https://www.lyngsat-logo.com/logo/radio/rr/radio_zeta_it.png" group-title=" " tvg-chno="1266",Radio Zeta TV
-https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S9346184/XEx1LqlYbNic/playlist_video.m3u8
-#EXTGRP:DVB-T2
-#EXTINF:-1 tvg-id="SportitaliaSolocalcio.it" tvg-logo="https://i.imgur.com/hu56Ya5.png" group-title=" " tvg-chno="1269",Sportitalia SoloCalcio
-https://di-j16ei4yq.vo.lswcdn.net/sportitalia/smil:sisolocalcio.smil/playlist.m3u8
-#EXTGRP:DVB-T2
-#EXTINF:-1 tvg-id="RAISudtirol.it" tvg-logo="https://www.lyngsat-logo.com/logo/tv/rr/rai-3-sudtirol-it.png" group-title=" " tvg-chno="1308",RAI Südtirol
-http://wzstreaming.rai.it/TVlive/liveStream/master.m3u8
-#EXTGRP:DVB-T2
-#EXTINF:-1 tvg-id="Business24.it" tvg-logo="https://business24tv.it/wp-content/uploads/elementor/thumbs/logo_b24-pryfkrmu8wj7rt8w8cfpg1cst9dj9igi42gtg3c59y.png" group-title=" " tvg-chno="1410",Business 24 Italia
-https://premio.link/business24/smil:business24.smil/playlist.m3u8
-#EXTGRP:DVB-T2
-#EXTINF:-1 tvg-id="CanaleEuropaTV.it" tvg-logo=" " user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 Edg/112.0.1722.34" group-title=" " tvg-chno="1416",Canale Europa TV
-#EXTVLCOPT:http-referrer=https://player.castr.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 Edg/112.0.1722.34
-https://stream.castr.com/604b6e10ad1e130d20dedd12/live_1b2633f0158b11eeb388a5854e7a8f3a/index.m3u8
-#EXTGRP:DVB-T2
-#EXTINF:-1 tvg-id="DolomitiLifeTV.it" tvg-logo="https://www.dolomitilifetv.it/_next/image?url=%2Fimages%2Ficons%2FlogoIcon.png&w=32&q=75" group-title=" " tvg-chno="1441",Dolomiti Life TV
-https://stream.mariatvcdn.com/teledolomiti/a66b8b8ac2baee06f136e87b9805774d.sdp/chunks.m3u8
-#EXTGRP:DVB-T2
-#EXTINF:-1 tvg-id="VaticanMedia.va" tvg-logo="https://i.imgur.com/9cUUx8H.png" group-title=" " tvg-chno="1555",Vatican Media (Italiano)
-https://ythls.armelin.one/channel/UC7E-LYc1wivk33iyt5bR5zQ.m3u8
-#EXTGRP:DVB-T2
-#EXTINF:-1 tvg-id="UniNettunoUniversityTV.it" tvg-logo="https://i.imgur.com/BOGMeio.png" group-title=" " tvg-chno="1701",UniNettuno University TV
-https://stream6-rai-it.akamaized.net/live/uninettuno/playlist.m3u8
-#EXTGRP:DVB-T2
-#EXTINF:-1 tvg-id="RadioCapitalTv.it" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/radiocapitaltv.png" group-title=" " tvg-chno="1713",Radio Capital TV
-https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S35394734/Z6U2wGoDYANk/playlist.m3u8
-#EXTGRP:DVB-T2
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/m2o_it_tv.png" group-title=" " tvg-chno="1715",M2O TV
-https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S62628868/uhdWBlkC1AoO/playlist.m3u8
-#EXTGRP:DVB-T2
-#EXTINF:-1 tvg-id="SanMarinoRTV.sm" tvg-logo="https://i.imgur.com/lJpOlLv.png" group-title=" " tvg-chno="1831",RTV San Marino 
-https://d2hrvno5bw6tg2.cloudfront.net/smrtv-ch01/_definst_/smil:ch-01.smil/chunklist_b1692000_slita.m3u8
-#EXTGRP:DVB-T2
-#EXTINF:-1 tvg-id="SuperSix.it" tvg-logo="https://i.imgur.com/kHSuyub.png" group-title=" " tvg-chno="1877",Super Six
-https://5db313b643fd8.streamlock.net/SUPERSIXLombardia/SUPERSIXLombardia/playlist.m3u8
-#EXTGRP:DVB-T2
-#EXTINF:-1 tvg-id="RadioTvSerieA.it" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/radiotvseriea.png" group-title=" " tvg-chno="1899",Serie A con RDS TV
-https://stream.radioseriea.com/50773f0d0070476a8612d9984c6059d8/index.m3u8
-
-#EXTGRP:DVB-T2
-#EXTINF:-1 tvg-id="TVG.es" tvg-logo="https://graph.facebook.com/CRTVG/picture?width=200&height=200" group-title=" " tvg-chno="5000",TVG America
-https://america-crtvg.flumotion.com/playlist.m3u8
-#EXTGRP:DVB-T2
-#EXTINF:-1 tvg-id="La1.es" tvg-logo="https://estaticos.tdt1.com/canales/logotve1.jpg" tvg-chno="5001",La 1
-https://i.mjh.nz/SamsungTVPlus/ESBC4100001NZ.m3u8
-#EXTGRP:DVB-T2
-#EXTINF:-1 tvg-id="La2.es" tvg-logo="https://estaticos.tdt1.com/canales/logotve2.jpg" tvg-chno="5002",La 2
-https://i.mjh.nz/SamsungTVPlus/ESBC4100002AG.m3u8
-#EXTGRP:DVB-T2
-#EXTINF:-1 tvg-id="CanalSur.es" tvg-logo="https://estaticos.tdt1.com/canales/logocanalsur.jpg" group-title=" " tvg-chno="5003",Canal Sur 
-https://cdnlive.codev8.net/rtvalive/smil:channel1.smil/playlist.m3u8
-#EXTGRP:DVB-T2
-#EXTINF:-1 tvg-id="ETB1.es" tvg-logo="https://graph.facebook.com/eitb/picture?width=200&height=200" group-title=" " tvg-chno="5003",ETB 1
-https://multimedia.eitb.eus/live-content/etb1hd-hls/master.m3u8
-#EXTGRP:DVB-T2
-#EXTINF:-1 tvg-id="Telemadrid.es" tvg-logo="https://estaticos.tdt1.com/canales/logotelemadrid.jpg" group-title=" " tvg-chno="5003",Telemadrid
-https://telemadrid-23.secure2.footprint.net/master.m3u8
-#EXTGRP:DVB-T2
-#EXTINF:-1 tvg-id="TelevisionCanaria.es" tvg-logo="https://graph.facebook.com/188600904655/picture?width=200&height=200" group-title=" " tvg-chno="5003",Televisión Canaría
-https://ythls.armelin.one/channel/UCTQrUTmzCWIfG6h4EVCdOCQ.m3u8
-#EXTGRP:DVB-T2
-#EXTINF:-1 tvg-id="TV3.cat" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/TV3CAT.svg/512px-TV3CAT.svg.png" group-title=" " tvg-chno="5003",TV3 Catalunya
-https://directes-tv-int.ccma.cat/live-origin/tvi-hls/master.m3u8
-#EXTGRP:DVB-T2
-#EXTINF:-1 tvg-id="TVG.es" tvg-logo="https://graph.facebook.com/CRTVG/picture?width=200&height=200" group-title=" " tvg-chno="5003",TVG
-https://europa-crtvg.flumotion.com/playlist.m3u8
-#EXTGRP:DVB-T2
-#EXTINF:-1 tvg-id="Antena3.es" tvg-logo="https://estaticos.tdt1.com/canales/logoantena3.jpg" tvg-chno="5004",Antena 3
-https://fibergy.cdn.masmediatv.es/SVoriginOperatorDistrib001/smil:277_HD.smil/index.m3u8
-#EXTGRP:DVB-T2
-#EXTINF:-1 tvg-id="Cuatro.es" tvg-logo="https://estaticos.tdt1.com/canales/logocuatro.jpg" tvg-chno="5005",Cuatro
-https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge/smil:9_HD.smil/manifest.m3u8
-#EXTGRP:DVB-T2
-#EXTINF:-1 tvg-id="Telecinco.es" tvg-logo="https://estaticos.tdt1.com/canales/logotelecinco.jpg" tvg-chno="5006",Telecinco
-http://167.114.156.136:25461/INFINITV/ZX89NM22/203
-#EXTGRP:DVB-T2
-#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title=" " tvg-chno="5007",7 La Rioja TV
-plugin://plugin.video.dailymotion_com/?url=x8dhao1&mode=playLiveVideo
-#EXTGRP:DVB-T2
-#EXTINF:-1 tvg-id="" tvg-logo="https://graph.facebook.com/la7tele/picture?width=200&height=200" group-title=" " tvg-chno="5007",7 Region de Murcia
-https://rtv-murcia-live.globalmest.com/principal/smil:principal.smil/playlist.m3u8
-#EXTGRP:DVB-T2
-#EXTINF:-1 tvg-id="Apunt.es" tvg-logo="https://graph.facebook.com/apuntmedia/picture?width=200&height=200" group-title=" " tvg-chno="5007",À Punt
-https://bcovlive-a.akamaihd.net/469e448f034b4d46afa4bcac53297d60/eu-central-1/6057955885001/playlist_dvr.m3u8
-#EXTGRP:DVB-T2
-#EXTINF:-1 tvg-id="AragonTV.es" tvg-logo="https://graph.facebook.com/VinxTV/picture?width=200&height=200" group-title=" " tvg-chno="5007",Aragon Televisión
-https://cartv.streaming.aranova.es/hls/live/aragontv_canal1.m3u8
-#EXTGRP:DVB-T2
-#EXTINF:-1 tvg-id="Canalextremadura.es" tvg-logo=" " group-title=" " tvg-chno="5007",Canal Extremadura
-https://cdnapi.kaltura.com/p/5581662/sp/558166200/playManifest/entryId/1_in8cxw3w/protocol/https/format/applehttp/a.m3u8
-#EXTGRP:DVB-T2
-#EXTINF:-1 tvg-id="CanalSur2.es" tvg-logo="https://estaticos.tdt1.com/canales/logocanalsur2.jpg" group-title=" " tvg-chno="5007",Canal Sur 2
-https://cdnlive.codev8.net/rtvalive/smil:channel22.smil/playlist.m3u8
-#EXTGRP:DVB-T2
-#EXTINF:-1 tvg-id="CMM.es" tvg-logo="https://graph.facebook.com/CMMediaes/picture?width=200&height=200" group-title=" " tvg-chno="5007",CMM TV
-https://cdnapi.kaltura.com/p/2288691/sp/228869100/playManifest/entryId/1_01fn4ycl/format/applehttp/.m3u8
-#EXTGRP:DVB-T2
-#EXTINF:-1 tvg-id="ETB2.es" tvg-logo="https://graph.facebook.com/eitb/picture?width=200&height=200" group-title=" " tvg-chno="5007",ETB 2
-https://multimedia.eitb.eus/live-content/etb2hd-hls/master.m3u8
-#EXTGRP:DVB-T2
-#EXTINF:-1 tvg-id="LaOtra.es" tvg-logo="https://estaticos.tdt1.com/canales/logolaotra.jpg" group-title=" " tvg-chno="5007",La Otra
-https://laotra-1-23.secure2.footprint.net/master.m3u8
-#EXTGRP:DVB-T2
-#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title=" " tvg-chno="5007",Navarra Televisión
-plugin://plugin.video.dailymotion_com/?url=x8dhap9&mode=playLiveVideo
-#EXTGRP:DVB-T2
-#EXTINF:-1 tvg-id="TVG2.es" tvg-logo="https://graph.facebook.com/CRTVG/picture?width=200&height=200" group-title=" " tvg-chno="5007",TVG 2
-https://events2-crtvg.flumotion.com/playlist.m3u8
-#EXTGRP:DVB-T2
-#EXTINF:-1 tvg-id="8Madrid.es" tvg-logo="https://estaticos.tdt1.com/canales/logo8madrid.jpg" group-title=" " tvg-chno="5008",8 Madrid
-https://fibergy.cdn.masmediatv.es/SVoriginOperatorDistrib001/smil:234_HD.smil/index.m3u8
-#EXTGRP:DVB-T2
-#EXTINF:-1 tvg-id="La8.es" tvg-logo="https://graph.facebook.com/la8mediterraneo/picture?width=200&height=200" group-title=" " tvg-chno="5008",La 8 Mediterráneo
-https://streaming004.gestec-video.com/hls/8TV.m3u8
-#EXTGRP:DVB-T2
-#EXTINF:-1 tvg-id="ETB3.es" tvg-logo=" " group-title=" " tvg-chno="5008",ETB 3
-https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge3/smil:98_HD.smil/manifest.m3u8
-#EXTGRP:DVB-T2
-#EXTINF:-1 tvg-id="LaSexta.es" tvg-logo="https://estaticos.tdt1.com/canales/logolasexta.jpg" tvg-chno="5009",La Sexta
-https://fibergy.cdn.masmediatv.es/SVoriginOperatorDistrib001/smil:276_HD.smil/index.m3u8
-#EXTGRP:DVB-T2
-#EXTINF:-1 tvg-id="Ten.es" tvg-logo="https://estaticos.tdt1.com/canales/logoten.jpg" tvg-chno="5010",Ten
-https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge2/smil:26_HD.smil/manifest.m3u8
-#EXTGRP:DVB-T2
-#EXTINF:-1 tvg-id="Tdp.es" tvg-logo="https://estaticos.tdt1.com/canales/logoteledeporte.jpg" tvg-chno="5011",Tdp
-https://i.mjh.nz/SamsungTVPlus/ESBC410000577.m3u8
-#EXTGRP:DVB-T2
-#EXTINF:-1 tvg-id="Canal24horas.es" tvg-logo="https://estaticos.tdt1.com/canales/logotve24h.jpg" tvg-chno="5012",24h
-https://i.mjh.nz/SamsungTVPlus/ESBC4100004J1.m3u8
-#EXTGRP:DVB-T2
-#EXTINF:-1 tvg-id="Trece.es" tvg-logo="https://estaticos.tdt1.com/canales/logotrece.jpg" tvg-chno="5013",Trece
-https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge2/smil:24_HD.smil/manifest.m3u8
-#EXTGRP:DVB-T2
-#EXTINF:-1 tvg-id="Neox.es" tvg-logo="https://estaticos.tdt1.com/canales/logoneox.jpg" tvg-chno="5014",Neox
-https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge/smil:13_HD.smil/manifest.m3u8
-#EXTGRP:DVB-T2
-#EXTINF:-1 tvg-id="Energy.es" tvg-logo="https://estaticos.tdt1.com/canales/logoenergy.jpg" tvg-chno="5015",Energy
-https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge/smil:19_HD.smil/manifest.m3u8
-#EXTGRP:DVB-T2
-#EXTINF:-1 tvg-id="Fdf.es" tvg-logo="https://estaticos.tdt1.com/canales/logofdf.jpg" tvg-chno="5016",FdF
-https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge/smil:16_HD.smil/manifest.m3u8
-#EXTGRP:DVB-T2
-#EXTINF:-1 tvg-id="RealMadridTV.es" tvg-logo="https://i.imgur.com/5pMo7dL.png" tvg-chno="5017",Real Madrid TV
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01201-cinedigmenterta-realmadrid-cineverse/playlist.m3u8
-#EXTGRP:DVB-T2
-#EXTINF:-1 tvg-id="GolPlay.es" tvg-logo="https://estaticos.tdt1.com/canales/logogolplay.jpg" group-title=" " tvg-chno="5018",Gol Play
-https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge/smil:5_HD.smil/manifest.m3u8
-#EXTGRP:DVB-T2
-#EXTINF:-1 tvg-id="Disneychannel.es" tvg-logo="https://estaticos.tdt1.com/canales/logodisneychannel.jpg" group-title=" " tvg-chno="5019",Disney Channel (España)
-https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge2/smil:21_HD.smil/manifest.m3u8
-#EXTGRP:DVB-T2
-#EXTINF:-1 tvg-id="Clan.es" tvg-logo="https://estaticos.tdt1.com/canales/logoclantve.jpg" tvg-chno="5020",Clan
-https://i.mjh.nz/SamsungTVPlus/ESBC4100003WE.m3u8
-#EXTGRP:DVB-T2
-#EXTINF:-1 tvg-id="Paramountchannel.es" tvg-logo="https://estaticos.tdt1.com/canales/logoparamountnetwork.jpg" group-title=" " tvg-chno="5021",Paramount Channel (España)
-https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge2/smil:22_HD.smil/manifest.m3u8
-#EXTGRP:DVB-T2
-#EXTINF:-1 tvg-id=" " tvg-logo="https://estaticos.tdt1.com/canales/logodmax.jpg" group-title=" " tvg-chno="5022",DMax
-https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge/smil:23_HD.smil/manifest.m3u8
-#EXTGRP:DVB-T2
-#EXTINF:-1 tvg-id="Atreseries.es" tvg-logo="https://estaticos.tdt1.com/canales/logoatreseries.jpg" group-title=" " tvg-chno="5023",Atreseries
-https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge2/smil:10_HD.smil/manifest.m3u8
-#EXTGRP:DVB-T2
-#EXTINF:-1 tvg-id="Nova.es" tvg-logo="https://estaticos.tdt1.com/canales/logonova.jpg" tvg-chno="5024",Nova
-https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge/smil:14_HD.smil/manifest.m3u8
-#EXTGRP:DVB-T2
-#EXTINF:-1 tvg-id="Boing.es" tvg-logo="https://estaticos.tdt1.com/canales/logoboing.jpg" tvg-chno="5025",Boing (España)
-https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge/smil:17_HD.smil/manifest.m3u8
-#EXTGRP:DVB-T2
-#EXTINF:-1 tvg-id="Mega.es" tvg-logo="https://estaticos.tdt1.com/canales/logomega.jpg" tvg-chno="5026",Mega
-https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge/smil:15_HD.smil/manifest.m3u8
-
-#EXTGRP:DVB-T2
-#EXTINF:-1 tvg-id="HitTV.es" tvg-logo="https://estaticos.tdt1.com/canales/logohittv.jpg" group-title=" " tvg-chno="5028",Hit TV
-https://fibergy.cdn.masmediatv.es/SVoriginOperatorDistrib001/smil:233_HD.smil/index.m3u8
-#EXTGRP:DVB-T2
-#EXTINF:-1 tvg-id="Dkiss.es" tvg-logo="https://estaticos.tdt1.com/canales/logokiss.jpg" group-title=" " tvg-chno="5029",DKiss
-https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge2/smil:25_HD.smil/manifest.m3u8
-
-#EXTGRP:DVB-T2
-#EXTINF:-1 tvg-id="IB3.es" tvg-logo="https://yt3.googleusercontent.com/ytc/APkrFKbs_U2PBg-AnFeMXvddKBJjzM4WE7dDCtelGrmO_Q=s176-c-k-c0x00ffffff-no-rj" group-title=" " tvg-chno="5030",IB3
-https://ythls.armelin.one/channel/UCff_CBVJDTHP4wOHPjP5BMg.m3u8
-#EXTGRP:DVB-T2
-#EXTINF:-1 tvg-id="SX3.cat" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/SX3_logo.svg/300px-SX3_logo.svg.png" group-title=" " tvg-chno="5031",SX3
-https://directes-tv-int.ccma.cat/live-origin/super3-hls/master.m3u8
-#EXTGRP:DVB-T2
-#EXTINF:-1 tvg-id="Esport3.es" tvg-logo="https://i.imgur.com/Kbnxu7a.png" group-title=" " tvg-chno="5032",Esport 3
-https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge2/smil:48_HD.smil/manifest.m3u8
-#EXTGRP:DVB-T2
-#EXTINF:-1 tvg-id="324.cat" tvg-logo="https://i.imgur.com/SG7D0gt.png" group-title=" " tvg-chno="5033",3/24
-https://directes-tv-int.ccma.cat/live-origin/canal324-hls/master.m3u8
-#EXTGRP:DVB-T2
-#EXTINF:-1 tvg-id="ETB4.es" tvg-logo=" " group-title=" " tvg-chno="5034",ETB 4
-https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge/smil:273_HD.smil/manifest.m3u8
-#EXTGRP:DVB-T2
-#EXTINF:-1 tvg-id="Bondia.cat" tvg-logo="https://i2.wp.com/blocs.mesvilaweb.cat/wp-content/uploads/sites/1858/2018/11/BONDIA.png" group-title=" " tvg-chno="5035",Bon Dia
-https://directes-tv-int.ccma.cat/live-origin/bondia-hls/master.m3u8
-#EXTGRP:DVB-T2
-#EXTINF:-1 tvg-id="Mola.cat" tvg-logo="https://www.molatv.cat/images/molahitstv.png" group-title=" " tvg-chno="5039",Molahits TV
-http://ventdelnord.tv:8080/mola/directe.m3u8
-#EXTGRP:DVB-T2
-#EXTINF:-1 tvg-id="BeMad.es" tvg-logo="https://estaticos.tdt1.com/canales/logobemad.jpg" group-title=" " tvg-chno="5040",BeMad
-https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge/smil:20_HD.smil/manifest.m3u8
-#EXTGRP:DVB-T2
-#EXTINF:-1 tvg-id=" " tvg-logo="https://estaticos.tdt1.com/canales/logobomtv.jpg" group-title="" tvg-chno="5041",BOM Cine
-https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge4/smil:97_HD.smil/manifest.m3u8
-#EXTGRP:DVB-T2
-#EXTINF:-1 tvg-id="AndorraTV.ad" tvg-logo="https://i.imgur.com/CnhTn8i.png" group-title=" " tvg-chno="5050",Andorra Televisió
-https://videos.rtva.ad/live/rtva/playlist.m3u8
-#EXTGRP:DVB-T2
-#EXTINF:-1 tvg-id="RTP1.pt" tvg-logo="https://i.ibb.co/3YZFCjp/rtp1.jpg" group-title=" " tvg-chno="5051",RTP 1
-https://streaming-live.rtp.pt/liverepeater/smil:rtp1HD.smil/playlist.m3u8
-#EXTGRP:DVB-T2
-#EXTINF:-1 tvg-id="SIC.pt" tvg-logo="https://i.ibb.co/6r1xHn6/sic.png" group-title=" " tvg-chno="5053",SIC
-https://d1zx6l1dn8vaj5.cloudfront.net/out/v1/b89cc37caa6d418eb423cf092a2ef970/index.m3u8
-#EXTGRP:DVB-T2
-#EXTINF:-1 tvg-id="TVI.pt" tvg-logo="https://i.ibb.co/pyXp0bk/tvi.png" group-title=" " tvg-chno="5054",TVI
-https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/tvipt/sh/tvi.m3u8
-#EXTGRP:DVB-T2
-#EXTINF:-1 tvg-id="ARTV.pt" tvg-logo="https://i.ibb.co/zZwMM3d/arparl.png" group-title=" " tvg-chno="5055",ARTV
-https://playout175.livextend.cloud/livenlin4/_definst_/2liveartvpub2/playlist.m3u8
-#EXTGRP:DVB-T2
-#EXTINF:-1 tvg-id="RTP3.pt" tvg-logo="https://i.ibb.co/HnqCkQj/rtp3.jpg" group-title=" " tvg-chno="5056",RTP 3
-https://streaming-live.rtp.pt/liverepeater/smil:rtpnHD.smil/playlist.m3u8
-#EXTGRP:DVB-T2
-#EXTINF:-1 tvg-id="RTPAfrica.pt" tvg-logo="https://i.ibb.co/BsdgH54/rtpafr.webp" group-title=" " tvg-chno="5057",RTP África
-https://streaming-live.rtp.pt/liverepeater/smil:rtpafrica.smil/playlist.m3u8
-#EXTGRP:DVB-T2
-#EXTINF:-1 tvg-id="RTPMemoria.pt" tvg-logo="https://i.ibb.co/vZ9S4rV/rtpmem.jpg" group-title=" " tvg-chno="5058",RTP Memória
-https://streaming-live.rtp.pt/liverepeater/smil:rtpmem.smil/playlist.m3u8
-#EXTGRP:DVB-T2
-#EXTINF:-1 tvg-id="RTPI.pt" tvg-logo="https://i.ibb.co/3YZFCjp/rtpi.jpg" group-title=" " tvg-chno="5060",RTP Internacional
-https://streaming-live.rtp.pt/liverepeater/smil:rtpi.smil/playlist.m3u8
-#EXTGRP:DVB-T2
-#EXTINF:-1 tvg-id="RTPAcores.pt" tvg-logo="https://i.ibb.co/9GMzcw7/rtpaco.jpg" group-title=" " tvg-chno="5061",RTP Açores
-https://streaming-live.rtp.pt/liverepeater/smil:rtpacores.smil/playlist.m3u8
-#EXTGRP:DVB-T2
-#EXTINF:-1 tvg-id="RTPMadeira.pt" tvg-logo="https://i.ibb.co/bvwwcB9/rtpmad.jpg" group-title=" " tvg-chno="5062",RTP Madeira
-https://streaming-live.rtp.pt/liverepeater/smil:rtpmadeira.smil/playlist.m3u8
-
-#EXTGRP:DVB-T2
-#EXTINF:-1 channel-id="samsung-GBBD3100006XM" tvg-id="GBBD3100006XM" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBD3100006XM_20231115T012342SQUARE.png_20231115012343.png" group-title=" " tvg-chno="6011",Sky Mix
-https://i.mjh.nz/SamsungTVPlus/GBBD3100006XM.m3u8
-#EXTGRP:DVB-T2
-#EXTINF:-1 tvg-id="STV.uk" tvg-logo="https://i.imgur.com/KiOnQnD.png" group-title=" " tvg-chno="6013",STV
-https://csm-e-stv.tls1.yospace.com/csm/live/139900483.m3u8?yo.l=true&yo.ls=2,3,4,5,6&yo.p=3
-#EXTGRP:DVB-T2
-#EXTINF:-1 tvg-id="STVPlus1.uk" tvg-logo="https://i.imgur.com/XeSaypp.png" group-title=" " tvg-chno="6015",STV +1
-https://csm-e-stv.tls1.yospace.com/csm/live/181023311.m3u8?yo.l=true&yo.ls=2,3,4,5,6&yo.p=3
-#EXTGRP:DVB-T2
-#EXTINF:-1 tvg-id="QVC.uk" tvg-logo="https://static.epg.best/gb/QVC.uk.png" group-title=" " tvg-chno="6016",QVC (UK) 
-https://qvcuk-live.akamaized.net/hls/live/2097112/qvc/master.m3u8
-#EXTGRP:DVB-T2
-#EXTINF:-1 channel-id="samsung-GBBA3300030OP" tvg-id="GBBA3300030OP" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBA3300030OP_20231115T012321SQUARE.png_20231115012322.png" group-title=" " tvg-chno="6021",YAAAS!
-https://i.mjh.nz/SamsungTVPlus/GBBA3300030OP.m3u8
-#EXTGRP:DVB-T2
-#EXTINF:-1 channel-id="samsung-GBBC430000128" tvg-id="GBBC430000128" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBC430000128_20230913T031517SQUARE.png_20230913031518.png" group-title=" " tvg-chno="6026",Pop 
-https://i.mjh.nz/SamsungTVPlus/GBBC430000128.m3u8
-#EXTGRP:DVB-T2
-#EXTINF:-1 channel-id="samsung-GBBD3200003T6" tvg-id="GBBD3200003T6" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBD3200003T6_20230913T031540SQUARE.png_20230913031541.png" group-title=" " tvg-chno="6027",Tiny Pop
-https://i.mjh.nz/SamsungTVPlus/GBBD3200003T6.m3u8
-#EXTGRP:DVB-T2
-#EXTINF:-1 tvg-id="PopMax.uk" tvg-logo="https://i.imgur.com/Z7XTTod.png" group-title=" " tvg-chno="6028",Pop Max
-https://live-sonybebanjo.simplestreamcdn.com/live8/popmax/bitrate1.isml/live.m3u8
-#EXTGRP:DVB-T2
-#EXTINF:-1 channel-id="samsung-GBBB2000004BQ" tvg-id="GBBB2000004BQ" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBB2000004BQ_20231115T012324SQUARE.png_20231115012325.png" group-title=" " tvg-chno="6029",Ketchup TV
-https://i.mjh.nz/SamsungTVPlus/GBBB2000004BQ.m3u8
-#EXTGRP:DVB-T2
-#EXTINF:-1 tvg-id="BBCNews.uk" tvg-logo="https://i.ibb.co/dPmZMqq/bbcn.png" group-title=" " tvg-chno="6031",BBC News
-https://vs-hls-push-ww.live.cf.md.bbci.co.uk/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/mobile_wifi_main_sd_abr_v2.m3u8
-#EXTGRP:DVB-T2
-#EXTINF:-1 tvg-id="SkyNews.uk" tvg-logo="https://i.ibb.co/8MBM4M1/skyn.png" group-title=" " tvg-chno="6033",Sky News
-https://linear021-gb-hls1-prd-ak.cdn.skycdp.com/Content/HLS_001_hd/Live/channel(skynews)/index_hd.m3u8
-#EXTGRP:DVB-T2
-#EXTINF:-1 channel-id="samsung-GBBC900007Q5" tvg-id="GBBC900007Q5" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBC900007Q5_20221123T010227SQUARE.png_20221123010228.png" group-title=" " tvg-chno="6034",GREAT! Movies
-https://i.mjh.nz/SamsungTVPlus/GBBC900007Q5.m3u8
-#EXTGRP:DVB-T2
-#EXTINF:-1 tvg-id="GBNews.uk" tvg-logo="https://i.ibb.co/dpMQyVx/gbn.png" group-title=" " tvg-chno="6036",GBNews
-https://live-gbnews.simplestreamcdn.com/live5/gbnews/bitrate1.isml/manifest.m3u8
-#EXTGRP:DVB-T2
-#EXTINF:-1 tvg-id="TalkTV.uk" tvg-logo="https://i.ibb.co/XWNXpVg/talk.png" group-title=" " tvg-chno="6037",Talk TV
-https://live-talktv-ssai.simplestreamcdn.com/v1/master/82267e84b9e5053b3fd0ade12cb1a146df74169a/talktv-live/index.m3u8
-#EXTGRP:DVB-T2
-#EXTINF:-1 channel-id="samsung-GBBC900008L9" tvg-id="GBBC900008L9" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBC900008L9_20231011T082520SQUARE.png_20231011082521.png" group-title=" " tvg-chno="6052",GREAT! Christmas
-https://i.mjh.nz/SamsungTVPlus/GBBC900008L9.m3u8
-#EXTGRP:DVB-T2
-#EXTINF:-1 tvg-id="AlJazeeraEnglish.qa" tvg-logo=" " group-title=" " tvg-chno="6067",Al Jazeera (English)
-https://live-hls-web-aje.getaj.net/AJE/master.m3u8
-#EXTGRP:DVB-T2
-#EXTINF:-1 tvg-id="Now70s.uk" tvg-logo="https://i.imgur.com/qiCCX5X.png" group-title=" " tvg-chno="6078",Now 70's
-https://lightning-now70s-samsungnz.amagi.tv/playlist.m3u8
-#EXTGRP:DVB-T2
-#EXTINF:-1 tvg-id="Now80s.uk" tvg-logo="https://i.imgur.com/YyPnMeB.png" group-title=" " tvg-chno="6079",Now 80's
-https://lightning-now80s-samsungnz.amagi.tv/playlist.m3u8
-#EXTGRP:DVB-T2
-#EXTINF:-1 tvg-id="Now90s.uk" tvg-logo="https://i.imgur.com/yo8lEu1.png" group-title=" " tvg-chno="6080",Now Rock
-https://lightning-now90s-samsungnz.amagi.tv/playlist.m3u8
-#EXTGRP:DVB-T2
-#EXTINF:-1 tvg-id="" tvg-logo=" " group-title=" " tvg-chno="6085",Create & Craft TV (UK)
-https://live-hochanda.simplestreamcdn.com/live2/hochanda/bitrate1.isml/bitrate1.m3u8
-#EXTGRP:DVB-T2
-#EXTINF:-1 tvg-id="Newsmax.us" tvg-logo="https://yt3.ggpht.com/fXgXYq-vfZapJMvkRQ2k6L1vj4Zd2J97zKXlsc6G95LdIyfH3PI8o-QPreIbPOkEE0B63i1vNdU=s48-c-k-c0x00ffffff-no-rj" group-title=" " tvg-chno="6087",Newsmax
-https://ythls.armelin.one/channel/UCx6h-dWzJ5NpAlja1YsApdg.m3u8
-#EXTGRP:DVB-T2
-#EXTINF:-1 channel-id="samsung-GBBB4300001NX" tvg-id="GBBB4300001NX" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBB4300001NX_20221109T010820SQUARE.png_20221109010820.png" group-title=" " tvg-chno="6095",Viaplay Xtra
-https://i.mjh.nz/SamsungTVPlus/GBBB4300001NX.m3u8
-
-#EXTGRP:DVB-T2 
-#EXTINF:-1 tvg-id="DasErste.de" tvg-logo="https://www.lyngsat.com/logo/tv/dd/das-erste-de.png" group-title=" " tvg-chno="7001",ARD Das Erste
-https://derste247livede.akamaized.net/hls/live/658317/daserste_de/master.m3u8
-#EXTGRP:DVB-T2 
-#EXTINF:-1 tvg-id="ARTE.de" tvg-logo=" " group-title=" " tvg-chno="7006",ARTE (Deutschland)
-https://arteliveext.akamaized.net/hls/live/2030993/artelive_de/master_v720.m3u8
-#EXTGRP:DVB-T2 
-#EXTINF:-1 tvg-id="Tagesschau.de" tvg-logo=" " group-title=" " tvg-chno="7010",Tagesschau 24
-https://tagesschau.akamaized.net/hls/live/2020115/tagesschau/tagesschau_1/master.m3u8
-#EXTGRP:DVB-T2  
-#EXTINF:-1 tvg-id="Alpha.de" tvg-logo="https://storage.googleapis.com/webshop-live/default/0001/03/58422b5476d97df20e984c74a2943ca9cd570313.webp" group-title=" " tvg-chno="7011",ARD Alpha
-https://mcdn.br.de/br/fs/ard_alpha/hls/int/master.m3u8
-
-#EXTGRP:DVB-T2 
-#EXTINF:-1 tvg-id="R9.at" tvg-logo="https://www.r-9.at/assets/images/logoTop.png" group-title=" " tvg-chno="7050",R9 Österreich
-https://ms01.w24.at/R9/smil:liveeventR9.smil/playlist.m3u8
-#EXTGRP:DVB-T2  
-#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title=" " tvg-chno="7060",Hitradio Ö3
-https://studiocam-oe3.mdn.ors.at/out/u/studiocam_oe3/q6a/manifest_1.m3u8
-#EXTGRP:DVB-T2  
-#EXTINF:-1 tvg-id="Oe24.at" tvg-logo=" " group-title=" " tvg-chno="7063",Oe24
-https://varoe24live.sf.apa.at/oe24-live1/oe24.smil/playlist.m3u8
-#EXTGRP:DVB-T2 
-#EXTINF:-1 tvg-id="W24.at" tvg-logo=" " group-title=" " tvg-chno="7064",W24
-https://ms02.w24.at/W24/smil:liveevent.smil/playlist.m3u8
-#EXTGRP:DVB-T2  
-#EXTINF:-1 tvg-id="" tvg-logo=" " group-title=" " tvg-chno="7065",Kurier.TV
-https://schautv.mdn.ors.at/out/u/schautv-nodrm_2.m3u8
-#EXTGRP:DVB-T2 
-#EXTINF:-1 tvg-id="" tvg-logo=" " group-title=" " tvg-chno="7066",Krone.TV
-https://kronetv.mdn.ors.at/out/u/kronetv-nodrm.m3u8
-#EXTGRP:DVB-T2 
-#EXTINF:-1 tvg-id="" tvg-logo=" " group-title=" " tvg-chno="7067",Okto
-https://cdn3.wowza.com/1/MHFtazJReW5rOFhP/N2NWNDZ2/hls/live/playlist.m3u8
-
-#EXTGRP:DVB-T2
-#EXTINF:-1 tvg-id="" tvg-logo=" " group-title=" " tvg-chno="7080",RTL-TV Letzëburg
-https://stream.rtl.lu/data/live/tele/channel1/playlist.m3u8
-#EXTGRP:DVB-T2
-#EXTINF:-1 tvg-id="" tvg-logo=" " group-title=" " tvg-chno="7081",RTL Zwee
-https://stream.rtl.lu/data/live/tele/channel2/playlist.m3u8
-#EXTGRP:DVB-T2
-#EXTINF:-1 tvg-id="" tvg-logo=" " group-title=" " tvg-chno="7082",Apart TV
-https://2-fss-2.streamhoster.com/pl_124/206820-4338160-1/playlist.m3u8
-
-#EXTGRP:DVB-T2
-#EXTINF:-1 tvg-id="VTM.be" tvg-logo="https://i.imgur.com/djkPc9w.png" group-title=" " tvg-chno="7093",VTM
-https://dpp-live-events.medialaancdn.be/events/hls/aes/webstream1.m3u8
-
-#EXTGRP:DVB-T2 
-#EXTINF-1 tvg-id="" tvg-logo="https://i.imgur.com/ZbQY56v.png" group-title=" " tvg-chno="8001",Moldova 1
-https://v.trm.md/static/streaming-playlists/hls/f272ace4-32c2-4271-bbb6-7fc30a5c6105/master.m3u8
-#EXTGRP:DVB-T2 
-#EXTINF-1 tvg-id="" tvg-logo="https://i.imgur.com/Hv6Nk8A.png" group-title=" " tvg-chno="8002",Moldova 2
-https://v2.trm.md/static/streaming-playlists/hls/76541c86-d7de-4c73-b4c0-4fe6670b90a8/master.m3u8
-#EXTGRP:DVB-T2 
-#EXTINF-1 tvg-id="TVRInfo.ro" tvg-logo="https://i.imgur.com/7oE7ThR.png" group-title=" " tvg-chno="8009",TVR Info
-https://mn-nl.mncdn.com/tvrinfo/tvrinfo_mjuypp/index.m3u8
-#EXTGRP:DVB-T2 
-#EXTINF-1 tvg-id="Digi24.ro" tvg-logo="https://i.imgur.com/2z4F1UT.png" group-title=" " tvg-chno="8021",Digi 24
-https://edge-ar.rcs-rds.ro/digi24ar/index.m3u8
-
 [Régionales]
 
 #EXTGRP:Régionales
@@ -1122,76 +368,76 @@ https://tv3v.live-kd.com/live/tv3v/livestream/playlist.m3u8
 #EXTINF:-1 tvg-id="MaurienneTV.fr" tvg-logo=" " group-title=" " tvg-chno="400",Maurienne TV
 https://ythls.armelin.one/channel/UCva-htH2wvmKsG6SkcEJ4Vw.m3u8
 #EXTGRP:Régionales
-#EXTINF:-1 tvg-id="BX1.be" tvg-logo="https://i.imgur.com/0OkSa6c.png" group-title=" " tvg-chno="3000",BX1
+#EXTINF:-1 tvg-id="BX1.be" tvg-logo="https://i.imgur.com/0OkSa6c.png" group-title=" " tvg-chno="160",BX1
 https://59959724487e3.streamlock.net:443/stream/live/playlist.m3u8
 #EXTGRP:Régionales
-#EXTINF:-1 tvg-id="AntenneCentre.be" tvg-logo="https://static.epg.best/be/AntenneCentre.be.png" group-title=" " tvg-chno="3001",ACTV - Antenne Centre Télévision
+#EXTINF:-1 tvg-id="AntenneCentre.be" tvg-logo="https://static.epg.best/be/AntenneCentre.be.png" group-title=" " tvg-chno="161",ACTV - Antenne Centre Télévision
 https://tvlocales-live.freecaster.com/95d2f733-1bc2-4bd5-9b96-c53ed3fc450f/95d2f733-1bc2-4bd5-9b96-c53ed3fc450f.isml/master.m3u8
 #EXTGRP:Régionales
-#EXTINF:-1 tvg-id="Bouke.be" tvg-logo="https://i.imgur.com/STLavel.png" group-title=" " tvg-chno="3002",Boukè
+#EXTINF:-1 tvg-id="Bouke.be" tvg-logo="https://i.imgur.com/STLavel.png" group-title=" " tvg-chno="162",Boukè
 https://tvlocales-live.freecaster.com/95d2f70d-9229-478b-9aed-bc4fa220316d/95d2f70d-9229-478b-9aed-bc4fa220316d.isml/master.m3u8
 #EXTGRP:Régionales
-#EXTINF:-1 tvg-id="CanalZoom.be" tvg-logo="https://static.epg.best/be/CanalZoom.be.png" group-title=" " tvg-chno="3003",Canal Zoom
+#EXTINF:-1 tvg-id="CanalZoom.be" tvg-logo="https://static.epg.best/be/CanalZoom.be.png" group-title=" " tvg-chno="163",Canal Zoom
 https://tvlocales-live.freecaster.com/95d2e3af-5ab8-45a9-9dc9-f544d006b5d5/95d2e3af-5ab8-45a9-9dc9-f544d006b5d5.isml/master.m3u8
 #EXTGRP:Régionales
-#EXTINF:-1 tvg-id="MaTele.be" tvg-logo="https://static.epg.best/be/MaTele.be.png"" group-title=" " tvg-chno="3004",Ma Télé (Belgique)
+#EXTINF:-1 tvg-id="MaTele.be" tvg-logo="https://static.epg.best/be/MaTele.be.png"" group-title=" " tvg-chno="164",Ma Télé (Belgique)
 https://live.matele.be/hls/live.m3u8
 #EXTGRP:Régionales
-#EXTINF:-1 tvg-id="NoTele.be" tvg-logo="https://static.epg.best/be/NoTele.be.png" group-title=" " tvg-chno="3005",No Télé
+#EXTINF:-1 tvg-id="NoTele.be" tvg-logo="https://static.epg.best/be/NoTele.be.png" group-title=" " tvg-chno="165",No Télé
 https://streaming01.divercom.be/notele_live/_definst_/direct.stream/playlist.m3u8
 #EXTGRP:Régionales
-#EXTINF:-1 tvg-id="RTCLiege.be" tvg-name="RTC-Télé Liège" tvg-logo="https://static.epg.best/be/RTCLiege.be.png" group-title=" " tvg-chno="3006",RTC-Télé Liège
+#EXTINF:-1 tvg-id="RTCLiege.be" tvg-name="RTC-Télé Liège" tvg-logo="https://static.epg.best/be/RTCLiege.be.png" group-title=" " tvg-chno="166",RTC-Télé Liège
 https://tvlocales-live.freecaster.com/95d2f6eb-6f01-4d1d-8543-d14966de7b04/95d2f6eb-6f01-4d1d-8543-d14966de7b04.isml/master.m3u8
 #EXTGRP:Régionales
-#EXTINF:-1 tvg-id="TeleMB.be" tvg-logo="https://static.epg.best/be/TeleMB.be.png" group-title=" " tvg-chno="3007",Télé MB
+#EXTINF:-1 tvg-id="TeleMB.be" tvg-logo="https://static.epg.best/be/TeleMB.be.png" group-title=" " tvg-chno="167",Télé MB
 https://tvlocales-live.freecaster.com/95d2f6c9-e85f-4388-8e9c-596260a4206f/95d2f6c9-e85f-4388-8e9c-596260a4206f.isml/master.m3u8
 #EXTGRP:Régionales
-#EXTINF:-1 tvg-id="TeleSambre.be" tvg-logo="https://static.epg.best/be/TeleSambre.be.png" group-title=" " tvg-chno="3008",Télésambre
+#EXTINF:-1 tvg-id="TeleSambre.be" tvg-logo="https://static.epg.best/be/TeleSambre.be.png" group-title=" " tvg-chno="168",Télésambre
 https://tvlocales-live.freecaster.com/95d2f67c-de80-486b-9e60-9c72cb2782e2/95d2f67c-de80-486b-9e60-9c72cb2782e2.isml/master.m3u8
 #EXTGRP:Régionales
-#EXTINF:-1 tvg-id="TVCom.be" tvg-logo="https://static.epg.best/be/TVCom.be.png" group-title=" " tvg-chno="3009",TV Com
+#EXTINF:-1 tvg-id="TVCom.be" tvg-logo="https://static.epg.best/be/TVCom.be.png" group-title=" " tvg-chno="169",TV Com
 https://tvlocales-live.freecaster.com/95d2f656-50f1-432b-84a6-ce11c6cdb482/95d2f656-50f1-432b-84a6-ce11c6cdb482.isml/master.m3u8
 #EXTGRP:Régionales
-#EXTINF:-1 tvg-id="TVLux.be" tvg-logo="https://static.epg.best/be/TVLux.be.png" group-title=" " tvg-chno="3010",TV Lux
+#EXTINF:-1 tvg-id="TVLux.be" tvg-logo="https://static.epg.best/be/TVLux.be.png" group-title=" " tvg-chno="170",TV Lux
 https://tvlocales-live.freecaster.com/95d2f631-8941-4efd-b223-0ebd56a033c4/95d2f631-8941-4efd-b223-0ebd56a033c4.isml/master.m3u8
 #EXTGRP:Régionales
-#EXTINF:-1 tvg-id="Vedia.be" tvg-logo="https://i.imgur.com/7LnH6yu.png" group-title=" " tvg-chno="3011",Védia
+#EXTINF:-1 tvg-id="Vedia.be" tvg-logo="https://i.imgur.com/7LnH6yu.png" group-title=" " tvg-chno="171",Védia
 https://tvlocales-live.freecaster.com/95d2f480-3c9f-48ba-ba4e-af64b58431ef/95d2f480-3c9f-48ba-ba4e-af64b58431ef.isml/master.m3u8
 #EXTGRP:Régionales
-#EXTINF:-1 tvg-id="LemanBleu.ch" tvg-logo="https://eirenesuisse.ch/wp-content/uploads/2020/01/leman-bleu-3-300x201.png" group-title=" " tvg-chno="3021",Léman Bleu
+#EXTINF:-1 tvg-id="LemanBleu.ch" tvg-logo="https://eirenesuisse.ch/wp-content/uploads/2020/01/leman-bleu-3-300x201.png" group-title=" " tvg-chno="21",Léman Bleu
 https://livevideo.vedge.infomaniak.com/livecast/naxoo/master.m3u8
 #EXTGRP:Régionales
-#EXTINF:-1 tvg-id="LaTele.ch" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/5/5c/Logo_La_Tele_Vaud_Fribourg.svg/512px-Logo_La_Tele_Vaud_Fribourg.svg.png?20170609121301" group-title="" tvg-chno="3022",La Télé (Vaud-Fribourg)
+#EXTINF:-1 tvg-id="LaTele.ch" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/5/5c/Logo_La_Tele_Vaud_Fribourg.svg/512px-Logo_La_Tele_Vaud_Fribourg.svg.png?20170609121301" group-title="" tvg-chno="22",La Télé (Vaud-Fribourg)
 https://livevideo.vedge.infomaniak.com/livecast/latele/master.m3u8
 #EXTGRP:Régionales
-#EXTINF:-1 tvg-id="Canal9.ch" tvg-logo=" " group-title=" " tvg-chno="3023",Canal 9
+#EXTINF:-1 tvg-id="Canal9.ch" tvg-logo=" " group-title=" " tvg-chno="23",Canal 9
 https://livevideo.vedge.infomaniak.com/livecast/livehd/master.m3u8
 #EXTGRP:Régionales
-#EXTINF:-1 tvg-id="Telebielingue.ch" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/TeleBielingue_Logo.svg/688px-TeleBielingue_Logo.svg.png" group-title=" " tvg-chno="3024",TeleBielingue
+#EXTINF:-1 tvg-id="Telebielingue.ch" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/TeleBielingue_Logo.svg/688px-TeleBielingue_Logo.svg.png" group-title=" " tvg-chno="24",TeleBielingue
 https://livevideo.vedge.infomaniak.com/livecast/telebielinguech/master.m3u8
 #EXTGRP:Régionales
-#EXTINF:-1 tvg-id="Canalalpha.ch" tvg-logo="https://i.imgur.com/eQ8xHK9.jpg" group-title=" " tvg-chno="3025",Canal Alpha (Neuchâtel)
+#EXTINF:-1 tvg-id="Canalalpha.ch" tvg-logo="https://i.imgur.com/eQ8xHK9.jpg" group-title=" " tvg-chno="25",Canal Alpha (Neuchâtel)
 https://livevideo.vedge.infomaniak.com/livecast/canalalphane/master.m3u8
 #EXTGRP:Régionales
-#EXTINF:-1 tvg-id="Canalalpha.ch" tvg-logo="https://i.imgur.com/eQ8xHK9.jpg" group-title=" " tvg-chno="3026",Canal Alpha (Jura)
+#EXTINF:-1 tvg-id="Canalalpha.ch" tvg-logo="https://i.imgur.com/eQ8xHK9.jpg" group-title=" " tvg-chno="26",Canal Alpha (Jura)
 https://livevideo.vedge.infomaniak.com/livecast/canalalphaju/master.m3u8
 #EXTGRP:Régionales
 #EXTINF:-1 tvg-id=" " tvg-logo="https://s1.dmcdn.net/v/STYxc1YZQiS3UrEdK/x240" group-title=" " tvg-chno="3025",RTN
 plugin://plugin.video.dailymotion_com/?url=x7wamzq&mode=playLiveVideo
 #EXTGRP:Régionales
-#EXTINF:-1 tvg-id="TVC9.ca" tvg-logo="https://yt3.googleusercontent.com/ytc/AGIKgqM4nI5DLEvf2EjD7EG1QoCVPzLBO2s5eJL_wP5s=s176-c-k-c0x00ffffff-no-rj" group-title=" " tvg-chno="3109",TVC9
+#EXTINF:-1 tvg-id="TVC9.ca" tvg-logo="https://yt3.googleusercontent.com/ytc/AGIKgqM4nI5DLEvf2EjD7EG1QoCVPzLBO2s5eJL_wP5s=s176-c-k-c0x00ffffff-no-rj" group-title=" " tvg-chno="109",TVC9
 https://ythls.armelin.one/channel/UC0JP0ek-HhcqisiEpsZiQZA.m3u8
 #EXTGRP:Régionales
-#EXTINF:-1 tvg-id="Telemag.ca" tvg-logo="https://yt3.ggpht.com/ytc/AGIKgqM2dP80gkZP-sc1ZRFQKEColJHeuS5OlbDEl8o8=s48-c-k-c0x00ffffff-no-rj" group-title=" " tvg-chno="3119",Télé-Mag
+#EXTINF:-1 tvg-id="Telemag.ca" tvg-logo="https://yt3.ggpht.com/ytc/AGIKgqM2dP80gkZP-sc1ZRFQKEColJHeuS5OlbDEl8o8=s48-c-k-c0x00ffffff-no-rj" group-title=" " tvg-chno="119",Télé-Mag
 https://ythls.armelin.one/channel/UCNKXYT-Nng5LBMUQrZJ9zWA.m3u8
 #EXTGRP:Régionales
-#EXTINF:-1 tvg-id="" tvg-logo="http://www.iltv.fr/img/cartouche-logo.png" group-title=" " tvg-chno="3481",ILTV
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.iltv.fr/img/cartouche-logo.png" group-title=" " tvg-chno="481",ILTV
 http://live.creacast.com/iltv/smil:iltv.smil/playlist.m3u8
 #EXTGRP:Régionales
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/VNDPTDY/tgohelle.png" group-title=" " tvg-chno="3485",TéléGohelle
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/VNDPTDY/tgohelle.png" group-title=" " tvg-chno="485",TéléGohelle
 https://videas.agglo-lenslievin.fr/index.m3u8
 #EXTGRP:Régionales
-#EXTINF:-1 tvg-id="" tvg-logo="https://yt3.googleusercontent.com/ytc/APkrFKYlYnSWKARJH1Dq5KMWp_3hU7yaoWy5rwKp-rfAig=s176-c-k-c0x00ffffff-no-rj" group-title=" " tvg-chno="3503",Canal Local Glosbliederstroff
+#EXTINF:-1 tvg-id="" tvg-logo="https://yt3.googleusercontent.com/ytc/APkrFKYlYnSWKARJH1Dq5KMWp_3hU7yaoWy5rwKp-rfAig=s176-c-k-c0x00ffffff-no-rj" group-title=" " tvg-chno="503",Canal Local Glosbliederstroff
 https://live.creacast.com/canallocalgrosblie-ch1/smil:canallocalgrosblie-ch1.smil/playlist.m3u8
 #EXTGRP:Régionales
 #EXTINF:-1 tvg-id="NancyWebTV.fr" tvg-logo="https://i.imgur.com/W43rv1R.jpg" group-title=" " tvg-chno="3900",Nancy Web TV
@@ -1218,356 +464,179 @@ https://stream.mandarine.media/roannaistv/roannaistv/playlist.m3u8
 [DVB-C]
 
 #EXTGRP:DVB-C
-#EXTINF:-1 tvg-id="TVM3.ch" tvg-logo="https://i.imgur.com/zNJlFMg.png" group-title=" " tvg-chno="1009",TVM 3
+#EXTINF:-1 tvg-id="TVM3.ch" tvg-logo="https://i.imgur.com/zNJlFMg.png" group-title=" " tvg-chno="109",TVM 3
 https://livevideo.vedge.infomaniak.com/livecast/tvm3/playlist.m3u8
 #EXTGRP:DVB-C
-#EXTINF:-1 tvg-id="LN24.be" tvg-logo="https://i.imgur.com/bp1Qp0d.png" group-title="" tvg-chno="1018",LN 24
+#EXTINF:-1 tvg-id="LN24.be" tvg-logo="https://i.imgur.com/bp1Qp0d.png" group-title="" tvg-chno="18",LN 24
 https://live.digiteka.com/1/bEg0RmFLb1JMYXRI/dGhqbmIw/hls/live/playlist.m3u8
 #EXTGRP:DVB-C
-#EXTINF:-1 tvg-id="DieuTV.ch" tvg-logo="https://dieutv.com/img/logo.png" group-title=" " tvg-chno="1068",Dieu TV
+#EXTINF:-1 tvg-id="DieuTV.ch" tvg-logo="https://dieutv.com/img/logo.png" group-title=" " tvg-chno="68",Dieu TV
 https://katapy.hs.llnwd.net/dieutvwza1/DIEUTVLIVE/smil:dieutv.smil/playlist.m3u8
 #EXTGRP:DVB-C
-#EXTINF:-1 tvg-id="Superyacht.mc" tvg-logo="https://superyacht.tv/media/cache/header_main_logo/bundles/app/img/logo.png" group-title=" " tvg-chno="1078",SuperYacht.TV
+#EXTINF:-1 tvg-id="Superyacht.mc" tvg-logo="https://superyacht.tv/media/cache/header_main_logo/bundles/app/img/logo.png" group-title=" " tvg-chno="78",SuperYacht.TV
 https://sy.wns.live/hls/stream.m3u8
 #EXTGRP:DVB-C
-#EXTINF:-1 tvg-logo=" " group-title=" " tvg-chno="1084",Chamber TV
+#EXTINF:-1 tvg-logo=" " group-title=" " tvg-chno="84",Chamber TV
 https://media02.webtvlive.eu/chd-edge/_definst_/smil:chamber_tv_hd.smil/playlist.m3u8
 #EXTGRP:DVB-C
-#EXTINF:-1 tvg-id="LyonCapitaleTV.fr" tvg-logo="https://s1.dmcdn.net/u/8vkDy1W6-hQdvqLRR/120x120" group-title=" " tvg-chno="1094",Lyon Capitale TV
+#EXTINF:-1 tvg-id="LyonCapitaleTV.fr" tvg-logo="https://s1.dmcdn.net/u/8vkDy1W6-hQdvqLRR/120x120" group-title=" " tvg-chno="476",Lyon Capitale TV
 plugin://plugin.video.dailymotion_com/?url=x7z3zqa&mode=playLiveVideo
-#EXTGRP:DVB-C
-#EXTINF-1 tvg-id="MoozDance.ro" tvg-logo="https://i.imgur.com/aX70RD2.png" group-title=" " tvg-chno="1876",Mooz Dance
-https://rtmp.digitalbroadcast.ro/moozdance/moozdance.m3u8
-#EXTGRP:DVB-C
-#EXTINF-1 tvg-id="MoozHits.ro" tvg-logo=" " group-title=" " tvg-chno="1877",Mooz Hits
-https://rtmp.digitalbroadcast.ro/moozhits/moozhits.m3u8
-#EXTGRP:DVB-C
-#EXTINF-1 tvg-id="MoozRo.ro" tvg-logo=" " group-title=" " tvg-chno="1878",Mooz Ro!
-https://rtmp.digitalbroadcast.ro/moozro/moozro.m3u8
 
 [DVB-S]
 
+
 #EXTGRP:DVB-S
-#EXTINF:-1 tvg-id="UniNettunoUniversityTV.it" tvg-logo="https://i.imgur.com/BOGMeio.png" group-title=" " tvg-chno="2001",UniNettuno University TV
-https://stream6-rai-it.akamaized.net/live/uninettuno/playlist.m3u8
-#EXTGRP:DVB-S
-#EXTINF:-1 tvg-id=" " tvg-logo="https://s1.dmcdn.net/u/2DC5-1a1Tu1N1wC0c/120x120" group-title=" " tvg-chno="2021",Euronews (Italiano)
-plugin://plugin.video.dailymotion_com/?url=x2j7h84&mode=playLiveVideo
-#EXTGRP:DVB-S
-#EXTINF:-1 tvg-id="TZik.fr" tvg-logo="https://images.squarespace-cdn.com/content/v1/5d912c8fc92ec9603f7bc3a1/1596601891411-FXH9KZA62RTJBXMYXAOB/green_blue_gradient_logo_transparent_background.png?format=1500w" group-title=" " tvg-chno="2028",Tzik
+#EXTINF:-1 tvg-id="TZik.fr" tvg-logo="https://images.squarespace-cdn.com/content/v1/5d912c8fc92ec9603f7bc3a1/1596601891411-FXH9KZA62RTJBXMYXAOB/green_blue_gradient_logo_transparent_background.png?format=1500w" group-title=" " tvg-chno="28",Tzik
 https://myowntvchannel.com:3019/stream/play.m3u8
 #EXTGRP:DVB-S
-#EXTINF:-1 tvg-id="Equidia.fr" tvg-logo="https://static.epg.best/fr/Equidia.fr.png" group-title=" " tvg-chno="2039",Equidia
+#EXTINF:-1 tvg-id="Equidia.fr" tvg-logo="https://static.epg.best/fr/Equidia.fr.png" group-title=" " tvg-chno="39",Equidia
 http://s2.callofliberty.fr/direct/EQUIDIA/master.m3u8
+
 #EXTGRP:DVB-S
-#EXTINF:-1 tvg-id="ACISportTV.it" tvg-logo="https://www.acisport.it/img/ACISportTV_low.jpg" group-title=" " tvg-chno="2052",ACI Sport TV
-https://live-edge-ams-1.cdn.enetres.net/79CE6A0C6AF94F7EB0F93BD0DE2949EF029/51T9CZFH/index.m3u8
-#EXTGRP:DVB-S
-#EXTINF:-1 tvg-id="GoldTVSat.it" tvg-logo=" " group-title=" " tvg-chno="2055",Gold TV Sat 
-https://streaming.softwarecreation.it/GoldTvSat/GoldTvSat/playlist.m3u8
-#EXTGRP:DVB-S
-#EXTINF:-1 tvg-id="Teva.fr" tvg-logo="https://focus.telerama.fr/104x104/60/0000/00/01/clear-191.png" group-title=" " tvg-chno="2059",Téva
+#EXTINF:-1 tvg-id="Teva.fr" tvg-logo="https://focus.telerama.fr/104x104/60/0000/00/01/clear-191.png" group-title=" " tvg-chno="59",Téva
 https://codeberg.org/Sibprod/streams/raw/branch/master/Teva.m3u8
 #EXTGRP:DVB-S
-#EXTINF:-1 tvg-id="" tvg-logo="https://focus.telerama.fr/104x104/60/0000/00/01/clear-110.png" group-title=" " tvg-chno="2061",KTO
+#EXTINF:-1 tvg-id="" tvg-logo="https://focus.telerama.fr/104x104/60/0000/00/01/clear-110.png" group-title=" " tvg-chno="61",KTO
 https://live-kto.akamaized.net/hls/live/2033284/KTO/index.m3u8
+
 #EXTGRP:DVB-S
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat-stream.com/logo/tv/cc/camera_dei_deputati_it.png" group-title=" " tvg-chno="2089",Camera dei Deputati 
-https://video-ar.radioradicale.it/diretta/camera2/playlist.m3u8
-#EXTGRP:DVB-S
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat-stream.com/logo/tv/ss/senato_della_repubblica_it.png" group-title=" " tvg-chno="2090",Senato
-https://senato-live.morescreens.com/SENATO_1_001/playlist.m3u8
-#EXTGRP:DVB-S
-#EXTINF:-1 tvg-id="Tiji.fr" tvg-logo="https://i.ibb.co/vmk02Tc/tiji.png" group-title=" " tvg-chno="2094",Tiji
+#EXTINF:-1 tvg-id="Tiji.fr" tvg-logo="https://i.ibb.co/vmk02Tc/tiji.png" group-title=" " tvg-chno="94",Tiji
 https://shls-tiji-tv-prod-dub.shahid.net/out/v1/98f46736bd8c4404b67e4b7a38cc8976/index.m3u8
-#EXTGRP:DVB-S
-#EXTINF:-1 tvg-id="TVIInternacional.pt" tvg-logo="" group-title=" " tvg-chno="2400",TVI internacional
-https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/tvipt/sh/tviint.m3u8
-#EXTGRP:DVB-S
-#EXTINF:-1 tvg-id="TVEInternacional.es" tvg-logo=" " group-title=" " tvg-chno="2452",TVE Internacional (Europa)
-https://ztnr.rtve.es/ztnr/6891743.m3u8
-#EXTGRP:DVB-S
-#EXTINF:-1 tvg-id="EITBBasque.es" tvg-logo=" " group-title=" " tvg-chno="2454",EITB Basque
-https://multimedia.eitb.eus/live-content/eitbbasque-hls/master.m3u8
-#EXTGRP:DVB-S
-#EXTINF-1 tvg-id="TVRInternational.ro" tvg-logo="https://i.imgur.com/w28wcHs.png" group-title=" " tvg-chno="2500",TVR International
-https://mn-nl.mncdn.com/tvri_test/smil:tvri_test.smil/index.m3u8
-#EXTGRP:DVB-S
-#EXTINF:-1 tvg-id="RAIItalia.it" tvg-logo="https://www.lyngsat-logo.com/logo/tv/rr/rai_italia.png" group-title=" " tvg-chno="2501",RAI Italia
-https://raievent7-live.akamaized.net/hls/live/619186/raievent7/raievent7/playlist.m3u8
-#EXTGRP:DVB-S
-#EXTINF:-1 tvg-id="CNN.pt" tvg-logo="https://i.ibb.co/XbSHxd5/cnn.png" group-title=" " tvg-chno="2882",CNN (Portugal)
-https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/tvipt/sh/cnnpt.m3u8
-#EXTGRP:DVB-S
-#EXTINF:-1 tvg-id="SICNoticias.pt" tvg-logo="https://i.ibb.co/1QHfvZJ/sicnoc.png" group-title=" " tvg-chno="2883",SIC Notícias
-https://d277k9d1h9dro4.cloudfront.net/out/v1/293e7c3464824cbd8818ab8e49dc5fe9/index.m3u8
-#EXTGRP:DVB-S
-#EXTINF:-1 tvg-id="SICNovelas.pt" tvg-logo="" group-title=" " tvg-chno="2884",SIC Novelas
-https://fast.live.impresa.pt/out/v1/b5be42c4a68d4ee18461a7156bb8ecf2/sic-novelas.m3u8
-#EXTGRP:DVB-S
-#EXTINF:-1 tvg-id="TVIFiccao.pt" tvg-logo="https://i.ibb.co/hg8wkqj/tvific.jpg" group-title=" " tvg-chno="2885",TVI Ficção
-https://video-auth2.iol.pt/live_tvi_ficcao/live_tvi_ficcao/edge_servers/tvificcao-720p/playlist.m3u8
-#EXTGRP:DVB-S
-#EXTINF:-1 tvg-id="TVIReality.pt" tvg-logo="https://i.ibb.co/xYNTr2v/tvirea.jpg" group-title=" " tvg-chno="2886",TVI Reality
-https://video-auth4.iol.pt/live_tvi_reality/live_tvi_reality/edge_servers/tvireality-720_passthrough/playlist.m3u8
-#EXTGRP:DVB-S
-#EXTINF:-1 tvg-id="TVIAfrica.pt" tvg-logo="https://i.ibb.co/vvRXDTV/tviafrica.jpg" group-title=" " tvg-chno="2887",TVI África
-https://video-auth4.iol.pt/live_tvi_africa/live_tvi_africa/edge_servers/tviafrica-480p/playlist.m3u8
-
-[ISDB-T]
-
-#EXTGRP:ISDB-T
-#EXTINF:-1 tvg-id="TVP.ar" tvg-logo="https://yt3.googleusercontent.com/5lHbUMHAepSNrhSsVMYkzfXNud-xXia5KHM9BP7iN-tK5ZHmyazhWcjL_r9RNgNQSkukolI_QA=s176-c-k-c0x00ffffff-no-rj" group-title=" " tvg-chno="5007",Televisión Pública de Argentina
-https://ythls.armelin.one/channel/UCs231K71Bnu5295_x0MB5Pg.m3u8
-#EXTGRP:ISDB-T
-#EXTINF:-1 tvg-id="C5N.ar" tvg-logo="https://yt3.googleusercontent.com/nKNFyCErbN5C21SI5A9GwPSNAlC9jaa6JMKN6VuW6jQWSd6lRO6UEamjneVlJUr9qXxQCeRa=s176-c-k-c0x00ffffff-no-rj" group-title=" " tvg-chno="5015",C5N
-https://ythls.armelin.one/channel/UCFgk2Q2mVO1BklRQhSv6p0w.m3u8
-#EXTGRP:ISDB-T
-#EXTINF:-1 tvg-id="LNMas.ar" tvg-logo="https://yt3.googleusercontent.com/ytc/APkrFKaP8J1I3vt3cgZwRERx4zIihYdUkQQKB1dciYi6cA=s176-c-k-c0x00ffffff-no-rj" group-title=" " tvg-chno="5016",LN+ (La Nación +)
-https://ythls.armelin.one/channel/UCba3hpU7EFBSk817y9qZkiA.m3u8
-#EXTGRP:ISDB-T
-#EXTINF:-1 tvg-id=" " tvg-logo="https://s1.dmcdn.net/u/1xcMg1a3VFddSvCFS/60x60" group-title=" " tvg-chno="5017",teleSUR
-plugin://plugin.video.dailymotion_com/?url=x82ug5r
-#EXTGRP:ISDB-T
-#EXTINF:-1 tvg-id="Canal26.ar" tvg-logo="https://yt3.googleusercontent.com/qiB2U_CZaAY_4IdZydkjJwMxnGCpr0v-tLoJmKrjG0KeqA3rLdj5hQ73jnOIjq2kmUcPajCvCTA=s176-c-k-c0x00ffffff-no-rj" group-title=" " tvg-chno="5020",Canal 26
-https://ythls.armelin.one/channel/UCrpMfcQNog595v5gAS-oUsQ.m3u8
-#EXTGRP:ISDB-T
-#EXTINF:-1 tvg-id="Eltrece.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Logo_de_eltrece_lanzado_en_2016.png/512px-Logo_de_eltrece_lanzado_en_2016.png" group-title=" " tvg-chno="5033",El Trece
-https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8
-#EXTGRP:ISDB-T
-#EXTINF:-1 tvg-id="Telefe.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Telefe_%28nuevo_logo%29.png/512px-Telefe_%28nuevo_logo%29.png" group-title=" " tvg-chno="5028",Telefe
-https://siloh-mcdn.plutotv.net/lilo/production/TelefePluto/master.m3u8
-#EXTGRP:ISDB-T
-#EXTINF:-1 tvg-id="Elnueve.ar" tvg-logo="https://www.elnueve.com.ar/_next/image?url=%2Flogo%2FlogotipoC9.png&w=256&q=75" group-title=" " tvg-chno="5029",El Nueve
-https://octubre-live.cdn.vustreams.com/live/channel09/live.isml/live.m3u8
-#EXTGRP:ISDB-T
-#EXTINF:-1 tvg-id="A24.ar" tvg-logo="https://yt3.ggpht.com/UUDeuubaQlPaVvvMJhseVjpR0n3g3bk1kBdyN8iTmbbvK371YcZqYDzzBxqbmerAnWRl21Lp=s48-c-k-c0x00ffffff-no-rj" group-title=" " tvg-chno="5031",A24
-https://ythls.armelin.one/channel/UCR9120YBAqMfntqgRTKmkjQ.m3u8
-#EXTGRP:ISDB-T
-#EXTINF:-1 tvg-id="" tvg-logo="https://yt3.googleusercontent.com/ytc/APkrFKZwYOwSoNSRkr4DsihYZq4bjFbeuvY0jwtCFRlrmQ=s176-c-k-c0x00ffffff-no-rj" group-title=" " tvg-chno="5032",Todo Noticías
-https://ythls.armelin.one/channel/UCj6PcyLvpnIRT_2W_mwa9Aw.m3u8
 
 [ATSC-DT]
 
 #EXTGRP:ATSC-DT
-#EXTINF:-1 tvg-id="CFBT.ca" tvg-logo="https://i.ibb.co/f18g74n/image.png" group-title=" " tvg-chno="5101",Ici Radio-Canada Télé
+#EXTINF:-1 tvg-id="CFBT.ca" tvg-logo="https://i.ibb.co/f18g74n/image.png" group-title=" " tvg-chno="101",Ici Radio-Canada Télé
 https://rcavlive.akamaized.net/hls/live/696615/xcancbft/master_3000.m3u8
 #EXTGRP:ATSC-DT
-#EXTINF:-1 tvg-id="Noovo.ca" tvg-logo="https://i.imgur.com/jhVjkQB.png" group-title=" " tvg-chno="5102",Noovo
+#EXTINF:-1 tvg-id="Noovo.ca" tvg-logo="https://i.imgur.com/jhVjkQB.png" group-title=" " tvg-chno="102",Noovo
 https://pe-fa-lp03a.9c9media.com/live/NOOVO/p/hls/00000201/716cf4c845225692/manifest.m3u8
 #EXTGRP:ATSC-DT
-#EXTINF:-1 tvg-id="Telequebec.ca" tvg-logo="https://static.epg.best/ca/TeleQuebec.ca.png" group-title=" " tvg-chno="5104",Tele-Québec
+#EXTINF:-1 tvg-id="Telequebec.ca" tvg-logo="https://static.epg.best/ca/TeleQuebec.ca.png" group-title=" " tvg-chno="104",Tele-Québec
 https://bcovlive-a.akamaihd.net/575d86160eb143458d51f7ab187a4e68/us-east-1/6101674910001/playlist.m3u8
 #EXTGRP:ATSC-DT
-#EXTINF:-1 tvg-id="CanalSavoir.ca" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/ff/Savoir_tv_logo.png" group-title=" " tvg-chno="5147",Savoir.Media
+#EXTINF:-1 tvg-id="CanalSavoir.ca" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/ff/Savoir_tv_logo.png" group-title=" " tvg-chno="147",Savoir.Media
 https://hls.savoir.media/live/stream.m3u8
 #EXTGRP:ATSC-DT
-#EXTINF:-1 tvg-id="CFHDDT.ca" tvg-logo="https://i.imgur.com/x0vLIWr.png" group-title=" " tvg-chno="5216",ICI (International Channel / La Chaîne Internationale)
+#EXTINF:-1 tvg-id="CFHDDT.ca" tvg-logo="https://i.imgur.com/x0vLIWr.png" group-title=" " tvg-chno="216",ICI (International Channel / La Chaîne Internationale)
 https://amdici.akamaized.net/hls/live/873426/ICI-Live-Stream/master.m3u8
 
 [ATSC-C]
 
 #EXTGRP:ATSC-C
-#EXTINF:-1 tvg-logo="https://i.ibb.co/sq11nQ1/rdicanada.png" group-title=" " tvg-chno="5117",Ici RDI
+#EXTINF:-1 tvg-logo="https://i.ibb.co/sq11nQ1/rdicanada.png" group-title=" " tvg-chno="117",Ici RDI
 https://rcavlive.akamaized.net/hls/live/704025/xcanrdi/master.m3u8
 #EXTGRP:ATSC-C
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/KFhhkEB.png" group-title=" " tvg-chno="5143",Canal de l'Assemblée Nationale (Québec)
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/KFhhkEB.png" group-title=" " tvg-chno="143",Canal de l'Assemblée Nationale (Québec)
 https://diffusionm.assnat.qc.ca/diffusion/canal17/playlist.m3u8
 #EXTGRP:ATSC-C
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/2016_CPAC_logo.svg/512px-2016_CPAC_logo.svg.png" group-title=" " tvg-chno="5144",CPAC
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/2016_CPAC_logo.svg/512px-2016_CPAC_logo.svg.png" group-title=" " tvg-chno="144",CPAC
 https://d7z3qjdsxbwoq.cloudfront.net/groupa/live/f9809cea-1e07-47cd-a94d-2ddd3e1351db/live.isml/.m3u8
 
 [IPTV]
 
 #EXTGRP:IPTV
-#EXTINF:-1 tvg-id="" tvg-logo="http://fusiontv.fr/wp-content/uploads/2021/03/cropped-LOGO-FUSION-TV2-2-300x220.png" group-title=" " tvg-chno="1101",Fusion TV
+#EXTINF:-1 tvg-id="" tvg-logo="http://fusiontv.fr/wp-content/uploads/2021/03/cropped-LOGO-FUSION-TV2-2-300x220.png" group-title=" " tvg-chno="41",Fusion TV
 https://livevideo.vedge.infomaniak.com/livecast/fusiontv/playlist.m3u8
 #EXTGRP:IPTV
-#EXTINF:-1 tvg-id="LEspritSorcierTV.fr" tvg-logo="https://i.imgur.com/zyh8yub.png" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 Edg/112.0.1722.34" group-title=" " tvg-chno="1111",L'Esprit Sorcier TV
+#EXTINF:-1 tvg-id="LEspritSorcierTV.fr" tvg-logo="https://i.imgur.com/zyh8yub.png" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 Edg/112.0.1722.34" group-title=" " tvg-chno="111",L'Esprit Sorcier TV
 #EXTVLCOPT:http-referrer=https://player.castr.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 Edg/112.0.1722.34
 https://stream.castr.com/63b43410861d94a9eee067fb/live_947330308dd911edb85c8181cb9b11a8/index.m3u8
 #EXTGRP:IPTV
-#EXTINF:-1 tvg-id="Museum.fr" tvg-logo="https://focus.telerama.fr/40x40/80/0000/00/01/clear-1072.png" tvg-chno=" " tvg-chno="1112",Museum TV
+#EXTINF:-1 tvg-id="Museum.fr" tvg-logo="https://focus.telerama.fr/40x40/80/0000/00/01/clear-1072.png" tvg-chno=" " tvg-chno="112",Museum TV
 https://live.creacast.com/museum-france/smil:museum-france.smil/index.m3u8
 #EXTGRP:IPTV
-#EXTINF-1 tvg-id="MaisonsEtTravauxTV.fr" tvg-logo="https://s1.dmcdn.net/u/9J-RE1XYfDdu9kpvn/240x240" group-title=" " tvg-chno="1113",Maisons & Travaux TV
+#EXTINF-1 tvg-id="MaisonsEtTravauxTV.fr" tvg-logo="https://s1.dmcdn.net/u/9J-RE1XYfDdu9kpvn/240x240" group-title=" " tvg-chno="113",Maisons & Travaux TV
 plugin://plugin.video.dailymotion_com/?url=x85e5l8&mode=playLiveVideo
 #EXTGRP:IPTV
-#EXTINF-1 tvg-id="TopSante.fr" tvg-logo="https://s1.dmcdn.net/u/4vcte1YCSMHQ0b1TD/240x240" group-title=" " tvg-chno="1114",Top Santé TV 
+#EXTINF-1 tvg-id="TopSante.fr" tvg-logo="https://s1.dmcdn.net/u/4vcte1YCSMHQ0b1TD/240x240" group-title=" " tvg-chno="114",Top Santé TV 
 plugin://plugin.video.dailymotion_com/?url=x89yjnn&mode=playLiveVideo
 #EXTGRP:IPTV
-#EXTINF:-1 tvg-id="TV5MondeInfo.fr" tvg-logo="" group-title=" " tvg-chno="1115",TV5 Monde (Info)
+#EXTINF:-1 tvg-id="TV5MondeInfo.fr" tvg-logo="" group-title=" " tvg-chno="115",TV5 Monde (Info)
 https://ott.tv5monde.com/Content/HLS/Live/channel(info)/index.m3u8
 #EXTGRP:IPTV
-#EXTINF:-1 tvg-id="MDL.fr" tvg-logo="https://i.imgur.com/REN30bx.png" group-title=" " tvg-chno="1116",MDL - Le Monde des Loisirs
+#EXTINF:-1 tvg-id="MDL.fr" tvg-logo="https://i.imgur.com/REN30bx.png" group-title=" " tvg-chno="116",MDL - Le Monde des Loisirs
 http://tv.mondeduloisir.fr:1935/tixtv/smil:web.smil/playlist.m3u8
 #EXTGRP:IPTV
-#EXTINF:-1 tvg-id="MyZenTV.fr" tvg-logo="https://i.imgur.com/fIi8o0C.png" group-title=" " tvg-chno="1124",My Zen TV
+#EXTINF:-1 tvg-id="MyZenTV.fr" tvg-logo="https://i.imgur.com/fIi8o0C.png" group-title=" " tvg-chno="124",My Zen TV
 https://live.creacast.com/myzentv-france/smil:myzentv-france.smil/playlist.m3u8
 #EXTGRP:IPTV
-#EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/743b0ac7-a5be-4bbc-bfe9-179341be5264-profile_image-70x70.png" group-title=" " tvg-chno="1140",MGG @ Twitch
+#EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/743b0ac7-a5be-4bbc-bfe9-179341be5264-profile_image-70x70.png" group-title=" " tvg-chno="140",MGG @ Twitch
 plugin://plugin.video.twitch/?mode=play&channel_name=mgg_fr
 #EXTGRP:IPTV
-#EXTINF:-1 tvg-logo="https://lovetvchannels.com/sites/default/files/logotipos_de_bloque/AF_Lovewine_Logo_RGB.png" group-title=" " tvg-chno="1141",Love Wine
+#EXTINF:-1 tvg-logo="https://lovetvchannels.com/sites/default/files/logotipos_de_bloque/AF_Lovewine_Logo_RGB.png" group-title=" " tvg-chno="141",Love Wine
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01821-lovetvchannels-lovewinefrance-lgfr/playlist.m3u8
 #EXTGRP:IPTV
-#EXTINF:-1 tvg-id="TraceUrban.fr" tvg-logo="https://i.ibb.co/2hgmDs6/traceurb.png" group-title=" " tvg-chno="1150",TRACE Urban
+#EXTINF:-1 tvg-id="TraceUrban.fr" tvg-logo="https://i.ibb.co/2hgmDs6/traceurb.png" group-title=" " tvg-chno="150",TRACE Urban
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/trace-urban/encrypted.m3u8
 #EXTGRP:IPTV
-#EXTINF:-1 tvg-id="TraceLatina.fr" tvg-logo="https://i.ibb.co/2hgmDs6/traceurb.png" group-title=" " tvg-chno="1151",TRACE Latina
+#EXTINF:-1 tvg-id="TraceLatina.fr" tvg-logo="https://i.ibb.co/2hgmDs6/traceurb.png" group-title=" " tvg-chno="151",TRACE Latina
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/trace-latina/encrypted.m3u8
 #EXTGRP:IPTV
-#EXTINF:-1 tvg-id="TraceBrazuca.fr" tvg-logo="https://i.ibb.co/2hgmDs6/traceurb.png" group-title=" " tvg-chno="1152",TRACE Brazuca
+#EXTINF:-1 tvg-id="TraceBrazuca.fr" tvg-logo="https://i.ibb.co/2hgmDs6/traceurb.png" group-title=" " tvg-chno="152",TRACE Brazuca
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/trace-brazuca/encrypted.m3u8
 #EXTGRP:IPTV
-#EXTINF:-1 channel-id="samsung-GBBD19000026B" tvg-id="GBBD19000026B" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBD19000026B_20230614T010133SQUARE.png_20230614010134.png" group-title=" " tvg-chno="1153",TRACE UK
-https://i.mjh.nz/SamsungTVPlus/GBBD19000026B.m3u8
-#EXTGRP:IPTV
-#EXTINF:-1 tvg-id="ClubbingTV.fr" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/34/FRBB1900001FA_20220323T075747.png" group-title=" " tvg-chno="1155",Clubbing TV
+#EXTINF:-1 tvg-id="ClubbingTV.fr" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/34/FRBB1900001FA_20220323T075747.png" group-title=" " tvg-chno="155",Clubbing TV
 https://clubbingtv-oando.amagi.tv/hls/amagi_hls_data_clubbingt-clubbingtv-oando/CDN/playlist.m3u8
 #EXTGRP:IPTV
-#EXTINF:-1 tvg-id="" tvg-logo=" " group-title=" " tvg-chno="1156",A State Of Trance 
+#EXTINF:-1 tvg-id="" tvg-logo=" " group-title=" " tvg-chno="156",A State Of Trance 
 https://ythls.armelin.one/channel/UCalCDSmZAYD73tqVZ4l8yJg.m3u8
 #EXTGRP:IPTV
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTELT2EO0QfaVPuhJR_G9ZHO6RzFmDpRvVpmpGYfoHENQ&s" group-title=" " tvg-chno="1159",Dynamic One
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTELT2EO0QfaVPuhJR_G9ZHO6RzFmDpRvVpmpGYfoHENQ&s" group-title=" " tvg-chno="159",Dynamic One
 https://hls.dynamicone.be/hls/dynamicone-1080.m3u8
 #EXTGRP:IPTV
-#EXTINF:-1 tvg-id="Melody.fr" tvg-logo="https://i.imgur.com/9GVyQ6x.png" group-title=" " tvg-chno="1160",Melody
+#EXTINF:-1 tvg-id="Melody.fr" tvg-logo="https://i.imgur.com/9GVyQ6x.png" group-title=" " tvg-chno="160",Melody
 https://live.creacast.com/telemelody/smil:telemelody-211112.smil/playlist.m3u8
-#EXTINF:-1 tvg-id=" " tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBC900001LB_20230208T013112SQUARE.png_20230208013112.png" group-title=" " tvg-chno="1161",Émotion
+#EXTINF:-1 tvg-id=" " tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBC900001LB_20230208T013112SQUARE.png_20230208013112.png" group-title=" " tvg-chno="161",Émotion
 https://amg01736-harmonysecomgro-harmonymelody-samsungfr-n25pe.amagi.tv/playlist/amg01736-harmonysecomgro-harmonymelody-samsungfr/playlist.m3u8
 #EXTGRP:IPTV
-#EXTINF:-1 tvg-id="" tvg-logo="https://pancrace.tv/uploads/images/logo_site_1485347386.jpg" group-title=" " tvg-chno="1173",Pancrace TV
+#EXTINF:-1 tvg-id="" tvg-logo="https://pancrace.tv/uploads/images/logo_site_1485347386.jpg" group-title=" " tvg-chno="173",Pancrace TV
 https://stream.mandarine.media/pancracetv/pancracetv/playlist.m3u8
 #EXTGRP:IPTV
-#EXTINF:-1 tvg-id="SportenFrance.fr" tvg-logo="https://i.imgur.com/1IXQoWq.png" group-title=" " tvg-chno="1174",Sport En France
+#EXTINF:-1 tvg-id="SportenFrance.fr" tvg-logo="https://i.imgur.com/1IXQoWq.png" group-title=" " tvg-chno="174",Sport En France
 https://sp1564435593.mytvchain.info/live/sp1564435593/index.m3u8
 #EXTGRP:IPTV
-#EXTINF:-1 tvg-id=" " tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/2474f24d-3335-4e1f-a0c8-0b1def215826-profile_image-70x70.png" group-title=" " tvg-chno="1175",RMC Sport
+#EXTINF:-1 tvg-id=" " tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/2474f24d-3335-4e1f-a0c8-0b1def215826-profile_image-70x70.png" group-title=" " tvg-chno="175",RMC Sport
 plugin://plugin.video.twitch/?mode=play&channel_name=rmcsport
 #EXTGRP:IPTV
-#EXTINF:-1 tvg-id="Astrocenter.fr" tvg-logo="https://i.imgur.com/3xlJV7O.png" group-title=" " tvg-chno="1177",Astrocenter TV
+#EXTINF:-1 tvg-id="Astrocenter.fr" tvg-logo="https://i.imgur.com/3xlJV7O.png" group-title=" " tvg-chno="77",Astrocenter TV
 https://ythls.armelin.one/channel/UCMkQQZsNdRVZ3N7Oj6jVnyg.m3u8
 #EXTGRP:IPTV
-#EXTINF:-1 tvg-id="CGTNFrench.cn" tvg-logo="https://i.ibb.co/ZgqnqnJ/cgtnfr.png" group-title=" " tvg-chno="1187",CGTN (Français)
+#EXTINF:-1 tvg-id="CGTNFrench.cn" tvg-logo="https://i.ibb.co/ZgqnqnJ/cgtnfr.png" group-title=" " tvg-chno="87",CGTN (Français)
 http://news.cgtn.com/resource/live/french/cgtn-f.m3u8
 #EXTGRP:IPTV
-#EXTINF:-1 tvg-id="FashionTVParis.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Fashion_TV_logo.svg/512px-Fashion_TV_logo.svg.png" tvg-chno=" " tvg-chno="1213",Fashion TV (Paris)
+#EXTINF:-1 tvg-id="FashionTVParis.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Fashion_TV_logo.svg/512px-Fashion_TV_logo.svg.png" tvg-chno=" " tvg-chno="213",Fashion TV (Paris)
 https://fash1043.cloudycdn.services/slive/ftv_paris_adaptive.smil/playlist.m3u8
 #EXTGRP:IPTV
-#EXTINF-1 tvg-id="MensUpTV.fr" tvg-logo="https://s1.dmcdn.net/u/2I4XM1WsOzSKddsVt/240x240" group-title=" " tvg-chno="1216",Men's Up TV
+#EXTINF-1 tvg-id="MensUpTV.fr" tvg-logo="https://s1.dmcdn.net/u/2I4XM1WsOzSKddsVt/240x240" group-title=" " tvg-chno="216",Men's Up TV
 plugin://plugin.video.dailymotion_com/?url=x2kr3hs&mode=playLiveVideo
 #EXTGRP:IPTV
-#EXTINF-1 tvg-id="BSmart.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/B_SMART_logo.png/150px-B_SMART_logo.png" group-title=" " tvg-chno="1230",B Smart
+#EXTINF-1 tvg-id="BSmart.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/B_SMART_logo.png/150px-B_SMART_logo.png" group-title=" " tvg-chno="230",B Smart
 plugin://plugin.video.dailymotion_com/?url=x7tn4fp&mode=playLiveVideo
 
 #EXTGRP:IPTV
-#EXTINF:-1 channel-id="samsung-GBAK3504500A" tvg-id="GBAK3504500A" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBAK3504500A_20221012T015857SQUARE.png_20221012015858.png" group-title=" " tvg-chno="1310",5 Cops
-https://i.mjh.nz/SamsungTVPlus/GBAK3504500A.m3u8
-#EXTGRP:IPTV
-#EXTINF:-1 channel-id="samsung-GBBA33000529G" tvg-id="GBBA33000529G" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBA33000529G_20220323T071122SQUARE.png_20220323071125.png" group-title=" " tvg-chno="1322",Tennis Channel International
-https://i.mjh.nz/SamsungTVPlus/GBBA33000529G.m3u8
-#EXTGRP:IPTV
-#EXTINF:-1 channel-id="samsung-GBAJ2400003DD" tvg-id="GBAJ2400003DD" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBAJ2400003DD_20220323T071326SQUARE.png_20220323071329.png" group-title=" " tvg-chno="1330",The Guardian
-https://i.mjh.nz/SamsungTVPlus/GBAJ2400003DD.m3u8
-#EXTGRP:IPTV
-#EXTINF:-1 channel-id="samsung-GBAK3504501A" tvg-id="GBAK3504501A" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBAK3504501A_20220824T005422SQUARE.png_20220824005423.png" group-title=" " tvg-chno="1342",5 Exploring Britain
-https://i.mjh.nz/SamsungTVPlus/GBAK3504501A.m3u8
-#EXTGRP:IPTV
-#EXTINF:-1 tvg-id="HorseCountryTV.uk" tvg-logo="https://i.imgur.com/1x6zYZr.png" group-title=" " tvg-chno="1345",Horse and Country
-https://hnc-free-viewlift.amagi.tv/HNC_AUSTRALIA.m3u8
-#EXTGRP:IPTV
-#EXTINF:-1 channel-id="samsung-GBBD1100008YW" tvg-id="GBBD1100008YW" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBD1100008YW_20230926T032319SQUARE.png_20230926032320.png" group-title=" " tvg-chno="1356",FIFA+
-https://i.mjh.nz/SamsungTVPlus/GBBD1100008YW.m3u8
-#EXTGRP:IPTV
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title=" " tvg-chno="1411",L'Intelligent.TV
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title=" " tvg-chno="211",L'Intelligent.TV
 https://video1.getstreamhosting.com:1936/8210/8210/playlist.m3u8
 #EXTGRP:IPTV
-#EXTINF:-1 tvg-id="A12TV.fr" tvg-logo="https://vipotv.com/wp-content/uploads/2020/07/a12tv-vipotv.png" group-title=" " tvg-chno="1415",A12 TV
+#EXTINF:-1 tvg-id="A12TV.fr" tvg-logo="https://vipotv.com/wp-content/uploads/2020/07/a12tv-vipotv.png" group-title=" " tvg-chno="215",A12 TV
 https://video1.getstreamhosting.com:1936/8250/8250/playlist.m3u8
 #EXTGRP:IPTV
-#EXTINF:-1 tvg-id="Cinemax.ci" tvg-logo=" " group-title=" " tvg-chno="1417",Ciné Max
+#EXTINF:-1 tvg-id="Cinemax.ci" tvg-logo=" " group-title=" " tvg-chno="217",Ciné Max
 https://video1.getstreamhosting.com:1936/8432/8432/playlist.m3u8
 #EXTGRP:IPTV
-#EXTINF:-1 tvg-id="Ivoirechannel.ci" tvg-logo="https://i.imgur.com/gKbNqQv.png" group-title=" " tvg-chno="1418",Ivoire Channel
+#EXTINF:-1 tvg-id="Ivoirechannel.ci" tvg-logo="https://i.imgur.com/gKbNqQv.png" group-title=" " tvg-chno="218",Ivoire Channel
 https://video1.getstreamhosting.com:1936/8244/8244/playlist.m3u8
 #EXTGRP:IPTV
-#EXTINF:-1 tvg-id="AfromagicChannel.ci" tvg-logo="" group-title=" " tvg-chno="1421",Afromagic Channel
+#EXTINF:-1 tvg-id="AfromagicChannel.ci" tvg-logo="" group-title=" " tvg-chno="221",Afromagic Channel
 https://video1.getstreamhosting.com:1936/8490/8490/playlist.m3u8
 #EXTGRP:IPTV
-#EXTINF:-1 tvg-id="Seriemax.ci" tvg-logo="" group-title="IPTV_CI" tvg-chno="1422",Série Max
+#EXTINF:-1 tvg-id="Seriemax.ci" tvg-logo="" group-title=" " tvg-chno="222",Série Max
 https://video1.getstreamhosting.com:1936/8446/8446/playlist.m3u8
 #EXTGRP:IPTV
-#EXTINF:-1 tvg-id="FitiniTV.ci" tvg-logo="" group-title="IPTV_CI" tvg-chno="1423",Fitini TV
+#EXTINF:-1 tvg-id="FitiniTV.ci" tvg-logo="" group-title=" " tvg-chno="223",Fitini TV
 https://video1.getstreamhosting.com:1936/8492/8492/playlist.m3u8
 #EXTGRP:IPTV
-#EXTINF:-1 tvg-id="NovelaChannel.ci" tvg-logo="https://i.ibb.co/V3pfjfB/novela-channel-telepack.jpg" group-title=" " tvg-chno="1425",Novela Channel
+#EXTINF:-1 tvg-id="NovelaChannel.ci" tvg-logo="https://i.ibb.co/V3pfjfB/novela-channel-telepack.jpg" group-title=" " tvg-chno="225",Novela Channel
 https://video1.getstreamhosting.com:1936/8494/8494/playlist.m3u8
-#EXTGRP:IPTV
-#EXTINF:-1 tvg-id="Deutschewelle.de" tvg-logo="https://2ix2.com/wp-content/uploads/2020/10/77.png" group-title=" " tvg-chno="1620",Deutsche Welle (Deutsch)
-https://dwamdstream106.akamaized.net/hls/live/2017965/dwstream106/index.m3u8
-#EXTGRP:IPTV
-#EXTINF:-1 tvg-id="" tvg-logo=" " group-title=" " tvg-chno="1661",Kronehit TV
-https://bitcdn-kronehit.bitmovin.com/v2/hls/playlist.m3u8
-#EXTGRP:IPTV
-#EXTINF:-1 tvg-id=" " tvg-logo="https://yt3.ggpht.com/ytc/AMLnZu_Hd2WYs49wYCBMAphVpvvpBzd-EJFU8XFQgccPIw=s200" group-title=" " tvg-chno="1800",¡Hola! Play
-https://022d66c197dd4a1e9008e0134a74f34e.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-es_HolaPlay/playlist.m3u8
-#EXTGRP:IPTV
-#EXTINF:-1 tvg-id="" tvg-logo="https://graph.facebook.com/elconfidencial/picture?width=200&height=200" group-title=" " tvg-chno="1801",El Confidencial
-https://daqnsnf5phf17.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-sde7fypd1420w-prod/fast-channel-elconfidencial/fast-channel-elconfidencial.m3u8
-#EXTGRP:IPTV
-#EXTINF:-1 tvg-id="" tvg-logo="https://graph.facebook.com/elpais/picture?width=200&height=200" group-title=" " tvg-chno="1802",El País
-https://d2xqbi89ghm9hh.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-79fx3huimw4xc-ssai-prd/fast-channel-el-pais.m3u8
-#EXTGRP:IPTV
-#EXTINF:-1 tvg-id="" tvg-logo="https://graph.facebook.com/LaVanguardia/picture?width=200&height=200" group-title=" " tvg-chno="1803",La Vanguardia
-https://ythls.armelin.one/channel/UClLLRs_mFTsNT5U-DqTYAGg/.m3u8
-#EXTGRP:IPTV
-#EXTINF:-1 tvg-id=" " tvg-logo="https://graph.facebook.com/atresplayer/picture?width=200&height=200" group-title=" " tvg-chno="1804",Atresmedia Clásicos
-https://fast-channels.atresmedia.com/648ef12c2bfab0e4507e0d61/648ef12c2bfab0e4507e0d61.m3u8
-#EXTGRP:IPTV
-#EXTINF:-1 tvg-id=" " tvg-logo="https://graph.facebook.com/atresplayer/picture?width=200&height=200" group-title=" " tvg-chno="1805",Atresmedia Comedia
-https://fast-channels.atresmedia.com/648ef23d2bfab0e4557e0d61/648ef23d2bfab0e4557e0d61.m3u8
-#EXTGRP:IPTV
-#EXTINF:-1 tvg-id=" " tvg-logo="https://graph.facebook.com/atresplayer/picture?width=200&height=200" group-title=" " tvg-chno="1806",Atresmedia Multicine
-https://fast-channels.atresmedia.com/648ef18c1756b0e41daf83cc/648ef18c1756b0e41daf83cc.m3u8
-#EXTGRP:IPTV
-#EXTINF:-1 channel-id="samsung-ESBD1300003VN" tvg-id="ESBD1300003VN" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD1300003VN_20231115T012147SQUARE.png_20231115012147.png" group-title=" " tvg-chno="1807",Corazón
-https://i.mjh.nz/SamsungTVPlus/ESBD1300003VN.m3u8
-#EXTGRP:IPTV
-#EXTINF:-1 tvg-id=" " tvg-logo="https://graph.facebook.com/flooxer/picture?width=200&height=200" group-title=" " tvg-chno="1808",Atresmedia Flooxer
-https://fast-channels.atresmedia.com/5c1285e47ed1a861f8125285/5c1285e47ed1a861f8125285.m3u8
-#EXTGRP:IPTV
-#EXTINF:-1 channel-id="samsung-ESBA330004064" tvg-id="ESBA330004064" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBA330004064_20220323T081613SQUARE.png_20220323081615.png" group-title=" " tvg-chno="1809",Flash
-https://i.mjh.nz/SamsungTVPlus/ESBA330004064.m3u8
-#EXTGRP:IPTV
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.monpetitforfait.com/comparateur-box-internet/wp-content/uploads/2020/06/solmusica_tv.png" group-title=" " tvg-chno="1810",Sol Música
-https://d2glyu450vvghm.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-21u4g5cjglv02/1f8a272f-4dce-4021-984f-868a2f1d1137/0.m3u8
-#EXTGRP:IPTV
-#EXTINF:-1 tvg-id=" " tvg-logo="https://graph.facebook.com/atresplayerkidz/picture?width=200&height=200" group-title=" " tvg-chno="1811",Atresmedia Kidz
-https://fast-channels.atresmedia.com/648c271d2bfab0e4177a0d61/648c271d2bfab0e4177a0d61/2.m3u8
-#EXTGRP:IPTV
-#EXTINF:-1 tvg-id=" " tvg-logo="https://graph.facebook.com/Pequeradio/picture?width=200&height=200" group-title=" " tvg-chno="1812",Pequeradio TV
-https://canadaremar2.todostreaming.es/live/peque-pequetv.m3u8
-#EXTGRP:IPTV
-#EXTINF:-1 tvg-id="CanalSurCocina.es" tvg-logo="https://yt3.googleusercontent.com/ytc/APkrFKb6DZpbxOMbN_VANCdenLck4ceg7gxMk5tnkjmM=s200" group-title=" " tvg-chno="1813",Canal Sur Andalucía Cocina
-https://cloud.fastchannel.es/mic/manifiest/hls/acocina/acocina.m3u8
-#EXTGRP:IPTV
-#EXTINF:-1 tvg-id="CanalSurTurismo.es" tvg-logo="https://yt3.googleusercontent.com/ytc/APkrFKYsl5e6jEIMtXIoTUHvkJqXxDfASrvQP_QFRRww=s200" group-title=" " tvg-chno="1814",Canal Sur Andalucía Turismo
-https://cloud.fastchannel.es/mic/manifiest/hls/aturismo/aturismo.m3u8
-#EXTGRP:IPTV
-#EXTINF:-1 tvg-id="" tvg-logo="https://graph.facebook.com/cocinafamiliarjr/picture?width=200&height=200" group-title=" " tvg-chno="1815",Cocina Familiar
-https://cloud.fastchannel.es/mic/manifiest/hls/cocinafamiliar/cocinafamiliar.m3u8
-#EXTGRP:IPTV
-#EXTINF:-1 tvg-id="Taroteame.es" tvg-logo="https://i.imgur.com/OgEeQzl.jpg" group-title=" " tvg-chno="1816",Tarotéame
-https://5d2733224ac48.streamlock.net/taroteame/tarot_web/playlist.m3u8
-#EXTGRP:IPTV
-#EXTINF:-1 tvg-id="TarotVision.es" tvg-logo="https://i.imgur.com/yOQ9e3a.png" group-title=" " tvg-chno="1817",TarotVisión
-https://stream.andalhost.com/hls/tarotvision.m3u8
-#EXTGRP:IPTV
-#EXTINF:-1 channel-id="samsung-ESBD3600001Q1" tvg-id="ESBD3600001Q1" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD3600001Q1_20231115T012153SQUARE.png_20231115012153.png" group-title=" " tvg-chno="1818",La Liga
-https://i.mjh.nz/SamsungTVPlus/ESBD3600001Q1.m3u8
-#EXTGRP:IPTV
-#EXTINF:-1 tvg-id="Euronews.pt" tvg-logo="https://i.ibb.co/VxLFYSj/euronews.png" group-title=" " tvg-chno="1881",Euronews (Português)
-https://7c8b7dbf12d64234a983336fdddb88c2.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-pt_EuroNewsLive/playlist.m3u8
 
