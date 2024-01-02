@@ -1,0 +1,31 @@
+#EXTM3U
+#EXTGRP:DVB-T2
+#EXTINF:-1 tvg-id="RTP1.pt" tvg-logo="https://i.ibb.co/3YZFCjp/rtp1.jpg" group-title=" " tvg-chno="1",RTP 1
+https://streaming-live.rtp.pt/liverepeater/smil:rtp1HD.smil/playlist.m3u8
+#EXTGRP:DVB-T2
+#EXTINF:-1 tvg-id="SIC.pt" tvg-logo="https://i.ibb.co/6r1xHn6/sic.png" group-title=" " tvg-chno="3",SIC
+https://d1zx6l1dn8vaj5.cloudfront.net/out/v1/b89cc37caa6d418eb423cf092a2ef970/index.m3u8
+#EXTGRP:DVB-T2
+#EXTINF:-1 tvg-id="TVI.pt" tvg-logo="https://i.ibb.co/pyXp0bk/tvi.png" group-title=" " tvg-chno="4",TVI
+https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/tvipt/sh/tvi.m3u8
+#EXTGRP:DVB-T2
+#EXTINF:-1 tvg-id="ARTV.pt" tvg-logo="https://i.ibb.co/zZwMM3d/arparl.png" group-title=" " tvg-chno="5",ARTV
+https://playout175.livextend.cloud/livenlin4/_definst_/2liveartvpub2/playlist.m3u8
+#EXTGRP:DVB-T2
+#EXTINF:-1 tvg-id="RTP3.pt" tvg-logo="https://i.ibb.co/HnqCkQj/rtp3.jpg" group-title=" " tvg-chno="6",RTP 3
+https://streaming-live.rtp.pt/liverepeater/smil:rtpnHD.smil/playlist.m3u8
+#EXTGRP:DVB-T2
+#EXTINF:-1 tvg-id="RTPAfrica.pt" tvg-logo="https://i.ibb.co/BsdgH54/rtpafr.webp" group-title=" " tvg-chno="7",RTP África
+https://streaming-live.rtp.pt/liverepeater/smil:rtpafrica.smil/playlist.m3u8
+#EXTGRP:DVB-T2
+#EXTINF:-1 tvg-id="RTPMemoria.pt" tvg-logo="https://i.ibb.co/vZ9S4rV/rtpmem.jpg" group-title=" " tvg-chno="8",RTP Memória
+https://streaming-live.rtp.pt/liverepeater/smil:rtpmem.smil/playlist.m3u8
+#EXTGRP:DVB-T2
+#EXTINF:-1 tvg-id="RTPI.pt" tvg-logo="https://i.ibb.co/3YZFCjp/rtpi.jpg" group-title=" " tvg-chno="10",RTP Internacional
+https://streaming-live.rtp.pt/liverepeater/smil:rtpi.smil/playlist.m3u8
+#EXTGRP:DVB-T2
+#EXTINF:-1 tvg-id="RTPAcores.pt" tvg-logo="https://i.ibb.co/9GMzcw7/rtpaco.jpg" group-title=" " tvg-chno="11",RTP Açores
+https://streaming-live.rtp.pt/liverepeater/smil:rtpacores.smil/playlist.m3u8
+#EXTGRP:DVB-T2
+#EXTINF:-1 tvg-id="RTPMadeira.pt" tvg-logo="https://i.ibb.co/bvwwcB9/rtpmad.jpg" group-title=" " tvg-chno="12",RTP Madeira
+https://streaming-live.rtp.pt/liverepeater/smil:rtpmadeira.smil/playlist.m3u8
