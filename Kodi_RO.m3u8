@@ -1,0 +1,25 @@
+#EXTM3U
+
+[DVB-T2]
+
+#EXTGRP:DVB-T2 
+#EXTINF-1 tvg-id="TVRInfo.ro" tvg-logo="https://i.imgur.com/7oE7ThR.png" group-title=" " tvg-chno="9",TVR Info
+https://mn-nl.mncdn.com/tvrinfo/tvrinfo_mjuypp/index.m3u8
+#EXTGRP:DVB-T2 
+#EXTINF-1 tvg-id="Digi24.ro" tvg-logo="https://i.imgur.com/2z4F1UT.png" group-title=" " tvg-chno="21",Digi 24
+https://edge-ar.rcs-rds.ro/digi24ar/index.m3u8
+
+[ATV]
+
+#EXTGRP:ATV
+#EXTINF-1 tvg-id="" tvg-logo="https://i.imgur.com/ZbQY56v.png" group-title=" " tvg-chno="101",Moldova 1
+https://v.trm.md/static/streaming-playlists/hls/f272ace4-32c2-4271-bbb6-7fc30a5c6105/master.m3u8
+#EXTGRP:ATV
+#EXTINF-1 tvg-id="" tvg-logo="https://i.imgur.com/Hv6Nk8A.png" group-title=" " tvg-chno="102",Moldova 2
+https://v2.trm.md/static/streaming-playlists/hls/76541c86-d7de-4c73-b4c0-4fe6670b90a8/master.m3u8
+
+[DVB-S]
+
+#EXTGRP:DVB-S
+#EXTINF-1 tvg-id="TVRInternational.ro" tvg-logo="https://i.imgur.com/w28wcHs.png" group-title=" " tvg-chno="500",TVR International
+https://mn-nl.mncdn.com/tvri_test/smil:tvri_test.smil/index.m3u8
