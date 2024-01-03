@@ -377,6 +377,12 @@ https://5926fc9c7c5b2.streamlock.net/9108/9108/playlist.m3u8
 #EXTINF:-1 tvg-id="APChannel.it" tvg-logo="https://www.aplife.it/wp-content/uploads/2022/07/Logo-AP-Life.png" group-title=" " tvg-chno="220",AP Channel
 https://stream.cp.ets-sistemi.it:1936/life120-live/life120-live/playlist.m3u8
 #EXTGRP:DVB-T2_Nazionale
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title=" " tvg-chno="222",Radio Roma Television
+https://5926fc9c7c5b2.streamlock.net/rtfeunawfu/rtfeunawfu/playlist.m3u8
+#EXTGRP:DVB-T2_Nazionale
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title=" " tvg-chno="226",Welcome In
+http://fms.premio.link/welcomein/index.m3u8
+#EXTGRP:DVB-T2_Nazionale
 #EXTINF:-1 tvg-id="RTL1025News.it" tvg-logo="https://i.imgur.com/vAtzwXK.png" group-title=" " tvg-chno="233",RTL 102.5 News TV
 https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S38122967/2lyQRIAAGgRR/playlist_video.m3u8
 #EXTGRP:DVB-T2_Nazionale
@@ -425,6 +431,9 @@ http://wzstreaming.rai.it/TVlive/liveStream/master.m3u8
 #EXTINF:-1 tvg-id="Business24.it" tvg-logo="https://business24tv.it/wp-content/uploads/elementor/thumbs/logo_b24-pryfkrmu8wj7rt8w8cfpg1cst9dj9igi42gtg3c59y.png" group-title=" " tvg-chno="410",Business 24 Italia
 https://premio.link/business24/smil:business24.smil/playlist.m3u8
 #EXTGRP:DVB-T2_Nazionale
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title=" " tvg-chno="411",Premio Sport
+http://fms.premio.link/premio-sport/index.m3u8
+#EXTGRP:DVB-T2_Nazionale
 #EXTINF:-1 tvg-id="CanaleEuropaTV.it" tvg-logo=" " user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 Edg/112.0.1722.34" group-title=" " tvg-chno="416",Canale Europa TV
 #EXTVLCOPT:http-referrer=https://player.castr.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 Edg/112.0.1722.34
@@ -432,6 +441,9 @@ https://stream.castr.com/604b6e10ad1e130d20dedd12/live_1b2633f0158b11eeb388a5854
 #EXTGRP:DVB-T2_Nazionale
 #EXTINF:-1 tvg-id="DolomitiLifeTV.it" tvg-logo="https://www.dolomitilifetv.it/_next/image?url=%2Fimages%2Ficons%2FlogoIcon.png&w=32&q=75" group-title=" " tvg-chno="441",Dolomiti Life TV
 https://stream.mariatvcdn.com/teledolomiti/a66b8b8ac2baee06f136e87b9805774d.sdp/chunks.m3u8
+#EXTGRP:DVB-T2_Nazionale
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title=" " tvg-chno="455",Premio Direct
+http://fms.premio.link/premio-sport/index.m3u8
 #EXTGRP:DVB-T2_Nazionale
 #EXTINF:-1 tvg-id="VaticanMedia.va" tvg-logo="https://i.imgur.com/9cUUx8H.png" group-title=" " tvg-chno="555",Vatican Media (Italiano)
 https://ythls.armelin.one/channel/UC7E-LYc1wivk33iyt5bR5zQ.m3u8
