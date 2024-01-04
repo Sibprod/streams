@@ -56,7 +56,7 @@ https://live03-col.msf.cdn.mediaset.net/live/ch-lb/lb-clr.isml/manifest.mpd
 #EXTGRP:DVB-T2_Nazionale
 #EXTINF:-1 tvg-id="Rai4.it" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/rai4.png" group-title=" " tvg-chno="21",RAI 4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-
+https://ok.ru/video/4154573594224
 #EXTGRP:DVB-T2_Nazionale
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="" tvg-chno="22",Iris
 #KODIPROP:inputstream=inputstream.adaptive
@@ -405,14 +405,8 @@ http://wzstreaming.rai.it/TVlive/liveStream/master.m3u8
 #EXTINF:-1 tvg-id="SanMarinoRTV.sm" tvg-logo="https://i.imgur.com/lJpOlLv.png" group-title=" " tvg-chno="831",RTV San Marino 
 https://d2hrvno5bw6tg2.cloudfront.net/smrtv-ch01/_definst_/smil:ch-01.smil/chunklist_b1692000_slita.m3u8
 #EXTGRP:DVB-T2_Regionale
-#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title=" " tvg-chno="841",Lady Radio TV
-https://flash8.xdevel.com/ladyradiovideo/ladyradiovideo/manifest.mpd
-#EXTGRP:DVB-T2_Regionale
 #EXTINF:-1 tvg-id=" " tvg-logo=" " group-title=" " tvg-chno="864",Onda Novara TV
 https://585b674743bbb.streamlock.net/9006/9006/playlist.m3u8
-#EXTGRP:DVB-T2_Regionale
-#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title=" " tvg-chno="870",Radio Delta International
-https://w1.mediastreaming.it/deltainternational/livestream/playlist.m3u8
 #EXTGRP:DVB-T2_Nazionale
 #EXTINF:-1 tvg-id="SuperSix.it" tvg-logo="https://i.imgur.com/kHSuyub.png" group-title=" " tvg-chno="877",Super Six
 https://5db313b643fd8.streamlock.net/SUPERSIXLombardia/SUPERSIXLombardia/playlist.m3u8
@@ -422,43 +416,43 @@ https://stream.radioseriea.com/50773f0d0070476a8612d9984c6059d8/index.m3u8
 
 [HBBTV]
 
-#EXTGRP:HBBTV
+#EXTGRP:HbbTV
 #EXTINF:-1 tvg-id="RTL1025TVBest.it" tvg-logo="https://i.imgur.com/ahWJwvT.png" group-title=" " tvg-chno="36",RTL 102.5 TV Best
 https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S76960628/OEPHRUIctA0M/playlist_video.m3u8
-#EXTGRP:HBBTV
+#EXTGRP:HbbTV
 #EXTINF:-1 tvg-id="RTL1025TVBroandSis.it" tvg-logo="https://i.imgur.com/1ZutMTJ.png" group-title=" " tvg-chno="36",RTL 102.5 TV Bro & Sis
 https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S75007890/MUGHuxc9dQ3b/playlist.m3u8
-#EXTGRP:HBBTV
+#EXTGRP:HbbTV
 #EXTINF:-1 tvg-id="RTL1025TVDoc.it" tvg-logo="https://i.imgur.com/1gAeWPP.png" group-title=" " tvg-chno="36",RTL 102.5 TV Doc
 https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S51100361/0Fb4R3k82b5Z/playlist_video.m3u8
-#EXTGRP:HBBTV
+#EXTGRP:HbbTV
 #EXTINF:-1 tvg-id="RTL1025TVDoc.it" tvg-logo="https://i.imgur.com/jFD0oOD.png" group-title=" " tvg-chno="36",RTL 102.5 TV Napulè
 https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S27134503/0f9AhuwKlhnZ/playlist_video.m3u8
-#EXTGRP:HBBTV
+#EXTGRP:HbbTV
 #EXTINF:-1 tvg-id="RTL1025TVRomeoandJuliet.it" tvg-logo="https://www.phonostar.de/images/auto_created/rtl_1025_romeo184x184.png" group-title=" " tvg-chno="36",RTL 102.5 Romeo & Juliet
 https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S8448465/zTYa1Z5Op9ue/playlist_video.m3u8
-#EXTGRP:HBBTV
+#EXTGRP:HbbTV
 #EXTINF:-1 tvg-id="Sportitalia24.it" tvg-logo="https://net-static.tcccdn.com/template/sportitalia.com/img/streaming/si_live24.png" group-title=" " tvg-chno="60",Sportitalia (Live 24)
 https://di-j16ei4yq.vo.lswcdn.net/sportitalia/smil:silive24.smil/playlist.m3u8
-#EXTGRP:HBBTV
+#EXTGRP:HbbTV
 #EXTINF:-1 tvg-id="SportitaliaSolocalcio.it" tvg-logo="https://i.imgur.com/hu56Ya5.png" group-title=" " tvg-chno="60",Sportitalia SoloCalcio
 https://di-j16ei4yq.vo.lswcdn.net/sportitalia/smil:sisolocalcio.smil/playlist.m3u8
-#EXTGRP:HBBTV
+#EXTGRP:HbbTV
 #EXTINF:-1 tvg-id="" tvg-logo="https://net-static.tcccdn.com/template/sportitalia.com/img/streaming/rbn.png" group-title=" " tvg-chno="60",RBN TV (Radio Bianco Nera)
 https://tmw.fluid.stream/RadioBianconeraTV/livestream/playlist.m3u8
-#EXTGRP:HBBTV
+#EXTGRP:HbbTV
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.radiofirenzeviola.it/template/radiofirenzeviola.it/default/img/head-logo.png" group-title=" " tvg-chno="60",Radio Firenze Viola TV
 https://tmw.fluid.stream/rfviola_tv/livestream/playlist.m3u8
-#EXTGRP:HBBTV
+#EXTGRP:HbbTV
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.radiofirenzeviola.it/template/radiofirenzeviola.it/default/img/head-logo.png" group-title="DTT" tvg-chno="60",TMW Radio TV
 https://tmw.fluid.stream/TMWRadioTV/livestream/playlist.m3u8
-#EXTGRP:HBBTV
+#EXTGRP:HbbTV
 #EXTINF:-1 tvg-id="LeCronacheLucane.it" tvg-logo=" " group-title=" " tvg-chno="68",Le Cronache TV
 http://77.68.40.210:8888/hls/cronache.m3u8
-#EXTGRP:HBBTV
+#EXTGRP:HbbTV
 #EXTINF:-1 tvg-id="Zerounomusic.it" tvg-logo="https://i.imgur.com/RMPVvGR.png" group-title=" " tvg-chno="68",Zerouno TV Music 
 http://5db313b643fd8.streamlock.net:1935/ZerounoTV/ZerounoTV/playlist.m3u8
-#EXTGRP:HBBTV
+#EXTGRP:HbbTV
 #EXTINF:-1 tvg-id="ZerounoTVNews.it" tvg-logo=" " group-title=" " tvg-chno="68",Zerouno TV News
 https://5db313b643fd8.streamlock.net/ZerounoTVEventi/ZerounoTVEventi/playlist.m3u8
 
@@ -510,6 +504,12 @@ https://senato-live.morescreens.com/SENATO_1_001/playlist.m3u8
 #EXTGRP:DVB-S
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/ee/explorer-hd-channel-it.png" group-title=" " tvg-chno="176",Explorer HD Channel
 https://3e836341ee364c90b4519e5f0ae6c193.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/ONO_ExplorerHD/playlist.m3u8
+#EXTGRP:DVB-S
+#EXTINF:-1 tvg-id=" " tvg-logo="https://static.milanofinanza.it/videocenter/images/1.gif" group-title=" " tvg-chno="180",Class TV Moda
+https://585b1526dec74509b4bacb3edfffa885.msvdn.net/live/S34780352/RcBUa84Fth0C/playlist.m3u8
+#EXTGRP:DVB-S
+#EXTINF:-1 tvg-id=" " tvg-logo="https://static.milanofinanza.it/videocenter/images/logo-cnbc.png" group-title=" " tvg-chno="507",Class CNBC
+https://859c1818ed614cc5b0047439470927b0.msvdn.net/live/S57048752/8raQqCXozN1H/playlist.m3u8
 #EXTGRP:DVB-S
 #EXTINF:-1 tvg-id="RadioNumberOne.it" tvg-logo="https://i.imgur.com/8cpuaG5.png" group-title=" " tvg-chno="631",Radio Number One
 https://56b50ada2d659.streamlock.net/RN1TV/livestream/playlist.m3u8 
@@ -598,7 +598,7 @@ https://live.ipstream.it/etv/etv.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="TRSport.it" tvg-logo="https://i.imgur.com/ELXmaqg.png" group-title=" " tvg-chno="78",[Emilia-Romagna] Teleromagna Sport
 https://livetr.teleromagna.it/mia/live/playlist.m3u8
 #EXTGRP:DVB-T2_Regionale
-#EXTINF:-1 tvg-id="DITV80.it" tvg-logo=" " group-title=" " tvg-chno="80",[Emilia-Romagna] ,DI.TV 80
+#EXTINF:-1 tvg-id="DITV80.it" tvg-logo=" " group-title=" " tvg-chno="80",[Emilia-Romagna] DI.TV 80
 https://5f22d76e220e1.streamlock.net/ditv80/ditv80/playlist.m3u8
 #EXTGRP:DVB-T2_Regionale
 #EXTINF:-1 tvg-id=" " tvg-logo=" " group-title=" " tvg-chno="81",[Emilia-Romagna] Radio Italia Anni 60
@@ -645,9 +645,6 @@ https://5db313b643fd8.streamlock.net/111TV/111TV/playlist.m3u8
 #EXTINF:-1 tvg-id=" " tvg-logo="https://i.imgur.com/NZJi7mm.png" group-title=" " tvg-chno="14",[Lombardia] Espansione TV
 https://srvx1.selftv.video/espansione/smil:live.smil/playlist.m3u8
 #EXTGRP:DVB-T2_Regionale
-#EXTINF:-1 tvg-id="BabayagaTV.it" tvg-logo="https://www.babayaga.fun/uploads/1/2/8/7/128771604/babayaga-rosso.png" group-title=" " tvg-chno="78",[Lombardia] Baba Yaga TV
-https://stream1.xdevel.com/video0s975770-326/stream/playlist.m3u8
-#EXTGRP:DVB-T2_Regionale
 #EXTINF:-1 tvg-id=" " tvg-logo="https://giovannipaolotv.it/wp-content/uploads/2022/08/cropped-NUOVO-LOGO-GPTV-05_08.png" group-title=" " tvg-chno="79",[Lombardia] Giovanni Paolo TV
 https://media2021.rtvweb.com/giovannipaolotv/web/playlist.m3u8
 #EXTGRP:DVB-T2_Regionale
@@ -660,8 +657,14 @@ https://live1.giocabet.tv/stream/6/index.m3u8
 #EXTINF:-1 tvg-id="WellTV.it" tvg-logo="https://i.imgur.com/ueUddW1.png" group-title=" " tvg-chno="176",[Lombardia] Well TV
 https://5f22d76e220e1.streamlock.net/canale5/canale5/playlist.m3u8
 #EXTGRP:DVB-T2_Regionale
+#EXTINF:-1 tvg-id="BabayagaTV.it" tvg-logo="https://www.babayaga.fun/uploads/1/2/8/7/128771604/babayaga-rosso.png" group-title=" " tvg-chno="178",[Lombardia] Baba Yaga TV
+https://stream1.xdevel.com/video0s975770-326/stream/playlist.m3u8
+#EXTGRP:DVB-T2_Regionale
 #EXTINF:-1 tvg-id=" " tvg-logo="https://i.imgur.com/UupkBt6.png" group-title=" " tvg-chno="636",[Lombardia] Radio 51 TV
 https://59d7d6f47d7fc.streamlock.net/canale51/canale51/playlist.m3u8
+#EXTGRP:DVB-T2_Regionale
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title=" " tvg-chno="870",[Lombardia] Radio Delta International
+https://w1.mediastreaming.it/deltainternational/livestream/playlist.m3u8
 
 #EXTGRP:DVB-T2_Regionale
 #EXTINF:-1 tvg-id=" " tvg-logo="https://i.imgur.com/gPK7e4f.png" group-title=" " tvg-chno="11",[Piemonte] Telecupole
@@ -696,6 +699,9 @@ https://5f204aff97bee.streamlock.net/MillenniumTV/livestream/playlist.m3u8
 #EXTGRP:DVB-T2_Regionale
 #EXTINF:-1 tvg-id="" tvg-logo="https://radiojukebox.info/wp-content/uploads/2019/11/manutenzione-e1610699766130.png" group-title=" " tvg-chno="192",[Piemonte] Radio Jukebox TV
 https://5926fc9c7c5b2.streamlock.net/9108/9108/playlist.m3u8
+#EXTGRP:DVB-T2_Regionale
+#EXTINF:-1 tvg-id=" " tvg-logo="https://uaznao.com/wp-content/uploads/2023/03/radiogold.png" group-title=" " tvg-chno="654",[Piemonte] Radio Gold TV
+https://cdn10-uk.azotosolutions.com/cdnedge5/live5/playlist.m3u8
 
 #EXTGRP:DVB-T2_Regionale
 #EXTINF:-1 tvg-id="Videolina.it" tvg-logo="https://i.imgur.com/Z5NeYwu.png" group-title=" " tvg-chno="10",[Sardegna] Videolina
@@ -732,10 +738,17 @@ https://64b16f23efbee.streamlock.net/mitologytv/mitologytv/playlist.m3u8
 #EXTGRP:DVB-T2_Regionale
 #EXTINF:-1 tvg-id=" " tvg-logo=" " group-title=" " tvg-chno="699",[Toscana] Radio Italia 5 TV
 https://stream1.xdevel.com/video0s975662-257/stream/playlist.m3u8
+#EXTGRP:DVB-T2_Regionale
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title=" " tvg-chno="841",[Toscana] [Umbria] Lady Radio TV
+https://flash8.xdevel.com/ladyradiovideo/ladyradiovideo/manifest.m3u8
 
 #EXTGRP:DVB-T2_Regionale
 #EXTINF:-1 tvg-id="RTTR.it" tvg-logo=" " group-title=" " tvg-chno="11",[Trentino] RTTR
 https://5f204aff97bee.streamlock.net/RTTRlive/livestream/playlist.m3u8
+
+#EXTGRP:DVB-T2_Regionale
+#EXTINF:-1 tvg-id="TVVDA.it" tvg-logo="https://tvda.tv/wp-content/uploads/2022/12/logo_TVdA_new.jpg" group-title=" " tvg-chno="15",[Vallée d'Aoste] TVd'A 
+https://stream.cp.ets-sistemi.it:1936/tvda/tvda/playlist.m3u8
 
 #EXTGRP:DVB-T2_Regionale
 #EXTINF:-1 tvg-id="TVAVicenza.it" tvg-logo=" " group-title=" " tvg-chno="10",[Veneto] TVA Vicenza
