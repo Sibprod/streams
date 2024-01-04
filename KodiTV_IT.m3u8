@@ -393,6 +393,10 @@ https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S35394734/Z6U2wGoDYANk/p
 https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S62628868/uhdWBlkC1AoO/playlist.m3u8
 #EXTGRP:DVB-T2_Nazionale
 #EXTINF:-1 tvg-id=" " tvg-logo=" " group-title=" " tvg-chno="803",RAI 3 (TGR Liguria)
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=72920&output=16
 #EXTGRP:DVB-T2_Nazionale
 #EXTINF:-1 tvg-id="RAISudtirol.it" tvg-logo="https://www.lyngsat-logo.com/logo/tv/rr/rai-3-sudtirol-it.png" group-title=" " tvg-chno="808",RAI 3 (TGR Südtirol)
