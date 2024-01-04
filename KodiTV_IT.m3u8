@@ -294,9 +294,6 @@ https://kk.fluid.stream/KKMulti/smil:KissKissTV.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.grupposciscione.it/wp-content/uploads/2022/11/odeon-1080x650-1-768x462.png" group-title=" " tvg-chno="163",Odeon 24
 https://streaming.softwarecreation.it/Odeon/Odeon/playlist.m3u8
 #EXTGRP:DVB-T2_Nazionale
-#EXTINF:-1 tvg-id="NTN.it" tvg-logo="" group-title=" " tvg-chno="166",NTN - Nuova Televisione Nazionale
-https://stream4.xdevel.com/video0s975955-782/stream/playlist.m3u8
-#EXTGRP:DVB-T2_Nazionale
 #EXTINF:-1 tvg-id="VH1.it" tvg-logo="https://www.lyngsat-logo.com/logo/tv/vv/vh1-us.png" group-title=" " tvg-chno="167",VH1 (Italia)
 https://content.uplynk.com/channel/36953f5b6546464590d2fcd954bc89cf.m3u8
 #EXTGRP:DVB-T2_Nazionale
@@ -522,6 +519,9 @@ https://5f22d76e220e1.streamlock.net/pacicontemporarychannel/pacicontemporarycha
 #EXTGRP:DVB-S
 #EXTINF:-1 tvg-id="" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBB2000001QB_20230208T013137SQUARE.png_20230208013138.png" group-title=" " tvg-chno="811",Italian Fishing TV
 https://145e69d8f2754bf382ca09be379ac725.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Samsung-it_ItalianFishingTV/playlist.m3u8
+#EXTGRP:DVB-S
+#EXTINF:-1 tvg-id="NTN.it" tvg-logo="" group-title=" " tvg-chno="813",NTN - Nuova Televisione Nazionale
+https://stream4.xdevel.com/video0s975955-782/stream/playlist.m3u8
 
 [IPTV]
 
@@ -571,9 +571,57 @@ https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01523-mezzo-vivalditv-tcl/playlist.
 [DVB-T2 Regionale]
 
 #EXTGRP:DVB-T2 Regionale
-#EXTINF:-1 tvg-id=" " tvg-logo="https://s1.dmcdn.net/u/9X5221Z_Sdmrru_C0/120x120" group-title=" " tvg-chno="19",[Basilicata e Puglia] Radio Norba TV
-https://router.xdevel.com/video0s975885-462/stream/playlist_dvr.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/aTs88Es.png" group-title=" " tvg-chno="11",[Abruzzo e Molise] Telemolise
+http://185.202.128.1:1935/TelemoliseStream/telemoliseTV.stream/playlist.m3u8
+#EXTGRP:DVB-T2 Regionale
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/H3uItqg.png" group-title=" " tvg-chno="16",[Abruzzo e Molise] Super J
+http://uk4.streamingpulse.com:1935/SuperJtv/SuperJtv/playlist.m3u8
+#EXTGRP:DVB-T2 Regionale
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/BR7QfUF.png" group-title=" " tvg-chno="19",[Abruzzo e Molise] Rete TV Italia
+https://57068da1deb21.streamlock.net/retetvitalia/retetvitalia/playlist.m3u8
+#EXTGRP:DVB-T2 Regionale
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/4G8fqtn.png" group-title=" " tvg-chno="77",[Abruzzo e Molise] TLT Molise 
+https://5f22d76e220e1.streamlock.net/tltmolise/tltmolise/playlist.m3u8
+#EXTGRP:DVB-T2 Regionale
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/7o1bq3p.png" group-title=" " tvg-chno="87",[Abruzzo e Molise] Vera TV
+http://wms.shared.streamshow.it/veratv/veratv/playlist.m3u8
 
+#EXTGRP:DVB-T2 Regionale
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/2/28/Telenorba_-_Logo_2014.svg/260px-Telenorba_-_Logo_2014.svg.png" group-title=" " tvg-chno="10",[Basilicata e Puglia] Telenorba
+https://router.xdevel.com/video0s976570-1326/stream/playlist_dvr.m3u8
+#EXTGRP:DVB-T2 Regionale
+#EXTINF:-1 tvg-id=" " tvg-logo="https://s1.dmcdn.net/u/9X5221Z_Sdmrru_C0/120x120" group-title=" " tvg-chno="11",[Basilicata e Puglia] Radio Norba TV
+https://router.xdevel.com/video0s975885-462/stream/playlist_dvr.m3u8
+#EXTGRP:DVB-T2 Regionale
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/7KfldrH.png" group-title=" " tvg-chno="12",[Basilicata e Puglia] Tele Bari
+http://fl1.mediastreaming.it:1935/telebari/livestream/playlist.m3u8
+#EXTGRP:DVB-T2 Regionale
+#EXTINF:-1 tvg-id="TGNorba24.it" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/15/Tg_norba24.png" group-title=" " tvg-chno="13",[Basilicata e Puglia] TG Norba24
+https://router.xdevel.com/video0s976570-1326/stream/playlist_dvr.m3u8
+#EXTGRP:DVB-T2 Regionale
+#EXTINF:-1 tvg-id="Antennasud.it" tvg-logo="https://www.antennasud.com/wp-content/uploads/2022/04/quadrati_loghi_14.png" group-title=" " tvg-chno="14",[Basilicata e Puglia] Antenna Sud
+https://live.antennasudwebtv.it:9443/hls/vod.m3u8
+#EXTGRP:DVB-T2 Regionale
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/0YTYXB9.png" group-title=" " tvg-chno="15",[Basilicata e Puglia] Telerama
+https://58d921499d3d3.streamlock.net/TeleRama/livestream/playlist.m3u8
+#EXTGRP:DVB-T2 Regionale
+#EXTINF:-1 tvg-id="" tvg-logo="https://yt3.googleusercontent.com/ytc/APkrFKbt6vqD408-fwklgDOjRDsWBBc-zFM-tnjvOLj1DQ=s176-c-k-c0x00ffffff-no-rj" group-title=" " tvg-chno="16",[Basilicata e Puglia] TRM h24
+https://ythls.armelin.one/channel/UCWxP-YJ_4OVmcKuwzmhW42Q.m3u8
+#EXTGRP:DVB-T2 Regionale
+#EXTINF:-1 tvg-id=" " tvg-logo="https://i.imgur.com/2XWqQon.png" group-title=" " tvg-chno="19",[Basilicata e Puglia] Teledehon
+https://5f22d76e220e1.streamlock.net:443/Teledehon/smil:Teledehon.smil/playlist.m3u8
+#EXTGRP:DVB-T2 Regionale
+#EXTINF:-1 tvg-id="Canale7.it" tvg-logo="https://canale7.tv/assets/front/img/fb_logo.jpg" group-title=" " tvg-chno="78",[Basilicata e Puglia] Canale 7
+http://wms.shared.streamshow.it/canale7/canale7/playlist.m3u8
+#EXTGRP:DVB-T2 Regionale
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/ImvO2rV.png" group-title=" " tvg-chno="88",[Basilicata e Puglia] Tele Foggia
+https://59d7d6f47d7fc.streamlock.net/telefoggia/telefoggia/playlist.m3u8
+#EXTGRP:DVB-T2 Regionale
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/uh4R5Ih.png" group-title=" " tvg-chno="90",[Basilicata e Puglia] Canale 2 Altamura
+https://59d7d6f47d7fc.streamlock.net/canale2/canale2/playlist.m3u8
+#EXTGRP:DVB-T2 Regionale
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.antennasud.com/wp-content/uploads/2022/04/quadrati_loghi_92.png" group-title=" " tvg-chno="92",[Basilicata e Puglia] ntenna Sud Extra
+https://live.antennasudwebtv.it:9443/hls/vod92.m3u8
 
 #EXTGRP:DVB-T2_Regionale
 #EXTINF:-1 tvg-id=" .it" tvg-logo=" " group-title=" " tvg-chno="114",[Campania] Sud TV
@@ -584,6 +632,9 @@ https://59d7d6f47d7fc.streamlock.net/italia2/italia2/playlist.m3u8
 #EXTGRP:DVB-T2_Regionale
 #EXTINF:-1 tvg-id=" .it" tvg-logo="https://www.tvdream.net/img/radio-play-tag-tv.png" group-title=" " tvg-chno="181",[Campania] Play Tag TV
 https://cdn3.wowza.com/5/ZmtOQVZHUU5ISE1S/radio_playtag1/playtag/playlist.m3u8
+#EXTGRP:DVB-T2_Regionale
+#EXTINF:-1 tvg-id=" " tvg-logo="https://i.imgur.com/GsdVpll.png" group-title=" " tvg-chno="645",TV Campane 1
+https://eu1.servers10.com:8081/8032/index.m3u8
 #EXTGRP:DVB-T2_Regionale
 #EXTINF:-1 tvg-id="" tvg-logo="https://radioibiza.it/wp-content/uploads/2021/09/cropped-logo_header.png" group-title=" " tvg-chno="660",[Campania] Ibiza Dance TV
 https://str48.fluid.stream/RadioIbizaTV/livestream/playlist.m3u8
@@ -609,6 +660,10 @@ https://d2hrvno5bw6tg2.cloudfront.net/smrtv-ch02/smil:ch-02.smil/master.m3u8
 #EXTGRP:DVB-T2_Regionale
 #EXTINF:-1 tvg-id=" " tvg-logo=" " group-title=" " tvg-chno="670",[Emilia-Romagna] Radio Studio Delta TV
 https://5ce9406b73c33.streamlock.net/RSD/ngrp:livestream_all/playlist.m3u8
+
+#EXTGRP:DVB-T2_Regionale
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title=" " tvg-chno="74",[Lazio] TeleRegione
+https://streaming.softwarecreation.it/TR118/TR118/playlist.m3u8
 
 #EXTGRP:DVB-T2_Regionale
 #EXTINF:-1 tvg-id="Primocanale.it" tvg-logo="http://www.simonachiavaccini.com/wp-content/uploads/2012/03/primocanale.jpg" group-title=" " tvg-chno="10",[Liguria] Primocanale
@@ -743,8 +798,12 @@ https://stream1.xdevel.com/video0s975662-257/stream/playlist.m3u8
 https://flash8.xdevel.com/ladyradiovideo/ladyradiovideo/manifest.m3u8
 
 #EXTGRP:DVB-T2_Regionale
-#EXTINF:-1 tvg-id="RTTR.it" tvg-logo=" " group-title=" " tvg-chno="11",[Trentino] RTTR
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.altoadigetv.it/images/resource/logo-alto-adige.png" group-title=" " tvg-chno="11",[Trentino-Alto Adige] Alto Adige TV
+https://5f204aff97bee.streamlock.net/AltoAdigeTV/livestream/playlist.m3u8
+#EXTGRP:DVB-T2_Regionale
+#EXTINF:-1 tvg-id="RTTR.it" tvg-logo=" " group-title=" " tvg-chno="11",[Trentino-Alto Adige] RTTR
 https://5f204aff97bee.streamlock.net/RTTRlive/livestream/playlist.m3u8
+
 
 #EXTGRP:DVB-T2_Regionale
 #EXTINF:-1 tvg-id="TVVDA.it" tvg-logo="https://tvda.tv/wp-content/uploads/2022/12/logo_TVdA_new.jpg" group-title=" " tvg-chno="15",[Vallée d'Aoste] TVd'A 
