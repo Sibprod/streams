@@ -547,7 +547,7 @@ https://nuovatv.net:8443/tv/stream.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/zRu9WGh.png" group-title=" " tvg-chno="1000",Nuova TV 2
 https://nuovatv.net:8443/tv2/stream.m3u8
 #EXTGRP:IPTV
-#EXTINF:-1 tvg-id=" " tvg-logo="https://www.poptelevision.it/wp-content/uploads/2018/01/sponsored-by.png" group-title=" " tvg-chno=" ",POP Television
+#EXTINF:-1 tvg-id=" " tvg-logo="https://www.poptelevision.it/wp-content/uploads/2018/01/sponsored-by.png" group-title=" " tvg-chno="1000",POP Television
 https://stream1.aswifi.it/poptelevision/live/index.m3u8
 #EXTGRP:IPTV
 #EXTINF:-1 tvg-id=" " tvg-logo="https://i.imgur.com/sd7BX9H.png" group-title=" " tvg-chno="1000",Radio Alfa TV
