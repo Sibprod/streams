@@ -582,6 +582,9 @@ plugin://plugin.video.twitch/?mode=play&channel_name=sudtv114
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ii/italia_2_it.png" group-title=" " tvg-chno="179",[Campania] Italia 2 News
 https://59d7d6f47d7fc.streamlock.net/italia2/italia2/playlist.m3u8
 #EXTGRP:DVB-T2_Regionale
+#EXTINF:-1 tvg-id=" .it" tvg-logo="https://www.tvdream.net/img/radio-play-tag-tv.png" group-title=" " tvg-chno="181",[Campania] Play Tag TV
+https://cdn3.wowza.com/5/ZmtOQVZHUU5ISE1S/radio_playtag1/playtag/playlist.m3u8
+#EXTGRP:DVB-T2_Regionale
 #EXTINF:-1 tvg-id="" tvg-logo="https://radioibiza.it/wp-content/uploads/2021/09/cropped-logo_header.png" group-title=" " tvg-chno="660",[Campania] Ibiza Dance TV
 https://str48.fluid.stream/RadioIbizaTV/livestream/playlist.m3u8
 #EXTGRP:DVB-T2_Regionale
