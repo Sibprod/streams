@@ -183,6 +183,9 @@ https://production-fast-mcrtv.content.okast.tv/channels/2116dc08-1959-465d-857f-
 #EXTINF:-1 tvg-id="TV5MondeEurope.fr" tvg-logo="https://focus.telerama.fr/104x104/60/0000/00/01/clear-232.png" tvg-chno="75",TV5 Monde (Europe)
 http://livetv.ktv.zone/61/play.m3u8
 #EXTGRP:DVB-T2
+#EXTINF:-1 tvg-id="TV5MondeEurope.fr" tvg-logo="https://focus.telerama.fr/104x104/60/0000/00/01/clear-232.png" tvg-chno="75",TV5 Monde (Europe)
+https://ott.tv5monde.com/Content/HLS/Live/channel(europe)/variant.m3u8
+#EXTGRP:DVB-T2
 #EXTINF:-1 channel-id="samsung-ESBC410000577" tvg-id="ESBC410000577" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC410000577_20231213T103944SQUARE.png_20231213103945.png" tvg-chno="75",TVE Teledeporte
 https://i.mjh.nz/SamsungTVPlus/ESBC410000577.m3u8
 #EXTGRP:DVB-S2
@@ -248,4 +251,10 @@ https://i.mjh.nz/SamsungTVPlus/ITBB2000001QB.m3u8
 #EXTGRP:FAST
 #EXTINF:-1 channel-id="samsung-GBBD19000026B" tvg-id="GBBD19000026B" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBD19000026B_20230614T010133SQUARE.png_20230614010134.png" tvg-chno="4713",TRACE UK
 https://i.mjh.nz/SamsungTVPlus/GBBD19000026B.m3u8
+#EXTGRP:DVB-T2
+#EXTINF:-1 tvg-id="TV5MondeEurope.fr" tvg-logo="https://focus.telerama.fr/104x104/60/0000/00/01/clear-232.png" tvg-chno="75",TV5 Monde (Europe)
+https://ott.tv5monde.com/Content/HLS/Live/channel(tivi5)/variant.m3u8
+#EXTGRP:IPTV
+#EXTINF:-1 tvg-id="TV5MondeEurope.fr" tvg-logo="https://focus.telerama.fr/104x104/60/0000/00/01/clear-232.png" tvg-chno="75",TV5 Monde (Europe)
+https://ott.tv5monde.com/Content/HLS/Live/channel(style)/variant.m3u8
 
