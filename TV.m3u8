@@ -48,9 +48,6 @@ https://i.mjh.nz/SamsungTVPlus/ITBD1500002NL.m3u8
 #EXTINF:-1 tvg-id="C8.fr" tvg-logo="https://tv.cdnartwhere.eu/images/logos_chaines/445.png" group-title=" " tvg-chno="8",C8
 plugin://plugin.video.dailymotion_com/?url=x5gv5rr&mode=playLiveVideo
 #EXTGRP:DVB-T2
-#EXTINF:-1 tvg-id="TV5Monde.fr" tvg-logo="https://focus.telerama.fr/104x104/60/0000/00/01/clear-205.png" tvg-chno="8",TV5 Monde (FBSM)
-https://ott.tv5monde.com/Content/HLS/Live/channel(fbs)/variant.m3u8
-#EXTGRP:DVB-T2
 #EXTINF:-1 channel-id="samsung-ITBD4400008Z5" tvg-id="ITBD4400008Z5" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBD4400008Z5_20231213T033215SQUARE.png_20231213033216.png" tvg-chno="9",Nove
 https://i.mjh.nz/SamsungTVPlus/ITBD4400008Z5.m3u8
 #EXTGRP:DVB-T2
@@ -77,15 +74,6 @@ https://origin2-6play.live.6cloud.fr/pool_rnpls9by/gulli/sixplaysd/hls_short_q2h
 #EXTGRP:DVB-T2
 #EXTINF:-1 tvg-id="LEquipe.fr" tvg-logo="https://focus.telerama.fr/104x104/60/0000/00/01/clear-1401.png" tvg-chno="21",L'Équipe
 plugin://plugin.video.dailymotion_com/?url=x2lefik&mode=playLiveVideo
-#EXTGRP:FAST
-#EXTINF:-1 channel-id="samsung-FRBC4200004XH" tvg-id="FRBC4200004XH" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBC4200004XH_20230414T072304SQUARE.png_20230414072305.png" tvg-chno="21",L'Equipe Live 1
-https://i.mjh.nz/SamsungTVPlus/FRBC4200004XH.m3u8
-#EXTGRP:FAST
-#EXTINF:-1 channel-id="samsung-FRBC4200005X2" tvg-id="FRBC4200005X2" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBC4200005X2_20230308T021650SQUARE.png_20230308021650.png" tvg-chno="21",L'Equipe Live 2
-https://i.mjh.nz/SamsungTVPlus/FRBC4200005X2.m3u8
-#EXTGRP:IPTV
-#EXTINF:-1 tvg-id=" " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Journal_du_golf_tv.png/597px-Journal_du_golf_tv.png" group-title=" " tvg-chno="21",Le Journal du Golf TV
-plugin://plugin.video.dailymotion_com/?url=k5VKYQn5hAE4vfry927&mode=playLiveVideo
 #EXTGRP:DVB-T2
 #EXTINF:-1 channel-id="samsung-FRBD41000097I" tvg-id="FRBD41000097I" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBD41000097I_20231213T033048SQUARE.png_20231213033049.png" tvg-chno="23",RMC Story
 https://i.mjh.nz/SamsungTVPlus/FRBD41000097I.m3u8
@@ -95,6 +83,9 @@ https://i.mjh.nz/SamsungTVPlus/FRBD4100008QS.m3u8
 #EXTGRP:DVB-T2
 #EXTINF:-1 tvg-id="Franceinfo.fr" tvg-logo="https://focus.telerama.fr/104x104/60/0000/00/01/clear-2111.png" tvg-chno="27",Franceinfo
 plugin://plugin.video.dailymotion_com/?url=x4rdeu6&mode=playLiveVideo
+#EXTGRP:DVB-T2
+#EXTINF:-1 tvg-id="La7d.it" tvg-logo="https://static.epg.best/it/La7D.it.png" tvg-chno="29",La 7d
+https://d15umi5iaezxgx.cloudfront.net/LA7D/CLN/HLS/Live.m3u8
 #EXTGRP:DVB-T2
 #EXTINF:-1 tvg-id="BFMVar.fr" tvg-logo="https://raw.githubusercontent.com/Sibprod/assets/main/Altice/ALTICE_BFM-Toulon.png" tvg-chno="30",BFM Régions (Toulon-Var)
 https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_TOULONVAR/index.m3u8?start=LIVE&end=END
@@ -122,9 +113,9 @@ https://i.mjh.nz/SamsungTVPlus/GBBC900008L9.m3u8
 #EXTGRP:DVB-T2
 #EXTINF:-1 tvg-id="LeFigaroIDF.fr" tvg-logo="https://www.planetecsat.com/wp-content/uploads/2023/04/Entete-Figaro-IDF.png" tvg-chno="34",Le Figaro TV (IdF)
 https://figarotv-live.freecaster.com/live/freecaster/figarotv.m3u8
-#EXTGRP:FAST
-#EXTINF:-1 channel-id="samsung-FRBC1400002JN" tvg-id="FRBC1400002JN" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBC1400002JN_20221109T010511SQUARE.png_20221109010511.png" tvg-chno="34",Le Figaro Live
-https://i.mjh.nz/SamsungTVPlus/FRBC1400002JN.m3u8
+#EXTGRP:DVB-T2
+#EXTINF:-1 tvg-id="RTL1025TV.it" tvg-logo="https://i.imgur.com/KdissvS.png" tvg-chno="36",RTL 102.5 TV
+https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S97044836/tbbP8T1ZRPBL/playlist_video.m3u8
 #EXTGRP:DVB-T2
 #EXTINF:-1 channel-id="samsung-ITBD4400010WK" tvg-id="ITBD4400010WK" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBD4400010WK_20231213T033219SQUARE.png_20231213033220.png" tvg-chno="37",Warner Bros TV
 https://i.mjh.nz/SamsungTVPlus/ITBD4400010WK.m3u8
@@ -141,14 +132,11 @@ https://raw.githubusercontent.com/Sibprod/streams/main/ParisPremiere.m3u8
 #EXTINF:-1 channel-id="samsung-ITBD4400003JF" tvg-id="ITBD4400003JF" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBD4400003JF_20231213T033159SQUARE.png_20231213033200.png" tvg-chno="44",Frisbee
 https://i.mjh.nz/SamsungTVPlus/ITBD4400003JF.m3u8
 #EXTGRP:DVB-T2
-#EXTINF:-1 channel-id="samsung-ITAJ3800010RX" tvg-id="ITAJ3800010RX" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITAJ3800010RX_20220404T005813SQUARE.png_20220404005815.png" tvg-chno="45",Super! Pop
-https://i.mjh.nz/SamsungTVPlus/ITAJ3800010RX.m3u8
+#EXTINF:-1 tvg-id="Super.it" tvg-logo="https://www.lyngsat-stream.com/logo/tv/ss/super-it.png" tvg-chno="47",Super !
+https://vimnitaly.akamaized.net/hls/live/2094034/super/master.m3u8
 #EXTGRP:DVB-T2
-#EXTINF:-1 tvg-id="CanalJ.fr" tvg-logo="https://focus.telerama.fr/104x104/60/0000/00/01/clear-32.png" tvg-chno="47",Canal J
-http://livetv.ktv.zone/176/play.m3u8
-#EXTGRP:DVB-T2
-#EXTINF:-1 tvg-id="EuronewsFrench.fr" tvg-logo=" " group-title=" " tvg-chno="47",Euronews (Français)
-plugin://plugin.video.dailymotion_com/?url=x2j4lj9&mode=playLiveVideo
+#EXTINF:-1 tvg-id="RaiNews24.it" tvg-logo="https://i.imgur.com/8juA51j.png" tvg-chno="48",RAI News 24 HD
+https://8e7439fdb1694c8da3a0fd63e4dda518.msvdn.net/rainews1/hls/playlist_mo.m3u8
 #EXTGRP:DVB-S2
 #EXTINF:-1 channel-id="samsung-FRBD4100006OC" tvg-id="FRBD4100006OC" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBD4100006OC_20231213T033036SQUARE.png_20231213033037.png" tvg-chno="51",BFM Business
 https://i.mjh.nz/SamsungTVPlus/FRBD4100006OC.m3u8
@@ -183,9 +171,6 @@ https://production-fast-mcrtv.content.okast.tv/channels/2116dc08-1959-465d-857f-
 #EXTINF:-1 tvg-id="TV5MondeEurope.fr" tvg-logo="https://focus.telerama.fr/104x104/60/0000/00/01/clear-232.png" tvg-chno="75",TV5 Monde (Europe)
 http://livetv.ktv.zone/61/play.m3u8
 #EXTGRP:DVB-T2
-#EXTINF:-1 tvg-id="TV5MondeEurope.fr" tvg-logo="https://focus.telerama.fr/104x104/60/0000/00/01/clear-232.png" tvg-chno="75",TV5 Monde (Europe)
-https://ott.tv5monde.com/Content/HLS/Live/channel(europe)/variant.m3u8
-#EXTGRP:DVB-T2
 #EXTINF:-1 channel-id="samsung-ESBC410000577" tvg-id="ESBC410000577" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC410000577_20231213T103944SQUARE.png_20231213103945.png" tvg-chno="75",TVE Teledeporte
 https://i.mjh.nz/SamsungTVPlus/ESBC410000577.m3u8
 #EXTGRP:DVB-S2
@@ -200,12 +185,21 @@ https://i.mjh.nz/SamsungTVPlus/ESBD2300004Y7.m3u8
 #EXTGRP:DVB-T2
 #EXTINF:-1 channel-id="samsung-ESBC4100004J1" tvg-id="ESBC4100004J1" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC4100004J1_20230614T005926SQUARE.png_20230614005927.png" tvg-chno="127",TVE 24h
 https://i.mjh.nz/SamsungTVPlus/ESBC4100004J1.m3u8
+#EXTGRP:DVB-S2
+#EXTINF:-1 tvg-id="CanalJ.fr" tvg-logo="https://focus.telerama.fr/104x104/60/0000/00/01/clear-32.png" tvg-chno="162",Canal J
+http://livetv.ktv.zone/176/play.m3u8
 #EXTGRP:DVB-C
-#EXTINF:-1 tvg-id="M6International.fr" tvg-logo="https://i.ibb.co/6RYpdNz/m6int.png" group-title=" " tvg-chno="167",M6 International
+#EXTINF:-1 tvg-id="M6International.fr" tvg-logo="https://i.ibb.co/6RYpdNz/m6int.png" tvg-chno="167",M6 International
 https://shls-m6-int-prod-dub.shahid.net/out/v1/a315ab77ee7343a7a17dbe7e32eee3ba/index.m3u8
+#EXTGRP:DVB-S2
+#EXTINF:-1 tvg-id="EuronewsFrench.fr" tvg-logo=" " group-title=" " tvg-chno="172",Euronews (Français)
+plugin://plugin.video.dailymotion_com/?url=x2j4lj9&mode=playLiveVideo
 #EXTGRP:DVB-S2
 #EXTINF:-1 channel-id="samsung-ITBC1100006SA" tvg-id="ITBC1100006SA" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBC1100006SA_20221012T021051SQUARE.png_20221012021052.png" tvg-chno="176",Explorer HD Channel
 https://i.mjh.nz/SamsungTVPlus/ITBC1100006SA.m3u8
+#EXTGRP:IPTV
+#EXTINF:-1 tvg-id=" " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Journal_du_golf_tv.png/597px-Journal_du_golf_tv.png" tvg-chno="187",Le Journal du Golf TV
+plugin://plugin.video.dailymotion_com/?url=k5VKYQn5hAE4vfry927&mode=playLiveVideo
 #EXTGRP:DVB-T2
 #EXTINF:-1 channel-id="samsung-GBBC430000128" tvg-id="GBBC430000128" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBC430000128_20230913T031517SQUARE.png_20230913031518.png" tvg-chno="206",POP
 https://i.mjh.nz/SamsungTVPlus/GBBC430000128.m3u8
@@ -222,13 +216,13 @@ https://i.mjh.nz/SamsungTVPlus/GBBA3300030OP.m3u8
 #EXTINF:-1 channel-id="samsung-ITBB5000002N0" tvg-id="ITBB5000002N0" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBB5000002N0_20231025T032814SQUARE.png_20231025032815.png" tvg-chno="261",Giornale Radio TV
 https://i.mjh.nz/SamsungTVPlus/ITBB5000002N0.m3u8
 #EXTGRP:DVB-T2
-#EXTINF:-1 channel-id="samsung-ITBC4700002CO" tvg-id="ITBC4700002CO" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBC4700002CO_20231011T084822SQUARE.png_20231011084823.png" tvg-chno="269",Solocalcio
+#EXTINF:-1 channel-id="samsung-ITBC4700002CO" tvg-id="ITBC4700002CO" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBC4700002CO_20231011T084822SQUARE.png_20231011084823.png" tvg-chno="269",Sportitalia - Solocalcio
 https://i.mjh.nz/SamsungTVPlus/ITBC4700002CO.m3u8
 #EXTGRP:DVB-T2
 #EXTINF:-1 channel-id="samsung-FRBB49000059E" tvg-id="FRBB49000059E" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBB49000059E_20230614T005617SQUARE.png_20230614005618.png" tvg-chno="397",Tahiti TV
 https://i.mjh.nz/SamsungTVPlus/FRBB49000059E.m3u8
 #EXTGRP:DVB-T2
-#EXTINF:-1 channel-id="samsung-ITBC3000007XK" tvg-id="ITBC3000007XK" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBC3000007XK_20231115T012421SQUARE.png_20231115012421.png" tvg-chno="411",TVPlay
+#EXTINF:-1 channel-id="samsung-ITBC3000007XK" tvg-id="ITBC3000007XK" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBC3000007XK_20231115T012421SQUARE.png_20231115012421.png" tvg-chno="411",Premio Sport - TVPlay
 https://i.mjh.nz/SamsungTVPlus/ITBC3000007XK.m3u8
 #EXTGRP:DVB-T2
 #EXTINF:-1 channel-id="samsung-ITBA1400003WT" tvg-id="ITBA1400003WT" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBA1400003WT_20220404T010007SQUARE.png_20220404010008.png" tvg-chno="416",Canale Europa
@@ -237,11 +231,8 @@ https://i.mjh.nz/SamsungTVPlus/ITBA1400003WT.m3u8
 #EXTINF:-1 channel-id="samsung-ITBD4100006EE" tvg-id="ITBD4100006EE" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBD4100006EE_20231115T012432SQUARE.png_20231115012432.png" tvg-chno="441",Dolomiti Life TV
 https://i.mjh.nz/SamsungTVPlus/ITBD4100006EE.m3u8
 #EXTGRP:DVB-T2
-#EXTINF:-1 channel-id="samsung-ITBD3600001Z9" tvg-id="ITBD3600001Z9" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBD3600001Z9_20230926T032334SQUARE.png_20230926032335.png" tvg-chno="455",GCTV (Global Champions TV)
+#EXTINF:-1 channel-id="samsung-ITBD3600001Z9" tvg-id="ITBD3600001Z9" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBD3600001Z9_20230926T032334SQUARE.png_20230926032335.png" tvg-chno="455",Premio Direct - GCTV (Global Champions TV)
 https://i.mjh.nz/SamsungTVPlus/ITBD3600001Z9.m3u8
-#EXTGRP:FAST
-#EXTINF:-1 channel-id="samsung-ITBD1100002WX" tvg-id="ITBD1100002WX" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBD1100002WX_20230823T033133SQUARE.png_20230823033134.png" tvg-chno="512",France 24 FAST
-https://i.mjh.nz/SamsungTVPlus/ITBD1100002WX.m3u8
 #EXTGRP:DVB-S2
 #EXTINF:-1 channel-id="samsung-ITBA2200008IM" tvg-id="ITBA2200008IM" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBA2200008IM_20220713T034459SQUARE.png_20220713034459.png" tvg-chno="726",Radio Italia Trend
 https://i.mjh.nz/SamsungTVPlus/ITBA2200008IM.m3u8
@@ -249,12 +240,19 @@ https://i.mjh.nz/SamsungTVPlus/ITBA2200008IM.m3u8
 #EXTINF:-1 channel-id="samsung-ITBB2000001QB" tvg-id="ITBB2000001QB" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBB2000001QB_20230208T013137SQUARE.png_20230208013138.png" tvg-chno="811",Italian Fishing TV
 https://i.mjh.nz/SamsungTVPlus/ITBB2000001QB.m3u8
 #EXTGRP:FAST
+#EXTINF:-1 channel-id="samsung-GBBD1100002L5" tvg-id="GBBD1100002L5" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBD1100002L5_20230823T033121SQUARE.png_20230823033121.png" tvg-chno="4314",France 24 FAST (English)
+https://i.mjh.nz/SamsungTVPlus/GBBD1100002L5.m3u8
+#EXTGRP:FAST
+#EXTINF:-1 channel-id="samsung-FRBC1400002JN" tvg-id="FRBC1400002JN" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBC1400002JN_20221109T010511SQUARE.png_20221109010511.png" tvg-chno="4316",Le Figaro Live
+https://i.mjh.nz/SamsungTVPlus/FRBC1400002JN.m3u8
+#EXTGRP:FAST
+#EXTINF:-1 channel-id="samsung-FRBC4200004XH" tvg-id="FRBC4200004XH" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBC4200004XH_20230414T072304SQUARE.png_20230414072305.png" tvg-chno="4501",L'Equipe Live 1
+https://i.mjh.nz/SamsungTVPlus/FRBC4200004XH.m3u8
+#EXTGRP:FAST
+#EXTINF:-1 channel-id="samsung-FRBC4200005X2" tvg-id="FRBC4200005X2" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBC4200005X2_20230308T021650SQUARE.png_20230308021650.png" tvg-chno="4502",L'Equipe Live 2
+https://i.mjh.nz/SamsungTVPlus/FRBC4200005X2.m3u8
+#EXTGRP:FAST
 #EXTINF:-1 channel-id="samsung-GBBD19000026B" tvg-id="GBBD19000026B" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBD19000026B_20230614T010133SQUARE.png_20230614010134.png" tvg-chno="4713",TRACE UK
 https://i.mjh.nz/SamsungTVPlus/GBBD19000026B.m3u8
-#EXTGRP:DVB-T2
-#EXTINF:-1 tvg-id="TV5MondeEurope.fr" tvg-logo="https://focus.telerama.fr/104x104/60/0000/00/01/clear-232.png" tvg-chno="75",TV5 Monde (Europe)
-https://ott.tv5monde.com/Content/HLS/Live/channel(tivi5)/variant.m3u8
-#EXTGRP:IPTV
-#EXTINF:-1 tvg-id="TV5MondeEurope.fr" tvg-logo="https://focus.telerama.fr/104x104/60/0000/00/01/clear-232.png" tvg-chno="75",TV5 Monde (Europe)
-https://ott.tv5monde.com/Content/HLS/Live/channel(style)/variant.m3u8
+
 
