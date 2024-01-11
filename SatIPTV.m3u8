@@ -18,9 +18,12 @@ rtp://@233.236.44.191:7500
 https://shls-m6-france-prod-dub-ak.akamaized.net/out/v1/c8a9f6e000cd4ebaa4d2fc7d18c15988/index.m3u8
 #EXTGRP:Français
 #EXTINF:-1 tvg-id="ARTE.fr" tvg-logo="https://focus.telerama.fr/104x104/60/0000/00/01/clear-111.png" tvg-chno="7",ARTE (Français)
-https://artesimulcast.akamaized.net/hls/live/2031003/artelive_fr/index.m3u8
+rtp://@233.49.82.79:7500
 #EXTGRP:Français
-#EXTINF:-1 tvg-id="C8.fr" tvg-logo="https://tv.cdnartwhere.eu/images/logos_chaines/445.png" tvg-chno="8",C8 (Direct Plug-In link)
+#EXTINF:-1 tvg-id="C8.fr" tvg-logo="https://tv.cdnartwhere.eu/images/logos_chaines/445.png" tvg-chno="8",C8 (KTV)
+http://livetv.ktv.zone/10/play.m3u8
+#EXTGRP:Français
+#EXTINF:-1 tvg-id="C8.fr" tvg-logo="https://tv.cdnartwhere.eu/images/logos_chaines/445.png" tvg-chno="8",C8 
 plugin://plugin.video.dailymotion_com/?url=x5gv5rr&mode=playLiveVideo
 #EXTGRP:Français
 #EXTINF:-1 tvg-id="TVMonaco.mc" tvg-logo="https://uploads-ssl.webflow.com/64ef486c2dea3ecce41aa815/64ef4d4df9dc3aad9060ed45_Logo_Rouge_blanc0-p-500.png" tvg-chno="9",TV Monaco
@@ -43,6 +46,9 @@ https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_TV/index.m3u8?start=LIVE&end=END
 #EXTGRP:Français
 #EXTINF:-1 tvg-id="CNews.fr" tvg-logo="https://focus.telerama.fr/104x104/60/0000/00/01/clear-226.png" tvg-chno="16",CNews
 https://hls-m013.live-lv3.canalplus-cdn.net/live/disk/cnews-clair-hd/hls-ios-fhd-clair/cnews-clair-hd.m3u8
+#EXTGRP:Français
+#EXTINF:-1 tvg-id="CStar.fr" tvg-logo="https://focus.telerama.fr/104x104/60/0000/00/01/clear-458.png" tvg-chno="17",CStar (KTV)
+http://livetv.ktv.zone/19/play.m3u8
 #EXTGRP:Français
 #EXTINF:-1 tvg-id="CStar.fr" tvg-logo="https://focus.telerama.fr/104x104/60/0000/00/01/clear-458.png" tvg-chno="17",CStar
 plugin://plugin.video.dailymotion_com/?url=x5gv5v0&mode=playLiveVideo
