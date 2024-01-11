@@ -69,7 +69,7 @@ https://d2mt8for1pddy4.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 rtp://@233.49.82.134:7500
 #EXTGRP:Français
 #EXTINF:-1 tvg-id="LCI.fr" tvg-logo="https://focus.telerama.fr/104x104/60/0000/00/01/clear-112.png" tvg-chno="26",LCI
-https://live-lci-hls.cdn-0.diff.tf1.fr/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjaXAiOiIyMC43NS45NS45OSIsImNtY2QiOiIiLCJleHAiOjE3MDQ4Mzg2NTMsImdpZCI6IjNiNWNkOTNmLWM2ODUtNGU3YS1iZTMzLWJhZGZmMWRjMGQ2NyIsImlhdCI6MTcwNDgyNDI1MywiaXNzIjoiZGVsaXZlcnkiLCJtYXhiIjowLCJzdGVtIjoiL291dC92MS85MTdhYWQ0ZmE3MmY0MmY3YmE3ZjQ4NjIyNmY1NGJjNC9sY2ktY21hZiIsInN1YiI6IjNiNWNkOTNmLWM2ODUtNGU3YS1iZTMzLWJhZGZmMWRjMGQ2NyJ9.iTgonnVPhCjK0OnnyggWqC2quWqavGtShtCZL99mcbw/out/v1/917aad4fa72f42f7ba7f486226f54bc4/lci-cmaf/index.m3u8
+http://livetv.ktv.zone/28/play.m3u8
 #EXTGRP:Français
 #EXTINF:-1 tvg-id="Franceinfo.fr" tvg-logo="https://focus.telerama.fr/104x104/60/0000/00/01/clear-2111.png" tvg-chno="27",Franceinfo (TV)
 plugin://plugin.video.dailymotion_com/?url=x4rdeu6&mode=playLiveVideo
