@@ -20,8 +20,8 @@ https://shls-m6-france-prod-dub-ak.akamaized.net/out/v1/c8a9f6e000cd4ebaa4d2fc7d
 #EXTINF:-1 tvg-id="ARTE.fr" tvg-logo="https://focus.telerama.fr/104x104/60/0000/00/01/clear-111.png" tvg-chno="7",ARTE (Français)
 https://artesimulcast.akamaized.net/hls/live/2031003/artelive_fr/index.m3u8
 #EXTGRP:Français
-#EXTINF:-1 tvg-id="C8.fr" tvg-logo="https://tv.cdnartwhere.eu/images/logos_chaines/445.png" tvg-chno="8",C8 (DMProxylink)
-https://github.com/Sibprod/streams/raw/main/ressources/dmotion/py/Canal/C8.m3u8
+#EXTINF:-1 tvg-id="C8.fr" tvg-logo="https://tv.cdnartwhere.eu/images/logos_chaines/445.png" tvg-chno="8",C8 (DMlink)
+https://www.dailymotion.com/video/x5gv5rr
 #EXTGRP:Français
 #EXTINF:-1 tvg-id="C8.fr" tvg-logo="https://tv.cdnartwhere.eu/images/logos_chaines/445.png" tvg-chno="8",C8 (Direct Plug-In link)
 plugin://plugin.video.dailymotion_com/?url=x5gv5rr&mode=playLiveVideo
