@@ -24,7 +24,7 @@ rtp://@233.49.82.79:7500
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://hls-m010.live-lv3.canalplus-cdn.net/live/12948051-1f4f-4c5f-823c-2e0373c92789
+#KODIPROP:inputstream.adaptive.license_key=12948051-1f4f-4c5f-823c-2e0373c92789
 https://hls-m010.live-lv3.canalplus-cdn.net/live/disk/c8-hd/hls-ios-fhd/index.m3u8
 #EXTGRP:Français
 #EXTINF:-1 tvg-id="C8.fr" tvg-logo="https://tv.cdnartwhere.eu/images/logos_chaines/445.png" tvg-chno="8",C8 (KTV)
