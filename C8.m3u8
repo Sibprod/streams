@@ -1,5 +1,6 @@
 #EXTM3U
 #EXT-X-VERSION:5
+#EXT-X-SESSION-KEY:METHOD=SAMPLE-AES,URI="skd://live/12948051-1f4f-4c5f-823c-2e0373c92789",KEYFORMAT="com.apple.streamingkeydelivery",KEYFORMATVERSIONS="1"
 #EXT-X-MEDIA:TYPE=AUDIO,URI="https://hls-m010.live-lv3.canalplus-cdn.net/live/disk/c8-hd/hls-ios-fhd/c8-hd-ec3_250800_fra=4.m3u8",GROUP-ID="audio-EC-3-251",LANGUAGE="fra",NAME="vf",DEFAULT=YES,AUTOSELECT=YES,CHANNELS="2"
 #EXT-X-MEDIA:TYPE=AUDIO,URI="https://hls-m010.live-lv3.canalplus-cdn.net/live/disk/c8-hd/hls-ios-fhd/c8-hd-ec3_250800_qaa=5.m3u8",GROUP-ID="audio-EC-3-251",LANGUAGE="qaa",NAME="vo",AUTOSELECT=YES,CHANNELS="2"
 #EXT-X-MEDIA:TYPE=AUDIO,URI="https://hls-m010.live-lv3.canalplus-cdn.net/live/disk/c8-hd/hls-ios-fhd/c8-hd-ec3_250800_qad=6.m3u8",GROUP-ID="audio-EC-3-251",LANGUAGE="qad",NAME="qad",AUTOSELECT=YES,CHARACTERISTICS="public.accessibility.describes-video",CHANNELS="2"
