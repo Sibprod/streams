@@ -405,12 +405,16 @@ http://tv7.hdr-tv.com/live/tv7/livestream/playlist.m3u8
 #EXTINF:-1 tvg-id="TV3V.fr" tvg-logo="https://www.tv3v.fr/images/logo_tv3v.png" tvg-chno="372",TV3V
 https://tv3v.live-kd.com/live/tv3v/livestream/playlist.m3u8
 
+#EXTGRP:Régionales
+#EXTINF:-1 tvg-id=" " tvg-logo="https://s1.dmcdn.net/u/612i61a0qCq7pVqR-/60x60" tvg-chno="373",France Bleu Elsass
+plugin://plugin.video.dailymotion_com/?url=x72b0ey&mode=playLiveVideo
+
 #EXTGRP:Régionales;Français
-#EXTINF:-1 tvg-id=" " tvg-logo="https://brionnais.tv/uploads/images/user_1_1515016104_social.jpg" tvg-chno="373",Brionnais TV
+#EXTINF:-1 tvg-id=" " tvg-logo="https://brionnais.tv/uploads/images/user_1_1515016104_social.jpg" tvg-chno="374",Brionnais TV
 https://stream.mandarine.media/brionnaistv/brionnaistv/playlist.m3u8
 
 #EXTGRP:Régionales;Français
-#EXTINF:-1 tvg-id=" " tvg-logo="https://www.grandcharolais.tv/uploads/images/logo_site_1653752771.png" tvg-chno="374",Grand Charolais TV
+#EXTINF:-1 tvg-id=" " tvg-logo="https://www.grandcharolais.tv/uploads/images/logo_site_1653752771.png" tvg-chno="375",Grand Charolais TV
 https://stream.mandarine.media/grandcharolaistv/grandcharolaistv/playlist.m3u8
 
 #EXTGRP:TNT;Régionales;Français
