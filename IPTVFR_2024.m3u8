@@ -7,15 +7,15 @@ http://livetv.ktv.zone/1/play.m3u8
 #EXTINF:-1 tvg-id="RTS2.ch" tvg-logo="https://focus.telerama.fr/104x104/60/0000/00/01/clear-183.png" tvg-chno="2",RTS 2
 http://livetv.ktv.zone/2/play.m3u8
 
-#EXTGRP:Français
+#EXTGRP:TNT;Français
 #EXTINF:-1 tvg-id="RTLTVI.be" tvg-logo="https://focus.telerama.fr/104x104/60/0000/00/01/clear-168.png" tvg-chno="3",RTL tvi
 https://github.com/Sibprod/streams/raw/main/RTLtvi.m3u8
 
-#EXTGRP:Français
+#EXTGRP:TNT;Français
 #EXTINF:-1 tvg-id="ClubRTL.lu" tvg-logo="https://focus.telerama.fr/104x104/60/0000/00/01/clear-50.png" tvg-chno="4",RTL club
 https://github.com/Sibprod/streams/raw/main/RTLclub.m3u8
 
-#EXTGRP:Français
+#EXTGRP:TNT;Français
 #EXTINF:-1 tvg-id="PlugRTL.lu" tvg-logo="https://focus.telerama.fr/104x104/60/0000/00/01/clear-377.png" tvg-chno="5",RTL plug
 https://github.com/Sibprod/streams/raw/main/RTLplug.m3u8
 
@@ -34,6 +34,10 @@ plugin://plugin.video.dailymotion_com/?url=x5gv5rr&mode=playLiveVideo
 #EXTGRP:TNT;Français
 #EXTINF:-1 tvg-id="TVMonaco.mc" tvg-logo="https://uploads-ssl.webflow.com/64ef486c2dea3ecce41aa815/64ef4d4df9dc3aad9060ed45_Logo_Rouge_blanc0-p-500.png" tvg-chno="9",TV Monaco
 https://production-fast-mcrtv.content.okast.tv/channels/2116dc08-1959-465d-857f-3619daefb66b/b702b2b9-aebd-436c-be69-2118f56f3d86/2025/media.m3u8
+
+#EXTGRP:TNT;Français
+#EXTINF:-1 tvg-id="TMC.fr" tvg-logo="https://focus.telerama.fr/104x104/60/0000/00/01/clear-195.png" tvg-chno="10",TMC
+https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/btv/py/tmc1.m3u8
 
 #EXTGRP:TNT;Français
 #EXTINF:-1 tvg-id="NRJ12.fr" tvg-logo="https://focus.telerama.fr/104x104/60/0000/00/01/clear-444.png" tvg-chno="12",NRJ 12
@@ -126,10 +130,8 @@ https://figarotv-live.freecaster.com/live/freecaster/figarotv.m3u8
 https://pe-fa-lp03a.9c9media.com/live/NOOVO/p/hls/00000201/716cf4c845225692/manifest.m3u8
 
 #EXTGRP:TNT;Français
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#EXTVLCOPT:http-referrer=http://s2.callofliberty.fr/
-#EXTINF:-1 tvg-id="LCI.fr" tvg-logo="https://focus.telerama.fr/104x104/60/0000/00/01/clear-112.png" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64;x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 Edg/112.0.1722.34" tvg-chno="36",LCI
-http://s2.callofliberty.fr/direct/LCI/master.m3u8
+#EXTINF:-1 tvg-id="LCI.fr" tvg-logo="https://focus.telerama.fr/104x104/60/0000/00/01/clear-112.png" tvg-chno="36",LCI
+https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/btv/py/lci1.m3u8
 
 #EXTGRP:TNT;Français
 #EXTINF:-1 tvg-id="CanalJ.fr" tvg-logo="https://focus.telerama.fr/104x104/60/0000/00/01/clear-32.png" tvg-chno="37",Canal J
