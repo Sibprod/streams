@@ -40,18 +40,34 @@ https://production-fast-mcrtv.content.okast.tv/channels/2116dc08-1959-465d-857f-
 https://rcavlive.akamaized.net/hls/live/696615/xcancbft/master_3000.m3u8
 
 #EXTGRP:TNT;Général;Français
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#EXTINF:-1 tvg-id="AntenneReunion.mu" tvg-logo="http://www.callofliberty.fr/tv/47-AntenneREUNION/47-AntenneREUNION.png" tvg-chno="12",Antenne Réunion
-https://live-antenne-reunion.zeop.tv/live/c3eds/antreunihd/hls_fta/antreunihd.m3u8?location=ZEOP01
+#EXTINF:-1 tvg-id="TF1.fr" tvg-logo="https://focus.telerama.fr/104x104/60/0000/00/01/clear-192.png" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64;x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 Edg/112.0.1722.34" tvg-chno="11",TF1
+http://livetv.ktv.zone/3/play.m3u8
 
 #EXTGRP:TNT;Général;Français
-#EXTINF:-1 tvg-id="Telequebec.ca" tvg-logo="https://static.epg.best/ca/TeleQuebec.ca.png" group-title=" " tvg-chno="13",Tele-Québec
-https://bcovlive-a.akamaihd.net/575d86160eb143458d51f7ab187a4e68/us-east-1/6101674910001/playlist.m3u8
+#EXTINF:-1 tvg-id="France2.fr" tvg-logo="https://focus.telerama.fr/104x104/60/0000/00/01/clear-4.png" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64;x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 Edg/112.0.1722.34" tvg-chno="12",France 2
+http://livetv.ktv.zone/4/play.m3u8
+
+#EXTGRP:TNT;Général;Français
+#EXTINF:-1 tvg-id="France3.fr" tvg-logo="https://focus.telerama.fr/104x104/60/0000/00/01/clear-80.png" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64;x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 Edg/112.0.1722.34" tvg-chno="13",France 3
+http://livetv.ktv.zone/5/play.m3u8
+
+#EXTGRP:TNT;Général;Français
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTINF:-1 tvg-id="AntenneReunion.mu" tvg-logo="http://www.callofliberty.fr/tv/47-AntenneREUNION/47-AntenneREUNION.png" tvg-chno="14",Antenne Réunion
+https://live-antenne-reunion.zeop.tv/live/c3eds/antreunihd/hls_fta/antreunihd.m3u8?location=ZEOP01
 
 #EXTGRP:TNT;Général;Français
 #EXTINF:-1 tvg-id="TV5MondeEurope.fr" tvg-logo="https://focus.telerama.fr/104x104/60/0000/00/01/clear-232.png" tvg-chno="15",TV5 Monde (Europe)
 http://livetv.ktv.zone/61/play.m3u8
+
+#EXTGRP:TNT;Général;Français
+#EXTINF:-1 tvg-id="Telequebec.ca" tvg-logo="https://static.epg.best/ca/TeleQuebec.ca.png" group-title=" " tvg-chno="16",Tele-Québec
+https://bcovlive-a.akamaihd.net/575d86160eb143458d51f7ab187a4e68/us-east-1/6101674910001/playlist.m3u8
+
+#EXTGRP:Général;Français
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title=" " tvg-chno="17",D5TV
+https://accesiptv.com/QGHet3DNeRGJ/kX4jGz3KnTPM/592.m3u8
 
 #EXTGRP:TNT;Information;Français
 #EXTINF:-1 tvg-id="Franceinfo.fr" tvg-logo="https://focus.telerama.fr/104x104/60/0000/00/01/clear-2111.png" tvg-chno="20",Franceinfo (TV)
@@ -76,6 +92,10 @@ https://hls-m013.live-lv3.canalplus-cdn.net/live/disk/cnews-clair-hd/hls-ios-fhd
 #EXTGRP:TNT;Information;Français
 #EXTINF:-1 tvg-id="EuronewsFrench.fr" tvg-logo="https://focus.telerama.fr/104x104/60/0000/00/01/clear-140.png" tvg-chno="25",Euronews (Français)
 plugin://plugin.video.dailymotion_com/?url=x2j4lj9&mode=playLiveVideo
+
+#EXTGRP:Information;Français
+#EXTINF:-1 tvg-id="LCI.fr" tvg-logo="https://focus.telerama.fr/104x104/60/0000/00/01/clear-112.png" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64;x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 Edg/112.0.1722.34" tvg-chno="26",LCI
+http://livetv.ktv.zone/28/play.m3u8
 
 #EXTGRP:Information;Français
 #EXTINF:-1 tvg-id="i24NewsFrench.il" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/LOGO_i24NEWS.png/600px-LOGO_i24NEWS.png" group-title=" " tvg-chno="27",i24 News (Français)
@@ -125,6 +145,10 @@ https://figarotv-live.freecaster.com/live/freecaster/figarotv.m3u8
 #EXTINF:-1 tvg-id="CFHDDT.ca" tvg-logo="https://i.imgur.com/x0vLIWr.png" group-title=" " tvg-chno="44",ICI (International Channel / La Chaîne Internationale)
 https://amdici.akamaized.net/hls/live/873426/ICI-Live-Stream/master.m3u8
 
+#EXTGRP:TNT;Culture;Français
+#EXTINF:-1 tvg-id="France5.fr" tvg-logo="https://focus.telerama.fr/104x104/60/0000/00/01/clear-47.png" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64;x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 Edg/112.0.1722.34" tvg-chno="45",France 5
+http://livetv.ktv.zone/7/play.m3u8
+
 #EXTGRP:TNT;Divertissement;Français
 #EXTINF:-1 tvg-id="ClubRTL.lu" tvg-logo="https://focus.telerama.fr/104x104/60/0000/00/01/clear-50.png" tvg-chno="50",RTL club
 https://github.com/Sibprod/streams/raw/main/RTLclub.m3u8
@@ -142,8 +166,8 @@ https://nrj12.nrjaudio.fm/hls/live/2038374/nrj_12/master.m3u8
 plugin://plugin.video.dailymotion_com/?url=x5gv5v0&mode=playLiveVideo
 
 #EXTGRP:TNT;Divertissement;Français
-#EXTINF:-1 channel-id="samsung-FRBD41000097I" tvg-id="FRBD41000097I" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBD41000097I_20231213T033048SQUARE.png_20231213033049.png" tvg-chno="54",RMC Story
-https://d36bxc1bknkxrk.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-3ewcp19zjaxpt/index.m3u8
+#EXTINF:-1 tvg-id="France4.fr" tvg-logo="https://focus.telerama.fr/104x104/60/0000/00/01/clear-78.png" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64;x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 Edg/112.0.1722.34" group-title=" " tvg-chno="54",France 4
+http://livetv.ktv.zone/16/play.m3u8
 
 #EXTGRP:TNT;Divertissement;Français
 #EXTINF:-1 tvg-id="Cherie25.fr" tvg-logo="https://focus.telerama.fr/104x104/60/0000/00/01/clear-1399.png" tvg-chno="55",Chérie 25
@@ -185,6 +209,26 @@ https://livevideo.vedge.infomaniak.com/livecast/lfmhd/master.m3u8
 #EXTINF:-1 tvg-id="TVSuissePlus.ch" tvg-logo="https://services.sg101.prd.sctv.ch/content/images/tv/channel/1082_image_7_w90.webp" tvg-chno="64",Carac 4
 https://livevideo.vedge.infomaniak.com/livecast/compack_media_1/master.m3u8
 
+#EXTGRP:TNT;Divertissement;Français
+#EXTINF:-1 tvg-id="W9.fr" tvg-logo="https://focus.telerama.fr/104x104/60/0000/00/01/clear-119.png" tvg-chno="65",W9
+http://livetv.ktv.zone/11/play.m3u8
+
+#EXTGRP:TNT;Divertissement;Français
+#EXTINF:-1 tvg-id="TMC.fr" tvg-logo="https://focus.telerama.fr/104x104/60/0000/00/01/clear-195.png" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64;x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 Edg/112.0.1722.34" tvg-chno="66",TMC
+http://livetv.ktv.zone/12/play.m3u8
+
+#EXTGRP:TNT;Divertissement;Français
+#EXTINF:-1 tvg-id="TFX.fr" tvg-logo="https://focus.telerama.fr/104x104/60/0000/00/01/clear-446.png" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64;x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 Edg/112.0.1722.34" tvg-chno="67",TFX
+http://livetv.ktv.zone/13/play.m3u8
+
+#EXTGRP:TNT;Divertissement;Français
+#EXTINF:-1 tvg-id="6ter.fr" tvg-logo="https://focus.telerama.fr/104x104/60/0000/00/01/clear-1403.png" tvg-chno="68",6Ter
+http://livetv.ktv.zone/24/play.m3u8
+
+#EXTGRP:TNT;Divertissement;Français
+#EXTINF:-1 channel-id="samsung-FRBD41000097I" tvg-id="FRBD41000097I" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBD41000097I_20231213T033048SQUARE.png_20231213033049.png" tvg-chno="69",RMC Story
+https://d36bxc1bknkxrk.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-3ewcp19zjaxpt/index.m3u8
+
 #EXTGRP:TNT;Découverte;Français
 #EXTINF:-1 channel-id="samsung-FRBD4100008QS" tvg-id="FRBD4100008QS" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBD4100008QS_20231213T033047SQUARE.png_20231213033047.png" tvg-chno="70",RMC Découverte
 https://d2mt8for1pddy4.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-6uronj7gzvy4j/index.m3u8
@@ -202,7 +246,19 @@ plugin://plugin.video.dailymotion_com/?url=x7z3zqa&mode=playLiveVideo
 plugin://plugin.video.dailymotion_com/?url=x2lefik&mode=playLiveVideo
 
 #EXTGRP:Sport;Français
-#EXTINF:-1 tvg-id="SportenFrance.fr" tvg-logo="https://i.imgur.com/1IXQoWq.png" tvg-chno="81",Sport En France
+#EXTINF:-1 tvg-id=" " tvg-logo="https://www.sport-tv.org/wp-content/uploads/2022/11/Chaine-LEquipe-Live-1.jpg" group-title=" " tvg-chno="81",L'Equipe Live 1
+plugin://plugin.video.dailymotion_com/?url=k1kypsRZF9plQhqwBRS&mode=playLiveVideo
+
+#EXTGRP:Sport;Français
+#EXTINF:-1 tvg-id=" " tvg-logo="https://www.sport-tv.org/wp-content/uploads/2022/11/Chaine-LEquipe-Live-2.jpg" group-title=" " tvg-chno="82",L'Equipe Live 2
+plugin://plugin.video.dailymotion_com/?url=k5TgcOKBUTM2KnqwBWC&mode=playLiveVideo
+
+#EXTGRP:Sport;Français
+#EXTINF:-1 tvg-id=" " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Journal_du_golf_tv.png/597px-Journal_du_golf_tv.png" group-title=" " tvg-chno="83",Le Journal du Golf TV
+plugin://plugin.video.dailymotion_com/?url=k5VKYQn5hAE4vfry927&mode=playLiveVideo
+
+#EXTGRP:Sport;Français
+#EXTINF:-1 tvg-id="SportenFrance.fr" tvg-logo="https://i.imgur.com/1IXQoWq.png" tvg-chno="84",Sport En France
 https://sp1564435593.mytvchain.info/live/sp1564435593/index.m3u8
 
 #EXTGRP:TNT;Jeunesse;Français
@@ -224,6 +280,14 @@ https://live-kto.akamaized.net/hls/live/2033284/KTO/index.m3u8
 #EXTGRP:Lifestyle;Français
 #EXTINF:-1 tvg-id="Superyacht.mc" tvg-logo="https://superyacht.tv/media/cache/header_main_logo/bundles/app/img/logo.png" group-title=" " tvg-chno="110",SuperYacht.TV
 https://sy.wns.live/hls/stream.m3u8
+
+#EXTGRP:TNT;Lifestyle;Français
+#EXTINF:-1 tvg-id="Nocturne31.fr" tvg-logo="https://s2.dmcdn.net/u/7fiM11W1elfKAeKOR/120x120" group-title=" " tvg-chno="111",N31
+plugin://plugin.video.dailymotion_com/?url=x6nkjg1&mode=playLiveVideo
+
+#EXTGRP:Cinéma;Séries;Français
+#EXTINF:-1 tvg-id="TF1SeriesFilms.fr" tvg-logo="https://focus.telerama.fr/104x104/60/0000/00/01/clear-1404.png" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64;x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 Edg/112.0.1722.34" tvg-chno="120",TF1 Séries & Films
+http://livetv.ktv.zone/22/play.m3u8
 
 #EXTGRP:RNT;Français
 #EXTINF:-1 tvg-id=" " tvg-logo="https://www.lyngsat.com/logo/radio/mm/martinique-1ere-radio-fr-mq.png" tvg-chno="150",Martinique La 1ère (Radiovision)
