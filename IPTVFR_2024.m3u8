@@ -24,8 +24,8 @@ https://github.com/Sibprod/streams/raw/main/RTLplug.m3u8
 https://shls-m6-france-prod-dub-ak.akamaized.net/out/v1/c8a9f6e000cd4ebaa4d2fc7d18c15988/index.m3u8
 
 #EXTGRP:TNT;Français
-#EXTINF:-1 tvg-id="ARTE.fr" tvg-logo="https://tv.cdnartwhere.eu/images/logos_chaines/111.png" group-title=" " tvg-chno="7",ARTE
-
+#EXTINF:-1 tvg-id="ARTE.fr" tvg-logo="https://tv.cdnartwhere.eu/images/logos_chaines/111.png" tvg-chno="7",ARTE
+https://artesimulcast.akamaized.net/hls/live/2031003/artelive_fr/index.m3u8
 
 #EXTGRP:TNT;Français
 #EXTINF:-1 tvg-id="C8.fr" tvg-logo="https://tv.cdnartwhere.eu/images/logos_chaines/445.png" tvg-chno="8",C8 
