@@ -30,5 +30,8 @@ https://live.creacast.com/bluediamond/stream/playlist.m3u8
 #EXTGRP:TNT;Bénin
 #EXTINF:-1 tvg-id="ETele.bj" tvg-logo="https://i.imgur.com/y1eg7OC.png" group-title=" " tvg-chno="1112",E-Télé
 https://livetvsteam.com:1936/etelebenin/etelebenin/playlist.m3u8
+#EXTGRP:Mali
+#EXTINF:-1 tvg-id=" " tvg-logo="https://d3tvradio.com/wp-content/uploads/2023/08/logo-dark-d3-tv-radio.png" tvg-chno=" ",D3TV
+https://rpn3.bozztv.com/ssh101/ssh101/d3tv1/chunks.m3u8
 
 
