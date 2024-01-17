@@ -595,33 +595,45 @@ https://biptv.tv/live/biptvstream_orig/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/vDRB1fK/tvtloire.png" tvg-chno="429",TVT-Val de Loire
 https://lives.digiteka.com/stream/920f083a-9e61-4c09-9bc2-bdb664063aa9/index.m3u8
 
+
+
 #EXTGRP:TNT;Régionales;Français
-#EXTINF:-1 tvg-id="ETV.gp" tvg-logo="https://www.etv.gp/wp-content/uploads/2021/08/logo-chaine-television-etv-300x132.png" tvg-chno="440",ETV
+#EXTINF:-1 tvg-id="ChiconiFMTV.yt" tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/81ba876d-fb66-485e-8c04-382dd5d0dc92-profile_image-70x70.png" tvg-chno="441",Chiconi FM TV
+plugin://plugin.video.twitch/?mode=play&channel_name=https://www.twitch.tv/chiconifmtv976
+
+#EXTGRP:TNT;Régionales;Français
+#EXTINF:-1 tvg-id="ETV.gp" tvg-logo="https://www.etv.gp/wp-content/uploads/2021/08/logo-chaine-television-etv-300x132.png" tvg-chno="442",ETV
 https://livevideo.vedge.infomaniak.com/livecast/etvgp/playlist.m3u8
 
 #EXTGRP:Régionales;Français
-#EXTINF:-1 tvg-id="" tvg-logo="https://s1.dmcdn.net/u/4CFDy1a3DhO7zSO3N/120x120" tvg-chno="441",Ubiznews-OM5
-plugin://plugin.video.dailymotion_com/?url=x8dicii&mode=playLiveVideo
-
-#EXTGRP:Régionales;Français
-#EXTINF:-1 tvg-id="TEVEKA.gp" tvg-logo="https://i.imgur.com/IAtKJZk.png" tvg-chno="442",Teveka Marie-Galante
+#EXTINF:-1 tvg-id="TEVEKA.gp" tvg-logo="https://i.imgur.com/IAtKJZk.png" tvg-chno="443",Teveka Marie-Galante
 https://www.teveka.net:8443/show/teveka/index.m3u8
 
 #EXTGRP:Régionales;Français
-#EXTINF:-1 tvg-id="TMA.gp" tvg-logo="https://i.imgur.com/1iOAl2j.png" tvg-chno="443",TMA - Télé Musicale Antillaise
+#EXTINF:-1 tvg-id="Guadeloupe4TV.fr" tvg-logo="https://guadeloupe4-tv.com/wp-content/uploads/2022/03/Guadeloupe4TV_300x315.png" tvg-chno="444",Guadeloupe 4 TV
+plugin://plugin.video.twitch/?mode=play&channel_name=https://www.twitch.tv/guadeloupe4tv
+
+#EXTGRP:Régionales;Français
+#EXTINF:-1 tvg-id="" tvg-logo="https://s1.dmcdn.net/u/4CFDy1a3DhO7zSO3N/120x120" tvg-chno="445",Ubiznews-OM5
+plugin://plugin.video.dailymotion_com/?url=x8dicii&mode=playLiveVideo
+
+#EXTGRP:Régionales;Français
+#EXTINF:-1 tvg-id="TMA.gp" tvg-logo="https://i.imgur.com/1iOAl2j.png" tvg-chno="446",TMA - Télé Musicale Antillaise
 http://hls.tmacaraibes.com/live/index.m3u8
 
 #EXTGRP:Régionales;Français
-#EXTINF:-1 tvg-id="" tvg-logo="http://fusiontv.fr/wp-content/uploads/2021/03/cropped-LOGO-FUSION-TV2-2-300x220.png" tvg-chno="444",Fusion TV
+#EXTINF:-1 tvg-id="" tvg-logo="http://fusiontv.fr/wp-content/uploads/2021/03/cropped-LOGO-FUSION-TV2-2-300x220.png" tvg-chno="447",Fusion TV
 https://livevideo.vedge.infomaniak.com/livecast/fusiontv/playlist.m3u8
 
 #EXTGRP:Régionales;Français
-#EXTINF:-1 tvg-id="" tvg-logo="https://tvfamille.org/website/images/logo/tv_famille_logo_2019_square_75px.png" tvg-chno="445",TV Famille
+#EXTINF:-1 tvg-id="" tvg-logo="https://tvfamille.org/website/images/logo/tv_famille_logo_2019_square_75px.png" tvg-chno="448",TV Famille
 https://streamer1.streamhost.org/salive/GMItvfh/playlist.m3u8
 
 #EXTGRP:Régionales;Français
 #EXTINF:-1 tvg-id=" " tvg-logo="https://i.imgur.com/7oLUSeO.png" tvg-chno="446",Mayotte One TV
 https://live.mytv.yt:3946/multi_web/play.m3u8
+
+
 
 
 
