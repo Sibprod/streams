@@ -405,6 +405,10 @@ https://live.creacast.com/iltv/smil:iltv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/VNDPTDY/tgohelle.png" tvg-chno="347",Tele Gohelle
 https://videas.agglo-lenslievin.fr/index.m3u8
 
+#EXTGRP:Régionales;Français
+#EXTINF:-1 tvg-id="LaChaine32.fr" tvg-logo="https://yt3.googleusercontent.com/ytc/AIf8zZQwNeJoQgA_BlRnpyaYio1tlIXit6PbBCjQwZEm=s176-c-k-c0x00ffffff-no-rj" tvg-chno="348",La Chaîne 32
+https://ythls.armelin.one/channel/UChl0zP89T7yZyEwQkCfmmnQ.m3u8
+
 #EXTGRP:TNT;Régionales;Français
 #EXTINF:-1 tvg-id="Canal32.fr" tvg-logo="https://i.ibb.co/Dpsn6ZV/c32.png" tvg-chno="350",Canal 32
 https://livevideo.vedge.infomaniak.com/livecast/ik:canal32/manifest.m3u8
@@ -546,6 +550,10 @@ https://ythls.armelin.one/channel/UCdFv_ZWQ3Xk_NfRiaK-ryGg.m3u8
 #EXTGRP:Régionales;Français
 #EXTINF:-1 tvg-id="" tvg-logo="https://codeberg.org/Sibprod/Feed/raw/branch/main/assets/natv_logo.png" tvg-chno="413",NA TV
 https://livevideo.vedge.infomaniak.com/livecast/naradio/playlist.m3u8
+
+#EXTGRP:Régionales
+#EXTINF:-1 tvg-id="Kanaldude.fr" tvg-logo="https://kanaldude.eus/static/img/Kanaldude.png" tvg-chno="414",Kanaldude
+https://5aa375514fbab.streamlock.net:8090/tbzain/smil:kanaldude.smil/manifest.mpd
 
 #EXTGRP:TNT;Régionales;Français
 #EXTINF:-1 tvg-id="ViaAngers.fr" tvg-logo="https://viaangers.tv/PourSmartphoneLogoANGERSTELE-1080x1080px-NoirRouge.png" tvg-chno="420",Angers Télé
