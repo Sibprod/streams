@@ -1,19 +1,140 @@
 #EXTM3U
-#EXT-X-VERSION:6
-#EXT-X-INDEPENDENT-SEGMENTS
-#EXT-X-STREAM-INF:BANDWIDTH=3412864,AVERAGE-BANDWIDTH=2891084,RESOLUTION=1280x720,FRAME-RATE=25.000,CODECS="avc1.4D401F,mp4a.40.2",SUBTITLES="subtitles",AUDIO="audio_0"
-https://live-lci-hls.cdn-0.diff.tf1.fr/out/v1/917aad4fa72f42f7ba7f486226f54bc4/lci-cmaf/index_1.m3u8
-#EXT-X-STREAM-INF:BANDWIDTH=2356864,AVERAGE-BANDWIDTH=2011084,RESOLUTION=1024x576,FRAME-RATE=25.000,CODECS="avc1.4D401F,mp4a.40.2",SUBTITLES="subtitles",AUDIO="audio_0"
-https://live-lci-hls.cdn-0.diff.tf1.fr/out/v1/917aad4fa72f42f7ba7f486226f54bc4/lci-cmaf/index_2.m3u8
-#EXT-X-STREAM-INF:BANDWIDTH=1696895,AVERAGE-BANDWIDTH=1461120,RESOLUTION=1024x576,FRAME-RATE=25.000,CODECS="avc1.4D401F,mp4a.40.2",SUBTITLES="subtitles",AUDIO="audio_0"
-https://live-lci-hls.cdn-0.diff.tf1.fr/out/v1/917aad4fa72f42f7ba7f486226f54bc4/lci-cmaf/index_3.m3u8
-#EXT-X-STREAM-INF:BANDWIDTH=1168895,AVERAGE-BANDWIDTH=1021120,RESOLUTION=640x360,FRAME-RATE=25.000,CODECS="avc1.42C01E,mp4a.40.2",SUBTITLES="subtitles",AUDIO="audio_0"
-https://live-lci-hls.cdn-0.diff.tf1.fr/out/v1/917aad4fa72f42f7ba7f486226f54bc4/lci-cmaf/index_4.m3u8
-#EXT-X-STREAM-INF:BANDWIDTH=640895,AVERAGE-BANDWIDTH=581120,RESOLUTION=416x234,FRAME-RATE=25.000,CODECS="avc1.42C00D,mp4a.40.2",SUBTITLES="subtitles",AUDIO="audio_0"
-https://live-lci-hls.cdn-0.diff.tf1.fr/out/v1/917aad4fa72f42f7ba7f486226f54bc4/lci-cmaf/index_5.m3u8
-#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="audio_0",CHANNELS="2",NAME="français",LANGUAGE="fra",DEFAULT=YES,AUTOSELECT=YES,URI="https://live-lci-hls.cdn-0.diff.tf1.fr/out/v1/917aad4fa72f42f7ba7f486226f54bc4/lci-cmaf/index_6_0.m3u8"
-#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="audio_0",CHANNELS="2",NAME="VO",LANGUAGE="mul",DEFAULT=NO,AUTOSELECT=YES,URI="https://live-lci-hls.cdn-0.diff.tf1.fr/out/v1/917aad4fa72f42f7ba7f486226f54bc4/lci-cmaf/index_7_0.m3u8"
-#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="audio_0",CHANNELS="2",NAME="audio description",LANGUAGE="sme",DEFAULT=NO,AUTOSELECT=YES,URI="https://live-lci-hls.cdn-0.diff.tf1.fr/out/v1/917aad4fa72f42f7ba7f486226f54bc4/lci-cmaf/index_8_0.m3u8"
-#EXT-X-MEDIA:TYPE=SUBTITLES,GROUP-ID="subtitles",NAME="no subtitles",DEFAULT=YES,AUTOSELECT=YES,FORCED=NO,LANGUAGE="mul",URI="https://live-lci-hls.cdn-0.diff.tf1.fr/out/v1/917aad4fa72f42f7ba7f486226f54bc4/lci-cmaf/index_9_0.m3u8"
-#EXT-X-MEDIA:TYPE=SUBTITLES,GROUP-ID="subtitles",NAME="Sourds et malentendants",DEFAULT=NO,AUTOSELECT=NO,FORCED=NO,LANGUAGE="sme",URI="https://live-lci-hls.cdn-0.diff.tf1.fr/out/v1/917aad4fa72f42f7ba7f486226f54bc4/lci-cmaf/index_10_0.m3u8"
-#EXT-X-MEDIA:TYPE=SUBTITLES,GROUP-ID="subtitles",NAME="français",DEFAULT=NO,AUTOSELECT=NO,FORCED=NO,LANGUAGE="fra",URI="https://live-lci-hls.cdn-0.diff.tf1.fr/out/v1/917aad4fa72f42f7ba7f486226f54bc4/lci-cmaf/index_11_0.m3u8"
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TNT" tvg-chno="1",TF1
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:6B:06:77&stream=506638&extension=ts
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TNT" tvg-chno="2",France 2
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:6B:06:77&stream=506637&extension=ts
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TNT" tvg-chno="3",France 3
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:6B:06:77&stream=506636&extension=ts
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TNT" tvg-chno="4",Canal+
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:6B:06:77&stream=506635&extension=ts
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TNT" tvg-chno="5",France 5
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:6B:06:77&stream=506634&extension=ts
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TNT" tvg-chno="6",M6
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:6B:06:77&stream=506633&extension=ts
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TNT" tvg-chno="7",ARTE (France)
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:6B:06:77&stream=506632&extension=ts
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TNT" tvg-chno="8",C8
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:6B:06:77&stream=506630&extension=ts
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TNT" tvg-chno="9",W9
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:6B:06:77&stream=506629&extension=ts
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TNT" tvg-chno="10",TMC
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:6B:06:77&stream=506628&extension=ts
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TNT" tvg-chno="11",TFX
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:6B:06:77&stream=506627&extension=ts
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TNT" tvg-chno="12",NRJ 12
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:6B:06:77&stream=506626&extension=ts
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TNT" tvg-chno="13",LCP
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:6B:06:77&stream=506625&extension=ts
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TNT" tvg-chno="14",France 4
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:6B:06:77&stream=506624&extension=ts
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TNT" tvg-chno="15",BFM TV
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:6B:06:77&stream=506623&extension=ts
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TNT" tvg-chno="16",CNews
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:6B:06:77&stream=506622&extension=ts
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TNT" tvg-chno="17",CStar
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:6B:06:77&stream=506621&extension=ts
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TNT" tvg-chno="20",TF1 Séries Films
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:6B:06:77&stream=506620&extension=ts
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TNT" tvg-chno="21",L'Équipe
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:6B:06:77&stream=506619&extension=ts
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TNT" tvg-chno="22",6ter
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:6B:06:77&stream=506618&extension=ts
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TNT" tvg-chno="23",RMC Story
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:6B:06:77&stream=506617&extension=ts
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TNT" tvg-chno="24",RMC Découverte
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:6B:06:77&stream=506616&extension=ts
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TNT" tvg-chno="25",Chérie 25
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:6B:06:77&stream=506615&extension=ts
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TNT" tvg-chno="26",LCI
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:6B:06:77&stream=506614&extension=ts
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TNT" tvg-chno="27",France Info
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:6B:06:77&stream=506613&extension=ts
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TNT" tvg-chno="42",Canal+ Sport
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:6B:06:77&stream=506557&extension=ts
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TNT" tvg-chno="43",Canal+ Cinéma
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:6B:06:77&stream=506612&extension=ts
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Bis TV" tvg-chno="40",Automoto
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:6B:06:77&stream=506545&extension=ts
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Bis TV" tvg-chno="48",Crime District
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:6B:06:77&stream=506569&extension=ts
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Bis TV" tvg-chno="49",TV Breizh
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:6B:06:77&stream=506574&extension=ts
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Bis TV" tvg-chno="50",Action
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:6B:06:77&stream=506593&extension=ts
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Bis TV" tvg-chno="56",TV5 Monde FBSM
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:6B:06:77&stream=506567&extension=ts
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Bis TV" tvg-chno="57",AB1
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:6B:06:77&stream=506576&extension=ts
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Bis TV" tvg-chno="58",RTL 9
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:6B:06:77&stream=506571&extension=ts
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Bis TV" tvg-chno="62",Mangas
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:6B:06:77&stream=506577&extension=ts
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Canal" tvg-chno=" ",Canal+ Kids
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:6B:06:77&stream=506611&extension=ts
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Canal" tvg-chno=" ",Ciné+ Premier
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:6B:06:77&stream=506607&extension=ts
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Canal" tvg-chno=" ",Ciné+ Club
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:6B:06:77&stream=506603&extension=ts
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Canal" tvg-chno=" ",OCS Max
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:6B:06:77&stream=506601&extension=ts
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Canal" tvg-chno=" ",TCM Cinéma
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:6B:06:77&stream=506596&extension=ts
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Canal" tvg-chno=" ",Paramount Channel
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:6B:06:77&stream=506595&extension=ts
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Canal" tvg-chno=" ",Paramount Channel Décalé
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:6B:06:77&stream=506594&extension=ts
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Canal" tvg-chno=" ",13ème Rue
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:6B:06:77&stream=506591&extension=ts
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Canal" tvg-chno=" ",Olympia TV
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:6B:06:77&stream=506589&extension=ts
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Canal" tvg-chno=" ",Comédie+
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:6B:06:77&stream=506588&extension=ts
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Canal" tvg-chno=" ",Polar+
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:6B:06:77&stream=506587&extension=ts
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Canal" tvg-chno=" ",WB TV (Français)
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:6B:06:77&stream=506586&extension=ts
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Canal" tvg-chno=" ",Série Club
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:6B:06:77&stream=506585&extension=ts
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Canal" tvg-chno=" ",MTV 
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:6B:06:77&stream=506584&extension=ts
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Canal" tvg-chno=" ",E!
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:6B:06:77&stream=506583&extension=ts
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Canal" tvg-chno=" ",Novelas TV
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:6B:06:77&stream=506581&extension=ts
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Canal" tvg-chno=" ",MCM
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:6B:06:77&stream=506580&extension=ts
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Canal" tvg-chno=" ",Game One
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:6B:06:77&stream=506579&extension=ts
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Canal" tvg-chno=" ",J-One
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:6B:06:77&stream=506578&extension=ts
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Canal" tvg-chno=" ",SyFy
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:6B:06:77&stream=506570&extension=ts
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Canal" tvg-chno=" ",BET
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:6B:06:77&stream=506568&extension=ts
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Canal" tvg-chno=" ",Comedy Central
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:6B:06:77&stream=506566&extension=ts
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Canal" tvg-chno=" ",Gourmand TV
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:6B:06:77&stream=506565&extension=ts£
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Canal" tvg-chno=" ",Luxe.TV
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:6B:06:77&stream=506564&extension=ts
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Canal" tvg-chno=" ",MGG TV
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:6B:06:77&stream=506563&extension=ts
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Canal" tvg-chno=" ",Infosport+
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:6B:06:77&stream=506562&extension=ts
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Canal" tvg-chno=" ",Eurosport 2
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:6B:06:77&stream=506560&extension=ts
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Canal" tvg-chno=" ",Eurosport 1
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:6B:06:77&stream=506559&extension=ts
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Canal" tvg-chno=" ",Canal+ Top 14
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:6B:06:77&stream=506558&extension=ts
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Canal" tvg-chno=" ",BeIn Sports 1
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:6B:06:77&stream=506552&extension=ts
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Canal" tvg-chno=" ",BeIn Sports 1
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:6B:06:77&stream=506551&extension=ts
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Canal" tvg-chno=" ",BeIn Sports 3
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:6B:06:77&stream=506550&extension=ts
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Canal" tvg-chno=" ",RMC Sport 1
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:6B:06:77&stream=506549&extension=ts
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Canal" tvg-chno=" ",RMC Sport 2
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:6B:06:77&stream=506548&extension=ts
+
