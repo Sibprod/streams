@@ -1,0 +1,33 @@
+name: FranceTVSeries action
+
+on:
+  schedule:
+    - cron: '43 */4 * * *'
+  
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+    
+      - uses: actions/checkout@v3
+
+      - name: config
+        run: |
+          git config --global user.email "<>"
+          git config --global user.name "FranceTVSeries bot"
+      
+      - name: updating freg
+        run: sh ressources/ftv/py/FranceTVSeries.sh
+        
+      - name: git add
+        run: |
+          git add -A
+          ls -la 
+          
+      - name: commit & push
+        run: |
+          git pull
+          git commit -m "FranceTVSeries updated"
+          git push
