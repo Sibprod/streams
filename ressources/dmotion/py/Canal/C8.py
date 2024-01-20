@@ -1,58 +1,34 @@
-#! /usr/bin/python3
-# Thanks to pshanmu3 user on github
+#!/usr/bin/python3
+
 import requests
-import os
-import sys
 
-proxies = {}
-if len(sys.argv) == 2:
-    proxies = {
-                'http' : sys.argv[1],
-                'https' : sys.argv[1]
-              }
-
-na = 'https://raw.githubusercontent.com/naveenland4/UTLive/main/assets/info.m3u8'
-def grab(line):
-    try:
-        _id = line.split('/')[4]
-        response = s.get(f'https://www.dailymotion.com/player/metadata/video/{_id}', proxies=proxies).json()['qualities']['auto'][0]['url']
-        m3u = s.get(response, proxies=proxies).text
-        m3u = m3u.strip().split('\n')[1:]
-        d = {}
-        cnd = True
-        for item in m3u:
-            if cnd:
-                resolution = item.strip().split(',')[2].split('=')[1]
-                if resolution not in d:
-                    d[resolution] = []
-            else:
-                d[resolution]= item
-            cnd = not cnd
-        #print(m3u)
-        m3u = d[max(d, key=int)]    
-    except Exception as e:
-        m3u = na
-    finally:
-        print(m3u)
+headers = {
+    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0",
+    "Referer": "http://www.callofliberty.fr/"
+}
 
 print('#EXTM3U')
-print('#EXT-X-VERSION:3')
-print('#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000')
-s = requests.Session()
-with open('ressources/dmotion/py/Canal/C8_info.txt') as f:
-    for line in f:
-        line = line.strip()
-        if not line or line.startswith('~~'):
-            continue
-        if not line.startswith('https:'):
-            line = line.split('|')
-            ch_name = line[0].strip()
-            grp_title = line[1].strip().title()
-            tvg_logo = line[2].strip()
-            tvg_id = line[3].strip()
-        else:
-            grab(line)
-            
-if 'temp.txt' in os.listdir():
-    os.system('rm temp.txt')
-    os.system('rm watch*')
+print('#EXT-X-STREAM-INF:BANDWIDTH=7680000')
+
+url = "http://s2.callofliberty.fr/direct/C8/master.m3u8"
+
+response = requests.get(url, headers=headers)
+
+my_line = None  # Initialize my_line outside the if block
+
+if response.status_code == 200:
+    lines = response.text.splitlines()
+    if len(lines) >= 3:  # The index should be 3 for the third line
+        my_line = lines[2]
+    else:
+        print("The file has less than 3 lines.")
+else:
+    print("Failed to fetch the content. Status code:", response.status_code)
+
+if my_line is not None:
+    # Extract the URL part directly
+    url_part_start = my_line.find('https://')
+    url_part_end = my_line.find('m3u8') + 4  # Include 'm3u8' in the result
+
+    url_part = my_line[url_part_start:url_part_end]
+    print(url_part)
