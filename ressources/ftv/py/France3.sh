@@ -1,6 +1,6 @@
 #!/bin/bash
 
-input_file="ressources/ftv/py/fr2.m3u8"
+input_file="ressources/ftv/py/France2.m3u8"
 output_dir="ressources/ftv/py"
 
 if [ ! -f "$input_file" ]; then
