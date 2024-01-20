@@ -7,7 +7,7 @@ print('#EXT-X-VERSION:6')
 print('#EXT-X-STREAM-INF:BANDWIDTH=3412864,AVERAGE-BANDWIDTH=2891084,RESOLUTION=1280x720,FRAME-RATE=25.000,CODECS="avc1.4D401F,mp4a.40.2",SUBTITLES="subtitles",AUDIO="audio_0"')
 
 s = requests.Session()
-response = s.get(f'https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/btv/py/lci.m3u8')
+response = s.get(f'https://raw.githubusercontent.com/Sibprod/streams/main/ressources/btv/py/LCI.m3u8')
 string = response.text.strip()  # Strip newline characters
 new_string = string.replace("index", "index_1")
 print(new_string)
