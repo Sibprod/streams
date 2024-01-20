@@ -1,0 +1,33 @@
+name: LCI_1 action
+
+on:
+  schedule:
+    - cron: '08 */3 * * *'
+  
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+    
+      - uses: actions/checkout@v3
+
+      - name: config
+        run: |
+          git config --global user.email "<>"
+          git config --global user.name "LCI_1 bot"
+      
+      - name: updating lci1
+        run: sh ressources/btv/py/LCI_1.sh
+        
+      - name: git add
+        run: |
+          git add -A
+          ls -la 
+          
+      - name: commit & push
+        run: |
+          git pull origin master
+          git commit -m "LCI_1 updated"
+          git push origin master
