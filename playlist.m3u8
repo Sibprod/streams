@@ -37,6 +37,8 @@ https://hls-m007.live-lv3.canalplus-cdn.net/live/disk/canalplusclair-hd/hls-ios-
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/btv/py/lci1.m3u8
 #EXTINF:-1 tvg-id="ParisPremiere.fr" tvg-logo="https://focus.telerama.fr/104x104/60/0000/00/01/clear-145.png" group-title="TDF_R3" tvg-chno="41",Paris Première
 https://raw.githubusercontent.com/Sibprod/streams/raw/main/ressources/RTLfr/ParisPremiere.m3u8
+#EXTINF:-1 tvg-id="CanalJ.fr" tvg-logo="https://focus.telerama.fr/104x104/60/0000/00/01/clear-32.png" group-title="TDF_R3" tvg-chno="47",Canal J
+http://livetv.ktv.zone/176/play.m3u8
 #EXTINF:-1 tvg-id="ARTE.fr" tvg-logo="https://focus.telerama.fr/104x104/60/0000/00/01/clear-111.png" group-title="TDF_R4" tvg-chno="7",ARTE (France)
 https://artesimulcast.akamaized.net/hls/live/2031003/artelive_fr/index.m3u8
 #EXTINF:-1 tvg-id="France5.fr" tvg-logo="https://focus.telerama.fr/104x104/60/0000/00/01/clear-47.png" group-title="TDF_R4" tvg-chno="5",France 5
@@ -44,9 +46,9 @@ https://raw.githubusercontent.com/Sibprod/streams/main/ressources/ftv/py/France5
 #EXTINF:-1 tvg-id="M6.fr" tvg-logo="https://focus.telerama.fr/104x104/60/0000/00/01/clear-118.png" group-title="TDF_R4" tvg-chno="6",M6
 rtp://233.49.82.76:7500
 #EXTINF:-1 tvg-id="LaChaineParlementaire.fr" tvg-logo="http://www.callofliberty.fr/tv/28-LCP/28-LCP.png" group-title="TDF_R6" tvg-chno="13",LCP (100% Assemblée Nationale)
-https://raw.githubusercontent.com/Sibprod/streams/main/ressources/dmotion/py/Assemblees/LCP.m3u8
+plugin://plugin.video.dailymotion_com/?url=xgepjr&mode=playLiveVideo
 #EXTINF:-1 tvg-id="Parlementaire.fr" tvg-logo="http://www.callofliberty.fr/tv/29-PublicSenat/29-PublicSenat.png" group-title="TDF_R6" tvg-chno="13",Public Sénat
-https://raw.githubusercontent.com/Sibprod/streams/main/ressources/dmotion/py/Assemblees/PublicSenat.m3u8
+plugin://plugin.video.dailymotion_com/?url=xkxbzc&mode=playLiveVideo
 #EXTINF:-1 tvg-id="NRJ12.fr" tvg-logo="https://focus.telerama.fr/104x104/60/0000/00/01/clear-444.png" group-title="TDF_R6" tvg-chno="12",NRJ 12
 rtp://233.49.82.72:7500
 #EXTINF:-1 tvg-id="TMC.fr" tvg-logo="https://focus.telerama.fr/104x104/60/0000/00/01/clear-195.png" group-title="TDF_R6" tvg-chno="10",TMC
@@ -56,7 +58,7 @@ rtp://233.60.197.61:7500
 #EXTINF:-1 tvg-id="Cherie25.fr" tvg-logo="https://focus.telerama.fr/104x104/60/0000/00/01/clear-1399.png" group-title="TDF_R7" tvg-chno="25",Chérie 25
 rtp://233.49.82.134:7500
 #EXTINF:-1 tvg-id="LEquipe.fr" tvg-logo="https://focus.telerama.fr/104x104/60/0000/00/01/clear-1401.png" group-title="TDF_R7" tvg-chno="21",L'Équipe
-https://raw.githubusercontent.com/Sibprod/streams/main/ressources/dmotion/py/LEquipe/LEquipe.m3u8
+plugin://plugin.video.dailymotion_com/?url=x2lefik&mode=playLiveVideo
 #EXTINF:-1 channel-id="samsung-FRBD41000097I" tvg-id="RMCStory.fr" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBD41000097I_20231213T033048SQUARE.png_20231213033049.png" group-title="TDF_R7" tvg-chno="23",RMC Story
 https://d36bxc1bknkxrk.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-3ewcp19zjaxpt/index.m3u8
 #EXTINF:-1 channel-id="samsung-FRBD4100008QS" tvg-id="RMCDecouverte.fr" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBD4100008QS_20231213T033047SQUARE.png_20231213033047.png" group-title="TDF_R7" tvg-chno="24",RMC Découverte
@@ -92,13 +94,30 @@ https://livevideo.vedge.infomaniak.com/livecast/compack_media_1/master.m3u8
 #EXTINF:-1 tvg-id="TV5Monde.fr" tvg-logo="https://focus.telerama.fr/104x104/60/0000/00/01/clear-205.png" group-title="SWOX_F02" tvg-chno="808",TV5 Monde (FBSM)
 https://ott.tv5monde.com/Content/HLS/Live/channel(fbs)/variant.m3u8
 #EXTINF:-1 tvg-id="EuronewsFrench.fr" tvg-logo="https://yt3.googleusercontent.com/HTOTZi2U8zk4wk6MqJa07U5PpZ_G8wKOMYI49rlaxUUPVGWEfOK-FXFnPU6t2Eiowfz-F1Tm4Q=s176-c-k-c0x00ffffff-no-rj" group-title="SWOX_F02" tvg-chno="809",Euronews (Français)
-https://raw.githubusercontent.com/Sibprod/streams/main/ressources/dmotion/py/Euronews/EuronewsFR.m3u8
+plugin://plugin.video.dailymotion_com/?url=x2j4lj9&mode=playLiveVideo
 #EXTINF:-1 tvg-id="RTLTVI.be" tvg-logo="https://focus.telerama.fr/104x104/60/0000/00/01/clear-168.png" group-title="RTL_BE-NL" tvg-chno="811",RTL tvi
 https://raw.githubusercontent.com/Sibprod/streams/main/ressources/RTLbe/RTLtvi.m3u8
 #EXTINF:-1 tvg-id="ClubRTL.lu" tvg-logo="https://focus.telerama.fr/104x104/60/0000/00/01/clear-50.png" group-title="RTL_BE-NL" tvg-chno="812",RTL club
 https://raw.githubusercontent.com/Sibprod/streams/main/ressources/RTLbe/RTLclub.m3u8
 #EXTINF:-1 tvg-id="PlugRTL.lu" tvg-logo="https://focus.telerama.fr/104x104/60/0000/00/01/clear-377.png" group-title="RTL_BE-NL" tvg-chno="813",RTL plug
 https://raw.githubusercontent.com/Sibprod/streams/main/ressources/RTLbe/RTLplug.m3u8
+#EXTINF:-1 tvg-id="BFMBusiness.fr" tvg-logo="https://focus.telerama.fr/104x104/60/0000/00/01/clear-1073.png" group-title="HbbTV" tvg-chno="1500",BFM Business
+https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_BUSINESS/index.m3u8?start=LIVE&end=END
+#EXTINF:-1 tvg-id="01TV.fr" tvg-logo="https://static-cdn.tv.sfr.net/data/img/apps/chaines/logos/SFR100x100RMCBFMPLAY.png?h=380" group-title="HbbTV" tvg-chno="1501",Tech & Co
+https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_TECHANDCO/index.m3u8?start=LIVE&end=END
+#EXTINF:-1 tvg-id="i24NewsFrench.il" tvg-logo=" " group-title="HbbTV" tvg-chno="1502",i24 News (Français)
+https://bcovlive-a.akamaihd.net/cc8266d36bb5469b8b4a3097497e06e6/eu-central-1/5377161796001/playlist-all.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Journal_du_golf_tv.png/597px-Journal_du_golf_tv.png" group-title="HbbTV" tvg-chno="2100",Le Journal du Golf TV
+plugin://plugin.video.dailymotion_com/?url=k5VKYQn5hAE4vfry927&mode=playLiveVideo
+#EXTINF:-1 tvg-id=" " tvg-logo="https://www.sport-tv.org/wp-content/uploads/2022/11/Chaine-LEquipe-Live-1.jpg" group-title="HbbTV" tvg-chno="2101",L'Equipe Live 1
+plugin://plugin.video.dailymotion_com/?url=k1kypsRZF9plQhqwBRS&mode=playLiveVideo
+#EXTINF:-1 tvg-id=" " tvg-logo="https://www.sport-tv.org/wp-content/uploads/2022/11/Chaine-LEquipe-Live-2.jpg" group-title="HbbTV" tvg-chno="2102",L'Equipe Live 2
+plugin://plugin.video.dailymotion_com/?url=k5TgcOKBUTM2KnqwBWC&mode=playLiveVideo
+#EXTINF:-1 tvg-id="TV5MondeInfo.fr" tvg-logo="https://yt3.googleusercontent.com/dta_1oTIVadJjGyWtfGmhMJuhrOxRwz-1cgwJ8p559PYLY77eUM1_9NpMvdE07GnYbb9cOpgNA=s176-c-k-c0x00ffffff-no-rj" group-title="HbbTV" tvg-chno="2800",TV5 Monde (Info)
+https://ott.tv5monde.com/Content/HLS/Live/channel(info)/index.m3u8
+#EXTINF:-1 channel-id="samsung-FRBC1400002JN" tvg-id="FRBC1400002JN" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBC1400002JN_20221109T010511SQUARE.png_20221109010511.png" tvg-chno="3400" group-title="HbbTV",Le Figaro Live
+https://i.mjh.nz/SamsungTVPlus/FRBC14000
+
 
 
 
