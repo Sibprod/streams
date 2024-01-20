@@ -3,17 +3,17 @@
 ## Bedrock rewrited
 #EXT-X-INDEPENDENT-SEGMENTS
 #EXT-X-STREAM-INF:BANDWIDTH=5630077,AVERAGE-BANDWIDTH=3572600,RESOLUTION=1280x720,FRAME-RATE=25.000,CODECS="avc1.64001F,mp4a.40.2",SUBTITLES="subtitles",AUDIO="audio_0"
-https://origin2-6play.live.6cloud.fr/pool_rnpls9by/gulli/sixplayhde/hls_short_fp00_6ter_hdeindex_9.m3u8
+https://origin2-6play.live.6cloud.fr/pool_rnpls9by/6ter/sixplayhde/hls_short_fp00_6ter_hdeindex_9.m3u8
 #EXT-X-STREAM-INF:BANDWIDTH=3782094,AVERAGE-BANDWIDTH=2417618,RESOLUTION=960x540,FRAME-RATE=25.000,CODECS="avc1.64001F,mp4a.40.2",SUBTITLES="subtitles",AUDIO="audio_0"
-https://origin2-6play.live.6cloud.fr/pool_rnpls9by/gulli/sixplayhde/hls_short_fp00_6ter_hdeindex_6.m3u8
+https://origin2-6play.live.6cloud.fr/pool_rnpls9by/6ter/sixplayhde/hls_short_fp00_6ter_hdeindex_6.m3u8
 #EXT-X-STREAM-INF:BANDWIDTH=2726094,AVERAGE-BANDWIDTH=1757618,RESOLUTION=720x404,FRAME-RATE=25.000,CODECS="avc1.64001F,mp4a.40.2",SUBTITLES="subtitles",AUDIO="audio_0"
-https://origin2-6play.live.6cloud.fr/pool_rnpls9by/gulli/sixplayhde/hls_short_fp00_6ter_hdeindex_1.m3u8
+https://origin2-6play.live.6cloud.fr/pool_rnpls9by/6ter/sixplayhde/hls_short_fp00_6ter_hdeindex_1.m3u8
 #EXT-X-STREAM-INF:BANDWIDTH=1494121,AVERAGE-BANDWIDTH=987653,RESOLUTION=640x360,FRAME-RATE=25.000,CODECS="avc1.64001F,mp4a.40.2",SUBTITLES="subtitles",AUDIO="audio_0"
-https://origin2-6play.live.6cloud.fr/pool_rnpls9by/gulli/sixplayhde/hls_short_fp00_6ter_hdeindex_16.m3u8
+https://origin2-6play.live.6cloud.fr/pool_rnpls9by/6ter/sixplayhde/hls_short_fp00_6ter_hdeindex_16.m3u8
 #EXT-X-STREAM-INF:BANDWIDTH=614094,AVERAGE-BANDWIDTH=437618,RESOLUTION=400x224,FRAME-RATE=25.000,CODECS="avc1.42C01E,mp4a.40.2",SUBTITLES="subtitles",AUDIO="audio_0"
-https://origin2-6play.live.6cloud.fr/pool_rnpls9by/gulli/sixplayhde/hls_short_fp00_6ter_hdeindex_11.m3u8
-#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="audio_0",CHANNELS="2",NAME="LV",LANGUAGE="fre",DEFAULT=YES,AUTOSELECT=YES,URI="https://origin2-6play.live.6cloud.fr/pool_rnpls9by/gulli/sixplayhde/hls_short_fp00_6ter_hdeindex_3_0.m3u8"
-#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="audio_0",CHANNELS="2",NAME="OV",LANGUAGE="qaa",DEFAULT=NO,AUTOSELECT=NO,URI="https://origin2-6play.live.6cloud.fr/pool_rnpls9by/gulli/sixplayhde/hls_short_fp00_6ter_hdeindex_14_0.m3u8"
-#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="audio_0",CHANNELS="2",NAME="AD",LANGUAGE="qad",CHARACTERISTICS="public.accessibility.describes-video",DEFAULT=NO,AUTOSELECT=NO,URI="https://origin2-6play.live.6cloud.fr/pool_rnpls9by/gulli/sixplayhde/hls_short_fp00_6ter_hdeindex_15_0.m3u8"
-#EXT-X-MEDIA:TYPE=SUBTITLES,GROUP-ID="subtitles",NAME="fre",DEFAULT=YES,AUTOSELECT=YES,FORCED=NO,LANGUAGE="fre",URI="https://origin2-6play.live.6cloud.fr/pool_rnpls9by/gulli/sixplayhde/hls_short_fp00_6ter_hdeindex_12_0.m3u8"
-#EXT-X-MEDIA:TYPE=SUBTITLES,GROUP-ID="subtitles",NAME="fre_hoh",CHARACTERISTICS="public.accessibility.transcribes-spoken-dialog,public.accessibility.describes-music-and-sound",DEFAULT=NO,AUTOSELECT=NO,FORCED=NO,LANGUAGE="fra",URI="https://origin2-6play.live.6cloud.fr/pool_rnpls9by/gulli/sixplayhde/hls_short_fp00_6ter_hdeindex_13_0.m3u8"
+https://origin2-6play.live.6cloud.fr/pool_rnpls9by/6ter/sixplayhde/hls_short_fp00_6ter_hdeindex_11.m3u8
+#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="audio_0",CHANNELS="2",NAME="LV",LANGUAGE="fre",DEFAULT=YES,AUTOSELECT=YES,URI="https://origin2-6play.live.6cloud.fr/pool_rnpls9by/6ter/sixplayhde/hls_short_fp00_6ter_hdeindex_3_0.m3u8"
+#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="audio_0",CHANNELS="2",NAME="OV",LANGUAGE="qaa",DEFAULT=NO,AUTOSELECT=NO,URI="https://origin2-6play.live.6cloud.fr/pool_rnpls9by/6ter/sixplayhde/hls_short_fp00_6ter_hdeindex_14_0.m3u8"
+#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="audio_0",CHANNELS="2",NAME="AD",LANGUAGE="qad",CHARACTERISTICS="public.accessibility.describes-video",DEFAULT=NO,AUTOSELECT=NO,URI="https://origin2-6play.live.6cloud.fr/pool_rnpls9by/6ter/sixplayhde/hls_short_fp00_6ter_hdeindex_15_0.m3u8"
+#EXT-X-MEDIA:TYPE=SUBTITLES,GROUP-ID="subtitles",NAME="fre",DEFAULT=YES,AUTOSELECT=YES,FORCED=NO,LANGUAGE="fre",URI="https://origin2-6play.live.6cloud.fr/pool_rnpls9by/6ter/sixplayhde/hls_short_fp00_6ter_hdeindex_12_0.m3u8"
+#EXT-X-MEDIA:TYPE=SUBTITLES,GROUP-ID="subtitles",NAME="fre_hoh",CHARACTERISTICS="public.accessibility.transcribes-spoken-dialog,public.accessibility.describes-music-and-sound",DEFAULT=NO,AUTOSELECT=NO,FORCED=NO,LANGUAGE="fra",URI="https://origin2-6play.live.6cloud.fr/pool_rnpls9by/6ter/sixplayhde/hls_short_fp00_6ter_hdeindex_13_0.m3u8"
