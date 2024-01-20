@@ -19,8 +19,8 @@ fi
 1ereReunion_content=$(cat "$input_file" | sed 's/France_2/1erReunion/g; s/hls_fr2/hls_reunion/g')
 1ereMayotte_content=$(cat "$input_file" | sed 's/France_2/1erMayotte/g; s/hls_fr2/hls_mayotte/g')
 
-echo "$1ereGuadeloupe_content" > "$output_dir/1erGuadeloupe.m3u8"
-echo "$1ereMartinique_content" > "$output_dir/1erMartinique.m3u8"
-echo "$1ereGuyane_content" > "$output_dir/1erGuyane.m3u8"
-echo "$1ereReunion_content" > "$output_dir/1erReunion.m3u8"
-echo "$1ereMayotte_content" > "$output_dir/1erMayotte.m3u8"
+echo "$1ereGuadeloupe_content" > "$output_dir/1ereGP.m3u8"
+echo "$1ereMartinique_content" > "$output_dir/1ereMQ.m3u8"
+echo "$1ereGuyane_content" > "$output_dir/1ereGF.m3u8"
+echo "$1ereReunion_content" > "$output_dir/1ereRE.m3u8"
+echo "$1ereMayotte_content" > "$output_dir/1ereYT.m3u8"
