@@ -1,4 +1,4 @@
-name: FranceTV action
+name: La1ere action
 
 on:
   schedule:
@@ -18,7 +18,7 @@ jobs:
           git config --global user.email "<>"
           git config --global user.name "La1ere bot"
       
-      - name: updating FranceTV
+      - name: updating La1ere
         run: sh ressources/ftv/py/La1ere.sh
         
       - name: git add
