@@ -36,7 +36,7 @@ https://hls-m007.live-lv3.canalplus-cdn.net/live/disk/canalplusclair-hd/hls-ios-
 #EXTINF:-1 tvg-id="LCI.fr" tvg-logo="https://focus.telerama.fr/104x104/60/0000/00/01/clear-112.png" group-title="TDF_R3" tvg-chno="26",LCI
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/btv/py/lci1.m3u8
 #EXTINF:-1 tvg-id="ParisPremiere.fr" tvg-logo="https://focus.telerama.fr/104x104/60/0000/00/01/clear-145.png" group-title="TDF_R3" tvg-chno="41",Paris Première
-https://raw.githubusercontent.com/Sibprod/streams/raw/main/ressources/RTLfr/ParisPremiere.m3u8
+https://raw.githubusercontent.com/Sibprod/streams/main/ressources/RTLfr/ParisPremiere.m3u8
 #EXTINF:-1 tvg-id="CanalJ.fr" tvg-logo="https://focus.telerama.fr/104x104/60/0000/00/01/clear-32.png" group-title="TDF_R3" tvg-chno="47",Canal J
 http://livetv.ktv.zone/176/play.m3u8
 #EXTINF:-1 tvg-id="ARTE.fr" tvg-logo="https://focus.telerama.fr/104x104/60/0000/00/01/clear-111.png" group-title="TDF_R4" tvg-chno="7",ARTE (France)
@@ -133,6 +133,8 @@ https://i.mjh.nz/SamsungTVPlus/FRBC14000
 https://live.digiteka.com/1/bEg0RmFLb1JMYXRI/dGhqbmIw/hls/live/playlist.m3u8
 #EXTINF:-1 tvg-id="TZik.fr" tvg-logo="https://images.squarespace-cdn.com/content/v1/5d912c8fc92ec9603f7bc3a1/1596601891411-FXH9KZA62RTJBXMYXAOB/green_blue_gradient_logo_transparent_background.png?format=1500w" group-title="STEL_R05" tvg-chno="128",Tzik
 https://myowntvchannel.com:3019/stream/play.m3u8
+
+https://raw.githubusercontent.com/Sibprod/streams/main/ressources/RTLfr/Teva.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://focus.telerama.fr/104x104/60/0000/00/01/clear-110.png" group-title="STEL_R05" tvg-chno="161",KTO
 https://live-kto.akamaized.net/hls/live/2033284/KTO/index.m3u8
 #EXTINF:-1 tvg-id="M6International.fr" tvg-logo="https://i.ibb.co/6RYpdNz/m6int.png" group-title="STEL_R08" tvg-chno="167",M6 International
