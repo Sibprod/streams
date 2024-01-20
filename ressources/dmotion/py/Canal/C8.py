@@ -1,33 +1,42 @@
-#! /usr/bin/python3
-# Thanks to pshanmu3 user on github
+#!/usr/bin/python3
+
 import requests
-import os
-import sys
 
-proxies = {}
-if len(sys.argv) == 2:
-    proxies = {
-                'http' : sys.argv[1],
-                'https' : sys.argv[1]
-              }
+headers = {
+    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0",
+    "Referer": "http://www.callofliberty.fr/"
+}
 
-na = 'https://raw.githubusercontent.com/naveenland4/UTLive/main/assets/info.m3u8'
-def grab(line):
-    try:
-        _id = line.split('/')[4]
-        response = s.get(f'https://www.dailymotion.com/player/metadata/video/{_id}', proxies=proxies).json()['qualities']['auto'][0]['url']
-        m3u = s.get(response, proxies=proxies).text
-        m3u = m3u.strip().split('\n')[1:]
-        d = {}
-        cnd = True
-        for item in m3u:
-            if cnd:
-                resolution = item.strip().split(',')[2].split('=')[1]
-                if resolution not in d:
-                    d[resolution] = []
-            else:
-                d[resolution]= item
-            cnd = not cnd
+print('#EXTM3U')
+print('#EXT-X-STREAM-INF:BANDWIDTH=7680000')
+
+master_url = "http://s2.callofliberty.fr/direct/C8/master.m3u8"
+s = requests.Session()
+
+def get_specific_line_online(url, line_number):
+    response = s.get(url, headers=headers)
+    if response.status_code == 200:
+        lines = response.text.split('\n')
+        if 1 <= line_number <= len(lines):
+            return lines[line_number - 1]
+        else:
+            return None
+    else:
+        return None
+
+chunks = get_specific_line_online(master_url, 3)
+
+prefix = "http://s2.callofliberty.fr/HLS-AES/"
+index = chunks.find(prefix)
+
+if index != -1:
+    shortchunks = chunks[index + len(prefix):]
+else:
+    shortchunks = chunks
+    
+modified_url = shortchunks.replace("live-2", "live-3")
+
+print(modified_url)
         #print(m3u)
         m3u = d[max(d, key=int)]    
     except Exception as e:
