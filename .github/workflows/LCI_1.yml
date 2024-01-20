@@ -18,7 +18,7 @@ jobs:
           git config --global user.email "<>"
           git config --global user.name "LCI_1 bot"
       
-      - name: updating lci1
+      - name: updating LCI_1
         run: sh ressources/btv/py/LCI_1.sh
         
       - name: git add
