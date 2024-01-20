@@ -25,4 +25,4 @@ https://origin2-6play.live.6cloud.fr/pool_rnpls9by/m6/sixplayhde/hls_short_fp00_
 
 
 #EXT-X-MEDIA:TYPE=SUBTITLES,GROUP-ID="subgroup",NAME="English (caption)",LANGUAGE="eng",CHARACTERISTICS="public.accessibility.transcribes-spoken-dialog,public.accessibility.describes-music-and-sound",AUTOSELECT=NO,DEFAULT=NO,FORCED=NO,URI="https://origin2-6play.live.6cloud.fr/pool_rnpls9by/m6/sixplayhde/hls_short_fp00_m6/NA/xGjjZZH/index.m3u8"
-#EXT-X-MEDIA:TYPE=SUBTITLES,GROUP-ID="subgroup",NAME="English",LANGUAGE="eng",AUTOSELECT=NO,DEFAULT=NO,FORCED=NO,URI="https://origin2-6play.live.6cloud.fr/pool_rnpls9by/m6/sixplayhde/hls_short_fp10_m6/NA/xAZY7If/index.m3u8"
+#EXT-X-MEDIA:TYPE=SUBTITLES,GROUP-ID="subgroup",NAME="English",LANGUAGE="eng",AUTOSELECT=NO,DEFAULT=NO,FORCED=NO,URI="https://origin2-6play.live.6cloud.fr/pool_rnpls9by/m6/sixplayhde/hls_short_fp00_m6/NA/xAZY7If/index.m3u8"
