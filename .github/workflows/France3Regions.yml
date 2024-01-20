@@ -1,4 +1,4 @@
-name: fidf action
+name: France3Regions action
 
 on:
   schedule:
