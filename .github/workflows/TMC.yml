@@ -29,6 +29,6 @@ jobs:
         run: |
           git config --local user.name "TMC Action"
           git config user.email "<>"
-          git add ressources/btv/py/TMC.m3u8
+          git add ressources/btv/py/tmc1.m3u8
           git commit -m "TMC updated"
           git push
