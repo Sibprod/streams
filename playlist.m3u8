@@ -23,7 +23,9 @@ https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_TOULONVAR/index.m3u8?start=LIVE&
 https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_NICECOTEDAZUR/index.m3u8?start=LIVE&end=END
 #EXTINF:-1 tvg-id="BFMTV.fr" tvg-logo="https://static-cdn.tv.sfr.net/data/img/apps/chaines/logos/logopdsbfmtv100.png?h=380" group-title="TDF_R2" tvg-chno="15",BFM TV
 https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_TV/index.m3u8?start=LIVE&end=END
-#EXTINF:-1 tvg-id="C8.fr" tvg-logo="https://focus.telerama.fr/104x104/60/0000/00/01/clear-445.png" group-title="TDF_R2" tvg-chno="8",C8 
+#EXTINF:-1 tvg-id="C8.fr" tvg-logo="https://focus.telerama.fr/104x104/60/0000/00/01/clear-445.png" group-title="TDF_R2" tvg-chno="8",C8
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
 https://raw.githubusercontent.com/Sibprod/streams/main/ressources/dmotion/py/Canal/C8.m3u8
 #EXTINF:-1 tvg-id="CStar.fr" tvg-logo="https://focus.telerama.fr/104x104/60/0000/00/01/clear-458.png" group-title="TDF_R2" tvg-chno="17",CStar
 https://raw.githubusercontent.com/Sibprod/streams/main/ressources/dmotion/py/Canal/CStar.m3u8
@@ -44,6 +46,8 @@ https://raw.githubusercontent.com/Sibprod/streams/main/ressources/ftv/py/France5
 #EXTINF:-1 tvg-id="M6.fr" tvg-logo="https://focus.telerama.fr/104x104/60/0000/00/01/clear-118.png" group-title="TDF_R4" tvg-chno="6",M6
 rtp://233.49.82.76:7500
 #EXTINF:-1 tvg-id="LaChaineParlementaire.fr" tvg-logo="http://www.callofliberty.fr/tv/28-LCP/28-LCP.png" group-title="TDF_R6" tvg-chno="13",LCP (100% Assemblée Nationale)
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
 https://raw.githubusercontent.com/Sibprod/streams/main/ressources/dmotion/py/Assemblees/LCP.m3u8
 #EXTINF:-1 tvg-id="Parlementaire.fr" tvg-logo="http://www.callofliberty.fr/tv/29-PublicSenat/29-PublicSenat.png" group-title="TDF_R6" tvg-chno="13",Public Sénat
 https://raw.githubusercontent.com/Sibprod/streams/main/ressources/dmotion/py/Assemblees/PublicSenat.m3u8
