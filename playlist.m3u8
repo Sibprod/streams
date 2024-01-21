@@ -202,9 +202,9 @@ plugin://plugin.video.dailymotion_com/?url=x8j47xa&mode=playLiveVideo
 #EXTINF:-1 tvg-id="Couleur3.ch" tvg-logo="https://i.imgur.com/VOIwYYd.png" group-title="SWOX_F02" tvg-chno="79",RTS Couleur 3
 https://rtsc3video.akamaized.net/hls/live/2042837/c3video/3/playlist.m3u8
 #EXTINF:-1 tvg-id="MaisonTravaux.fr" tvg-logo=" " group-title="STEL_R10" tvg-chno="1113",Maison & Travaux
-plugin://plugin.video.dailymotion_com/?url=x85e5l8=playLiveVideo
+plugin://plugin.video.dailymotion_com/?url=x85e5l8&mode=playLiveVideo
 #EXTINF:-1 tvg-id="TopSante.fr" tvg-logo=" " group-title="STEL_R10" tvg-chno="1114",Top Santé
-plugin://plugin.video.dailymotion_com/?url=x89yjnn=playLiveVideo
+plugin://plugin.video.dailymotion_com/?url=x89yjnn&mode=playLiveVideo
 
 
 
