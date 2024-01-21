@@ -99,12 +99,14 @@ https://production-fast-mcrtv.content.okast.tv/channels/2116dc08-1959-465d-857f-
 http://livetv.ktv.zone/61/play.m3u8
 #EXTINF:-1 tvg-id="France24French.fr" tvg-logo="https://yt3.googleusercontent.com/ytc/AIf8zZT4CILLcHOlNUh7R08g2zQ1s1WRae9YHxR-i9qgXw=s176-c-k-c0x00ffffff-no-rj" group-title="RAI_France" tvg-chno="76",France 24 (Français)
 https://ythls.armelin.one/channel/UCCCPCZNChQdGa9EkATeye4g.m3u8
-#EXTINF:-1 tvg-id="LemanBleu.ch" tvg-logo="https://eirenesuisse.ch/wp-content/uploads/2020/01/leman-bleu-3-300x201.png" group-title="LEM_F01" tvg-chno="810",Léman Bleu
+#EXTINF:-1 tvg-id="LemanBleu.ch" tvg-logo="https://eirenesuisse.ch/wp-content/uploads/2020/01/leman-bleu-3-300x201.png" group-title="LEM_F01" tvg-chno="1021",Léman Bleu
 https://livevideo.vedge.infomaniak.com/livecast/naxoo/master.m3u8
-#EXTINF:-1 tvg-id="LaTele.ch" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/5/5c/Logo_La_Tele_Vaud_Fribourg.svg/512px-Logo_La_Tele_Vaud_Fribourg.svg.png?20170609121301" group-title="LEM_F01" tvg-chno="821",La Télé (Vaud-Fribourg)
+#EXTINF:-1 tvg-id="LaTele.ch" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/5/5c/Logo_La_Tele_Vaud_Fribourg.svg/512px-Logo_La_Tele_Vaud_Fribourg.svg.png?20170609121301" group-title="LEM_F01" tvg-chno="1022",La Télé (Vaud-Fribourg)
 https://livevideo.vedge.infomaniak.com/livecast/latele/master.m3u8
-#EXTINF:-1 tvg-id="Canal9.ch" tvg-logo=" " group-title="LEM_F01" tvg-chno="822",Canal 9
+#EXTINF:-1 tvg-id="Canal9.ch" tvg-logo=" " group-title="LEM_F01" tvg-chno="1023",Canal 9
 https://livevideo.vedge.infomaniak.com/livecast/livehd/master.m3u8
+#EXTINF:-1 tvg-id="Telebielingue.ch" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/TeleBielingue_Logo.svg/688px-TeleBielingue_Logo.svg.png" group-title="CH-F" tvg-chno="1024",TeleBielingue
+https://livevideo.vedge.infomaniak.com/livecast/telebielinguech/master.m3u8
 #EXTINF:-1 tvg-id="RTS1.ch" tvg-logo="https://focus.telerama.fr/104x104/60/0000/00/01/clear-202.png" group-title="SWOX_F02;RAI_France" tvg-chno="77",RTS 1
 http://livetv.ktv.zone/1/play.m3u8
 #EXTINF:-1 tvg-id="RTS2.ch" tvg-logo="https://focus.telerama.fr/104x104/60/0000/00/01/clear-183.png" group-title="SWOX_F02" tvg-chno="78",RTS 2
@@ -121,9 +123,9 @@ https://livevideo.vedge.infomaniak.com/livecast/compack_media_1/master.m3u8
 https://ott.tv5monde.com/Content/HLS/Live/channel(fbs)/variant.m3u8
 #EXTINF:-1 tvg-id="EuronewsFrench.fr" tvg-logo="https://yt3.googleusercontent.com/HTOTZi2U8zk4wk6MqJa07U5PpZ_G8wKOMYI49rlaxUUPVGWEfOK-FXFnPU6t2Eiowfz-F1Tm4Q=s176-c-k-c0x00ffffff-no-rj" group-title="SWOX_F02" tvg-chno="86",Euronews (Français)
 plugin://plugin.video.dailymotion_com/?url=x2j4lj9&mode=playLiveVideo
-#EXTINF:-1 tvg-id="Canalalpha.ch" tvg-logo="https://i.imgur.com/eQ8xHK9.jpg" group-title="CH_F" tvg-chno="87",Canal Alpha (Neuchâtel)
+#EXTINF:-1 tvg-id="Canalalpha.ch" tvg-logo="https://i.imgur.com/eQ8xHK9.jpg" group-title="CH_F" tvg-chno="1025",Canal Alpha (Neuchâtel)
 https://livevideo.vedge.infomaniak.com/livecast/canalalphane/master.m3u8
-#EXTINF:-1 tvg-id="Canalalpha.ch" tvg-logo="https://i.imgur.com/eQ8xHK9.jpg" group-title="CH_F" tvg-chno="88",Canal Alpha (Jura)
+#EXTINF:-1 tvg-id="Canalalpha.ch" tvg-logo="https://i.imgur.com/eQ8xHK9.jpg" group-title="CH_F" tvg-chno="1026",Canal Alpha (Jura)
 https://livevideo.vedge.infomaniak.com/livecast/canalalphaju/master.m3u8
 #EXTINF:-1 tvg-id="RTLTVI.be" tvg-logo="https://focus.telerama.fr/104x104/60/0000/00/01/clear-168.png" group-title="RTL Group_BE/NL" tvg-chno="61",RTL tvi
 https://raw.githubusercontent.com/Sibprod/streams/main/ressources/RTLbe/RTLtvi.m3u8
@@ -169,37 +171,37 @@ https://sy.wns.live/hls/live/hls/stream.m3u8
 https://shls-tiji-tv-prod-dub.shahid.net/out/v1/98f46736bd8c4404b67e4b7a38cc8976/index.m3u8
 #EXTINF:-1 tvg-id="LyonCapitaleTV.fr" tvg-logo="https://s1.dmcdn.net/u/8vkDy1W6-hQdvqLRR/120x120" group-title="STEL_R05" tvg-chno="29",Lyon Capitale TV
 plugin://plugin.video.dailymotion_com/?url=x7z3zqa&mode=playLiveVideo
-#EXTINF:-1 tvg-id=" " tvg-logo="https://www.lyngsat.com/logo/radio/ff/france-inter-fr.svg" group-title="STEL_R08" tvg-chno="200",France Inter
+#EXTINF:-1 tvg-id=" " tvg-logo="https://www.lyngsat.com/logo/radio/ff/france-inter-fr.svg" group-title="STEL_R08" tvg-chno="402",France Inter
 plugin://plugin.video.dailymotion_com/?url=x17qw0a&mode=playLiveVideo
-#EXTINF:-1 tvg-id=" " tvg-logo="https://www.lyngsat.com/logo/radio/mm/martinique-1ere-radio-fr-mq.png" group-title="STEL_R08" tvg-chno="1210",Martinique La 1ère (Radiovision)
+#EXTINF:-1 tvg-id=" " tvg-logo="https://www.lyngsat.com/logo/radio/mm/martinique-1ere-radio-fr-mq.png" group-title="STEL_R08" tvg-chno="419",Martinique La 1ère (Radiovision)
 https://ythls.armelin.one/channel/UCgA9V57lQlZFXkDfhVGTWSg.m3u8
-#EXTINF:-1 tvg-id=" " tvg-logo="https://www.lyngsat.com/logo/radio/ff/franceinfo-radio-fr.svg" group-title="STEL_R08" tvg-chno="2700",Franceinfo (Radiovision)
+#EXTINF:-1 tvg-id=" " tvg-logo="https://www.lyngsat.com/logo/radio/ff/franceinfo-radio-fr.svg" group-title="STEL_R08" tvg-chno="427",Franceinfo (Radiovision)
 plugin://plugin.video.dailymotion_com/?url=x26eox4&mode=playLiveVideo
-#EXTINF:-1 tvg-id=" " tvg-logo="https://image.jimcdn.com/app/cms/image/transf/dimension=90x90:format=png/path/sc4a623cd5d89b3b8/image/i0a02f03b80b1a370/version/1697296784/image.png" group-title="STEL_R08" tvg-chno="1400",Mouv'
+#EXTINF:-1 tvg-id=" " tvg-logo="https://image.jimcdn.com/app/cms/image/transf/dimension=90x90:format=png/path/sc4a623cd5d89b3b8/image/i0a02f03b80b1a370/version/1697296784/image.png" group-title="STEL_R08" tvg-chno="414",Mouv'
 plugin://plugin.video.dailymotion_com/?url=x8g9lfe&mode=playLiveVideo
-#EXTINF:-1 tvg-id="RFI.fr" tvg-logo="https://www.lyngsat-logo.com/logo/radio/rr/rfi_fr.png" group-title="STEL_R08" tvg-chno="1900",RFI
+#EXTINF:-1 tvg-id="RFI.fr" tvg-logo="https://www.lyngsat-logo.com/logo/radio/rr/rfi_fr.png" group-title="STEL_R08" tvg-chno="405",RFI
 https://ythls.armelin.one/channel/UCm4fSpMpPIZ9z6KHoezL
-#EXTINF:-1 tvg-id=" " tvg-logo="https://image.jimcdn.com/app/cms/image/transf/dimension=90x90:format=png/path/sc4a623cd5d89b3b8/image/i5a7b170d5701b908/version/1697296784/image.png" group-title="STEL_R08" tvg-chno="601",RTL (France)
+#EXTINF:-1 tvg-id=" " tvg-logo="https://image.jimcdn.com/app/cms/image/transf/dimension=90x90:format=png/path/sc4a623cd5d89b3b8/image/i5a7b170d5701b908/version/1697296784/image.png" group-title="STEL_R08" tvg-chno="406",RTL (France)
 plugin://plugin.video.dailymotion_com/?url=xl1km0&mode=playLiveVideo
-#EXTINF:-1 tvg-id=" " tvg-logo="https://image.jimcdn.com/app/cms/image/transf/dimension=90x90:format=png/path/sc4a623cd5d89b3b8/image/i525e60f1bd8cc690/version/1697296784/image.png" group-title="STEL_R08" tvg-chno="602",RTL 2 (France)
+#EXTINF:-1 tvg-id=" " tvg-logo="https://image.jimcdn.com/app/cms/image/transf/dimension=90x90:format=png/path/sc4a623cd5d89b3b8/image/i525e60f1bd8cc690/version/1697296784/image.png" group-title="STEL_R08" tvg-chno="409",RTL 2 (France)
 plugin://plugin.video.dailymotion_com/?url=x2tzzpj&mode=playLiveVideo
-#EXTINF:-1 tvg-id=" " tvg-logo="https://image.jimcdn.com/app/cms/image/transf/dimension=90x90:format=jpg/path/sc4a623cd5d89b3b8/image/ib91eefbf4958c36b/version/1697296783/image.jpg" group-title="STEL_R08" tvg-chno="603",Fun Radio (France)
+#EXTINF:-1 tvg-id=" " tvg-logo="https://image.jimcdn.com/app/cms/image/transf/dimension=90x90:format=jpg/path/sc4a623cd5d89b3b8/image/ib91eefbf4958c36b/version/1697296783/image.jpg" group-title="STEL_R08" tvg-chno="422",Fun Radio (France)
 plugin://plugin.video.dailymotion_com/?url=xxtuy6&mode=playLiveVideo
-#EXTINF:-1 tvg-id=" " tvg-logo="https://image.jimcdn.com/app/cms/image/transf/dimension=90x90:format=png/path/sc4a623cd5d89b3b8/image/ibd30b2654283e879/version/1697296783/image.png" group-title="STEL_R08" tvg-chno="400",Europe 1
+#EXTINF:-1 tvg-id=" " tvg-logo="https://image.jimcdn.com/app/cms/image/transf/dimension=90x90:format=png/path/sc4a623cd5d89b3b8/image/ibd30b2654283e879/version/1697296783/image.png" group-title="STEL_R08" tvg-chno="416",Europe 1
 plugin://plugin.video.dailymotion_com/?url=xqjkfz&mode=playLiveVideo
-#EXTINF:-1 tvg-id=" " tvg-logo="https://www.lyngsat.com/logo/radio/ss/sud_radio_fr.png" group-title="STEL_R08" tvg-chno="290",Sud Radio
+#EXTINF:-1 tvg-id=" " tvg-logo="https://www.lyngsat.com/logo/radio/ss/sud_radio_fr.png" group-title="STEL_R08" tvg-chno="429",Sud Radio
 plugin://plugin.video.dailymotion_com/?url=x8jqxru&mode=playLiveVideo
-#EXTINF:-1 tvg-id="RadioContactVision.be" tvg-logo="https://experience-cache.proximustv.be/posterserver/poster/DEFAULT/w-250_h-162/t_2170_000.png" group-title="STEL_BE-F" tvg-chno="611",Radio Contact
+#EXTINF:-1 tvg-id="RadioContactVision.be" tvg-logo="https://experience-cache.proximustv.be/posterserver/poster/DEFAULT/w-250_h-162/t_2170_000.png" group-title="STEL_BE-F" tvg-chno="463",Radio Contact
 https://raw.githubusercontent.com/Sibprod/streams/main/Contactvision.m3u8
-#EXTINF:-1 tvg-id="BelRTL.be" tvg-logo="https://experience-cache.proximustv.be/posterserver/poster/DEFAULT/w-250_h-162/r_0860_002.png" group-title="STEL_BE-F" tvg-chno="610",bel RTL
+#EXTINF:-1 tvg-id="BelRTL.be" tvg-logo="https://experience-cache.proximustv.be/posterserver/poster/DEFAULT/w-250_h-162/r_0860_002.png" group-title="STEL_BE-F" tvg-chno="461",bel RTL
 https://raw.githubusercontent.com/Sibprod/streams/main/BelRTL.m3u8
-#EXTINF:-1 tvg-id="Funvision.be" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ff/fun-vision-fr-be.png" group-title="STEL_BE-F" tvg-chno="612",Fun Radio (Belgique)
+#EXTINF:-1 tvg-id="Funvision.be" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ff/fun-vision-fr-be.png" group-title="STEL_BE-F" tvg-chno="462",Fun Radio (Belgique)
 https://livevideo.infomaniak.com/streaming/livecast/funradiovisionhd/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTELT2EO0QfaVPuhJR_G9ZHO6RzFmDpRvVpmpGYfoHENQ&s" group-title="STEL_BE-F" tvg-chno="1133",Dynamic One
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTELT2EO0QfaVPuhJR_G9ZHO6RzFmDpRvVpmpGYfoHENQ&s" group-title="STEL_BE-F" tvg-chno="460",Dynamic One
 https://hls.dynamicone.be/hls/dynamicone-1080.m3u8
-#EXTINF:-1 tvg-id=" " tvg-logo="https://mlemedia.ch/upload/design/6333f474c31401.16060024.png" group-title="STEL_CH-F" tvg-chno="401",M Le Media
+#EXTINF:-1 tvg-id=" " tvg-logo="https://mlemedia.ch/upload/design/6333f474c31401.16060024.png" group-title="STEL_CH-F" tvg-chno="404",M Le Media
 plugin://plugin.video.dailymotion_com/?url=x8j47xa&mode=playLiveVideo
-#EXTINF:-1 tvg-id="Couleur3.ch" tvg-logo="https://i.imgur.com/VOIwYYd.png" group-title="SWOX_F02" tvg-chno="79",RTS Couleur 3
+#EXTINF:-1 tvg-id="Couleur3.ch" tvg-logo="https://i.imgur.com/VOIwYYd.png" group-title="SWOX_F02" tvg-chno="478",RTS Couleur 3
 https://rtsc3video.akamaized.net/hls/live/2042837/c3video/3/playlist.m3u8
 #EXTINF:-1 tvg-id="MaisonTravaux.fr" tvg-logo=" " group-title="STEL_R10" tvg-chno="1113",Maison & Travaux
 plugin://plugin.video.dailymotion_com/?url=x85e5l8&mode=playLiveVideo
