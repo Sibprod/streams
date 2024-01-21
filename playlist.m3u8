@@ -24,7 +24,7 @@ https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_TOULONVAR/index.m3u8?start=LIVE&
 #EXTINF:-1 tvg-id="BFMTV.fr" tvg-logo="https://static-cdn.tv.sfr.net/data/img/apps/chaines/logos/logopdsbfmtv100.png?h=380" group-title="TDF_R2" tvg-chno="15",BFM TV
 https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_TV/index.m3u8?start=LIVE&end=END
 #EXTINF:-1 tvg-id="C8.fr" tvg-logo="https://focus.telerama.fr/104x104/60/0000/00/01/clear-445.png" group-title="TDF_R2" tvg-chno="8",C8
-https://raw.githubusercontent.com/Sibprod/streams/main/ressources/dmotion/py/Canal/C8.m3u8
+plugin://plugin.video.dailymotion_com/?url=x5gv5rr&mode=playLiveVideo
 #EXTINF:-1 tvg-id="CStar.fr" tvg-logo="https://focus.telerama.fr/104x104/60/0000/00/01/clear-458.png" group-title="TDF_R2" tvg-chno="17",CStar
 https://raw.githubusercontent.com/Sibprod/streams/main/ressources/dmotion/py/Canal/CStar.m3u8
 #EXTINF:-1 tvg-id="Gulli.fr" tvg-logo="https://focus.telerama.fr/104x104/60/0000/00/01/clear-482.png" group-title="TDF_R2" tvg-chno="18",Gulli
