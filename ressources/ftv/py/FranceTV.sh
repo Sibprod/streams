@@ -25,7 +25,6 @@ may_metro_content=$(cat "$input_file" | sed 's/France_2/1er_Mayotte/g; s/hls_fr2
 reu_metro_content=$(cat "$input_file" | sed 's/France_2/1er_Reunion/g; s/hls_fr2/hls_monde_reunion/g')
 nca_metro_content=$(cat "$input_file" | sed 's/France_2/1er_NC/g; s/hls_fr2/hls_monde_NC/g')
 
-
 echo "$fr3_content" > "$output_dir/France3.m3u8"
 echo "$fr4_content" > "$output_dir/France4.m3u8"
 echo "$fr5_content" > "$output_dir/France5.m3u8"
