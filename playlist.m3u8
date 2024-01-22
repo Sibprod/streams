@@ -97,8 +97,6 @@ https://webtvmonacoinfo.mc/live/prod_720/index.m3u8
 https://production-fast-mcrtv.content.okast.tv/channels/2116dc08-1959-465d-857f-3619daefb66b/b702b2b9-aebd-436c-be69-2118f56f3d86/2025/media.m3u8
 #EXTINF:-1 tvg-id="TV5MondeEurope.fr" tvg-logo="https://focus.telerama.fr/104x104/60/0000/00/01/clear-232.png" group-title="RAI_France" tvg-chno="75",TV5 Monde (Europe)
 #KODIPROP:inputstream.adaptive.manifest_type=hls
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=clearkey
 http://livetv.ktv.zone/61/play.m3u8
 #EXTINF:-1 tvg-id="France24French.fr" tvg-logo="https://yt3.googleusercontent.com/ytc/AIf8zZT4CILLcHOlNUh7R08g2zQ1s1WRae9YHxR-i9qgXw=s176-c-k-c0x00ffffff-no-rj" group-title="RAI_France" tvg-chno="76",France 24 (Français)
 https://ythls.armelin.one/channel/UCCCPCZNChQdGa9EkATeye4g.m3u8
@@ -112,13 +110,9 @@ https://livevideo.vedge.infomaniak.com/livecast/livehd/master.m3u8
 https://livevideo.vedge.infomaniak.com/livecast/telebielinguech/master.m3u8
 #EXTINF:-1 tvg-id="RTS1.ch" tvg-logo="https://focus.telerama.fr/104x104/60/0000/00/01/clear-202.png" group-title="SWOX_F02;RAI_France" tvg-chno="77",RTS 1
 #KODIPROP:inputstream.adaptive.manifest_type=hls
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=clearkey
 http://livetv.ktv.zone/1/play.m3u8
 #EXTINF:-1 tvg-id="RTS2.ch" tvg-logo="https://focus.telerama.fr/104x104/60/0000/00/01/clear-183.png" group-title="SWOX_F02" tvg-chno="78",RTS 2
 #KODIPROP:inputstream.adaptive.manifest_type=hls
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=clearkey
 http://livetv.ktv.zone/2/play.m3u8
 #EXTINF:-1 tvg-id="RougeTV.ch" tvg-logo="https://services.sg101.prd.sctv.ch/content/images/tv/channel/355_image_7_w90.webp" group-title="SWOX_F02" tvg-chno="81",Carac 1
 https://livevideo.vedge.infomaniak.com/livecast/rougetv/master.m3u8
