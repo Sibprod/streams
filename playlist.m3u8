@@ -119,7 +119,7 @@ https://figarotv-live.freecaster.com/live/freecaster/figarotv.m3u8
 plugin://plugin.video.twitch/?mode=play&channel_name=lmtv_sarthe
 #EXTINF:-1 tvg-id="Matele.fr" tvg-logo="https://i.ibb.co/4ZfHZhf/viamatele.png" group-title="SibTV_TNT" tvg-chno="347",Ma Télé
 https://5dd226f8f01e8.streamlock.net/via-matele-live/matelelive_1080/playlist.m3u8
-#EXTINF:-1 tvg-id="20MinutesTV.fr" tvg-logo="https://focus.telerama.fr/104x104/60/0000/00/01/clear-701.png" group-title="SibTV_TNT" tvg-chno="354",20 Minutes (IdF)
+#EXTINF:-1 tvg-id="20MinutesTV.fr" tvg-logo="https://focus.telerama.fr/104x104/60/0000/00/01/clear-701.png" group-title="SibTV_TNT" tvg-chno="349",20 Minutes (IdF)
 https://lives.digiteka.com/stream/86d3e867-a272-496b-8412-f59aa0104771/index.m3u8
 #EXTINF:-1 tvg-id="Telenantes.fr" tvg-logo=" " group-title="SibTV_TNT" tvg-chno="354",Télénantes
 plugin://plugin.video.dailymotion_com/?url=x5so98l&mode=playLiveVideo
