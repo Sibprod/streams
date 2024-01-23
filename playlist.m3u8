@@ -14,7 +14,7 @@ https://shls-m6-france-prod-dub-ak.akamaized.net/out/v1/c8a9f6e000cd4ebaa4d2fc7d
 #EXTINF:-1 tvg-id="ARTE.fr" tvg-logo="https://focus.telerama.fr/104x104/60/0000/00/01/clear-111.png" group-title="KTV_TNT" tvg-chno="7",ARTE (France)
 http://livetv.ktv.zone/9/play.m3u8
 #EXTINF:-1 tvg-id="C8.fr" tvg-logo="https://focus.telerama.fr/104x104/60/0000/00/01/clear-445.png" group-title="SibTV_TNT" tvg-chno="8",C8 
-https://raw.githubusercontent.com/Sibprod/streams/main/ressources/dmotion/py/Canal/C8.m3u8
+plugin://plugin.video.dailymotion_com/?url=x5gv5rr&mode=playLiveVideo
 #EXTINF:-1 tvg-id="W9.fr" tvg-logo="https://focus.telerama.fr/104x104/60/0000/00/01/clear-119.png" group-title="KTV_TNT" tvg-chno="9",W9
 http://livetv.ktv.zone/11/play.m3u8
 #EXTINF:-1 tvg-id="TMC.fr" tvg-logo="https://focus.telerama.fr/104x104/60/0000/00/01/clear-195.png" group-title="SibTV_TNT" tvg-chno="10",TMC
@@ -26,7 +26,7 @@ http://livetv.ktv.zone/14/play.m3u8
 #EXTINF:-1 tvg-id="LaChaineParlementaire.fr" tvg-logo="http://www.callofliberty.fr/tv/28-LCP/28-LCP.png" group-title="SibTV_TNT" tvg-chno="13",LCP (100% Assemblée Nationale)
 https://raw.githubusercontent.com/Sibprod/streams/main/ressources/dmotion/py/Assemblees/LCP.m3u8
 #EXTINF:-1 tvg-id="Parlementaire.fr" tvg-logo="http://www.callofliberty.fr/tv/29-PublicSenat/29-PublicSenat.png" group-title="SibTV_TNT" tvg-chno="13",Public Sénat
-https://raw.githubusercontent.com/Sibprod/streams/main/ressources/dmotion/py/Assemblees/PublicSenat.m3u8
+plugin://plugin.video.dailymotion_com/?url=xkxbzc&mode=playLiveVideo
 #EXTINF:-1 tvg-id="France4.fr" tvg-logo="https://focus.telerama.fr/104x104/60/0000/00/01/clear-78.png" group-title="SibTV_TNT" tvg-chno="14",France 4
 https://raw.githubusercontent.com/Sibprod/streams/main/ressources/ftv/py/France4.m3u8
 #EXTINF:-1 tvg-id="BFMTV.fr" tvg-logo="https://focus.telerama.fr/104x104/60/0000/00/01/clear-481.png" group-title="SibTV_TNT" tvg-chno="15",BFM TV
@@ -34,7 +34,7 @@ https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_TV/index.m3u8?start=LIVE&end=END
 #EXTINF:-1 tvg-id="CNews.fr" tvg-logo="https://focus.telerama.fr/104x104/60/0000/00/01/clear-226.png" group-title="SibTV_TNT" tvg-chno="16",CNews
 https://hls-m013.live-lv3.canalplus-cdn.net/live/disk/cnews-clair-hd/hls-ios-fhd-clair/cnews-clair-hd.m3u8
 #EXTINF:-1 tvg-id="CStar.fr" tvg-logo="https://focus.telerama.fr/104x104/60/0000/00/01/clear-458.png" group-title="SibTV_TNT" tvg-chno="17",CStar
-https://github.com/Sibprod/streams/blob/main/ressources/dmotion/py/Canal/CStar.m3u8
+plugin://plugin.video.dailymotion_com/?url=x5gv5v0&mode=playLiveVideo
 #EXTINF:-1 tvg-id="Gulli.fr" tvg-logo="https://focus.telerama.fr/104x104/60/0000/00/01/clear-482.png" group-title="SibTV_TNT" tvg-chno="18",Gulli
 https://origin2-6play.live.6cloud.fr/pool_rnpls9by/gulli/sixplaysd/hls_short_q2hyb21h_gulli/index.m3u8
 #EXTINF:-1 tvg-id="FranceTVSeries.fr" tvg-logo="https://www.planetecsat.com/wp-content/uploads/2023/11/France-TV-Series-980x552.png" group-title="SibTV_TNT" tvg-chno="19",France TV Séries
@@ -42,7 +42,7 @@ https://raw.githubusercontent.com/Sibprod/streams/main/ressources/ftv/py/FranceT
 #EXTINF:-1 tvg-id="TF1SeriesFilms.fr" tvg-logo="https://focus.telerama.fr/104x104/60/0000/00/01/clear-1404.png" group-title="KTV_TNT" tvg-chno="20",TF1 Séries et Films
 http://livetv.ktv.zone/22/play.m3u8
 #EXTINF:-1 tvg-id="LEquipe.fr" tvg-logo="https://focus.telerama.fr/104x104/60/0000/00/01/clear-1401.png" group-title="SibTV_TNT" tvg-chno="21",L'Équipe
-https://raw.githubusercontent.com/Sibprod/streams/main/ressources/dmotion/py/LEquipe/LEquipe.m3u8
+plugin://plugin.video.dailymotion_com/?url=x2lefik&mode=playLiveVideo
 #EXTINF:-1 tvg-id="6ter.fr" tvg-logo="https://focus.telerama.fr/104x104/60/0000/00/01/clear-1403.png" group-title="KTV_TNT" tvg-chno="22",6ter
 http://livetv.ktv.zone/24/play.m3u8
 #EXTINF:-1 tvg-id="RMCStory.fr" tvg-logo="https://focus.telerama.fr/104x104/60/0000/00/01/clear-1402.png" group-title="SibTV_TNT" tvg-chno="23",RMC Story
@@ -67,6 +67,8 @@ https://livevideo.vedge.infomaniak.com/livecast/onefmhd/master.m3u8
 https://livevideo.vedge.infomaniak.com/livecast/lfmhd/master.m3u8
 #EXTINF:-1 tvg-id="TVSuissePlus.ch" tvg-logo="https://services.sg101.prd.sctv.ch/content/images/tv/channel/1082_image_7_w90.webp" group-title="SibTV_TNT" tvg-chno="36",Carac 4
 https://livevideo.vedge.infomaniak.com/livecast/compack_media_1/master.m3u8
+#EXTINF:-1 tvg-id="EuroNewsFrancais.fr" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ee/euronews_fr.png" group-title="SibTV_TNT" tvg-chno="38",Euronews
+plugin://plugin.video.dailymotion_com/?url=x2j4lj9&mode=playLiveVideo
 #EXTINF:-1 tvg-id="ParisPremiere.fr" tvg-logo="https://focus.telerama.fr/104x104/60/0000/00/01/clear-145.png" group-title="SibTV_TNT" tvg-chno="41",Paris Première
 https://github.com/Sibprod/streams/raw/main/ParisPremiere.m3u8
 #EXTINF:-1 tvg-id="CanalJ.fr" tvg-logo="https://focus.telerama.fr/104x104/60/0000/00/01/clear-32.png" group-title="KTV_TNT" tvg-chno="47",Canal J
@@ -75,6 +77,8 @@ http://livetv.ktv.zone/176/play.m3u8
 https://ott.tv5monde.com/Content/HLS/Live/channel(fbs)/index.m3u8
 #EXTINF:-1 tvg-id="TV5MondeEurope.fr" tvg-logo="https://focus.telerama.fr/104x104/60/0000/00/01/clear-232.png" group-title="KTV_TNT" tvg-chno="51",TV5 Monde (Europe)
 http://livetv.ktv.zone/61/play.m3u8
+#EXTINF:-1 tvg-id="TV5Monde.nl" tvg-logo="" group-title="SibTV_TNT" tvg-chno="52",TV5 Monde Info
+https://ott.tv5monde.com/Content/HLS/Live/channel(info)/variant.m3u8
 #EXTINF:-1 tvg-id="RTLTVI.be" tvg-logo="https://focus.telerama.fr/104x104/60/0000/00/01/clear-168.png" group-title="SibTV_TNT" tvg-chno="64",RTL tvi
 https://raw.githubusercontent.com/Sibprod/streams/main/ressources/RTLbe/RTLtvi.m3u8
 #EXTINF:-1 tvg-id="ClubRTL.lu" tvg-logo="https://focus.telerama.fr/104x104/60/0000/00/01/clear-50.png" group-title="SibTV_TNT" tvg-chno="65",RTL club
@@ -87,7 +91,9 @@ https://webtvmonacoinfo.mc/live/prod_720/index.m3u8
 https://production-fast-mcrtv.content.okast.tv/channels/2116dc08-1959-465d-857f-3619daefb66b/b702b2b9-aebd-436c-be69-2118f56f3d86/2025/media.m3u8
 #EXTINF:-1 tvg-id="France24French.fr" tvg-logo="https://yt3.googleusercontent.com/ytc/AIf8zZT4CILLcHOlNUh7R08g2zQ1s1WRae9YHxR-i9qgXw=s176-c-k-c0x00ffffff-no-rj" group-title="SibTV_TNT" tvg-chno="76",France 24 (Français)
 https://ythls.armelin.one/channel/UCCCPCZNChQdGa9EkATeye4g.m3u8
-#EXTINF:-1 tvg-id="1ereReunion.fr" tvg-logo=" " group-title="SibTV_TNT" tvg-chno="201",Réunion La 1ère
+#EXTINF:-1 tvg-id=" " tvg-logo="https://s2.dmcdn.net/u/7fiM11W1elfqcc2yp/60x60" group-title="SibTV_TNT" tvg-chno="131",N31
+plugin://plugin.video.dailymotion_com/?url=x6nkjg1&mode=playLiveVideo
+#EXTINF:-1 tvg-id="1ereReunion.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/95/R%C3%A9union_La_1%C3%A8re_-_Logo_2018.svg.png" group-title="SibTV_TNT" tvg-chno="201",Réunion La 1ère
 https://raw.githubusercontent.com/Sibprod/streams/main/ressources/ftv/py/La1ere_reunion_metro.m3u8
 #EXTINF:-1 tvg-id="AntenneReunion.mu" tvg-logo="http://www.callofliberty.fr/tv/47-AntenneREUNION/47-AntenneREUNION.png" group-title="SibTV_TNT" tvg-chno="202",Antenne Réunion
 https://live-antenne-reunion.zeop.tv/live/c3eds/antreunihd/hls_fta/antreunihd.m3u8?location=ZEOP01
@@ -97,6 +103,8 @@ https://livevideo.vedge.infomaniak.com/livecast/etvgp/playlist.m3u8
 https://raw.githubusercontent.com/Sibprod/streams/main/ressources/ftv/py/France3_Corse-ViaStella.m3u8
 #EXTINF:-1 tvg-id="France3Noa.fr" tvg-logo="https://focus.telerama.fr/104x104/60/0000/00/01/clear- .png" group-title="SibTV_TNT" tvg-chno="339",NoA
 https://raw.githubusercontent.com/Sibprod/streams/main/ressources/ftv/py/France3_NoA.m3u8
+#EXTINF:-1 tvg-id="TV8MontBlanc.fr" tvg-logo=" " group-title="SibTV_TNT" tvg-chno="343",8 Mont-Blanc
+plugin://plugin.video.dailymotion_com/?url=x3wqv8b&mode=playLiveVideo
 #EXTINF:-1 tvg-id="LeFigaroIDF.fr" tvg-logo="https://www.planetecsat.com/wp-content/uploads/2023/04/Entete-Figaro-IDF.png" group-title="SibTV_TNT" tvg-chno="345",Le Figaro TV (IdF)
 https://figarotv-live.freecaster.com/live/freecaster/figarotv.m3u8
 #EXTINF:-1 tvg-id="20MinutesTV.fr" tvg-logo="https://focus.telerama.fr/104x104/60/0000/00/01/clear-701.png" group-title="SibTV_TNT" tvg-chno="349",20 Minutes TV (IdF)
@@ -113,6 +121,30 @@ https://bcovlive-a.akamaihd.net/575d86160eb143458d51f7ab187a4e68/us-east-1/61016
 https://pe-fa-lp03a.9c9media.com/live/NOOVO/p/hls/00000201/716cf4c845225692/manifest.m3u8
 #EXTINF:-1 tvg-id="CFHDDT.ca" tvg-logo="https://i.imgur.com/x0vLIWr.png" group-title="SibTV_TNT" tvg-chno="847",ICI (International Channel / La Chaîne Internationale)
 https://amdici.akamaized.net/hls/live/873426/ICI-Live-Stream/master.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Journal_du_golf_tv.png/597px-Journal_du_golf_tv.png" group-title="HbbTV" tvg-chno="2100",Le Journal du Golf TV
+plugin://plugin.video.dailymotion_com/?url=k5VKYQn5hAE4vfry927&mode=playLiveVideo
+#EXTGRP:DVB-T2
+#EXTINF:-1 tvg-id=" " tvg-logo="https://www.sport-tv.org/wp-content/uploads/2022/11/Chaine-LEquipe-Live-1.jpg" group-title="HbbTV" tvg-chno="2101",L'Equipe Live 1
+plugin://plugin.video.dailymotion_com/?url=k1kypsRZF9plQhqwBRS&mode=playLiveVideo
+#EXTGRP:DVB-T2
+#EXTINF:-1 tvg-id=" " tvg-logo="https://www.sport-tv.org/wp-content/uploads/2022/11/Chaine-LEquipe-Live-2.jpg" group-title="HbbTV" tvg-chno="2102",L'Equipe Live 2
+plugin://plugin.video.dailymotion_com/?url=k5TgcOKBUTM2KnqwBWC&mode=playLiveVideo
+#EXTINF:-1 tvg-id="" tvg-logo="https://s1.dmcdn.net/u/8vkDy1W6-hQe6j0ui/60x60" group-title="Cable_IPTV" tvg-chno="476",Lyon Capitale TV
+plugin://plugin.video.dailymotion_com/?url=x7z3zqa&mode=playLiveVideo
+#EXTINF:-1 tvg-id="Tiji.fr" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tiji_fr.png" group-title="Sat_IPTV" tvg-chno="94",Tiji
+https://shls-tiji-tv-prod-dub.shahid.net/out/v1/98f46736bd8c4404b67e4b7a38cc8976/index.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="SibTV_RNT" tvg-chno="402",France Inter
+plugin://plugin.video.dailymotion_com/?url=x17qw0a&mode=playLiveVideo
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="SibTV_RNT" tvg-chno="406",RTL
+plugin://plugin.video.dailymotion_com/?url=xl1km0&mode=playLiveVideo
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="SibTV_RNT" tvg-chno="409",RTL 2
+plugin://plugin.video.dailymotion_com/?url=x2tzzpj&mode=playLiveVideo
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="SibTV_RNT" tvg-chno="416",Europe 1
+plugin://plugin.video.dailymotion_com/?url=xqjkfz&mode=playLiveVideo
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="SibTV_RNT" tvg-chno="422",Fun Radio
+plugin://plugin.video.dailymotion_com/?url=xxtuy6&mode=playLiveVideo
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="SibTV_RNT" tvg-chno="494",Sud Radio
+plugin://plugin.video.dailymotion_com/?url=x75yzts&mode=playLiveVideo
 
 
 
