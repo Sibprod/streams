@@ -24,7 +24,7 @@ http://livetv.ktv.zone/13/play.m3u8
 #EXTINF:-1 tvg-id="NRJ12.fr" tvg-logo="https://focus.telerama.fr/104x104/60/0000/00/01/clear-444.png" group-title="KTV_TNT" tvg-chno="12",NRJ 12
 http://livetv.ktv.zone/14/play.m3u8
 #EXTINF:-1 tvg-id="LaChaineParlementaire.fr" tvg-logo="http://www.callofliberty.fr/tv/28-LCP/28-LCP.png" group-title="SibTV_TNT" tvg-chno="13",LCP (100% Assemblée Nationale)
-https://raw.githubusercontent.com/Sibprod/streams/main/ressources/dmotion/py/Assemblees/LCP.m3u8
+plugin://plugin.video.dailymotion_com/?url=xgepjr&mode=playLiveVideo
 #EXTINF:-1 tvg-id="Parlementaire.fr" tvg-logo="http://www.callofliberty.fr/tv/29-PublicSenat/29-PublicSenat.png" group-title="SibTV_TNT" tvg-chno="13",Public Sénat
 plugin://plugin.video.dailymotion_com/?url=xkxbzc&mode=playLiveVideo
 #EXTINF:-1 tvg-id="France4.fr" tvg-logo="https://focus.telerama.fr/104x104/60/0000/00/01/clear-78.png" group-title="SibTV_TNT" tvg-chno="14",France 4
