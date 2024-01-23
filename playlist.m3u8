@@ -10,7 +10,7 @@ https://hls-m007.live-lv3.canalplus-cdn.net/live/disk/canalplusclair-hd/hls-ios-
 #EXTINF:-1 tvg-id="France5.fr" tvg-logo="https://focus.telerama.fr/104x104/60/0000/00/01/clear-47.png" group-title="SibTV_TNT" tvg-chno="5",France 5
 https://raw.githubusercontent.com/Sibprod/streams/main/ressources/ftv/py/France5.m3u8
 #EXTINF:-1 tvg-id="M6.fr" tvg-logo="https://focus.telerama.fr/104x104/60/0000/00/01/clear-118.png" group-title="SibTV_TNT" tvg-chno="6",M6
-https://shls-m6-france-prod-dub-ak.akamaized.net/out/v1/c8a9f6e000cd4ebaa4d2fc7d18c15988/index.m3u8
+http://livetv.ktv.zone/8/play.m3u8
 #EXTINF:-1 tvg-id="ARTE.fr" tvg-logo="https://focus.telerama.fr/104x104/60/0000/00/01/clear-111.png" group-title="KTV_TNT" tvg-chno="7",ARTE (France)
 http://livetv.ktv.zone/9/play.m3u8
 #EXTINF:-1 tvg-id="C8.fr" tvg-logo="https://focus.telerama.fr/104x104/60/0000/00/01/clear-445.png" group-title="SibTV_TNT" tvg-chno="8",C8 
@@ -103,12 +103,24 @@ https://livevideo.vedge.infomaniak.com/livecast/etvgp/playlist.m3u8
 https://raw.githubusercontent.com/Sibprod/streams/main/ressources/ftv/py/France3_Corse-ViaStella.m3u8
 #EXTINF:-1 tvg-id="France3Noa.fr" tvg-logo="https://focus.telerama.fr/104x104/60/0000/00/01/clear- .png" group-title="SibTV_TNT" tvg-chno="339",NoA
 https://raw.githubusercontent.com/Sibprod/streams/main/ressources/ftv/py/France3_NoA.m3u8
+#EXTINF:-1 tvg-id="BFMParis.fr" tvg-logo="https://raw.githubusercontent.com/Sibprod/assets/main/Altice/ALTICE_BFM-Paris.png" group-title="SibTV_TNT" tvg-chno="340",BFM Régions (Paris-Île-de-France)
+https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_PARIS/index.m3u8?start=LIVE&end=END
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/mzhSFNV/bfmregions.png" group-title="SibTV_TNT" tvg-chno="341",BFM Régions (Lyon-Métropole)
+https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_LYON/index.m3u8?start=LIVE&end=END
+#EXTINF:-1 tvg-id="BFMMarseille.fr" tvg-logo="https://raw.githubusercontent.com/Sibprod/assets/main/Altice/ALTICE_BFM-Marseille.png" group-title="SibTV_TNT" tvg-chno="342",BFM Régions (Marseille-Provence)
+https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_MARSEILLEPROV/index.m3u8?start=LIVE&end=END
 #EXTINF:-1 tvg-id="TV8MontBlanc.fr" tvg-logo=" " group-title="SibTV_TNT" tvg-chno="343",8 Mont-Blanc
 plugin://plugin.video.dailymotion_com/?url=x3wqv8b&mode=playLiveVideo
 #EXTINF:-1 tvg-id="LeFigaroIDF.fr" tvg-logo="https://www.planetecsat.com/wp-content/uploads/2023/04/Entete-Figaro-IDF.png" group-title="SibTV_TNT" tvg-chno="345",Le Figaro TV (IdF)
 https://figarotv-live.freecaster.com/live/freecaster/figarotv.m3u8
+#EXTINF:-1 tvg-id="LMTVSarthe.fr" tvg-logo=" " group-title="SibTV_TNT" tvg-chno="346",LMTV Sarthe
+plugin://plugin.video.twitch/?mode=play&channel_name=lmtv_sarthe
+#EXTINF:-1 tvg-id="Matele.fr" tvg-logo="https://i.ibb.co/4ZfHZhf/viamatele.png" group-title="SibTV_TNT" tvg-chno="347",Ma Télé
+https://5dd226f8f01e8.streamlock.net/via-matele-live/matelelive_1080/playlist.m3u8
 #EXTINF:-1 tvg-id="20MinutesTV.fr" tvg-logo="https://focus.telerama.fr/104x104/60/0000/00/01/clear-701.png" group-title="SibTV_TNT" tvg-chno="349",20 Minutes TV (IdF)
 https://lives.digiteka.com/stream/86d3e867-a272-496b-8412-f59aa0104771/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://codeberg.org/Sibprod/Feed/raw/branch/main/assets/PTV.png" group-title="SibTV_TNT" tvg-chno="373",Puissance Télévision
+https://livevideo.vedge.infomaniak.com/livecast/puissancetelevision/playlist.m3u8
 #EXTINF:-1 tvg-id="BFMCotedAzur.fr" tvg-logo="https://raw.githubusercontent.com/Sibprod/assets/main/Altice/ALTICE_BFM-Nice.png" group-title="SibTV_TNT" tvg-chno="386",BFM Régions (Nice-Côte d'Azur)
 https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_NICECOTEDAZUR/index.m3u8?start=LIVE&end=END
 #EXTINF:-1 tvg-id="BFMVar.fr" tvg-logo="https://raw.githubusercontent.com/Sibprod/assets/main/Altice/ALTICE_BFM-Toulon.png" group-title="SibTV_TNT" tvg-chno="388",BFM Régions (Toulon-Var)
