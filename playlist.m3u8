@@ -261,6 +261,8 @@ https://shls-m6-int-prod-dub.shahid.net/out/v1/a315ab77ee7343a7a17dbe7e32eee3ba/
 https://stream.mandarine.media/pancracetv/pancracetv/playlist.m3u8
 #EXTINF:-1 tvg-id=" " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Journal_du_golf_tv.png/597px-Journal_du_golf_tv.png" group-title="Thématiques" tvg-chno="1187",Le Journal du Golf TV
 plugin://plugin.video.dailymotion_com/?url=k5VKYQn5hAE4vfry927&mode=playLiveVideo
+#EXTINF:-1 tvg-id="" tvg-logo="https://tvfamille.org/website/images/logo/tv_famille_logo_2019_square_75px.png" group-title="Thématiques" tvg-chno="1218",TV Famille
+https://streamer1.streamhost.org/salive/GMItvfh/playlist.m3u8
 
 #EXTINF:-1 tvg-id=" " tvg-logo="https://www.sport-tv.org/wp-content/uploads/2022/11/Chaine-LEquipe-Live-1.jpg" group-title="FAST" tvg-chno="4501",L'Equipe Live 1
 plugin://plugin.video.dailymotion_com/?url=k1kypsRZF9plQhqwBRS&mode=playLiveVideo
@@ -304,6 +306,8 @@ plugin://plugin.video.dailymotion_com/?url=x75yzts&mode=playLiveVideo
 #EXTINF:-1 tvg-id=" " tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/245dc4fe-390b-400b-bb97-844a2a9ac192-profile_image-70x70.png" group-title="SibTV_RNT" tvg-chno="695",Lor'FM
 plugin://plugin.video.twitch/?mode=play&channel_name=officiellorfm
 #EXTINF:-1 tvg-id="NRJ.be" tvg-logo="https://www.lyngsat.com/logo/radio/nn/nrj-belgie-nl.png" group-title="SibTV_RNT" tvg-chno="696",NRJ (Belgique)
+#EXTVLCOPT:http-referrer=https://tv.ngroup.be/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 Edg/112.0.1722.34
 https://tv.ngroup.be/live/ngrp:nrj_all/playlist.m3u8
 #EXTINF:-1 tvg-id=" " tvg-logo="https://www.dabplus.be/wp-content/uploads/sites/5/2022/09/Arabel-StationLogo.png" group-title="SibTV_RNT" tvg-chno="697",Arabel
 plugin://plugin.video.dailymotion_com/?url=x7teocz&mode=playLiveVideo
