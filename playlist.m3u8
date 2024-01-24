@@ -212,6 +212,8 @@ https://live.creacast.com/iltv/smil:iltv.smil/playlist.m3u8
 https://videas.agglo-lenslievin.fr/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://yt3.googleusercontent.com/ytc/APkrFKYlYnSWKARJH1Dq5KMWp_3hU7yaoWy5rwKp-rfAig=s176-c-k-c0x00ffffff-no-rj" tvg-chno="499",Canal Local Grosbliederstroff
 https://live.creacast.com/canallocalgrosblie-ch1/smil:canallocalgrosblie-ch1.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="TEVEKA.gp" tvg-logo="https://i.imgur.com/IAtKJZk.png" group-title="Régionales" tvg-chno="949",Teveka Marie-Galante
+https://www.teveka.net:8443/show/teveka/index.m3u8
 #EXTINF:-1 tvg-id="LaChaine32.fr" tvg-logo="https://yt3.googleusercontent.com/ytc/AIf8zZQwNeJoQgA_BlRnpyaYio1tlIXit6PbBCjQwZEm=s176-c-k-c0x00ffffff-no-rj" group-title="Régionales" tvg-chno="950",La Chaîne 32
 https://ythls.armelin.one/channel/UChl0zP89T7yZyEwQkCfmmnQ.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://codeberg.org/Sibprod/Feed/raw/branch/main/assets/L%27Ardennais%20TV.png" group-title="Régionales" tvg-chno="954",L'Ardennais TV
@@ -226,8 +228,6 @@ https://edge.vedge.infomaniak.com/livecast/ik:nancy-webtv/manifest.m3u8
 plugin://plugin.video.twitch/?mode=play&channel_name=valloiretv
 #EXTINF:-1 tvg-id=" " tvg-logo="https://brionnais.tv/uploads/images/user_1_1515016104_social.jpg" group-title="Régionales" tvg-chno="959",Brionnais TV
 https://stream.mandarine.media/brionnaistv/brionnaistv/playlist.m3u8
-#EXTINF:-1 tvg-id="TEVEKA.gp" tvg-logo="https://i.imgur.com/IAtKJZk.png" group-title="Régionales" tvg-chno="960",Teveka Marie-Galante
-https://www.teveka.net:8443/show/teveka/index.m3u8
 #EXTINF:-1 tvg-id="TV7Colmar.fr" tvg-logo="https://i.ibb.co/d6x3fxq/tv7colm.png" group-title="Régionales" tvg-chno="977",TV7 Colmar
 http://tv7.hdr-tv.com/live/tv7/livestream/playlist.m3u8
 #EXTINF:-1 tvg-id="TV3V.fr" tvg-logo="https://www.tv3v.fr/images/logo_tv3v.png" group-title="Régionales" tvg-chno="998",TV3V
@@ -301,13 +301,13 @@ https://ythls.armelin.one/channel/UCm4fSpMpPIZ9z6KHoezLUAg.m3u8
 https://rtsc3video.akamaized.net/hls/live/2042837/c3video/3/playlist.m3u8
 #EXTINF:-1 tvg-id=" " tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/657699ac-f7fc-4871-9bce-4ccdaa262181-profile_image-70x70.png" group-title="SibTV_RNT" tvg-chno="693",Judaïca
 plugin://plugin.video.twitch/?mode=play&channel_name=radiojudaica
-#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="SibTV_RNT" tvg-chno="694",Sud Radio
-plugin://plugin.video.dailymotion_com/?url=x75yzts&mode=playLiveVideo
+#EXTINF:-1 tvg-id=" " tvg-logo="https://www.sudradio.fr/wp-content/uploads/2019/05/logonb.png" group-title="SibTV_RNT" tvg-chno="694",Sud Radio
+plugin://plugin.video.dailymotion_com/?url=x8jqxru&mode=playLiveVideo
 #EXTINF:-1 tvg-id=" " tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/245dc4fe-390b-400b-bb97-844a2a9ac192-profile_image-70x70.png" group-title="SibTV_RNT" tvg-chno="695",Lor'FM
 plugin://plugin.video.twitch/?mode=play&channel_name=officiellorfm
 #EXTINF:-1 tvg-id="NRJ.be" tvg-logo="https://www.lyngsat.com/logo/radio/nn/nrj-belgie-nl.png" group-title="SibTV_RNT" tvg-chno="696",NRJ (Belgique)
 #EXTVLCOPT:http-referrer=https://tv.ngroup.be/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 Edg/112.0.1722.34
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://tv.ngroup.be/live/ngrp:nrj_all/playlist.m3u8
 #EXTINF:-1 tvg-id=" " tvg-logo="https://www.dabplus.be/wp-content/uploads/sites/5/2022/09/Arabel-StationLogo.png" group-title="SibTV_RNT" tvg-chno="697",Arabel
 plugin://plugin.video.dailymotion_com/?url=x7teocz&mode=playLiveVideo
