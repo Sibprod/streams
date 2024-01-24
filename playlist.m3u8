@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="TF1.fr" tvg-logo="https://focus.telerama.fr/104x104/60/0000/00/01/clear-192.png" group-title="KTV_TNT" tvg-chno="1",TF1
-http://livetv.ktv.zone/3/play.m3u8
+rtp://@233.60.197.61:7500
 #EXTINF:-1 tvg-id="France2.fr" tvg-logo="https://focus.telerama.fr/104x104/60/0000/00/01/clear-4.png" group-title="SibTV_TNT" tvg-chno="2",France 2
 https://raw.githubusercontent.com/Sibprod/streams/main/ressources/ftv/py/France2.m3u8
 #EXTINF:-1 tvg-id="France3.fr" tvg-logo="https://focus.telerama.fr/104x104/60/0000/00/01/clear-80.png" group-title="SibTV_TNT" tvg-chno="3",France 3
@@ -10,7 +10,7 @@ https://hls-m007.live-lv3.canalplus-cdn.net/live/disk/canalplusclair-hd/hls-ios-
 #EXTINF:-1 tvg-id="France5.fr" tvg-logo="https://focus.telerama.fr/104x104/60/0000/00/01/clear-47.png" group-title="SibTV_TNT" tvg-chno="5",France 5
 https://raw.githubusercontent.com/Sibprod/streams/main/ressources/ftv/py/France5.m3u8
 #EXTINF:-1 tvg-id="M6.fr" tvg-logo="https://focus.telerama.fr/104x104/60/0000/00/01/clear-118.png" group-title="SibTV_TNT" tvg-chno="6",M6
-http://livetv.ktv.zone/8/play.m3u8
+rtp://@233.49.82.76:7500
 #EXTINF:-1 tvg-id="ARTE.fr" tvg-logo="https://focus.telerama.fr/104x104/60/0000/00/01/clear-111.png" group-title="KTV_TNT" tvg-chno="7",ARTE (France)
 http://livetv.ktv.zone/9/play.m3u8
 #EXTINF:-1 tvg-id="C8.fr" tvg-logo="https://focus.telerama.fr/104x104/60/0000/00/01/clear-445.png" group-title="SibTV_TNT" tvg-chno="8",C8 
@@ -22,9 +22,9 @@ https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/btv/py/
 #EXTINF:-1 tvg-id="TFX.fr" tvg-logo="https://focus.telerama.fr/104x104/60/0000/00/01/clear-446.png" group-title="KTV_TNT" tvg-chno="11",TFX
 http://livetv.ktv.zone/13/play.m3u8
 #EXTINF:-1 tvg-id="NRJ12.fr" tvg-logo="https://focus.telerama.fr/104x104/60/0000/00/01/clear-444.png" group-title="KTV_TNT" tvg-chno="12",NRJ 12
-http://livetv.ktv.zone/14/play.m3u8
+rtp://@233.49.82.72:7500
 #EXTINF:-1 tvg-id="LaChaineParlementaire.fr" tvg-logo="http://www.callofliberty.fr/tv/28-LCP/28-LCP.png" group-title="SibTV_TNT" tvg-chno="13",LCP (100% Assemblée Nationale)
-plugin://plugin.video.dailymotion_com/?url=xgepjr&mode=playLiveVideo
+rtp://@233.60.197.81:7500
 #EXTINF:-1 tvg-id="Parlementaire.fr" tvg-logo="http://www.callofliberty.fr/tv/29-PublicSenat/29-PublicSenat.png" group-title="SibTV_TNT" tvg-chno="13",Public Sénat
 plugin://plugin.video.dailymotion_com/?url=xkxbzc&mode=playLiveVideo
 #EXTINF:-1 tvg-id="France4.fr" tvg-logo="https://focus.telerama.fr/104x104/60/0000/00/01/clear-78.png" group-title="SibTV_TNT" tvg-chno="14",France 4
@@ -46,11 +46,11 @@ plugin://plugin.video.dailymotion_com/?url=x2lefik&mode=playLiveVideo
 #EXTINF:-1 tvg-id="6ter.fr" tvg-logo="https://focus.telerama.fr/104x104/60/0000/00/01/clear-1403.png" group-title="KTV_TNT" tvg-chno="22",6ter
 http://livetv.ktv.zone/24/play.m3u8
 #EXTINF:-1 tvg-id="RMCStory.fr" tvg-logo="https://focus.telerama.fr/104x104/60/0000/00/01/clear-1402.png" group-title="SibTV_TNT" tvg-chno="23",RMC Story
-https://d36bxc1bknkxrk.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-3ewcp19zjaxpt/index.m3u8
+rtp://@233.49.82.132:7500
 #EXTINF:-1 tvg-id="RMCDecouverte.fr" tvg-logo="https://focus.telerama.fr/104x104/60/0000/00/01/clear-1400.png" group-title="SibTV_TNT" tvg-chno="24",RMC Découverte
-https://d2mt8for1pddy4.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-6uronj7gzvy4j/index.m3u8
+rtp://@233.49.82.133:7500
 #EXTINF:-1 tvg-id="Cherie25.fr" tvg-logo="https://focus.telerama.fr/104x104/60/0000/00/01/clear-1399.png" group-title="KTV_TNT" tvg-chno="25",Chérie 25
-http://livetv.ktv.zone/27/play.m3u8
+rtp://@233.49.82.134:7500
 #EXTINF:-1 tvg-id="LCI.fr" tvg-logo="https://focus.telerama.fr/104x104/60/0000/00/01/clear-112.png" group-title="SibTV_TNT" tvg-chno="26",LCI
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/btv/py/lci1.m3u8
 #EXTINF:-1 tvg-id="Franceinfo.fr" tvg-logo="https://focus.telerama.fr/104x104/60/0000/00/01/clear-2111.png" group-title="SibTV_TNT" tvg-chno="27",Franceinfo (TV)
@@ -167,6 +167,33 @@ https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFMGRANDLILLE/index.m3u8?start=LIVE&
 https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFMGRANDLITTORAL/index.m3u8?start=LIVE&end=END
 #EXTINF:-1 tvg-id="BFMNormandie.fr" tvg-logo="https://raw.githubusercontent.com/Sibprod/assets/main/Altice/ALTICE_BFM-Normandie.png" group-title="SibTV_TNT" tvg-chno="394",BFM Régions (Normandie)
 https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_NORMANDIE/index.m3u8?start=LIVE&end=END
+#EXTINF:-1 tvg-id="RTI1.ci" tvg-logo="https://i.imgur.com/gbcHybd.png" group-title="SibTV_TNT" tvg-chno="701",RTI 1
+https://www.enovativecdn.com/rticdn/smil:rti1.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="RTI2.ci" tvg-logo="https://i.imgur.com/WgdvLoK.png" group-title="SibTV_TNT" tvg-chno="702",RTI 2
+https://www.enovativecdn.com/rticdn/smil:rti2.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="NCI.ci" tvg-logo="https://player.pixagility.live/nci/ncilogo.png" group-title="SibTV_TNT" tvg-chno="704",NCI
+https://pixa.cdn.easybroadcast.fr/nci/nci.isml/nci.m3u8
+#EXTINF:-1 tvg-logo="https://imgs.search.brave.com/Gy07HIiGq9Hj8fbxuW9q8xjkrkyOJe-fyGWKuG3mkwc/rs:fit:900:900:1/g:ce/aHR0cHM6Ly95dDMu/Z2dwaHQuY29tL2Ev/QUFUWEFKeHhwUUlO/cGNKaW1Hckc1YkZI/bUVJRXNleVNJbmRk/S3ZHNWc2VHM9czkw/MC1jLWstYzB4ZmZm/ZmZmZmYtbm8tcmot/bW8" group-title="SibTV_TNT" tvg-chno="706",Life TV
+https://strhlslb01.streamakaci.tv/str_lifetv_lifetv/str_lifetv_multi/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://yt3.ggpht.com/Fsc48YuvrJh5sWWN6PgAJPmCmahCwh-6R1haMgcltx0ncjvQfukHOG5UEzA7Ow0cwP6-7bFM=s176-c-k-c0x00ffffff-no-rj-mo" group-title="SibTV_TNT" tvg-chno="707",7 Info
+https://ythls.armelin.one/channel/UCqA1FRAWs2VIiXf2cUYSQBQ.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo="https://i.imgur.com/EauXR22.png" group-title="SibTV_TNT" tvg-chno="708",Reflet TV
+https://edge-a3.evrideo.tv/8f37c9f0-fe22-44f4-b64a-76ad11730daf_1000026630_HLS/manifest.m3u8
+#EXTINF:-1 tvg-id="SenTV.sn" tvg-logo="https://i.imgur.com/1BLXnHB.png" group-title="SibTV_TNT" tvg-chno="724",Sen TV
+https://live3.acangroup.org:1929/acanabr/sentv.stream_all/playlist.m3u8
+#EXTINF:-1 tvg-id="BF1.bf" tvg-logo="https://bf1.tv/images/logo-large.png" group-title="SibTV_TNT" tvg-chno="761",BF1
+https://547f72e6652371c3.mediapackage.us-east-1.amazonaws.com/out/v1/7e66f389bec3463dac81e8d55e680431/index.m3u8
+#EXTINF:-1 tvg-id="ORTB.bj" tvg-logo="https://i.imgur.com/ovhVYvP.png" group-title="SibTV_TNT" tvg-chno="741",ORTB
+#EXTVLCOPT:http-referrer=https://webcast.streamakaci.com/
+https://strhlslb01.streamakaci.tv/ortb/ortb1-multi/playlist.m3u8
+#EXTINF:-1 tvg-id="ADOTV.bj" tvg-logo="https://i.imgur.com/pxFamLr.png" group-title="SibTV_TNT" tvg-chno="743",Ado TV
+https://stream01.adotv-fm.bj/ado-tv-live/index.m3u8
+#EXTINF:-1 tvg-id="Canal3.bj" tvg-logo="https://i.imgur.com/NbZ7Y4j.png" group-title="SibTV_TNT" tvg-chno="748",Canal 3 Bénin
+https://live.creacast.com/bluediamond/stream/playlist.m3u8
+#EXTINF:-1 tvg-id="ETele.bj" tvg-logo="https://i.imgur.com/y1eg7OC.png" group-title="SibTV_TNT" tvg-chno="752",E-Télé
+https://livetvsteam.com:1936/etelebenin/etelebenin/playlist.m3u8
+#EXTINF:-1 tvg-id="Vision4.cm" tvg-logo="https://i.imgur.com/rUbrFA8.png" group-title="SibTV_TNT" tvg-chno="804",Vision 4
+https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/vision4/hls_video/index.m3u8
 #EXTINF:-1 tvg-id="CFBT.ca" tvg-logo="https://i.ibb.co/f18g74n/image.png" group-title="SibTV_TNT" tvg-chno="819",Ici Radio-Canada Télé
 https://rcavlive.akamaized.net/hls/live/696615/xcancbft/master_3000.m3u8
 #EXTINF:-1 tvg-id="Telequebec.ca" tvg-logo="https://static.epg.best/ca/TeleQuebec.ca.png" group-title="SibTV_TNT" tvg-chno="826",Tele-Québec
@@ -177,6 +204,7 @@ https://hls.savoir.media/live/stream.m3u8
 https://pe-fa-lp03a.9c9media.com/live/NOOVO/p/hls/00000201/716cf4c845225692/manifest.m3u8
 #EXTINF:-1 tvg-id="CFHDDT.ca" tvg-logo="https://i.imgur.com/x0vLIWr.png" group-title="SibTV_TNT" tvg-chno="847",ICI (International Channel / La Chaîne Internationale)
 https://amdici.akamaized.net/hls/live/873426/ICI-Live-Stream/master.m3u8
+
 
 #EXTINF:-1 tvg-id="France3Noa.fr" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/France_3_Nouvelle_Aquitaine_color.png" group-title="Régionales" tvg-chno="339",NoA
 https://raw.githubusercontent.com/Sibprod/streams/main/ressources/ftv/py/France3_NoA.m3u8
@@ -237,6 +265,8 @@ https://tv3v.live-kd.com/live/tv3v/livestream/playlist.m3u8
 https://mdw-cji.akamaized.net/ab3/hls/manifest.m3u8?hdnts=exp=1706197272~acl=/ab3/hls/*~hmac=0bcac5be8f8ce63107eeae50b959c2e808df5017b79ed31b215755292512e1d6
 #EXTINF:-1 tvg-id="LN24.be" tvg-logo="http://www.albo2000.com/tv/logos/LN-TV.jpg" group-title="Thématiques" tvg-chno="1018",LN24
 https://live.digiteka.com/1/bEg0RmFLb1JMYXRI/dGhqbmIw/hls/live/playlist.m3u8
+#EXTINF:-1 tvg-id="Equidia.fr" tvg-logo="https://static.epg.best/fr/Equidia.fr.png" group-title="Thématiques" tvg-chno="1039",Equidia
+http://www.callofliberty.fr/direct/EQUIDIA/master.m3u8
 #EXTINF:-1 tvg-id="BFMBusiness.fr" tvg-logo="https://focus.telerama.fr/104x104/60/0000/00/01/clear-1073.png" group-title="Thématiques" tvg-chno="1051",BFM Business
 https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_BUSINESS/index.m3u8?start=LIVE&end=END
 #EXTINF:-1 tvg-id="i24NewsFrench.il" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/LOGO_i24NEWS.png/600px-LOGO_i24NEWS.png" group-title="Thématiques" tvg-chno="1054",i24 News (Français)
@@ -251,6 +281,8 @@ https://sy.wns.live/hls/stream.m3u8
 https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_TECHANDCO/index.m3u8?start=LIVE&end=END
 #EXTINF:-1 tvg-id=" " tvg-logo="https://www.lyngsat.com/logo/tv/cc/chambre_des_deputes.png" group-title="Thématiques" tvg-chno="1084",Chamber TV
 https://media01.webtvlive.eu/chd-edge/_definst_/smil:chamber_tv_hd.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/ZgqnqnJ/cgtnfr.png" group-title="Thématiques" tvg-chno="1087",CGTN (Français)
+http://news.cgtn.com/resource/live/french/cgtn-f.m3u8
 #EXTINF:-1 tvg-id="Tiji.fr" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tiji_fr.png" group-title="Thématiques" tvg-chno="1094",Tiji
 https://shls-tiji-tv-prod-dub.shahid.net/out/v1/98f46736bd8c4404b67e4b7a38cc8976/index.m3u8
 #EXTINF:-1 tvg-id="CanalJ.fr" tvg-logo="https://focus.telerama.fr/104x104/60/0000/00/01/clear-32.png" group-title="Thématiques" tvg-chno="1095",Canal J
