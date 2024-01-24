@@ -233,6 +233,8 @@ http://tv7.hdr-tv.com/live/tv7/livestream/playlist.m3u8
 #EXTINF:-1 tvg-id="TV3V.fr" tvg-logo="https://www.tv3v.fr/images/logo_tv3v.png" group-title="Régionales" tvg-chno="998",TV3V
 https://tv3v.live-kd.com/live/tv3v/livestream/playlist.m3u8
 
+#EXTINF:-1 tvg-id="ABXplore.be" tvg-logo="https://i.imgur.com/Z7bCdz9.png" group-title="Thématiques" tvg-chno="1015",ABXplore
+https://mdw-cji.akamaized.net/ab3/hls/manifest.m3u8?hdnts=exp=1706197272~acl=/ab3/hls/*~hmac=0bcac5be8f8ce63107eeae50b959c2e808df5017b79ed31b215755292512e1d6
 #EXTINF:-1 tvg-id="LN24.be" tvg-logo="http://www.albo2000.com/tv/logos/LN-TV.jpg" group-title="Thématiques" tvg-chno="1018",LN24
 https://live.digiteka.com/1/bEg0RmFLb1JMYXRI/dGhqbmIw/hls/live/playlist.m3u8
 #EXTINF:-1 tvg-id="BFMBusiness.fr" tvg-logo="https://focus.telerama.fr/104x104/60/0000/00/01/clear-1073.png" group-title="Thématiques" tvg-chno="1051",BFM Business
