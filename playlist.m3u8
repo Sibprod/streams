@@ -139,7 +139,7 @@ https://bcovlive-a.akamaihd.net/575d86160eb143458d51f7ab187a4e68/us-east-1/61016
 https://pe-fa-lp03a.9c9media.com/live/NOOVO/p/hls/00000201/716cf4c845225692/manifest.m3u8
 #EXTINF:-1 tvg-id="CFHDDT.ca" tvg-logo="https://i.imgur.com/x0vLIWr.png" group-title="SibTV_TNT" tvg-chno="847",ICI (International Channel / La Chaîne Internationale)
 https://amdici.akamaized.net/hls/live/873426/ICI-Live-Stream/master.m3u8
-#EXTINF:-1 tvg-id="Tiji.fr" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tiji_fr.png" group-title="Sat_IPTV" tvg-chno="1094",Tiji
+#EXTINF:-1 tvg-id="Tiji.fr" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tiji_fr.png" group-title="Satellite" tvg-chno="1094",Tiji
 https://shls-tiji-tv-prod-dub.shahid.net/out/v1/98f46736bd8c4404b67e4b7a38cc8976/index.m3u8
 #EXTINF:-1 tvg-id="RDINews.ca" tvg-logo="http://www.albo2000.com/tv/logos/icirdi_logo-2017.jpg" group-title="Cable" tvg-chno="1117",Ici RDI
 http://rcavlive.akamaized.net/hls/live/704025/xcanrdi/master.m3u8
