@@ -89,7 +89,7 @@ https://webtvmonacoinfo.mc/live/prod_720/index.m3u8
 https://production-fast-mcrtv.content.okast.tv/channels/2116dc08-1959-465d-857f-3619daefb66b/b702b2b9-aebd-436c-be69-2118f56f3d86/2025/media.m3u8
 #EXTINF:-1 tvg-id="France24French.fr" tvg-logo="https://yt3.googleusercontent.com/ytc/AIf8zZT4CILLcHOlNUh7R08g2zQ1s1WRae9YHxR-i9qgXw=s176-c-k-c0x00ffffff-no-rj" group-title="SibTV_TNT" tvg-chno="76",France 24 (Français)
 https://ythls.armelin.one/channel/UCCCPCZNChQdGa9EkATeye4g.m3u8
-#EXTINF:-1 tvg-id=" " tvg-logo="https://s2.dmcdn.net/u/7fiM11W1elfqcc2yp/60x60" group-title="SibTV_TNT" tvg-chno="131",N31
+#EXTINF:-1 tvg-id=" " tvg-logo="https://i.imgur.com/8R6uEno.jpg" group-title="SibTV_TNT" tvg-chno="131",N31
 plugin://plugin.video.dailymotion_com/?url=x6nkjg1&mode=playLiveVideo
 #EXTINF:-1 tvg-id="1ereReunion.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/95/R%C3%A9union_La_1%C3%A8re_-_Logo_2018.svg.png" group-title="SibTV_TNT" tvg-chno="201",Réunion La 1ère
 https://raw.githubusercontent.com/Sibprod/streams/main/ressources/ftv/py/La1ere_reunion_metro.m3u8
@@ -107,13 +107,13 @@ https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_PARIS/index.m3u8?start=LIVE&end=
 https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_LYON/index.m3u8?start=LIVE&end=END
 #EXTINF:-1 tvg-id="BFMMarseille.fr" tvg-logo="https://raw.githubusercontent.com/Sibprod/assets/main/Altice/ALTICE_BFM-Marseille.png" group-title="SibTV_TNT" tvg-chno="342",BFM Régions (Marseille-Provence)
 https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_MARSEILLEPROV/index.m3u8?start=LIVE&end=END
-#EXTINF:-1 tvg-id="TV8MontBlanc.fr" tvg-logo=" " group-title="SibTV_TNT" tvg-chno="343",8 Mont-Blanc
+#EXTINF:-1 tvg-id="TV8MontBlanc.fr" tvg-logo="https://i.imgur.com/dOXRNVj.png" group-title="SibTV_TNT" tvg-chno="343",8 Mont-Blanc
 plugin://plugin.video.dailymotion_com/?url=x3wqv8b&mode=playLiveVideo
-#EXTINF:-1 tvg-id="Angerstele.fr" tvg-logo=" " group-title="SibTV_TNT" tvg-chno="344",Angers Télé 
+#EXTINF:-1 tvg-id="Angerstele.fr" tvg-logo="https://viaangers.tv/PourSmartphoneLogoANGERSTELE-1080x1080px-NoirRouge.png" group-title="SibTV_TNT" tvg-chno="344",Angers Télé 
 plugin://plugin.video.dailymotion_com/?url=x8r7256&mode=playLiveVideo
 #EXTINF:-1 tvg-id="LeFigaroIDF.fr" tvg-logo="https://www.planetecsat.com/wp-content/uploads/2023/04/Entete-Figaro-IDF.png" group-title="SibTV_TNT" tvg-chno="345",Le Figaro TV (IdF)
 https://figarotv-live.freecaster.com/live/freecaster/figarotv.m3u8
-#EXTINF:-1 tvg-id="LMTVSarthe.fr" tvg-logo=" " group-title="SibTV_TNT" tvg-chno="346",LMTV Sarthe
+#EXTINF:-1 tvg-id="LMTVSarthe.fr" tvg-logo="https://i.imgur.com/FAtCK7W.png" group-title="SibTV_TNT" tvg-chno="346",LMTV Sarthe
 plugin://plugin.video.twitch/?mode=play&channel_name=lmtv_sarthe
 #EXTINF:-1 tvg-id="Matele.fr" tvg-logo="https://i.ibb.co/4ZfHZhf/viamatele.png" group-title="SibTV_TNT" tvg-chno="347",Ma Télé
 https://5dd226f8f01e8.streamlock.net/via-matele-live/matelelive_1080/playlist.m3u8
@@ -123,12 +123,36 @@ https://lives.digiteka.com/stream/86d3e867-a272-496b-8412-f59aa0104771/index.m3u
 https://vosgestv.live-kd.com/live/vosgestv/vosgestv/playlist.m3u8
 #EXTINF:-1 tvg-id="MoselleTV.fr" tvg-logo="https://moselle.tv/wp-content/uploads/2022/07/LOGO-MOSELLE-TV-BLANC.png" group-title="SibTV_TNT" tvg-chno="351",Moselle TV
 https://live.creacast.com/mirabelletv/smil:mirabelletv.smil/index.m3u8
-#EXTINF:-1 tvg-id="Telenantes.fr" tvg-logo=" " group-title="SibTV_TNT" tvg-chno="354",Télénantes
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/3k4Lv34/tvrennes.png" group-title="SibTV_TNT" tvg-chno="352",TVR
+https://streamtv.cdn.dvmr.fr/TVR/ngrp:tvr.stream_all/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/xmhMMDN/tebeo.png" group-title="SibTV_TNT" tvg-chno="353",Tebeo
+https://lives.digiteka.com/stream/e0fe6433-554e-4568-9a7e-31969136d8ff/index.m3u8
+#EXTINF:-1 tvg-id="Telenantes.fr" tvg-logo="https://i.imgur.com/G1SCqNI.png" group-title="SibTV_TNT" tvg-chno="354",Télénantes
 plugin://plugin.video.dailymotion_com/?url=x5so98l&mode=playLiveVideo
+#EXTINF:-1 tvg-id="TV7.fr" tvg-logo="https://i.ibb.co/9VrjLFT/tv7b.png" group-title="SibTV_TNT" tvg-chno="355",TV7 Sud-Ouest
+https://lives.digiteka.com/stream/17c6dea8-fb3f-46fe-b170-2ac88cd5667b/index.m3u8
 #EXTINF:-1 tvg-id="Weo.fr" tvg-logo="https://i.ibb.co/nMkybxK/weo1.png" group-title="SibTV_TNT" tvg-chno="356",Weo (La Voix du Nord)
 https://lives.digiteka.com/stream/c58028c2-a58b-4526-9ec8-389cad4a71e8/index.m3u8
-#EXTINF:-1 tvg-id="TL7.fr" tvg-logo=" " group-title="SibTV_TNT" tvg-chno="381",TL7
+#EXTINF:-1 tvg-id="TVTours.fr" tvg-logo="https://i.ibb.co/vDRB1fK/tvtloire.png" group-title="SibTV_TNT" tvg-chno="361",TVT-Val de Loire
+https://lives.digiteka.com/stream/920f083a-9e61-4c09-9bc2-bdb664063aa9/index.m3u8
+#EXTINF:-1 tvg-id="TVVendee.fr" tvg-logo="https://i.ibb.co/xS8B1qS/tvvendee.png" group-title="SibTV_TNT" tvg-chno="362",TV Vendée
+https://streamer01.myvideoplace.tv/streamer02/hls/VDE_EVEN_PAD_130923.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/61mqv2h/biptv.png" group-title="SibTV_TNT" tvg-chno="364",BIP TV
+https://biptv.tv/live/biptvstream_orig/index.m3u8
+#EXTINF:-1 tvg-id="TVPI.fr" tvg-logo="https://yt3.googleusercontent.com/ytc/AIf8zZQ52HjvirIFo_XlokeVFRjUrDNTlabMJ1kE6M1yfA=s176-c-k-c0x00ffffff-no-rj" group-title="SibTV_TNT" tvg-chno="366",TVPi
+https://ythls.armelin.one/channel/UCwVQAPo6tjC5w5yBBh0WEdA.m3u8
+#EXTINF:-1 tvg-id="ViaOccitanie.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Logo_de_ViàOccitanie.png/250px-Logo_de_ViàOccitanie.png" group-title="SibTV_TNT" tvg-chno="369",viàOccitanie
+https://streamer01.myvideoplace.tv/streamer02/hls/MDS_VIA_PAD_301117.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.wixstatic.com/media/6081ef_3aadcd3c9cf44eb4a405ec54c92ba8a4~mv2.png/v1/fill/w_119,h_97,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/TV_LOGO_2-removebg-preview.png" group-title="SibTV_TNT" tvg-chno="374",TV Tarn
+https://live.creacast.com/albi-tv-ch1/stream/master.m3u8
+#EXTINF:-1 tvg-id="TLC.fr" tvg-logo="https://i.imgur.com/UdLeLar.jpg" group-title="SibTV_TNT" tvg-chno="378",TLC - Télévision Locale du Choletais
+plugin://plugin.video.dailymotion_com/?url=x5aarnv&mode=playLiveVideo
+#EXTINF:-1 tvg-id="TL7.fr" tvg-logo="https://i.imgur.com/ay3EvUv.png" group-title="SibTV_TNT" tvg-chno="381",TL7
 plugin://plugin.video.dailymotion_com/?url=x5ct4nu&mode=playLiveVideo
+#EXTINF:-1 tvg-id="Viatelepaese.fr" tvg-logo="https://viatelepaese.tv/fileadmin/via_main/img/logos/viaTelePaese.png" group-title="SibTV_TNT" tvg-chno="383",TelePaese
+#EXTVLCOPT:http-referrer=https://srv.webtvmanager.fr/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 Edg/112.0.1722.34
+https://srv.webtvmanager.fr:3118/live/viatelepaeselive.m3u8
 #EXTINF:-1 tvg-id="BFMCotedAzur.fr" tvg-logo="https://raw.githubusercontent.com/Sibprod/assets/main/Altice/ALTICE_BFM-Nice.png" group-title="SibTV_TNT" tvg-chno="386",BFM Régions (Nice-Côte d'Azur)
 https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_NICECOTEDAZUR/index.m3u8?start=LIVE&end=END
 #EXTINF:-1 tvg-id="Weo.fr" tvg-logo="https://static.epg.best/fr/Weo.fr.png" group-title="SibTV_TNT" tvg-chno="387",Wéo (Picardie)
@@ -139,6 +163,8 @@ https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_TOULONVAR/index.m3u8?start=LIVE&
 https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFMGRANDLILLE/index.m3u8?start=LIVE&end=END
 #EXTINF:-1 tvg-id="BFMGrandLittoral.fr" tvg-logo="https://raw.githubusercontent.com/Sibprod/assets/main/SECOM/SECOM_BFM-Grand-Littoral.png" group-title="SibTV_TNT" tvg-chno="392",BFM Régions (Grand Littoral)
 https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFMGRANDLITTORAL/index.m3u8?start=LIVE&end=END
+#EXTINF:-1 tvg-id="BFMNormandie.fr" tvg-logo="https://raw.githubusercontent.com/Sibprod/assets/main/Altice/ALTICE_BFM-Normandie.png" group-title="SibTV_TNT" tvg-chno="394",BFM Régions (Normandie)
+https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_NORMANDIE/index.m3u8?start=LIVE&end=END
 #EXTINF:-1 tvg-id="CFBT.ca" tvg-logo="https://i.ibb.co/f18g74n/image.png" group-title="SibTV_TNT" tvg-chno="819",Ici Radio-Canada Télé
 https://rcavlive.akamaized.net/hls/live/696615/xcancbft/master_3000.m3u8
 #EXTINF:-1 tvg-id="Telequebec.ca" tvg-logo="https://static.epg.best/ca/TeleQuebec.ca.png" group-title="SibTV_TNT" tvg-chno="826",Tele-Québec
@@ -150,10 +176,18 @@ https://pe-fa-lp03a.9c9media.com/live/NOOVO/p/hls/00000201/716cf4c845225692/mani
 #EXTINF:-1 tvg-id="CFHDDT.ca" tvg-logo="https://i.imgur.com/x0vLIWr.png" group-title="SibTV_TNT" tvg-chno="847",ICI (International Channel / La Chaîne Internationale)
 https://amdici.akamaized.net/hls/live/873426/ICI-Live-Stream/master.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/fdcDJWF/tv78.png"  group-title="Régionales" tvg-chno="368",TV 78
+#EXTINF:-1 tvg-id="" tvg-logo="https://codeberg.org/Sibprod/Feed/raw/branch/main/assets/natv_logo.png" group-title="Régionales" tvg-chno="357",NA TV
+https://livevideo.vedge.infomaniak.com/livecast/naradio/playlist.m3u8
+#EXTINF:-1 tvg-id="Kanaldude.fr" tvg-logo="https://kanaldude.eus/static/img/Kanaldude.png" group-title="Régionales" tvg-chno="358",Kanaldude
+https://5aa375514fbab.streamlock.net:8090/tbzain/smil:kanaldude.smil/manifest.mpd
+#EXTINF:-1 tvg-id="" tvg-logo="https://alloforfait.fr/wp-content/uploads/2023/06/cannes-lerins-tv-2-300x200.jpg" group-title="Régionales" tvg-chno="365",Cannes Lérins TV
+https://vdo2.pro-fhi.net:3628/live/uppodsfqlive.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/fdcDJWF/tv78.png" group-title="Régionales" tvg-chno="368",TV 78
 https://streamtv.cdn.dvmr.fr/TV78/ngrp:tv78.stream_all/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://codeberg.org/Sibprod/Feed/raw/branch/main/assets/PTV.png" group-title="Régionales" tvg-chno="373",Puissance Télévision
 https://livevideo.vedge.infomaniak.com/livecast/puissancetelevision/playlist.m3u8
+#EXTINF:-1 tvg-id="7ALimoges.fr" tvg-logo="https://i.imgur.com/1ccTQ7Z.png" group-title="Régionales" tvg-chno="379",7 à Limoges
+https://ythls.armelin.one/channel/UCdFv_ZWQ3Xk_NfRiaK-ryGg.m3u8
 #EXTINF:-1 tvg-id="ASTV.fr" tvg-logo="https://i.imgur.com/E4DYRWs.png" group-title="Régionales" tvg-chno="380",ASTV
 plugin://plugin.video.twitch/?mode=play&channel_name=astvstream
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/Jk1ND0P/mosaik.png" group-title="Régionales" tvg-chno="382",Mosaïk Cristal
@@ -178,6 +212,8 @@ https://live.digiteka.com/1/WWRMRDd6RUR1NGZ1/UytudnJv/hls/live/playlist.m3u8
 https://live.digiteka.com/1/TXhhUTRFNmVLRWhV/aVJTbDNQ/hls/live/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/KGNTppx/nancyweb.jpg" group-title="Régionales" tvg-chno="957",Nancy Web TV
 https://edge.vedge.infomaniak.com/livecast/ik:nancy-webtv/manifest.m3u8
+#EXTINF:-1 tvg-id="ValloireTV.fr" tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/4c2f908d-01d0-4ea0-9089-f3477dd89015-profile_image-70x70.jpeg" group-title="Régionales" tvg-chno="958",Valloire TV
+plugin://plugin.video.twitch/?mode=play&channel_name=valloiretv
 #EXTINF:-1 tvg-id=" " tvg-logo="https://brionnais.tv/uploads/images/user_1_1515016104_social.jpg" group-title="Régionales" tvg-chno="958",Brionnais TV
 https://stream.mandarine.media/brionnaistv/brionnaistv/playlist.m3u8
 #EXTINF:-1 tvg-id="TV7Colmar.fr" tvg-logo="https://i.ibb.co/d6x3fxq/tv7colm.png" group-title="Régionales" tvg-chno="977",TV7 Colmar
@@ -220,7 +256,7 @@ plugin://plugin.video.dailymotion_com/?url=k1kypsRZF9plQhqwBRS&mode=playLiveVide
 #EXTINF:-1 tvg-id=" " tvg-logo="https://www.sport-tv.org/wp-content/uploads/2022/11/Chaine-LEquipe-Live-2.jpg" group-title="FAST" tvg-chno="4502",L'Equipe Live 2
 plugin://plugin.video.dailymotion_com/?url=k5TgcOKBUTM2KnqwBWC&mode=playLiveVideo
 
-#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="SibTV_RNT" tvg-chno="602",France Inter
+#EXTINF:-1 tvg-id=" " tvg-logo="https://i.imgur.com/PYqQyRv.png" group-title="SibTV_RNT" tvg-chno="602",France Inter
 plugin://plugin.video.dailymotion_com/?url=x17qw0a&mode=playLiveVideo
 #EXTINF:-1 tvg-id=" " tvg-logo="https://mlemedia.ch/upload/design/6333f474c31401.16060024.png" group-title="SibTV_RNT" tvg-chno="604",M Le Media
 plugin://plugin.video.dailymotion_com/?url=x8j47xa&mode=playLiveVideo
@@ -230,9 +266,9 @@ plugin://plugin.video.dailymotion_com/?url=xl1km0&mode=playLiveVideo
 plugin://plugin.video.dailymotion_com/?url=x2tzzpj&mode=playLiveVideo
 #EXTINF:-1 tvg-id=" " tvg-logo="https://image.jimcdn.com/app/cms/image/transf/dimension=90x90:format=png/path/sc4a623cd5d89b3b8/image/i0a02f03b80b1a370/version/1697296784/image.png" group-title="SibTV_RNT" tvg-chno="614",Mouv'
 plugin://plugin.video.dailymotion_com/?url=x8g9lfe&mode=playLiveVideo
-#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="SibTV_RNT" tvg-chno="616",Europe 1
+#EXTINF:-1 tvg-id=" " tvg-logo="https://i.imgur.com/tztG1MX.png" group-title="SibTV_RNT" tvg-chno="616",Europe 1
 plugin://plugin.video.dailymotion_com/?url=xqjkfz&mode=playLiveVideo
-#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="SibTV_RNT" tvg-chno="622",Fun Radio (France)
+#EXTINF:-1 tvg-id=" " tvg-logo="https://i.imgur.com/wgxuYsQ.png" group-title="SibTV_RNT" tvg-chno="622",Fun Radio (France)
 plugin://plugin.video.dailymotion_com/?url=xxtuy6&mode=playLiveVideo
 #EXTINF:-1 tvg-id=" " tvg-logo="https://www.lyngsat.com/logo/radio/ff/franceinfo-radio-fr.svg" group-title="SibTV_RNT" tvg-chno="627",Franceinfo (Radiovision)
 plugin://plugin.video.dailymotion_com/?url=x26eox4&mode=playLiveVideo
