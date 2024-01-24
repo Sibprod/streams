@@ -218,6 +218,8 @@ https://vdo2.pro-fhi.net:3628/live/uppodsfqlive.m3u8
 https://streamtv.cdn.dvmr.fr/TV78/ngrp:tv78.stream_all/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://codeberg.org/Sibprod/Feed/raw/branch/main/assets/PTV.png" group-title="Régionales" tvg-chno="373",Puissance Télévision
 https://livevideo.vedge.infomaniak.com/livecast/puissancetelevision/playlist.m3u8
+#EXTINF:-1 tvg-id="MaritimaTV.fr" tvg-logo=" " group-title="Régionales" tvg-chno="377",Maritima TV
+rtp://233.49.82.3:7500
 #EXTINF:-1 tvg-id="7ALimoges.fr" tvg-logo="https://i.imgur.com/1ccTQ7Z.png" group-title="Régionales" tvg-chno="379",7 à Limoges
 https://ythls.armelin.one/channel/UCdFv_ZWQ3Xk_NfRiaK-ryGg.m3u8
 #EXTINF:-1 tvg-id="ASTV.fr" tvg-logo="https://i.imgur.com/E4DYRWs.png" group-title="Régionales" tvg-chno="380",ASTV
