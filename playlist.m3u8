@@ -208,10 +208,10 @@ https://amg16146-wbdi-amg16146c5-samsung-it-1838.playouts.now.amagi.tv/playlist/
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/Tundrak/IPTV-Italia/8a74a7e14557a57e3317867a549af34aac4dd3b0/logos/k2.png" group-title="SibTV_TNT" tvg-chno="541",K2 (Italia)
 https://amg16146-wbdi-amg16146c6-samsung-it-1839.playouts.now.amagi.tv/playlist/amg16146-warnerbrosdiscoveryitalia-k2-samsungit/playlist.m3u8
 http://livetv.ktv.zone/156/play.m3u8
-#EXTINF:-1 tvg-id="RaiYoyo.it" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/raiyoyo.png" group-title="SibTV_TNT" tvg-chno="43",Rai Yoyo
+#EXTINF:-1 tvg-id="RaiYoyo.it" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/raiyoyo.png" group-title="SibTV_TNT" tvg-chno="543",Rai Yoyo
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 http://livetv.ktv.zone/153/play.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/Tundrak/IPTV-Italia/8a74a7e14557a57e3317867a549af34aac4dd3b0/logos/frisbee.png" group-title="SibTV_TNT" tvg-chno="44",Frisbee
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/Tundrak/IPTV-Italia/8a74a7e14557a57e3317867a549af34aac4dd3b0/logos/frisbee.png" group-title="SibTV_TNT" tvg-chno="544",Frisbee
 https://amg16146-wbdi-amg16146c7-samsung-it-1840.playouts.now.amagi.tv/playlist/amg16146-warnerbrosdiscoveryitalia-frisbee-samsungit/playlist.m3u8
 #EXTINF:-1 tvg-id="Super.it" tvg-logo="https://www.lyngsat-stream.com/logo/tv/ss/super-it.png" group-title="SibTV_TNT" tvg-chno="547",Super !
 https://vimnitaly.akamaized.net/hls/live/2094034/super/master.m3u8
@@ -498,7 +498,7 @@ http://connectiktv.ddns.net:5000/plextv/@plextv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/1dmBqpf.png" group-title="Thématiques" tvg-chno="1006",Play TV
 http://connectiktv.ddns.net:5000/playtv/@playtv/playlist.m3u8
 #EXTINF:-1 tvg-id="LN24.be" tvg-logo="http://www.albo2000.com/tv/logos/LN-TV.jpg" group-title="Thématiques" tvg-chno="1018",LN24
-https://live.digiteka.com/1/bEg0RmFLb1JMYXRI/dGhqbmIw/hls/live/playlist.m3u8
+https://live-ln24.digiteka.com/1911668011/playlist.m3u8
 #EXTINF:-1 tvg-id="ABXplore.be" tvg-logo="https://i.imgur.com/Z7bCdz9.png" group-title="Thématiques" tvg-chno="1021",ABXplore
 https://mdw-cji.akamaized.net/ab3/hls/manifest.m3u8?hdnts=exp=1706197272~acl=/ab3/hls/*~hmac=0bcac5be8f8ce63107eeae50b959c2e808df5017b79ed31b215755292512e1d6
 #EXTINF:-1 tvg-id="RTVC.ht" tvg-logo="https://i.imgur.com/OdOCGiW.png" group-title="Thématiques" tvg-chno="1022",RTVC - Radio Télévision Caraïbes
