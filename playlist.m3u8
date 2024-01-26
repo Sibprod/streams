@@ -384,8 +384,9 @@ https://547f72e6652371c3.mediapackage.us-east-1.amazonaws.com/out/v1/7e66f389bec
 https://dacastmmd.mmdlive.lldns.net/dacastmmd/ef61cbd27c12465692b214c13db2e3e5/playlist.m3u8
 #EXTINF:-1 tvg-id="Vision4.cm" tvg-logo="https://i.imgur.com/rUbrFA8.png" group-title="SibTV_TNT" tvg-chno="2404",Vision 4
 https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/vision4/hls_video/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/medi-1-tv-afrique-ma.png" group-title="SibTV_TNT" tvg-chno="2507",Médi 1 (Afrique)
+#EXTINF:-1 tvg-id="CanalAlgerie.dz" tvg-logo="https://www.lyngsat.com/logo/tv/cc/canal-algerie-2-sk.png" group-title="SibTV_TNT" tvg-chno="2502",Canal Algérie
+https://bozztv.com/inim03/live1/giniko_canalalgerie/chunks.m3u8
+#EXTINF:-1 tvg-id="Medi1.ma" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/medi-1-tv-afrique-ma.png" group-title="SibTV_TNT" tvg-chno="2507",Médi 1 (Afrique)
 https://streaming1.medi1tv.com/live/smil:medi1fr.smil/.m3u8
 #EXTINF:-1 tvg-id="RTG1.gn" tvg-logo="https://i.imgur.com/fQ9rtAh.png" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 Edg/112.0.1722.34" group-title="SibTV_TNT" tvg-chno="2601",RTG 1
 #EXTVLCOPT:http-referrer=https://player.castr.com/
