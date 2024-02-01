@@ -6,7 +6,7 @@ https://raw.githubusercontent.com/Sibprod/streams/main/ressources/ftv/py/France2
 #EXTINF:-1 tvg-id="France3.fr" tvg-logo="https://focus.telerama.fr/104x104/60/0000/00/01/clear-80.png" group-title="France" tvg-chno="3",France 3
 https://raw.githubusercontent.com/Sibprod/streams/main/ressources/ftv/py/France3.m3u8
 #EXTINF:-1 tvg-id="CanalPlus.fr" tvg-logo="https://focus.telerama.fr/104x104/60/0000/00/01/clear-34.png" group-title="France" tvg-chno="4",Canal+ (en clair)
-https://hls-m007.live-lv3.canalplus-cdn.net/live/disk/canalplusclair-hd/hls-ios-fhd-clair/canalplusclair-hd.m3u8
+plugin://plugin.video.dailymotion_com/?url=x5gv6be&mode=playLiveVideo
 #EXTINF:-1 tvg-id="France5.fr" tvg-logo="https://focus.telerama.fr/104x104/60/0000/00/01/clear-47.png" group-title="France" tvg-chno="5",France 5
 https://raw.githubusercontent.com/Sibprod/streams/main/ressources/ftv/py/France5.m3u8
 #EXTINF:-1 tvg-id="M6.fr" tvg-logo="https://focus.telerama.fr/104x104/60/0000/00/01/clear-118.png" group-title="France" tvg-chno="6",M6
@@ -26,7 +26,7 @@ https://raw.githubusercontent.com/Sibprod/streams/main/ressources/ftv/py/France4
 #EXTINF:-1 tvg-id="BFMTV.fr" tvg-logo="https://focus.telerama.fr/104x104/60/0000/00/01/clear-481.png" group-title="France" tvg-chno="15",BFM TV
 https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_TV/index.m3u8?start=LIVE&end=END
 #EXTINF:-1 tvg-id="CNews.fr" tvg-logo="https://focus.telerama.fr/104x104/60/0000/00/01/clear-226.png" group-title="France" tvg-chno="16",CNews
-https://hls-m013.live-lv3.canalplus-cdn.net/live/disk/cnews-clair-hd/hls-ios-fhd-clair/cnews-clair-hd.m3u8
+plugin://plugin.video.dailymotion_com/?url=x3b68jn&mode=playLiveVideo
 #EXTINF:-1 tvg-id="CStar.fr" tvg-logo="https://focus.telerama.fr/104x104/60/0000/00/01/clear-458.png" group-title="France" tvg-chno="17",CStar
 plugin://plugin.video.dailymotion_com/?url=x5gv5v0&mode=playLiveVideo
 #EXTINF:-1 tvg-id="Gulli.fr" tvg-logo="https://focus.telerama.fr/104x104/60/0000/00/01/clear-482.png" group-title="France" tvg-chno="18",Gulli
@@ -55,6 +55,10 @@ https://lives.digiteka.com/stream/86d3e867-a272-496b-8412-f59aa0104771/index.m3u
 https://ythls.armelin.one/channel/UCCCPCZNChQdGa9EkATeye4g.m3u8
 #EXTINF:-1 tvg-id="LeFigaroIDF.fr" tvg-logo="https://www.planetecsat.com/wp-content/uploads/2023/04/Entete-Figaro-IDF.png" group-title="France" tvg-chno="34",Le Figaro TV (IdF)
 https://figarotv-live.freecaster.com/live/freecaster/figarotv.m3u8
+#EXTINF:-1 tvg-id="CanalPlusSport.fr" tvg-logo="https://focus.telerama.fr/104x104/60/0000/00/01/clear-35.png" group-title="France" tvg-chno="42",Canal+ Sport
+plugin://plugin.video.dailymotion_com/?url=x8kf9q7&mode=playLiveVideo
+#EXTINF:-1 tvg-id="CanalJ.fr" tvg-logo="https://focus.telerama.fr/104x104/60/0000/00/01/clear-32.png" group-title="France" tvg-chno="47",Canal J
+http://livetv.ktv.zone/176/play.m3u8
 #EXTINF:-1 tvg-id="EuroNewsFrancais.fr" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ee/euronews_fr.png" group-title="France" tvg-chno="48",Euronews
 plugin://plugin.video.dailymotion_com/?url=x2j4lj9&mode=playLiveVideo
 #EXTINF:-1 tvg-id="TV5Monde.fr" tvg-logo="https://focus.telerama.fr/104x104/60/0000/00/01/clear-205.png" group-title="France" tvg-chno="75",TV5 Monde (Europe)
