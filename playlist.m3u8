@@ -294,8 +294,10 @@ https://pe-fa-lp03a.9c9media.com/live/NOOVO/p/hls/00000201/716cf4c845225692/mani
 
 #EXTINF:-1 tvg-id="ETV.gp" tvg-logo="https://www.etv.gp/wp-content/uploads/2021/08/logo-chaine-television-etv-300x132.png" group-title="Antilles" tvg-chno="211",ETV
 https://livevideo.vedge.infomaniak.com/livecast/etvgp/playlist.m3u8
-#EXTINF:-1 tvg-id="Ubiznews.fr" tvg-logo=" " group-title="Antilles" tvg-chno="396",Ubiznews-OM5
+#EXTINF:-1 tvg-id="Ubiznews.fr" tvg-logo=" " group-title="Antilles" tvg-chno="296",Ubiznews-OM5
 plugin://plugin.video.dailymotion_com/?url=x8dicii&mode=playLiveVideo
+#EXTINF:-1 tvg-id="TVA30.ht" tvg-logo="https://televariete.com/tva30/logo.png" group-title="Antilles" tvg-chno="230",TVA 30
+https://lakay.online/web/tva30/playlist.m3u8
 #EXTINF:-1 tvg-id="MyTVCaraibes.fr" tvg-logo="https://yt3.googleusercontent.com/gjX5_hV_iticb4xAXPWsYz8SPUhO0fSWSBs5wGNYqp007iD2uQxssO7XiE8_6rPH6wEj-sMO=s176-c-k-c0x00ffffff-no-rj" group-title="Antilles" tvg-chno="240",MyTV Caraïbes 
 https://ythls.armelin.one/channel/UC4j6IrlD08dCvu5yEUV8Fjw.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://fusiontv.fr/wp-content/uploads/2021/03/cropped-LOGO-FUSION-TV2-2-300x220.png" group-title="Antilles" tvg-chno="241",Fusion TV
