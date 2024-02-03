@@ -1,0 +1,148 @@
+#EXTM3U
+#EXTGRP:TNT_Nationale
+#EXTINF:-1 tvg-id="TF1.fr" tvg-logo="https://focus.telerama.fr/104x104/60/0000/00/01/clear-192.png" tvg-chno="1",TF1
+rtp://233.60.197.61:7500
+#EXTGRP:TNT_Nationale
+#EXTINF:-1 tvg-id="France2.fr" tvg-logo="https://focus.telerama.fr/104x104/60/0000/00/01/clear-4.png" tvg-chno="2",France 2
+rtp://233.49.82.70:7500
+#EXTGRP:TNT_Nationale
+#EXTINF:-1 tvg-id="France3.fr" tvg-logo="https://focus.telerama.fr/104x104/60/0000/00/01/clear-80.png" tvg-chno="3",France 3
+rtp://233.32.36.184:7500
+#EXTGRP:TNT_Nationale
+#EXTINF:-1 tvg-id="CanalPlus.fr" tvg-logo="https://focus.telerama.fr/104x104/60/0000/00/01/clear-34.png" tvg-chno="40",Canal+ (en clair)
+rtp://233.136.44.179:7500
+#EXTGRP:TNT_Nationale
+#EXTINF:-1 tvg-id="France5.fr" tvg-logo="https://focus.telerama.fr/104x104/60/0000/00/01/clear-47.png" tvg-chno="5",France 5
+rtp://233.236.44.191:7500
+#EXTGRP:TNT_Nationale
+#EXTINF:-1 tvg-id="M6.fr" tvg-logo="https://focus.telerama.fr/104x104/60/0000/00/01/clear-118.png" tvg-chno="6",M6
+rtp://233.49.82.76:7500
+#EXTGRP:TNT_Nationale
+#EXTINF:-1 tvg-id="ARTE.fr" tvg-logo="https://focus.telerama.fr/104x104/60/0000/00/01/clear-111.png" tvg-chno="7",ARTE (Français)
+rtp://233.49.82.71:7500
+#EXTGRP:TNT_Nationale
+#EXTINF:-1 tvg-id="NRJ12.fr" tvg-logo="https://focus.telerama.fr/104x104/60/0000/00/01/clear-444.png" tvg-chno="12",NRJ 12
+rtp://@233.49.82.72:7500
+#EXTGRP:TNT_Nationale
+#EXTINF:-1 tvg-id="LaChaineParlementaire.fr" tvg-logo="https://focus.telerama.fr/104x104/60/0000/00/01/clear-234.png" tvg-chno="13",LCP (TNT)
+rtp://233.60.197.81:7500
+#EXTGRP:TNT_Nationale
+#EXTINF:-1 tvg-id="France4.fr" tvg-logo="https://focus.telerama.fr/104x104/60/0000/00/01/clear-78.png" tvg-chno="14",France 4
+rtp://233.236.44.190:7500
+#EXTGRP:TNT_Nationale
+#EXTINF:-1 tvg-id="BFMTV.fr" tvg-logo="https://static-cdn.tv.sfr.net/data/img/apps/chaines/logos/logopdsbfmtv100.png?h=380" tvg-chno="15",BFM TV
+rtp://233.136.0.85:7500
+#EXTGRP:TNT_Nationale
+#EXTINF:-1 tvg-id="CNews.fr" tvg-logo="https://focus.telerama.fr/104x104/60/0000/00/01/clear-226.png" tvg-chno="16",CNews
+rtp://233.49.82.147:65000
+#EXTGRP:TNT_Nationale
+#EXTINF:-1 tvg-id="Gulli.fr" tvg-logo="https://focus.telerama.fr/104x104/60/0000/00/01/clear-482.png" tvg-chno="18",Gulli
+
+#EXTGRP:TNT_Nationale
+#EXTINF:-1 tvg-id="LEquipe.fr" tvg-logo="https://focus.telerama.fr/104x104/60/0000/00/01/clear-1401.png" tvg-chno="21",L'Équipe
+rtp://233.136.44.155:7500
+#EXTGRP:TNT_Nationale
+#EXTINF:-1 tvg-id="RMCStory.fr" tvg-logo="https://focus.telerama.fr/104x104/60/0000/00/01/clear-1402.png" tvg-chno="23",RMC Story
+rtp://233.49.82.132:7500
+#EXTGRP:TNT_Nationale
+#EXTINF:-1 tvg-id="RMCDecouverte.fr" tvg-logo="https://focus.telerama.fr/104x104/60/0000/00/01/clear-1400.png" tvg-chno="24",RMC Découverte
+rtp://233.49.82.133:7500
+#EXTGRP:TNT_Nationale
+#EXTINF:-1 tvg-id="Cherie25.fr" tvg-logo="https://focus.telerama.fr/104x104/60/0000/00/01/clear-1399.png" tvg-chno="25",Chérie 25
+rtp://233.49.82.134:7500
+#EXTGRP:TNT_Nationale
+#EXTINF:-1 tvg-id="Franceinfo.fr" tvg-logo="https://focus.telerama.fr/104x104/60/0000/00/01/clear-2111.png" tvg-chno="27",Franceinfo (TV)
+rtp://233.32.36.183:7500
+#EXTGRP:TNT_Nationale
+#EXTINF:-1 tvg-id="France24French.fr" tvg-logo="https://yt3.googleusercontent.com/ytc/AIf8zZT4CILLcHOlNUh7R08g2zQ1s1WRae9YHxR-i9qgXw=s176-c-k-c0x00ffffff-no-rj" tvg-chno="28",France 24 (Français)
+
+#EXTGRP:TNT_Nationale
+#EXTINF:-1 tvg-id="EuronewsFrench.fr" tvg-logo="https://focus.telerama.fr/104x104/60/0000/00/01/clear-140.png" tvg-chno="48",Euronews (Français)
+
+#EXTGRP:TNT_Nationale
+#EXTINF:-1 tvg-id="LuxeTV.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ae/LUXETV_LOGO_BLACK_MONOCHROME.png" tvg-chno="57",Luxe.TV
+rtp://233.136.44.183:7500
+#EXTGRP:Fransat
+#EXTINF:-1 tvg-id="BFMBusiness.fr" tvg-logo="https://focus.telerama.fr/104x104/60/0000/00/01/clear-1073.png" tvg-chno="51",BFM Business
+rtp://233.136.44.187:7500
+#EXTGRP:Fransat
+#EXTINF:-1 tvg-id="" tvg-logo=" " tvg-chno="54",i24 News (Français)
+rtp://233.49.82.159:7500
+#EXTGRP:Fransat
+#EXTINF:-1 tvg-id="TV5Monde.fr" tvg-logo="https://focus.telerama.fr/104x104/60/0000/00/01/clear-205.png" tvg-chno="56",TV5 Monde (FBSM)
+
+#EXTGRP:Fransat
+#EXTINF:-1 tvg-id="KTO.fr" tvg-logo="https://focus.telerama.fr/104x104/60/0000/00/01/clear-110.png" tvg-chno="61",KTO
+
+#EXTGRP:Fransat
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/ZgqnqnJ/cgtnfr.png" tvg-chno="87",CGTN (Français)
+
+#EXTGRP:Divers
+#EXTINF:-1 tvg-id="FashionTV.fr" tvg-logo="https://focus.telerama.fr/104x104/60/0000/00/01/clear- .png" tvg-chno=" ",Fashion TV
+rtp://233.136.0.84:7500
+#EXTGRP:Divers
+#EXTINF:-1 tvg-id="NHKWorldJapan.jp" tvg-logo=" " tvg-chno=" ",NHK World-Japan
+rtp://233.136.44.182:7500
+#EXTGRP:Divers
+#EXTINF:-1 tvg-id="RFMTV.fr" tvg-logo="https://focus.telerama.fr/104x104/60/0000/00/01/clear-241.png" tvg-chno=" ",RFM TV
+rtp://233.49.82.140:65000
+#EXTGRP:Divers
+#EXTINF:-1 tvg-id="Tiji.fr" tvg-logo="https://focus.telerama.fr/104x104/60/0000/00/01/clear-229.png" tvg-chno=" ",Tiji
+#EXTGRP:TNT_Régionale
+#EXTINF:-1 tvg-id="BFMParis.fr" tvg-logo="https://raw.githubusercontent.com/Sibprod/assets/main/Altice/ALTICE_BFM-Paris.png" tvg-chno="30",BFM Régions (Paris-IdF)
+rtp://233.60.197.64:7500
+#EXTGRP:TNT_Régionale
+#EXTINF:-1 tvg-id="BFMLyon.fr" tvg-logo="https://raw.githubusercontent.com/Sibprod/assets/main/Altice/ALTICE_BFM-Paris.png" tvg-chno="30",BFM Régions (Lyon-Métropole)
+rtp://233.136.0.83:7500
+#EXTGRP:TNT_Régionale
+#EXTINF:-1 tvg-id="BFMMarseille.fr" tvg-logo="https://raw.githubusercontent.com/Sibprod/assets/main/Altice/ALTICE_BFM-Marseille.png" tvg-chno="30",BFM Régions (Marseille-Provence)
+rtp://233.32.36.131:7500
+#EXTGRP:TNT_Régionale
+#EXTINF:-1 tvg-id="BFMVar.fr" tvg-logo="https://raw.githubusercontent.com/Sibprod/assets/main/Altice/ALTICE_BFM-Toulon.png" tvg-chno="30",BFM Régions (Toulon-Var)
+rtp://233.32.36.132:7500
+#EXTGRP:TNT_Régionale
+#EXTINF:-1 tvg-id="BFMGrandLille.fr" tvg-logo="https://raw.githubusercontent.com/Sibprod/assets/main/SECOM/SECOM_BFM-Grand-Lille.png" tvg-chno="31",BFM Régions (Grand Lille)
+rtp://233.49.82.119:7500
+#EXTGRP:TNT_Régionale
+#EXTINF:-1 tvg-id="BFMCotedAzur.fr" tvg-logo="https://raw.githubusercontent.com/Sibprod/assets/main/Altice/ALTICE_BFM-Nice.png" tvg-chno="31",BFM Régions (Nice-Côte d'Azur)
+rtp://233.32.36.46:7500
+#EXTGRP:TNT_Régionale
+#EXTINF:-1 tvg-id="BFMGrandLille.fr" tvg-logo="https://raw.githubusercontent.com/Sibprod/assets/main/SECOM/SECOM_BFM-Grand-Littoral.png" tvg-chno="32",BFM Régions (Grand Littoral)
+rtp://233.49.82.160:7500
+#EXTGRP:TNT_Régionale
+#EXTINF:-1 tvg-id="BFMNormandie.fr" tvg-logo="https://raw.githubusercontent.com/Sibprod/assets/main/Altice/ALTICE_BFM-Normandie.png" tvg-chno="33",BFM Régions (Normandie)
+https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_NORMANDIE/index.m3u8?start=LIVE&end=END
+#EXTGRP:TNT_Régionale
+#EXTINF:-1 tvg-id="France3CorseViaStella.fr" tvg-logo="https://focus.telerama.fr/104x104/60/0000/00/01/clear-308.png" tvg-chno="33",France 3 Corse - Via Stella
+rtp://233.49.82.128:7500
+#EXTGRP:TNT_Régionale
+#EXTINF:-1 tvg-id="Noa.fr" tvg-logo="http://www.callofliberty.fr/tv/217-france.3NoA/217-france.3NoA.png" tvg-chno="39",NoA
+rtp://233.32.36.24:7500
+#EXTGRP:Régionales
+#EXTINF:-1 tvg-id=" " tvg-logo=" " tvg-chno=" ",TV78
+rtp://233.136.44.169:7500
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
