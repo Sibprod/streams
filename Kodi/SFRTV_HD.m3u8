@@ -60,7 +60,7 @@ rtp://233.32.36.183:7500
 #EXTINF:-1 tvg-id="EuronewsFrench.fr" tvg-logo="https://focus.telerama.fr/104x104/60/0000/00/01/clear-140.png" tvg-chno="48",Euronews (Français)
 
 #EXTGRP:TNT_Nationale
-#EXTINF:-1 tvg-id="LuxeTV.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ae/LUXETV_LOGO_BLACK_MONOCHROME.png" tvg-chno="57",Luxe.TV
+#EXTINF:-1 tvg-id="LuxeTV.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ae/LUXETV_LOGO_BLACK_MONOCHROME.png" tvg-chno="183",Luxe.TV
 rtp://233.136.44.183:7500
 #EXTGRP:Fransat
 #EXTINF:-1 tvg-id="BFMBusiness.fr" tvg-logo="https://focus.telerama.fr/104x104/60/0000/00/01/clear-1073.png" tvg-chno="51",BFM Business
@@ -81,7 +81,7 @@ rtp://233.49.82.159:7500
 #EXTINF:-1 tvg-id="FashionTV.fr" tvg-logo="https://focus.telerama.fr/104x104/60/0000/00/01/clear- .png" tvg-chno="213",Fashion TV
 rtp://233.136.0.84:7500
 #EXTGRP:Divers
-#EXTINF:-1 tvg-id="NHKWorldJapan.jp" tvg-logo=" " tvg-chno=" ",NHK World-Japan
+#EXTINF:-1 tvg-id="NHKWorldJapan.jp" tvg-logo=" " tvg-chno="548",NHK World-Japan
 rtp://233.136.44.182:7500
 #EXTGRP:Divers
 #EXTINF:-1 tvg-id="RFMTV.fr" tvg-logo="https://focus.telerama.fr/104x104/60/0000/00/01/clear-241.png" tvg-chno="159",RFM TV
