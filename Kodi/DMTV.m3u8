@@ -90,7 +90,7 @@ plugin://plugin.video.dailymotion_com/?url=x8azdl4&mode=playLiveVideo
 #EXTINF:-1 tvg-id=" " tvg-logo="https://s1.dmcdn.net/u/9KMc21ZMjS4oRbiNI/120x120" tvg-chno=" ",EMCI (Europe)
 plugin://plugin.video.dailymotion_com/?url=x8azdk1&mode=playLiveVideo
 #EXTGRP:Divers
-#EXTINF:-1 tvg-id=" " tvg-logo="https://s1.dmcdn.net/u/1Q7eQ1bkI2XSyFEDc/120x120" tvg-chno="1059",Euronews (Italiano)
+#EXTINF:-1 tvg-id=" " tvg-logo="https://s1.dmcdn.net/u/1Q7eQ1bkI2XSyFEDc/120x120" tvg-chno="192",Euronews (Italiano)
 plugin://plugin.video.dailymotion_com/?url=x2j7h84&mode=playLiveVideo
 #EXTGRP:Divers
 #EXTINF:-1 tvg-id=" " tvg-logo="https://s1.dmcdn.net/u/9gT3A1aF_7vaVdNDc/120x120" tvg-chno="350",Le Média
