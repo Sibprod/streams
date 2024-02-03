@@ -9,7 +9,7 @@ rtp://233.49.82.70:7500
 #EXTINF:-1 tvg-id="France3.fr" tvg-logo="https://focus.telerama.fr/104x104/60/0000/00/01/clear-80.png" tvg-chno="3",France 3
 rtp://233.32.36.184:7500
 #EXTGRP:TNT_Nationale
-#EXTINF:-1 tvg-id="CanalPlus.fr" tvg-logo="https://focus.telerama.fr/104x104/60/0000/00/01/clear-34.png" tvg-chno="40",Canal+ (en clair)
+#EXTINF:-1 tvg-id="CanalPlus.fr" tvg-logo="https://focus.telerama.fr/104x104/60/0000/00/01/clear-34.png" tvg-chno="4",Canal+ (en clair)
 rtp://233.136.44.179:7500
 #EXTGRP:TNT_Nationale
 #EXTINF:-1 tvg-id="France5.fr" tvg-logo="https://focus.telerama.fr/104x104/60/0000/00/01/clear-47.png" tvg-chno="5",France 5
@@ -78,16 +78,17 @@ rtp://233.49.82.159:7500
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/ZgqnqnJ/cgtnfr.png" tvg-chno="87",CGTN (Français)
 
 #EXTGRP:Divers
-#EXTINF:-1 tvg-id="FashionTV.fr" tvg-logo="https://focus.telerama.fr/104x104/60/0000/00/01/clear- .png" tvg-chno=" ",Fashion TV
+#EXTINF:-1 tvg-id="FashionTV.fr" tvg-logo="https://focus.telerama.fr/104x104/60/0000/00/01/clear- .png" tvg-chno="213",Fashion TV
 rtp://233.136.0.84:7500
 #EXTGRP:Divers
 #EXTINF:-1 tvg-id="NHKWorldJapan.jp" tvg-logo=" " tvg-chno=" ",NHK World-Japan
 rtp://233.136.44.182:7500
 #EXTGRP:Divers
-#EXTINF:-1 tvg-id="RFMTV.fr" tvg-logo="https://focus.telerama.fr/104x104/60/0000/00/01/clear-241.png" tvg-chno=" ",RFM TV
+#EXTINF:-1 tvg-id="RFMTV.fr" tvg-logo="https://focus.telerama.fr/104x104/60/0000/00/01/clear-241.png" tvg-chno="159",RFM TV
 rtp://233.49.82.140:65000
 #EXTGRP:Divers
-#EXTINF:-1 tvg-id="Tiji.fr" tvg-logo="https://focus.telerama.fr/104x104/60/0000/00/01/clear-229.png" tvg-chno=" ",Tiji
+#EXTINF:-1 tvg-id="Tiji.fr" tvg-logo="https://focus.telerama.fr/104x104/60/0000/00/01/clear-229.png" tvg-chno="94",Tiji
+rtp://233.49.82.136:65000
 #EXTGRP:TNT_Régionale
 #EXTINF:-1 tvg-id="BFMParis.fr" tvg-logo="https://raw.githubusercontent.com/Sibprod/assets/main/Altice/ALTICE_BFM-Paris.png" tvg-chno="30",BFM Régions (Paris-IdF)
 rtp://233.60.197.64:7500
@@ -119,7 +120,7 @@ rtp://233.49.82.128:7500
 #EXTINF:-1 tvg-id="Noa.fr" tvg-logo="http://www.callofliberty.fr/tv/217-france.3NoA/217-france.3NoA.png" tvg-chno="39",NoA
 rtp://233.32.36.24:7500
 #EXTGRP:Régionales
-#EXTINF:-1 tvg-id=" " tvg-logo=" " tvg-chno=" ",TV78
+#EXTINF:-1 tvg-id=" " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/41/Logo_tv78_yvelines.jpg" tvg-chno="368",TV78
 rtp://233.136.44.169:7500
 
 
