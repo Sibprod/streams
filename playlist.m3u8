@@ -1,52 +1,56 @@
 #EXTM3U
-#EXTGRP:France
-#EXTINF:-1 tvg-id="M6International.fr" tvg-logo="https://i.ibb.co/6RYpdNz/m6int.png" group-title="France" tvg-chno="60",M6 International
-https://shls-m6-int-prod-dub.shahid.net/out/v1/a315ab77ee7343a7a17dbe7e32eee3ba/index.m3u8
-#EXTGRP:France
-#EXTINF:-1 tvg-id="TV5MondeEurope.fr" tvg-logo="https://focus.telerama.fr/104x104/60/0000/00/01/clear-205.png" tvg-chno="75",TV5 Monde (Europe)
-http://livetv.ktv.zone/61/play.m3u8
-#EXTGRP:France
-#EXTINF:-1 tvg-id="TV5MondeInfo.fr" tvg-logo=" " tvg-chno="142",TV5 Monde (Info)
-https://ott.tv5monde.com/Content/HLS/Live/channel(info)/variant.m3u8
-
-#EXTGRP:Belgique
+#EXTGRP:TNT_Nationale
 #EXTINF:-1 tvg-id="RTLTVI.be" tvg-logo="https://focus.telerama.fr/104x104/60/0000/00/01/clear-168.png" tvg-chno="3",RTL tvi
 https://raw.githubusercontent.com/Sibprod/streams/main/ressources/RTLbe/RTLtvi.m3u8
-#EXTGRP:Belgique
+#EXTGRP:TNT_Nationale
 #EXTINF:-1 tvg-id="ClubRTL.lu" tvg-logo="https://focus.telerama.fr/104x104/60/0000/00/01/clear-50.png" tvg-chno="4",RTL club
 https://raw.githubusercontent.com/Sibprod/streams/main/ressources/RTLbe/RTLclub.m3u8
-#EXTGRP:Belgique
+#EXTGRP:TNT_Nationale
 #EXTINF:-1 tvg-id="PlugRTL.lu" tvg-logo="https://focus.telerama.fr/104x104/60/0000/00/01/clear-377.png" tvg-chno="5",RTL plug
 https://raw.githubusercontent.com/Sibprod/streams/main/ressources/RTLbe/RTLplug.m3u8
-#EXTGRP:Belgique
-#EXTINF:-1 tvg-id="BX1.be" tvg-logo="https://i.imgur.com/0OkSa6c.png" tvg-chno="10",BX1
-https://59959724487e3.streamlock.net:443/stream/live/playlist.m3u8
-#EXTGRP:Belgique
-#EXTINF:-1 tvg-id="BelRTL.be" tvg-logo="https://experience-cache.proximustv.be/posterserver/poster/DEFAULT/w-250_h-162/r_0860_002.png" tvg-chno="403",bel RTL
-https://raw.githubusercontent.com/Sibprod/streams/main/ressources/RTLbe/BelRTL.m3u8
-#EXTGRP:Belgique
-#EXTINF:-1 tvg-id="Funvision.be" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ff/fun-vision-fr-be.png" tvg-chno="404",Fun Radio (Belgique)
-https://livevideo.infomaniak.com/streaming/livecast/funradiovisionhd/playlist.m3u8
-#EXTGRP:Belgique
-#EXTINF:-1 tvg-id="RadioContactVision.be" tvg-logo="https://experience-cache.proximustv.be/posterserver/poster/DEFAULT/w-250_h-162/t_2170_000.png" tvg-chno="405",Radio Contact (Belgique)
-https://raw.githubusercontent.com/Sibprod/streams/main/ressources/RTLbe/RadioContact.m3u8
-#EXTGRP:Belgique
-#EXTINF:-1 tvg-id="BX1Plus.be" tvg-logo="https://www.mediaspecs.be/wp-content/uploads/2019/09/logoradio-185x185.png" tvg-chno="410",BX1+
-https://59959724487e3.streamlock.net/radio/live/playlist.m3u8
+#EXTGRP:TNT_Nationale
+#EXTINF:-1 tvg-id="TV5MondeEurope.fr" tvg-logo="https://focus.telerama.fr/104x104/60/0000/00/01/clear-205.png" tvg-chno="75",TV5 Monde (Europe)
+http://livetv.ktv.zone/61/play.m3u8
 
-#EXTGRP:Luxembourg
-#EXTINF:-1 tvg-id=" " tvg-logo="https://www.lyngsat.com/logo/tv/cc/chambre_des_deputes.png" tvg-chno="84",Chamber TV
+#EXTGRP:Divers
+#EXTINF:-1 tvg-id="TVM3.ch" tvg-logo="https://i.imgur.com/zNJlFMg.png" tvg-chno="409",TVM 3
+https://livevideo.vedge.infomaniak.com/livecast/tvm3/playlist.m3u8
+#EXTGRP:Divers
+#EXTINF:-1 tvg-id="M6International.fr" tvg-logo="https://i.ibb.co/6RYpdNz/m6int.png" tvg-chno="454",M6 International
+https://shls-m6-int-prod-dub.shahid.net/out/v1/a315ab77ee7343a7a17dbe7e32eee3ba/index.m3u8
+#EXTGRP:Divers
+#EXTINF:-1 tvg-id="TV5MondeInfo.fr" tvg-logo="https://lesfrancais.press/wp-content/uploads/2021/12/tv5-monde-info-1200x844-1.png" tvg-chno="475",TV5 Monde (Info)
+https://ott.tv5monde.com/Content/HLS/Live/channel(info)/variant.m3u8
+#EXTGRP:Divers
+#EXTINF:-1 tvg-id=" " tvg-logo="https://www.lyngsat.com/logo/tv/cc/chambre_des_deputes.png" tvg-chno="484",Chamber TV
 https://media01.webtvlive.eu/chd-edge/_definst_/smil:chamber_tv_hd.smil/playlist.m3u8
 
+#EXTGRP:Régionales
+#EXTINF:-1 tvg-id="BX1.be" tvg-logo="https://i.imgur.com/0OkSa6c.png" tvg-chno="960",BX1
+https://59959724487e3.streamlock.net:443/stream/live/playlist.m3u8
+
+#EXTGRP:RNT
+#EXTINF:-1 tvg-id="BelRTL.be" tvg-logo="https://experience-cache.proximustv.be/posterserver/poster/DEFAULT/w-250_h-162/r_0860_002.png" tvg-chno="603",bel RTL
+https://raw.githubusercontent.com/Sibprod/streams/main/ressources/RTLbe/BelRTL.m3u8
+#EXTGRP:RNT
+#EXTINF:-1 tvg-id="Funvision.be" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ff/fun-vision-fr-be.png" tvg-chno="604",Fun Radio (Belgique)
+https://livevideo.infomaniak.com/streaming/livecast/funradiovisionhd/playlist.m3u8
+#EXTGRP:RNT
+#EXTINF:-1 tvg-id="RadioContactVision.be" tvg-logo="https://experience-cache.proximustv.be/posterserver/poster/DEFAULT/w-250_h-162/t_2170_000.png" tvg-chno="605",Radio Contact (Belgique)
+https://raw.githubusercontent.com/Sibprod/streams/main/ressources/RTLbe/RadioContact.m3u8
+#EXTGRP:RNT
+#EXTINF:-1 tvg-id="BX1Plus.be" tvg-logo="https://www.mediaspecs.be/wp-content/uploads/2019/09/logoradio-185x185.png" tvg-chno="610",BX1+
+https://59959724487e3.streamlock.net/radio/live/playlist.m3u8
+
+
+
 #EXTGRP:Suisse
-#EXTINF:-1 tvg-id="RTS1.ch" tvg-logo="https://focus.telerama.fr/104x104/60/0000/00/01/clear-202.png" tvg-chno="1",RTS 1
+#EXTINF:-1 tvg-id="RTS1.ch" tvg-logo="https://focus.telerama.fr/104x104/60/0000/00/01/clear-202.png" tvg-chno="81",RTS 1
 http://livetv.ktv.zone/1/play.m3u8
 #EXTGRP:Suisse
-#EXTINF:-1 tvg-id="RTS2.ch" tvg-logo="https://focus.telerama.fr/104x104/60/0000/00/01/clear-183.png" tvg-chno="2",RTS 2
+#EXTINF:-1 tvg-id="RTS2.ch" tvg-logo="https://focus.telerama.fr/104x104/60/0000/00/01/clear-183.png" tvg-chno="82",RTS 2
 http://livetv.ktv.zone/2/play.m3u8
-#EXTGRP:Suisse
-#EXTINF:-1 tvg-id="TVM3.ch" tvg-logo="https://i.imgur.com/zNJlFMg.png" tvg-chno="3",TVM 3
-https://livevideo.vedge.infomaniak.com/livecast/tvm3/playlist.m3u8
+
 #EXTGRP:Suisse
 #EXTINF:-1 tvg-id="Couleur3.ch" tvg-logo="https://i.imgur.com/VOIwYYd.png" tvg-chno="401",RTS Couleur 3
 https://rtsc3video.akamaized.net/hls/live/2042837/c3video/3/playlist.m3u8
@@ -96,16 +100,19 @@ https://production-fast-mcrtv.content.okast.tv/channels/2116dc08-1959-465d-857f-
 https://sy.wns.live/hls/stream.m3u8
 
 #EXTGRP:Québec
-#EXTINF:-1 tvg-id="CFBT.ca" tvg-logo="https://i.ibb.co/f18g74n/image.png" tvg-chno="2",Ici Radio-Canada Télé
+#EXTINF:-1 tvg-id="CFBT.ca" tvg-logo="https://i.ibb.co/f18g74n/image.png" tvg-chno="101",Ici Radio-Canada Télé
 https://rcavlive.akamaized.net/hls/live/696615/xcancbft/master_3000.m3u8
 #EXTGRP:Québec
-#EXTINF:-1 tvg-id="Telequebec.ca" tvg-logo="https://static.epg.best/ca/TeleQuebec.ca.png" tvg-chno="17",Tele-Québec
+#EXTINF:-1 tvg-id="Noovo.ca" tvg-logo="https://i.imgur.com/jhVjkQB.png" tvg-chno="102",Noovo
+https://pe-fa-lp03a.9c9media.com/live/NOOVO/p/hls/00000201/716cf4c845225692/manifest.m3u8
+#EXTGRP:Québec
+#EXTINF:-1 tvg-id="Telequebec.ca" tvg-logo="https://static.epg.best/ca/TeleQuebec.ca.png" tvg-chno="104",Tele-Québec
 https://bcovlive-a.akamaihd.net/575d86160eb143458d51f7ab187a4e68/us-east-1/6101674910001/playlist.m3u8
 #EXTGRP:Québec
-#EXTINF:-1 tvg-id="CanalSavoir.ca" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/ff/Savoir_tv_logo.png" tvg-chno="29",Savoir.Media
+#EXTINF:-1 tvg-id="CanalSavoir.ca" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/ff/Savoir_tv_logo.png" tvg-chno="147",Savoir.Media
 https://hls.savoir.media/live/stream.m3u8
 #EXTGRP:Québec
-#EXTINF:-1 tvg-id="Noovo.ca" tvg-logo="https://i.imgur.com/jhVjkQB.png" tvg-chno="35",Noovo
+#EXTINF:-1 tvg-id="Noovo.ca" tvg-logo="https://i.imgur.com/jhVjkQB.png" tvg-chno="102",Noovo
 https://pe-fa-lp03a.9c9media.com/live/NOOVO/p/hls/00000201/716cf4c845225692/manifest.m3u8
 #EXTGRP:Québec
 #EXTINF:-1 tvg-id="CFHDDT.ca" tvg-logo="https://i.imgur.com/x0vLIWr.png" tvg-chno="47",ICI (International Channel / La Chaîne Internationale)
