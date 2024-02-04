@@ -1,0 +1,28 @@
+#EXTM3U
+#EXTGRP:TNT_Régionale
+#EXTINF:-1 tvg-id="LMTVSarthe.fr" tvg-logo=" " tvg-chno="33",LMTV Sarthe
+plugin://plugin.video.twitch/?mode=play&channel_name=lmtv_sarthe
+#EXTGRP:TNT_Régionale
+#EXTINF:-1 tvg-id="ChiconiFMTV.yt" tvg-logo=" " tvg-chno="34",Chiconi FM TV
+plugin://plugin.video.twitch/?mode=play&channel_name=chiconifmtv976
+#EXTGRP:TNT_Régionale
+#EXTINF:-1 tvg-id="Telegrenoble.fr" tvg-logo=" " tvg-chno="38",Télégrenoble
+plugin://plugin.video.twitch/?mode=play&channel_name=telegrenoble
+#EXTGRP:DTT_Nazionale
+#EXTINF:-1 tvg-id="ArteInvestimenti.it" tvg-logo="https://www.arteinvestimenti.it/ai/wp-content/themes/frontend/immagini/logo-on.png" tvg-chno="133",Arte Investimenti
+plugin://plugin.video.twitch/?mode=play&channel_name=arteinvestimentitv
+#EXTGRP:DTT_Regionale
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="Campania" tvg-chno="114",Sud TV
+plugin://plugin.video.twitch/?mode=play&channel_name=sudtv114
+#EXTGRP:DTT_Regionale
+#EXTINF:-1 tvg-id="AntennaSicilia.it" tvg-logo=" " group-title="Sicilia" tvg-chno="10",Antenna Sicilia
+plugin://plugin.video.twitch/?mode=play&channel_name=antennasicilia
+#EXTGRP:Régionales
+#EXTINF:-1 tvg-id="ASTV.fr" tvg-logo=" " tvg-chno="33",ASTV
+plugin://plugin.video.twitch/?mode=play&channel_name=astvstream
+#EXTGRP:Divers
+#EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/743b0ac7-a5be-4bbc-bfe9-179341be5264-profile_image-70x70.png" tvg-chno=" ",MGG @ Twitch
+plugin://plugin.video.twitch/?mode=play&channel_name=mgg_fr
+#EXTGRP:Divers
+#EXTINF:-1 tvg-id=" " tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/2474f24d-3335-4e1f-a0c8-0b1def215826-profile_image-70x70.png" tvg-chno=" ",RMC Sport
+plugin://plugin.video.twitch/?mode=play&channel_name=rmcsport
