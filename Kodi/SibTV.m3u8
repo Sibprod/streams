@@ -114,7 +114,7 @@ https://video1.getstreamhosting.com:1936/8420/8420/playlist.m3u8
 #EXTGRP:[IT] Chaînes Nationales
 #EXTINF:-1 tvg-id="Rai1.it" tvg-logo="https://i.imgur.com/0H9sGp3.png" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64;x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 Edg/112.0.1722.34" tvg-chno="1001",RAI 1
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0
-http://ott-cdn.ucom.am/s29/index.m3u8
+https://raw.githubusercontent.com/Sibprod/streams/main/ressources/RAI1.m3u8
 #EXTGRP:[IT] Chaînes Nationales
 #EXTINF:-1 tvg-id="RAIMovie.it" tvg-logo="https://www.lyngsat-logo.com/logo/tv/rr/rai_movie.png" tvg-chno="1024",RAI Movie
 http://livetv.ktv.zone/157/play.m3u8
