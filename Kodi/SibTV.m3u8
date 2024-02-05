@@ -113,8 +113,7 @@ https://livevideo.vedge.infomaniak.com/livecast/africa24/manifest.m3u8
 https://video1.getstreamhosting.com:1936/8420/8420/playlist.m3u8
 #EXTGRP:[IT] Chaînes Nationales
 #EXTINF:-1 tvg-id="Rai1.it" tvg-logo="https://i.imgur.com/0H9sGp3.png" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64;x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 Edg/112.0.1722.34" tvg-chno="1001",RAI 1
-#KODIPROP:inputstream.adaptive.stream
-https://raw.githubusercontent.com/Sibprod/streams/main/ressources/RAI1.m3u8
+
 #EXTGRP:[IT] Chaînes Nationales
 #EXTINF:-1 tvg-id="RAIMovie.it" tvg-logo="https://www.lyngsat-logo.com/logo/tv/rr/rai_movie.png" tvg-chno="1024",RAI Movie
 http://livetv.ktv.zone/157/play.m3u8
@@ -141,8 +140,7 @@ http://livetv.ktv.zone/153/play.m3u8
 https://vimnitaly.akamaized.net/hls/live/2094034/super/master.m3u8
 #EXTGRP:[IT] Chaînes Nationales
 #EXTINF:-1 tvg-id="RaiNews24.it" tvg-logo="https://i.imgur.com/8juA51j.png" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64;x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 Edg/112.0.1722.34" tvg-chno="1048",RAI News 24
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0
-https://8e7439fdb1694c8da3a0fd63e4dda518.msvdn.net/rainews1/hls/playlist_mo.m3u8
+
 #EXTGRP:[IT] Chaînes Nationales
 #EXTINF:-1 tvg-id="SkyTG24.it" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sky-tg-24-it.png" tvg-chno="1050",Sky TG24
 https://ythls.armelin.one/channel/UCz6E3lF72mb6uoJ-mOlNo2A.m3u8
@@ -158,6 +156,50 @@ https://streaming.softwarecreation.it/GoldTvSat/GoldTvSat/playlist.m3u8
 #EXTGRP:[IT] Chaînes Nationales
 #EXTINF:-1 tvg-id="Sportitalia.it" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sportitalia-it.png" tvg-chno="1060",Sportitalia
 https://di-j16ei4yq.vo.lswcdn.net/sportitalia/smil:sihd.smil/playlist.m3u8
+#EXTGRP:[IT] Chaînes Nationales
+#EXTINF:-1 tvg-id="DonnaTV.it" tvg-logo="https://www.lyngsat-logo.com/logo/tv/dd/donna-tv-it.png" tvg-chno="1062",Donna TV
+https://streaming.softwarecreation.it/DonnaTv/DonnaTv/playlist.m3u8
+#EXTGRP:[IT] Chaînes Nationales
+#EXTINF:-1 tvg-id="AlmaTV.it" tvg-logo="https://www.lyngsat-stream.com/logo/tv/aa/alma-tv-it.png" tvg-chno="1065",Alma TV
+https://streaming.softwarecreation.it/AlmaTv/AlmaTv/playlist.m3u8
+#EXTGRP:[IT] Chaînes Nationales
+#EXTINF:-1 tvg-id="Bomchannel.it" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bom-channel-it.png" tvg-chno="1068",BOM Channel
+https://5f22d76e220e1.streamlock.net/BOMCHANNEL/BOMCHANNEL/playlist.m3u8
+#EXTGRP:[IT] Chaînes Nationales
+#EXTINF:-1 tvg-id="Canaleitalia.it" tvg-logo="https://www.lyngsat.com/logo/tv/cc/canale_italia_it.png" tvg-chno="1071",Canale Italia
+https://6e94aeeb1b42461d95f973ae34be5167.msvdn.net/ac115_live/canale1.smil/playlist.m3u8
+#EXTGRP:[IT] Chaînes Nationales
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat-stream.com/logo/tv/cc/camera_dei_deputati_it.png" tvg-chno="1089",Camera dei Deputati 
+https://video-ar.radioradicale.it/diretta/camera2/playlist.m3u8
+#EXTGRP:[IT] Chaînes Nationales
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat-stream.com/logo/tv/ss/senato_della_repubblica_it.png" tvg-chno="1090",Senato
+https://senato-live.morescreens.com/SENATO_1_001/playlist.m3u8
+#EXTGRP:[IT] Chaînes Nationales
+#EXTINF:-1 tvg-id="Italiachannel.it" tvg-logo="https://i.imgur.com/AVDkd2K.png" tvg-chno="1123",Italia Channel
+https://stream1.aswifi.it/italiachannel/stream/index.m3u8
+#EXTGRP:[IT] Chaînes Nationales
+#EXTINF:-1 tvg-id="GoldTV.it" tvg-logo="https://www.lyngsat-logo.com/logo/tv/gg/gold-tv-it.png" tvg-chno="1128",Gold TV
+https://streaming.softwarecreation.it/GoldTv/GoldTv/playlist.m3u8
+#EXTGRP:[IT] Chaînes Nationales
+#EXTINF:-1 tvg-id="" tvg-logo="https://cusanonews7.cusanoitaliatv.it/wp-content/uploads/2023/09/logo_news7_01.png" tvg-chno="1234",Cusano News 7
+https://stream9.xdevel.com/video1s975363-1596/stream/playlist.m3u8
+#EXTGRP:[IT] Chaînes Nationales
+#EXTINF:-1 tvg-id="BikeChannel.it" tvg-logo="https://i.imgur.com/wZh7aI8.png" tvg-chno="1259",Bike
+https://62becaa5a1e2f.streamlock.net/BIKE/BIKE/playlist.m3u8
+#EXTGRP:[IT] Chaînes Nationales
+#EXTINF:-1 tvg-id="BFC.it" tvg-logo="https://bfcvideo.com/wp-content/uploads/2018/12/Logo-BFC-Forbes-small-201812211216.png" tvg-chno="1260",BFC
+https://62becaa5a1e2f.streamlock.net/BFC/BFC/playlist.m3u8
+#EXTGRP:[IT] Chaînes Nationales
+#EXTINF:-1 tvg-id="Business24.it" tvg-logo="https://business24tv.it/wp-content/uploads/elementor/thumbs/logo_b24-pryfkrmu8wj7rt8w8cfpg1cst9dj9igi42gtg3c59y.png" tvg-chno="1410",Business 24 Italia
+https://premio.link/business24/smil:business24.smil/playlist.m3u8
+#EXTGRP:[IT] Chaînes Nationales
+#EXTINF:-1 tvg-id="CanaleEuropaTV.it" tvg-logo=" " user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 Edg/112.0.1722.34" tvg-chno="1416",Canale Europa TV
+#EXTVLCOPT:http-referrer=https://player.castr.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 Edg/112.0.1722.34
+https://stream.castr.com/604b6e10ad1e130d20dedd12/live_1b2633f0158b11eeb388a5854e7a8f3a/index.m3u8
+#EXTGRP:[IT] Chaînes Nationales
+#EXTINF:-1 tvg-id="DolomitiLifeTV.it" tvg-logo="https://www.dolomitilifetv.it/_next/image?url=%2Fimages%2Ficons%2FlogoIcon.png&w=32&q=75" tvg-chno="1441",Dolomiti Life TV
+https://stream.mariatvcdn.com/teledolomiti/a66b8b8ac2baee06f136e87b9805774d.sdp/chunks.m3u8
 #EXTGRP:Radiovision
 #EXTINF:-1 tvg-id="BelRTL.be" tvg-logo="https://experience-cache.proximustv.be/posterserver/poster/DEFAULT/w-250_h-162/r_0860_002.png" tvg-chno="1506",bel RTL
 https://raw.githubusercontent.com/Sibprod/streams/main/ressources/RTLbe/BelRTL.m3u8
