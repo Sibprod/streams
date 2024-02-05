@@ -111,6 +111,52 @@ https://livevideo.vedge.infomaniak.com/livecast/africa24/manifest.m3u8
 #EXTGRP:[FR] Chaînes Thématiques
 #EXTINF:-1 tvg-id="A12TV.fr" tvg-logo="https://i.imgur.com/JgnjgvF.png" tvg-chno="212",A12 TV
 https://video1.getstreamhosting.com:1936/8420/8420/playlist.m3u8
+#EXTGRP:[ES] Chaînes Nationales
+#EXTINF:-1 tvg-id="La1.es" tvg-logo="https://estaticos.tdt1.com/canales/logotve1.jpg" tvg-chno="901",La 1
+https://i.mjh.nz/SamsungTVPlus/ESBC4100001NZ.m3u8
+#EXTGRP:[ES] Chaînes Nationales
+#EXTINF:-1 tvg-id="La2.es" tvg-logo="https://estaticos.tdt1.com/canales/logotve2.jpg" tvg-chno="902",La 2
+https://i.mjh.nz/SamsungTVPlus/ESBC4100002AG.m3u8
+#EXTGRP:[ES] Chaînes Nationales
+#EXTINF:-1 tvg-id="Tdp.es" tvg-logo="https://estaticos.tdt1.com/canales/logoteledeporte.jpg" tvg-chno="903",Tdp
+https://i.mjh.nz/SamsungTVPlus/ESBC410000577.m3u8
+#EXTGRP:[ES] Chaînes Nationales
+#EXTINF:-1 tvg-id="Canal24horas.es" tvg-logo="https://estaticos.tdt1.com/canales/logotve24h.jpg" tvg-chno="904",24h
+https://i.mjh.nz/SamsungTVPlus/ESBC4100004J1.m3u8
+#EXTGRP:[ES] Chaînes Nationales
+#EXTINF:-1 tvg-id="Clan.es" tvg-logo="https://estaticos.tdt1.com/canales/logoclantve.jpg" tvg-chno="905",Clan
+https://i.mjh.nz/SamsungTVPlus/ESBC4100003WE.m3u8
+#EXTGRP:[ES] Chaînes Nationales
+#EXTINF:-1 tvg-id="TV3.cat" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/TV3CAT.svg/512px-TV3CAT.svg.png" tvg-chno="906",TV3 Catalunya
+https://directes-tv-int.ccma.cat/live-origin/tvi-hls/master.m3u8
+#EXTGRP:[ES] Chaînes Nationales
+#EXTINF:-1 tvg-id="324.cat" tvg-logo="https://i.imgur.com/SG7D0gt.png" tvg-chno="907",3/24
+https://directes-tv-int.ccma.cat/live-origin/canal324-hls/master.m3u8
+#EXTGRP:[ES] Chaînes Nationales
+#EXTINF:-1 tvg-id="SX3.cat" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/SX3_logo.svg/300px-SX3_logo.svg.png" tvg-chno="908",SX3
+https://directes-tv-int.ccma.cat/live-origin/super3-hls/master.m3u8
+#EXTGRP:[ES] Chaînes Nationales
+#EXTINF:-1 tvg-id="Bondia.cat" tvg-logo="https://i.imgur.com/90WOoro.png" tvg-chno="911",Bon Dia
+https://directes-tv-int.ccma.cat/live-origin/bondia-hls/master.m3u8
+#EXTGRP:[ES] Chaînes Nationales
+#EXTINF:-1 tvg-id="Telemadrid.es" tvg-logo="https://estaticos.tdt1.com/canales/logotelemadrid.jpg" tvg-chno="912",Telemadrid
+https://telemadrid-23.secure2.footprint.net/master.m3u8
+#EXTGRP:[ES] Chaînes Nationales
+#EXTINF:-1 tvg-id="LaOtra.es" tvg-logo="https://estaticos.tdt1.com/canales/logolaotra.jpg" tvg-chno="913",Telemadrid La Otra
+https://laotra-1-23.secure2.footprint.net/master.m3u8
+#EXTGRP:[ES] Chaînes Nationales
+#EXTINF:-1 tvg-id="CanalSur.es" tvg-logo="https://estaticos.tdt1.com/canales/logocanalsur.jpg" tvg-chno="914",Canal Sur 
+https://cdnlive.codev8.net/rtvalive/smil:channel1.smil/playlist.m3u8
+#EXTGRP:[ES] Chaînes Nationales
+#EXTINF:-1 tvg-id="CanalSur2.es" tvg-logo="https://estaticos.tdt1.com/canales/logocanalsur2.jpg" tvg-chno="915",Canal Sur 2
+https://cdnlive.codev8.net/rtvalive/smil:channel22.smil/playlist.m3u8
+#EXTGRP:[ES] Chaînes Nationales
+#EXTINF:-1 tvg-id="Apunt.es" tvg-logo="https://graph.facebook.com/apuntmedia/picture?width=200&height=200" tvg-chno="916",À Punt
+https://bcovlive-a.akamaihd.net/469e448f034b4d46afa4bcac53297d60/eu-central-1/6057955885001/playlist_dvr.m3u8
+
+
+
+
 #EXTINF:-1 tvg-id="Rai1.it" tvg-logo="https://i.imgur.com/0H9sGp3.png" tvg-chno="1001",RAI 1
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
@@ -129,6 +175,9 @@ http://livetv.ktv.zone/132/play.m3u8
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://d3749synfikwkv.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-74ylxpgd78bpb/Live.m3u8
 #EXTGRP:[IT] Chaînes Nationales
+#EXTINF:-1 tvg-id="Nove.it" tvg-logo="https://www.lyngsat.com/logo/tv/nn/nove_tv_it.png" tvg-chno="1009",Nove
+https://amg16146-wbdi-amg16146c1-samsung-it-1831.playouts.now.amagi.tv/playlist/amg16146-warnerbrosdiscoveryitalia-nove-samsungit/playlist.m3u8??ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D&ads.ssai=SSSLIVE
+#EXTGRP:[IT] Chaînes Nationales
 #EXTINF:-1 tvg-id="RAIMovie.it" tvg-logo="https://www.lyngsat-logo.com/logo/tv/rr/rai_movie.png" tvg-chno="1024",RAI Movie
 http://livetv.ktv.zone/157/play.m3u8
 #EXTGRP:[IT] Chaînes Nationales
@@ -141,8 +190,23 @@ https://hls-live-tv2000.akamaized.net/hls/live/2028510/tv2000/master.m3u8
 #EXTINF:-1 tvg-id="La7d.it" tvg-logo="https://static.epg.best/it/La7D.it.png" tvg-chno="1029",La 7d
 https://d15umi5iaezxgx.cloudfront.net/LA7D/CLN/HLS-B/Live.m3u8
 #EXTGRP:[IT] Chaînes Nationales
+#EXTINF:-1 tvg-id="Realtime.it" tvg-logo="https://www.lyngsat.com/logo/tv/rr/real_time_it.png" tvg-chno="1031",Real Time
+https://amg16146-wbdi-amg16146c2-samsung-it-1835.playouts.now.amagi.tv/playlist/amg16146-warnerbrosdiscoveryitalia-realtime-samsungit/playlist.m3u8
+#EXTGRP:[IT] Chaînes Nationales
 #EXTINF:-1 tvg-id="QVC.it" tvg-logo="https://static.epg.best/it/QVC.it.png" tvg-chno="1032",QVC Italia 
 https://qrg.akamaized.net/hls/live/2017383/lsqvc1it/720p/720p.m3u8
+#EXTGRP:[IT] Chaînes Nationales
+#EXTINF:-1 tvg-id="FoodNetwork.it" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Food_Network_New_Logo.png/512px-Food_Network_New_Logo.png" tvg-chno="1033",Food Network (Italia)
+https://amg16146-wbdi-amg16146c3-samsung-it-1836.playouts.now.amagi.tv/playlist/amg16146-warnerbrosdiscoveryitalia-foodnetwork-samsungit/playlist.m3u8
+#EXTGRP:[IT] Chaînes Nationales
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/Tundrak/IPTV-Italia/8a74a7e14557a57e3317867a549af34aac4dd3b0/logos/warnertv.png" tvg-chno="1037",Warner TV (Italia)
+https://amg16146-wbdi-amg16146c4-samsung-it-1837.playouts.now.amagi.tv/playlist/amg16146-warnerbrosdiscoveryitalia-warnertv-samsungit/playlist.m3u8
+#EXTGRP:[IT] Chaînes Nationales
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/gg/giallo_it.png" tvg-chno="1038",Giallo
+https://amg16146-wbdi-amg16146c5-samsung-it-1838.playouts.now.amagi.tv/playlist/amg16146-warnerbrosdiscoveryitalia-giallo-samsungit/playlist.m3u8
+#EXTGRP:[IT] Chaînes Nationales
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/Tundrak/IPTV-Italia/8a74a7e14557a57e3317867a549af34aac4dd3b0/logos/k2.png" tvg-chno="1041",K2 (Italia)
+https://amg16146-wbdi-amg16146c6-samsung-it-1839.playouts.now.amagi.tv/playlist/amg16146-warnerbrosdiscoveryitalia-k2-samsungit/playlist.m3u8
 #EXTGRP:[IT] Chaînes Nationales
 #EXTINF:-1 tvg-id="RAIGulp.it" tvg-logo="https://www.lyngsat-logo.com/logo/tv/rr/rai_gulp.png" tvg-chno="1042",RAI Gulp
 http://livetv.ktv.zone/156/play.m3u8
@@ -150,14 +214,20 @@ http://livetv.ktv.zone/156/play.m3u8
 #EXTINF:-1 tvg-id="RAIYoyo.it" tvg-logo="https://www.lyngsat-logo.com/logo/tv/rr/rai_yoyo.png" tvg-chno="1043",RAI YoYo
 http://livetv.ktv.zone/153/play.m3u8
 #EXTGRP:[IT] Chaînes Nationales
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/Tundrak/IPTV-Italia/8a74a7e14557a57e3317867a549af34aac4dd3b0/logos/frisbee.png" tvg-chno="1044",Frisbee
+https://amg16146-wbdi-amg16146c7-samsung-it-1840.playouts.now.amagi.tv/playlist/amg16146-warnerbrosdiscoveryitalia-frisbee-samsungit/playlist.m3u8
+#EXTGRP:[IT] Chaînes Nationales
 #EXTINF:-1 tvg-id="Super.it" tvg-logo="https://www.lyngsat-stream.com/logo/tv/ss/super-it.png" tvg-chno="1047",Super !
 https://vimnitaly.akamaized.net/hls/live/2094034/super/master.m3u8
 #EXTGRP:[IT] Chaînes Nationales
-#EXTINF:-1 tvg-id="RaiNews24.it" tvg-logo="https://i.imgur.com/8juA51j.png" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64;x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 Edg/112.0.1722.34" tvg-chno="1048",RAI News 24
+#EXTINF:-1 tvg-id="RaiNews24.it" tvg-logo="https://i.imgur.com/8juA51j.png" tvg-chno="1048",RAI News 24
 http://livetv.ktv.zone/133/play.m3u8
 #EXTGRP:[IT] Chaînes Nationales
 #EXTINF:-1 tvg-id="SkyTG24.it" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sky-tg-24-it.png" tvg-chno="1050",Sky TG24
 https://ythls.armelin.one/channel/UCz6E3lF72mb6uoJ-mOlNo2A.m3u8
+#EXTGRP:[IT] Chaînes Nationales
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/dd/dmax_it.png" tvg-chno="1052",DMax (Italia)
+https://amg16146-wbdi-amg16146c8-samsung-it-1841.playouts.now.amagi.tv/playlist/amg16146-warnerbrosdiscoveryitalia-dmax-samsungit/playlist.m3u8
 #EXTGRP:[IT] Chaînes Nationales
 #EXTINF:-1 tvg-id=" " tvg-logo="https://canaleitalia.it/wp-content/uploads/2022/06/logo-canale-italia-streaming.png" tvg-chno="1053",Casa Italia 53
 https://6e94aeeb1b42461d95f973ae34be5167.msvdn.net/ac115_live/canale3.smil/playlist.m3u8
@@ -167,6 +237,12 @@ http://livetv.ktv.zone/155/play.m3u8
 #EXTGRP:[IT] Chaînes Nationales
 #EXTINF:-1 tvg-id="GoldTVSat.it" tvg-logo=" " tvg-chno="1055",Gold TV Sat 
 https://streaming.softwarecreation.it/GoldTvSat/GoldTvSat/playlist.m3u8
+#EXTGRP:[IT] Chaînes Nationales
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/Tundrak/IPTV-Italia/8a74a7e14557a57e3317867a549af34aac4dd3b0/logos/homegardentv.png" tvg-chno="1056",HGTV (Italia)
+https://amg16146-wbdi-amg16146c9-samsung-it-1842.playouts.now.amagi.tv/playlist/amg16146-warnerbrosdiscoveryitalia-hgtv-samsungit/playlist.m3u8
+#EXTGRP:[IT] Chaînes Nationales
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Motor_Trend_logo.svg/512px-Motor_Trend_logo.svg.png" tvg-chno="1059",Motor Trend (Italia)
+https://amg16146-wbdi-amg16146c10-samsung-it-1843.playouts.now.amagi.tv/playlist/amg16146-warnerbrosdiscoveryitalia-motortrend-samsungit/playlist.m3u8
 #EXTGRP:[IT] Chaînes Nationales
 #EXTINF:-1 tvg-id="Sportitalia.it" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sportitalia-it.png" tvg-chno="1060",Sportitalia
 https://di-j16ei4yq.vo.lswcdn.net/sportitalia/smil:sihd.smil/playlist.m3u8
@@ -183,11 +259,20 @@ https://5f22d76e220e1.streamlock.net/BOMCHANNEL/BOMCHANNEL/playlist.m3u8
 #EXTINF:-1 tvg-id="Canaleitalia.it" tvg-logo="https://www.lyngsat.com/logo/tv/cc/canale_italia_it.png" tvg-chno="1071",Canale Italia
 https://6e94aeeb1b42461d95f973ae34be5167.msvdn.net/ac115_live/canale1.smil/playlist.m3u8
 #EXTGRP:[IT] Chaînes Nationales
+#EXTINF:-1 tvg-id="SanMarinoRTV.sm" tvg-logo="https://i.imgur.com/lJpOlLv.png" tvg-chno="1073",RTV San Marino 
+https://d2hrvno5bw6tg2.cloudfront.net/smrtv-ch01/_definst_/smil:ch-01.smil/chunklist_b1692000_slita.m3u8
+#EXTGRP:[IT] Chaînes Nationales
+#EXTINF:-1 tvg-id="SuperSix.it" tvg-logo="https://i.imgur.com/kHSuyub.png" tvg-chno="1086",Super Six
+https://5db313b643fd8.streamlock.net/SUPERSIXLombardia/SUPERSIXLombardia/playlist.m3u8
+#EXTGRP:[IT] Chaînes Nationales
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat-stream.com/logo/tv/cc/camera_dei_deputati_it.png" tvg-chno="1089",Camera dei Deputati 
 https://video-ar.radioradicale.it/diretta/camera2/playlist.m3u8
 #EXTGRP:[IT] Chaînes Nationales
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat-stream.com/logo/tv/ss/senato_della_repubblica_it.png" tvg-chno="1090",Senato
 https://senato-live.morescreens.com/SENATO_1_001/playlist.m3u8
+#EXTGRP:[IT] Chaînes Nationales
+#EXTINF:-1 tvg-id="RTVSanMarinoSport.sm" tvg-logo="https://i.imgur.com/PGm944g.png" tvg-chno="1093",RTV San Marino Sport
+https://d2hrvno5bw6tg2.cloudfront.net/smrtv-ch02/smil:ch-02.smil/master.m3u8
 #EXTGRP:[IT] Chaînes Nationales
 #EXTINF:-1 tvg-id="Italiachannel.it" tvg-logo="https://i.imgur.com/AVDkd2K.png" tvg-chno="1123",Italia Channel
 https://stream1.aswifi.it/italiachannel/stream/index.m3u8
@@ -203,6 +288,12 @@ https://62becaa5a1e2f.streamlock.net/BIKE/BIKE/playlist.m3u8
 #EXTGRP:[IT] Chaînes Nationales
 #EXTINF:-1 tvg-id="BFC.it" tvg-logo="https://bfcvideo.com/wp-content/uploads/2018/12/Logo-BFC-Forbes-small-201812211216.png" tvg-chno="1260",BFC
 https://62becaa5a1e2f.streamlock.net/BFC/BFC/playlist.m3u8
+#EXTGRP:[IT] Chaînes Nationales
+#EXTINF:-1 tvg-id="RSI1.ch" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/RSI_La_1_2012.svg/1200px-RSI_La_1_2012.svg.png" tvg-chno="1301",RSI La 1
+http://livetv.ktv.zone/129/play.m3u8
+#EXTGRP:[IT] Chaînes Nationales
+#EXTINF:-1 tvg-id="RSI2.ch" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/RSI_La_2_2012.svg/1200px-RSI_La_2_2012.svg.png" tvg-chno="1302",RSI La 2
+http://livetv.ktv.zone/137/play.m3u8
 #EXTGRP:[IT] Chaînes Nationales
 #EXTINF:-1 tvg-id="Business24.it" tvg-logo="https://business24tv.it/wp-content/uploads/elementor/thumbs/logo_b24-pryfkrmu8wj7rt8w8cfpg1cst9dj9igi42gtg3c59y.png" tvg-chno="1410",Business 24 Italia
 https://premio.link/business24/smil:business24.smil/playlist.m3u8
@@ -268,3 +359,6 @@ https://56b50ada2d659.streamlock.net/RN1TV/livestream/playlist.m3u8
 #EXTGRP:Radiovision
 #EXTINF:-1 tvg-id="Couleur3.ch" tvg-logo="https://i.imgur.com/VOIwYYd.png" tvg-chno="1856",RTS Couleur 3
 https://rtsc3video.akamaized.net/hls/live/2042837/c3video/3/playlist.m3u8
+#EXTGRP:Radiovision
+#EXTINF:-1 tvg-id="RadioTvSerieA.it" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/radiotvseriea.png" tvg-chno="1899",Serie A con RDS TV
+https://stream.radioseriea.com/50773f0d0070476a8612d9984c6059d8/index.m3u8
