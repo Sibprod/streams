@@ -120,10 +120,10 @@ http://ott-cdn.ucom.am/s29/index.m3u8
 http://livetv.ktv.zone/130/play.m3u8
 #EXTGRP:[IT] Chaînes Nationales
 #EXTINF:-1 tvg-id="Rai2.it" tvg-logo=" " tvg-chno="1002",RAI 2
-http://livetv.ktv.zone/130/play.m3u8
+http://livetv.ktv.zone/131/play.m3u8
 #EXTGRP:[IT] Chaînes Nationales
 #EXTINF:-1 tvg-id="Rai3.it" tvg-logo=" " tvg-chno="1003",RAI 3
-http://livetv.ktv.zone/130/play.m3u8
+http://livetv.ktv.zone/132/play.m3u8
 #EXTINF:-1 tvg-id="La7.it" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ll/la_7.png" tvg-chno="1007",La 7
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
