@@ -69,10 +69,12 @@ https://ztnr.rtve.es/ztnr/6782425.m3u8
 https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge3/smil:1_HD.smil/manifest.m3u8
 #EXTINF:-1 tvg-id="La2.es" tvg-logo="https://estaticos.tdt1.com/canales/logotve2.jpg" group-title="Másmedia" tvg-chno="2",La 2
 https://spa-ha-p003.cdn.masmediatv.es/SVoriginOperatorEdge/smil:2_HD.smil/manifest.m3u8
-#EXTINF:-1 tvg-id="Telemadrid.es" tvg-logo="https://estaticos.tdt1.com/canales/logolaotra.jpg" group-title="Másmedia" tvg-chno="3",La Otra (Telemadrid)
+#EXTINF:-1 tvg-id="Telemadrid.es" tvg-logo="https://estaticos.tdt1.com/canales/logolaotra.jpg" group-title="Másmedia" tvg-chno="3",La Otra
 https://spa-ha-p003.cdn.masmediatv.es/SVoriginOperatorEdge/smil:3_HD.smil/manifest.m3u8
 #EXTINF:-1 tvg-id="Tdp.es" tvg-logo="https://estaticos.tdt1.com/canales/logoteledeporte.jpg" group-title="Másmedia" tvg-chno="4",Teledeporte
 https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge/smil:4_HD.smil/manifest.m3u8
+#EXTINF:-1 tvg-id="GolPlay.es" tvg-logo="https://estaticos.tdt1.com/canales/logogolplay.jpg" group-title="Másmedia" tvg-chno="5",Gol Play
+https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge/smil:5_HD.smil/manifest.m3u8
 #EXTINF:-1 tvg-id="Clan.es" tvg-logo="https://www.tvguia.es/sites/default/files/logo/clan.png" group-title="Másmedia" tvg-chno="6",Clan
 https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge/smil:6_HD.smil/manifest.m3u8
 #EXTINF:-1 tvg-id="Antena3.es" tvg-logo="https://estaticos.tdt1.com/canales/logoantena3.jpg" group-title="Másmedia" tvg-chno="7",Antena 3 (SD)
