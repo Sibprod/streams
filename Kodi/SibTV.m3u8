@@ -103,7 +103,7 @@ https://livevideo.vedge.infomaniak.com/livecast/tvm3/playlist.m3u8
 https://live-ln24.digiteka.com/1911668011/playlist.m3u8
 #EXTGRP:[FR] Chaînes Thématiques
 #EXTINF:-1 tvg-id="MCMTop.fr" tvg-logo="https://i.imgur.com/EVtWQLd.png" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64;x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 Edg/112.0.1722.34" tvg-chno="158",MCM Top
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0
 http://ott-cdn.ucom.am/s49/index.m3u8
 #EXTGRP:[FR] Chaînes Thématiques
 #EXTINF:-1 tvg-id="Africa24.fr" tvg-logo="https://i.imgur.com/YWIJdai.png" tvg-chno="170",Africa 24
@@ -113,7 +113,7 @@ https://livevideo.vedge.infomaniak.com/livecast/africa24/manifest.m3u8
 https://video1.getstreamhosting.com:1936/8420/8420/playlist.m3u8
 #EXTGRP:[IT] Chaînes Nationales
 #EXTINF:-1 tvg-id="Rai1.it" tvg-logo="https://i.imgur.com/0H9sGp3.png" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64;x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 Edg/112.0.1722.34" tvg-chno="1001",RAI 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0
 http://ott-cdn.ucom.am/s29/index.m3u8
 #EXTGRP:[IT] Chaînes Nationales
 #EXTINF:-1 tvg-id="RAIMovie.it" tvg-logo="https://www.lyngsat-logo.com/logo/tv/rr/rai_movie.png" tvg-chno="1024",RAI Movie
@@ -141,7 +141,7 @@ http://livetv.ktv.zone/153/play.m3u8
 https://vimnitaly.akamaized.net/hls/live/2094034/super/master.m3u8
 #EXTGRP:[IT] Chaînes Nationales
 #EXTINF:-1 tvg-id="RaiNews24.it" tvg-logo="https://i.imgur.com/8juA51j.png" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64;x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 Edg/112.0.1722.34" tvg-chno="1048",RAI News 24
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0
 https://8e7439fdb1694c8da3a0fd63e4dda518.msvdn.net/rainews1/hls/playlist_mo.m3u8
 #EXTGRP:[IT] Chaînes Nationales
 #EXTINF:-1 tvg-id="SkyTG24.it" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sky-tg-24-it.png" tvg-chno="1050",Sky TG24
