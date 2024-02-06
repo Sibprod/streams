@@ -1,0 +1,140 @@
+#EXTM3U
+#EXTGRP:Chaînes Nationales
+#EXTINF:-1 tvg-id="France2.fr" tvg-logo="https://focus.telerama.fr/104x104/60/0000/00/01/clear-4.png" tvg-chno="2",France 2
+https://raw.githubusercontent.com/Sibprod/streams/main/ressources/ftv/py/France2.m3u8
+#EXTGRP:Chaînes Nationales
+#EXTINF:-1 tvg-id="France3.fr" tvg-logo="https://focus.telerama.fr/104x104/60/0000/00/01/clear-80.png" tvg-chno="3",France 3
+https://raw.githubusercontent.com/Sibprod/streams/main/ressources/ftv/py/France3.m3u8
+#EXTGRP:Chaînes Nationales
+#EXTINF:-1 tvg-id="France4.fr" tvg-logo="https://focus.telerama.fr/104x104/60/0000/00/01/clear-78.png" tvg-chno="4",France 4
+https://raw.githubusercontent.com/Sibprod/streams/main/ressources/ftv/py/France4.m3u8
+#EXTGRP:Chaînes Nationales
+#EXTINF:-1 tvg-id="France5.fr" tvg-logo="https://focus.telerama.fr/104x104/60/0000/00/01/clear-47.png" tvg-chno="5",France 5
+https://raw.githubusercontent.com/Sibprod/streams/main/ressources/ftv/py/France5.m3u8
+#EXTGRP:Chaînes Nationales
+#EXTINF:-1 tvg-id="FranceTVSeries.fr" tvg-logo="https://www.planetecsat.com/wp-content/uploads/2023/11/France-TV-Series-980x552.png" tvg-chno="19",France TV Séries
+https://raw.githubusercontent.com/Sibprod/streams/main/ressources/ftv/py/FranceTVSeries.m3u8
+#EXTGRP:Chaînes Nationales
+#EXTINF:-1 tvg-id="Franceinfo.fr" tvg-logo="https://focus.telerama.fr/104x104/60/0000/00/01/clear-2111.png" tvg-chno="827",Franceinfo (TV)
+https://raw.githubusercontent.com/Sibprod/streams/main/ressources/ftv/py/FranceInfo.m3u8
+#EXTGRP:Chaînes Nationales
+
+#EXTGRP:Chaînes Nationales
+#EXTINF:-1 tvg-id="TV5MondeEurope.fr" tvg-logo="https://focus.telerama.fr/104x104/60/0000/00/01/clear-205.png" tvg-chno="75",TV5 Monde (Europe)
+http://livetv.ktv.zone/61/play.m3u8
+#EXTGRP:Chaînes Nationales
+#EXTINF:-1 tvg-id="ARTE.fr" tvg-logo="https://focus.telerama.fr/104x104/60/0000/00/01/clear-111.png" tvg-chno="7",ARTE
+https://artesimulcast.akamaized.net/hls/live/2031003/artelive_fr/index.m3u8
+#EXTGRP:Chaînes Nationales
+#EXTINF:-1 tvg-id="" tvg-logo="https://s1.dmcdn.net/u/11mWs1bO7A-_EdSCu/120x120" tvg-chno="13",Public Sénat
+https://raw.githubusercontent.com/Sibprod/streams/main/ressources/dmotion/py/Assemblees/PublicSenat.m3u8
+#EXTGRP:Chaînes Nationales
+#EXTINF:-1 tvg-id="France24.fr" tvg-logo="https://focus.telerama.fr/104x104/60/0000/00/01/clear-529.png" tvg-chno="33",France 24 (Français)
+https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge2/smil:107_HD.smil/manifest.m3u8
+#EXTGRP:Chaînes Nationales
+#EXTINF:-1 tvg-id="RTS1.ch" tvg-logo="https://focus.telerama.fr/104x104/60/0000/00/01/clear-202.png" tvg-chno="81",RTS 1
+http://livetv.ktv.zone/1/play.m3u8
+#EXTGRP:Chaînes Nationales
+#EXTINF:-1 tvg-id="RTS2.ch" tvg-logo="https://focus.telerama.fr/104x104/60/0000/00/01/clear-183.png" tvg-chno="82",RTS 2
+http://livetv.ktv.zone/2/play.m3u8
+#EXTGRP:Chaînes Nationales
+#EXTINF:-1 tvg-id="TVMonaco.mc" tvg-logo="https://uploads-ssl.webflow.com/64ef486c2dea3ecce41aa815/64ef4d4df9dc3aad9060ed45_Logo_Rouge_blanc0-p-500.png" tvg-chno="71",TV Monaco
+https://production-fast-mcrtv.content.okast.tv/channels/2116dc08-1959-465d-857f-3619daefb66b/b702b2b9-aebd-436c-be69-2118f56f3d86/2025/media.m3u8
+#EXTGRP:Chaînes Nationales
+#EXTINF:-1 tvg-id="CFBT.ca" tvg-logo="https://i.ibb.co/f18g74n/image.png" tvg-chno="101",Ici Radio-Canada Télé
+https://rcavlive.akamaized.net/hls/live/696615/xcancbft/master_3000.m3u8
+#EXTGRP:Chaînes Nationales
+#EXTINF:-1 tvg-id="RDINews.ca" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ii/ici-rdi-ca.png" tvg-chno="117",ICI RDI
+https://rcavlive.akamaized.net/hls/live/704025/xcanrdi/master.m3u8
+#EXTGRP:Chaînes Nationales
+#EXTINF:-1 tvg-id="Telequebec.ca" tvg-logo="https://static.epg.best/ca/TeleQuebec.ca.png" tvg-chno="104",Tele-Québec
+https://bcovlive-a.akamaihd.net/575d86160eb143458d51f7ab187a4e68/us-east-1/6101674910001/playlist.m3u8
+#EXTGRP:Chaînes Nationales
+#EXTINF:-1 tvg-id="CanalSavoir.ca" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/ff/Savoir_tv_logo.png" tvg-chno="105",Savoir.Media
+https://hls.savoir.media/live/stream.m3u8
+#EXTGRP:Chaînes Nationales
+#EXTINF:-1 tvg-id="CNews.fr" tvg-logo="https://focus.telerama.fr/104x104/60/0000/00/01/clear-226.png" tvg-chno="8",C8
+https://raw.githubusercontent.com/Sibprod/streams/main/ressources/dmotion/py/Canal/C8.m3u8
+#EXTGRP:Chaînes Nationales
+#EXTINF:-1 tvg-id="CNews.fr" tvg-logo="https://focus.telerama.fr/104x104/60/0000/00/01/clear-226.png" tvg-chno="16",CNews
+https://raw.githubusercontent.com/Sibprod/streams/main/ressources/dmotion/py/Canal/CNews.m3u8
+#EXTGRP:Chaînes Nationales
+#EXTINF:-1 tvg-id="CStar.fr" tvg-logo="https://focus.telerama.fr/104x104/60/0000/00/01/clear-458.png" tvg-chno="17",CStar
+https://raw.githubusercontent.com/Sibprod/streams/main/ressources/dmotion/py/Canal/CStar.m3u8
+#EXTGRP:Chaînes Nationales
+#EXTINF:-1 tvg-id=" " tvg-logo=" " tvg-chno=" ",M Le Média
+https://raw.githubusercontent.com/Sibprod/streams/main/ressources/dmotion/py/Canal/MleMedia.m3u8
+#EXTGRP:Chaînes Nationales
+#EXTINF:-1 tvg-id="Gulli.fr" tvg-logo="https://focus.telerama.fr/104x104/60/0000/00/01/clear-482.png" tvg-chno="18",Gulli
+https://origin2-6play.live.6cloud.fr/pool_rnpls9by/gulli/sixplaysd/hls_short_q2hyb21h_gulli/index.m3u8
+#EXTGRP:Chaînes Nationales
+#EXTINF:-1 tvg-id="ParisPremiere.fr" tvg-logo="https://focus.telerama.fr/104x104/60/0000/00/01/clear-145.png" tvg-chno="41",Paris Première
+https://raw.githubusercontent.com/Sibprod/streams/main/ressources/RTLfr/ParisPremiere.m3u8
+#EXTGRP:Chaînes Nationales
+#EXTINF:-1 tvg-id="Teva.fr" tvg-logo="https://focus.telerama.fr/104x104/60/0000/00/01/clear-191.png" tvg-chno="59",Téva
+https://raw.githubusercontent.com/Sibprod/streams/main/ressources/RTLfr/Teva.m3u8
+#EXTGRP:Chaînes Nationales
+#EXTINF:-1 tvg-id="M6International.fr" tvg-logo="https://i.ibb.co/6RYpdNz/m6int.png" tvg-chno="96",M6 International
+https://shls-m6-int-prod-dub.shahid.net/out/v1/a315ab77ee7343a7a17dbe7e32eee3ba/index.m3u8
+#EXTGRP:Chaînes Nationales
+#EXTINF:-1 tvg-id="RTLTVI.be" tvg-logo="https://focus.telerama.fr/104x104/60/0000/00/01/clear-168.png" tvg-chno="91",RTL tvi
+https://raw.githubusercontent.com/Sibprod/streams/main/ressources/RTLbe/RTLtvi.m3u8
+#EXTGRP:Chaînes Nationales
+#EXTINF:-1 tvg-id="ClubRTL.lu" tvg-logo="https://focus.telerama.fr/104x104/60/0000/00/01/clear-50.png" tvg-chno="92",RTL club
+https://raw.githubusercontent.com/Sibprod/streams/main/ressources/RTLbe/RTLclub.m3u8
+#EXTGRP:Chaînes Nationales
+#EXTINF:-1 tvg-id="PlugRTL.lu" tvg-logo="https://focus.telerama.fr/104x104/60/0000/00/01/clear-377.png" tvg-chno="93",RTL plug
+https://raw.githubusercontent.com/Sibprod/streams/main/ressources/RTLbe/RTLplug.m3u8
+#EXTGRP:Chaînes Nationales
+#EXTINF:-1 tvg-id="BFMTV.fr" tvg-logo="https://focus.telerama.fr/104x104/60/0000/00/01/clear-481.png" group-title="France" tvg-chno="15",BFM TV
+https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_TV/index.m3u8?start=LIVE&end=END
+#EXTGRP:Chaînes Nationales
+
+#EXTGRP:Chaînes Nationales
+#EXTINF:-1 tvg-id="RougeTV.ch" tvg-logo="https://services.sg101.prd.sctv.ch/content/images/tv/channel/355_image_7_w90.webp" tvg-chno="84",Carac 1
+https://livevideo.vedge.infomaniak.com/livecast/rougetv/master.m3u8
+#EXTGRP:Chaînes Nationales
+#EXTINF:-1 tvg-id="OneTV.ch" tvg-logo="https://services.sg101.prd.sctv.ch/content/images/tv/channel/301_image_7_w90.webp" tvg-chno="85",Carac 2
+https://livevideo.vedge.infomaniak.com/livecast/onefmhd/master.m3u8
+#EXTGRP:Chaînes Nationales
+#EXTINF:-1 tvg-id="LFMTV.ch" tvg-logo="https://services.sg101.prd.sctv.ch/content/images/tv/channel/246_image_7_w90.webp" tvg-chno="86",Carac 3
+https://livevideo.vedge.infomaniak.com/livecast/lfmhd/master.m3u8
+#EXTGRP:Chaînes Nationales
+#EXTINF:-1 tvg-id="TVSuissePlus.ch" tvg-logo="https://services.sg101.prd.sctv.ch/content/images/tv/channel/1082_image_7_w90.webp" tvg-chno="87",Carac 4
+https://livevideo.vedge.infomaniak.com/livecast/compack_media_1/master.m3u8
+#EXTGRP:Chaînes Nationales
+#EXTINF:-1 tvg-id="CFTM.ca" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tva-ca.png" tvg-chno="103",TVA
+https://tvalive-nondai.akamaized.net/Content/HLS/Live/channel(a7315e07-037c-12a8-bdc8-da7bd513da9d)/index.m3u8
+#EXTGRP:Chaînes Nationales
+
+#EXTGRP:Chaînes Nationales
+#EXTINF:-1 tvg-id="TMC.fr" tvg-logo="https://focus.telerama.fr/104x104/60/0000/00/01/clear-195.png" tvg-chno="10",TMC
+https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/btv/py/tmc1.m3u8
+#EXTGRP:Chaînes Nationales
+#EXTINF:-1 tvg-id="LN24.be" tvg-logo="http://www.albo2000.com/tv/logos/LN-TV.jpg" tvg-chno="118",LN24
+https://live-ln24.digiteka.com/1911668011/playlist.m3u8
+
+#EXTGRP:Chaînes Locales
+#EXTINF:-1 tvg-id="TV8MontBlanc.fr" tvg-logo"" tvg-chno="31",8 Mont-Blanc
+https://raw.githubusercontent.com/azgaresncf/strm2hls/main/streams/8_Mont-Blanc.m3u8
+#EXTGRP:Chaînes Locales
+#EXTINF:-1 tvg-id="20MinutesTV.fr" tvg-logo="https://focus.telerama.fr/104x104/60/0000/00/01/clear-701.png" tvg-chno="32",20 Minutes (IdF)
+https://lives.digiteka.com/stream/86d3e867-a272-496b-8412-f59aa0104771/index.m3u8
+#EXTGRP:Chaînes Locales
+#EXTINF:-1 tvg-id="LeFigaroIDF.fr" tvg-logo="https://www.planetecsat.com/wp-content/uploads/2023/04/Entete-Figaro-IDF.png" tvg-chno="34",Le Figaro TV (IdF)
+https://figarotv-live.freecaster.com/live/freecaster/figarotv.m3u8
+#EXTGRP:Chaînes Locales
+#EXTINF:-1 tvg-id="France3CorseViaStella.fr" tvg-logo"" tvg-chno="33",France 3 Régions (Via Stella)
+https://raw.githubusercontent.com/Sibprod/streams/main/ressources/ftv/py/France3_Corse-ViaStella.m3u8
+#EXTGRP:Chaînes Locales
+#EXTINF:-1 tvg-id="TLCCholet.fr" tvg-logo"" tvg-chno="33",Télévision Locale du Choletais
+https://raw.githubusercontent.com/Sibprod/streams/main/ressources/ttw/py/TLCholet.m3u8
+#EXTGRP:Chaînes Locales
+#EXTINF:-1 tvg-id="Telegrenoble.fr" tvg-logo"" tvg-chno="38",Telegrenoble Isère
+https://raw.githubusercontent.com/Sibprod/streams/main/ressources/ttw/py/Telegrenoble.m3u8
+#EXTGRP:Chaînes Locales
+#EXTINF:-1 tvg-id="France3NoA.fr" tvg-logo"" tvg-chno="39",France 3 Régions (NoA)
+https://raw.githubusercontent.com/Sibprod/streams/main/ressources/ftv/py/France3_NoA.m3u8
+#EXTGRP:Chaînes Locales
+#EXTINF:-1 tvg-id="Monacoinfo.mc" tvg-logo="http://www.mmd.mc/images/radio/mcinfo.png" tvg-chno="70",Monaco Info
+https://webtvmonacoinfo.mc/live/prod_720/index.m3u8
