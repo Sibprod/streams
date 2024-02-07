@@ -1,56 +1,56 @@
 #EXTM3U
 ------ TNT_NATIONALE_FRANCE ------
-#EXTGRP:TNT_Nationale
-#EXTINF:-1 tvg-id="" tvg-logo="https://s2.dmcdn.net/u/1Ew071aBKkq345tI3/120x120" tvg-chno="4",Canal+
+#EXTGRP:Général
+#EXTINF:-1 tvg-id="" tvg-logo="https://s2.dmcdn.net/u/1Ew071aBKkq345tI3/120x120",Canal+
 plugin://plugin.video.dailymotion_com/?url=x5gv6be&mode=playLiveVideo
-#EXTGRP:TNT_Nationale
-#EXTINF:-1 tvg-id="" tvg-logo="https://s2.dmcdn.net/u/1YP551WAyost7D8IQ/120x120" tvg-chno="8",C8
+#EXTGRP:Général
+#EXTINF:-1 tvg-id="" tvg-logo="https://s2.dmcdn.net/u/1YP551WAyost7D8IQ/120x120",C8
 plugin://plugin.video.dailymotion_com/?url=x5gv5rr&mode=playLiveVideo
-#EXTGRP:TNT_Nationale
-#EXTINF:-1 tvg-id="" tvg-logo="https://s2.dmcdn.net/u/1CkLf1aVUMG_e-YmE/120x120" tvg-chno="13",LCP 100%
+#EXTGRP:Institutions
+#EXTINF:-1 tvg-id="" tvg-logo="https://s2.dmcdn.net/u/1CkLf1aVUMG_e-YmE/120x120",LCP 100%
 plugin://plugin.video.dailymotion_com/?url=xgepjr&mode=playLiveVideo
-#EXTGRP:TNT_Nationale
-#EXTINF:-1 tvg-id="" tvg-logo="https://s1.dmcdn.net/u/11mWs1bO7A-_EdSCu/120x120" tvg-chno="13",Public Sénat
+#EXTGRP:Institutions
+#EXTINF:-1 tvg-id="" tvg-logo="https://s1.dmcdn.net/u/11mWs1bO7A-_EdSCu/120x120",Public Sénat
 plugin://plugin.video.dailymotion_com/?url=xkxbzc&mode=playLiveVideo
-#EXTGRP:TNT_Nationale
-#EXTINF:-1 tvg-id="" tvg-logo="https://s2.dmcdn.net/u/DhmL1bU3TEoD6WSx/120x120" tvg-chno="16",CNews
+#EXTGRP:Information
+#EXTINF:-1 tvg-id="" tvg-logo="https://s2.dmcdn.net/u/DhmL1bU3TEoD6WSx/120x120",CNews
 plugin://plugin.video.dailymotion_com/?url=x3b68jn&mode=playLiveVideo
-#EXTGRP:TNT_Nationale
-#EXTINF:-1 tvg-id="" tvg-logo="https://s2.dmcdn.net/u/28r9J1U75b5laEW66/120x120" tvg-chno="17",CStar
+#EXTGRP:Divertissement
+#EXTINF:-1 tvg-id="" tvg-logo="https://s2.dmcdn.net/u/28r9J1U75b5laEW66/120x120",CStar
 plugin://plugin.video.dailymotion_com/?url=x5gv5v0&mode=playLiveVideo
-#EXTGRP:TNT_Nationale
-#EXTINF:-1 tvg-id="" tvg-logo="https://s2.dmcdn.net/u/5LK8J1bkd3Y8Ags3e/120x120" tvg-chno="21",L'Équipe
+#EXTGRP:Sport
+#EXTINF:-1 tvg-id="" tvg-logo="https://s2.dmcdn.net/u/5LK8J1bkd3Y8Ags3e/120x120",L'Équipe
 plugin://plugin.video.dailymotion_com/?url=x2lefik&mode=playLiveVideo
-#EXTGRP:TNT_Nationale
-#EXTINF:-1 tvg-id="" tvg-logo="https://s1.dmcdn.net/u/4XaYa1SL5P3RU_GCd/120x120" tvg-chno="23",RMC Story
+#EXTGRP:Général
+#EXTINF:-1 tvg-id="" tvg-logo="https://s1.dmcdn.net/u/4XaYa1SL5P3RU_GCd/120x120",RMC Story
 plugin://plugin.video.dailymotion_com/?url=x13p3qi&mode=playLiveVideo
-#EXTGRP:TNT_Nationale
-#EXTINF:-1 tvg-id="" tvg-logo="https://s1.dmcdn.net/u/2gZZC1Tg6FU74DNgl/120x120" tvg-chno="27",Franceinfo
+#EXTGRP:Informations
+#EXTINF:-1 tvg-id="" tvg-logo="https://s1.dmcdn.net/u/2gZZC1Tg6FU74DNgl/120x120,Franceinfo
 plugin://plugin.video.dailymotion_com/?url=x4rdeu6&mode=playLiveVideo
-#EXTGRP:TNT_Nationale
-#EXTINF:-1 tvg-id="" tvg-logo="https://s2.dmcdn.net/u/6K0Ll1bh_pjNFqD4z/120x120" tvg-chno="42",Canal+ Sport
+#EXTGRP:Sport
+#EXTINF:-1 tvg-id="" tvg-logo="https://s2.dmcdn.net/u/6K0Ll1bh_pjNFqD4z/120x120",Canal+ Sport
 plugin://plugin.video.dailymotion_com/?url=x8kf9q7&mode=playLiveVideo
-#EXTGRP:TNT_Nationale
-#EXTINF:-1 tvg-id="" tvg-logo="https://s1.dmcdn.net/u/1Q7eQ1bkI2XSyFEDc/120x120" tvg-chno="48",Euronews (Français)
+#EXTGRP:Informations
+#EXTINF:-1 tvg-id="" tvg-logo="https://s1.dmcdn.net/u/1Q7eQ1bkI2XSyFEDc/120x120",Euronews (Français)
 plugin://plugin.video.dailymotion_com/?url=x2j4lj9&mode=playLiveVideo
 ------ TNT_REGIONALE_FRANCE ------
-#EXTGRP:TNT_Régionale
-#EXTINF:-1 tvg-id=" " tvg-logo="https://s1.dmcdn.net/u/4dvD01bc6pGUCdxYU/120x120" tvg-chno="30",Angers Télé 
+#EXTGRP:Régionales
+#EXTINF:-1 tvg-id=" " tvg-logo="https://s1.dmcdn.net/u/4dvD01bc6pGUCdxYU/120x120",Angers Télé 
 plugin://plugin.video.dailymotion_com/?url=x8r7256&mode=playLiveVideo
-#EXTGRP:TNT_Régionale
-#EXTINF:-1 tvg-id="" tvg-logo="https://s2.dmcdn.net/u/8R0v1W7a_lQXKYlS/120x120" tvg-chno="31",8 Mont-Blanc
+#EXTGRP:Découverte;Régionales
+#EXTINF:-1 tvg-id="" tvg-logo="https://s2.dmcdn.net/u/8R0v1W7a_lQXKYlS/120x120",8 Mont-Blanc
 plugin://plugin.video.dailymotion_com/?url=x3wqv8b&mode=playLiveVideo
-#EXTGRP:TNT_Régionale
-#EXTINF:-1 tvg-id="" tvg-logo="https://s2.dmcdn.net/u/7fiM11W1elfKAeKOR/120x120" tvg-chno="31",N31
+#EXTGRP:Style de Vie
+#EXTINF:-1 tvg-id="" tvg-logo="https://s2.dmcdn.net/u/7fiM11W1elfKAeKOR/120x120",N31
 plugin://plugin.video.dailymotion_com/?url=x6nkjg1&mode=playLiveVideo
-#EXTGRP:TNT_Régionale
-#EXTINF:-1 tvg-id=" " tvg-logo="https://s1.dmcdn.net/u/H9UA1bMXdQWIRJiX/120x120" tvg-chno="31",Télénantes
+#EXTGRP:Régionales
+#EXTINF:-1 tvg-id=" " tvg-logo="https://s1.dmcdn.net/u/H9UA1bMXdQWIRJiX/120x120",Télénantes
 plugin://plugin.video.dailymotion_com/?url=x5so98l&mode=playLiveVideo
-#EXTGRP:TNT_Régionale
-#EXTINF:-1 tvg-id=" " tvg-logo="https://s2.dmcdn.net/u/6tkwB1ahxVVd_dyBK/120x120" tvg-chno="31",TL7
+#EXTGRP:Régionales
+#EXTINF:-1 tvg-id=" " tvg-logo="https://s2.dmcdn.net/u/6tkwB1ahxVVd_dyBK/120x120",TL7
 plugin://plugin.video.dailymotion_com/?url=x5ct4nu&mode=playLiveVideo
-#EXTGRP:TNT_Régionale
-#EXTINF:-1 tvg-id=" " tvg-logo=" " tvg-chno="33",TLC - Télévision Locale du Choletais
+#EXTGRP:Régionales
+#EXTINF:-1 tvg-id=" " tvg-logo=" ",TLC - Télévision Locale du Choletais
 plugin://plugin.video.dailymotion_com/?url=x5aarnv&mode=playLiveVideo
 ------ ESPAGNE ------
 #EXTGRP:TDT_Autonomicos
@@ -61,24 +61,24 @@ plugin://plugin.video.dailymotion_com/?url=x8dhao1&mode=playLiveVideo
 plugin://plugin.video.dailymotion_com/?url=x8dhap9&mode=playLiveVideo
 ------ ITALIE ------
 #EXTGRP:DTT_Regionale
-#EXTINF:-1 tvg-id=" " tvg-logo="https://s1.dmcdn.net/u/9X5221Z_Sdmrru_C0/120x120" tvg-chno="1012",Sardegna 1
+#EXTINF:-1 tvg-id=" " tvg-logo="https://s1.dmcdn.net/u/9X5221Z_Sdmrru_C0/120x120" tvg-chno=" ",Sardegna 1
 plugin://plugin.video.dailymotion_com/?url=x893du6&mode=playLiveVideo
 ------ AFRIQUE ------
 #EXTGRP:Afrique
-#EXTINF:-1 tvg-id="" tvg-logo="https://s1.dmcdn.net/u/7gff81TbTGM62obZa/120x120" tvg-chno="173",Africanews (Français)
+#EXTINF:-1 tvg-id="" tvg-logo="https://s1.dmcdn.net/u/7gff81TbTGM62obZa/120x120" tvg-chno=" ",Africanews (Français)
 plugin://plugin.video.dailymotion_com/?url=x6i37o5&mode=playLiveVideo
 #EXTGRP:Afrique
-#EXTINF:-1 tvg-id=" " tvg-logo="https://s1.dmcdn.net/u/9KMc21ZMjS4oRbiNI/120x120" tvg-chno="197",EMCI (Afrique)
+#EXTINF:-1 tvg-id=" " tvg-logo="https://s1.dmcdn.net/u/9KMc21ZMjS4oRbiNI/120x120" tvg-chno=" ",EMCI (Afrique)
 plugin://plugin.video.dailymotion_com/?url=x8azdkm&mode=playLiveVideo
 #EXTGRP:Afrique
-#EXTINF:-1 tvg-id=" " tvg-logo="https://s2.dmcdn.net/u/1erOl1YsKLpseQ-JA/120x120" tvg-chno="395",Telesud
+#EXTINF:-1 tvg-id=" " tvg-logo="https://s2.dmcdn.net/u/1erOl1YsKLpseQ-JA/120x120" tvg-chno=" ",Telesud
 plugin://plugin.video.dailymotion_com/?url=x7wrxqb&mode=playLiveVideo
 #EXTGRP:Afrique
-#EXTINF:-1 tvg-id=" " tvg-logo="https://s1.dmcdn.net/u/7ROBk1Zr7kiklUQeW/120x120" tvg-chno="244",Guinée Buzz TV
+#EXTINF:-1 tvg-id=" " tvg-logo="https://s1.dmcdn.net/u/7ROBk1Zr7kiklUQeW/120x120" tvg-chno=" ",Guinée Buzz TV
 plugin://plugin.video.dailymotion_com/?url=x655zsl&mode=playLiveVideo
 ------ DIVERS ------
 #EXTGRP:Divers
-#EXTINF:-1 tvg-id=" " tvg-logo="https://s2.dmcdn.net/u/8W2l91Z1sf6jI2bLO/120x120" tvg-chno="230",B Smart
+#EXTINF:-1 tvg-id=" " tvg-logo="https://s2.dmcdn.net/u/8W2l91Z1sf6jI2bLO/120x120" tvg-chno=" ",B Smart
 plugin://plugin.video.dailymotion_com/?url=x7tn4fp&mode=playLiveVideo
 #EXTGRP:Divers
 #EXTINF:-1 tvg-id=" " tvg-logo="https://s2.dmcdn.net/u/1Q7K71SsdTfDnlUih/120x120" tvg-chno=" ",Earth TV
@@ -90,34 +90,34 @@ plugin://plugin.video.dailymotion_com/?url=x8azdl4&mode=playLiveVideo
 #EXTINF:-1 tvg-id=" " tvg-logo="https://s1.dmcdn.net/u/9KMc21ZMjS4oRbiNI/120x120" tvg-chno=" ",EMCI (Europe)
 plugin://plugin.video.dailymotion_com/?url=x8azdk1&mode=playLiveVideo
 #EXTGRP:Divers
-#EXTINF:-1 tvg-id=" " tvg-logo="https://s1.dmcdn.net/u/1Q7eQ1bkI2XSyFEDc/120x120" tvg-chno="192",Euronews (Italiano)
+#EXTINF:-1 tvg-id=" " tvg-logo="https://s1.dmcdn.net/u/1Q7eQ1bkI2XSyFEDc/120x120" tvg-chno=" ",Euronews (Italiano)
 plugin://plugin.video.dailymotion_com/?url=x2j7h84&mode=playLiveVideo
 #EXTGRP:Divers
-#EXTINF:-1 tvg-id=" " tvg-logo="https://s1.dmcdn.net/u/9gT3A1aF_7vaVdNDc/120x120" tvg-chno="350",Le Média
+#EXTINF:-1 tvg-id=" " tvg-logo="https://s1.dmcdn.net/u/9gT3A1aF_7vaVdNDc/120x120" tvg-chno=" ",Le Média
 plugin://plugin.video.dailymotion_com/?url=x8dtuir&mode=playLiveVideo
 #EXTGRP:Divers
-#EXTINF:-1 tvg-id=" " tvg-logo="https://s1.dmcdn.net/u/8vkDy1W6-hQdvqLRR/120x120" tvg-chno="476",Lyon Capitale TV
+#EXTINF:-1 tvg-id=" " tvg-logo="https://s1.dmcdn.net/u/8vkDy1W6-hQdvqLRR/120x120" tvg-chno=" ",Lyon Capitale TV
 plugin://plugin.video.dailymotion_com/?url=x7z3zqa&mode=playLiveVideo
 #EXTGRP:Divers
-#EXTINF:-1 tvg-id=" " tvg-logo="https://s1.dmcdn.net/u/9J-RE1XYfDdu9kpvn/240x240" tvg-chno="113",Maison & Travaux TV
+#EXTINF:-1 tvg-id=" " tvg-logo="https://s1.dmcdn.net/u/9J-RE1XYfDdu9kpvn/240x240" tvg-chno=" ",Maison & Travaux TV
 plugin://plugin.video.dailymotion_com/?url=x85e5l8&mode=playLiveVideo
 #EXTGRP:Divers
-#EXTINF:-1 tvg-id=" " tvg-logo="https://s1.dmcdn.net/u/2I4XM1WsOzSKddsVt/240x240" tvg-chno="216",Men's Up TV
+#EXTINF:-1 tvg-id=" " tvg-logo="https://s1.dmcdn.net/u/2I4XM1WsOzSKddsVt/240x240" tvg-chno=" ",Men's Up TV
 plugin://plugin.video.dailymotion_com/?url=x2kr3hs&mode=playLiveVideo
 #EXTGRP:Divers
-#EXTINF:-1 tvg-id=" " tvg-logo="https://s2.dmcdn.net/u/7yghf1Ug_wNTT8uDl/120x120" tvg-chno="1028",Télé La Brise
+#EXTINF:-1 tvg-id=" " tvg-logo="https://s2.dmcdn.net/u/7yghf1Ug_wNTT8uDl/120x120" tvg-chno=" ",Télé La Brise
 plugin://plugin.video.dailymotion_com/?url=x8frxu5&mode=playLiveVideo
 #EXTGRP:Divers
-#EXTINF:-1 tvg-id=" " tvg-logo="https://s1.dmcdn.net/u/4vcte1YCSMHQ0b1TD/240x240" tvg-chno="114",Top Santé TV
+#EXTINF:-1 tvg-id=" " tvg-logo="https://s1.dmcdn.net/u/4vcte1YCSMHQ0b1TD/240x240" tvg-chno=" ",Top Santé TV
 plugin://plugin.video.dailymotion_com/?url=x89yjnn&mode=playLiveVideo
 #EXTGRP:Divers
 #EXTINF:-1 tvg-id=" " tvg-logo="https://s1.dmcdn.net/u/1xcMg1a3VFddSvCFS/60x60" tvg-chno=" ",TeleSUR
 plugin://plugin.video.dailymotion_com/?url=x82ug5r
 #EXTGRP:Divers
-#EXTINF:-1 tvg-id=" " tvg-logo="https://s1.dmcdn.net/u/4CFDy1a3DhO7zSO3N/120x120" tvg-chno="396",Ubiznews-OM5
+#EXTINF:-1 tvg-id=" " tvg-logo="https://s1.dmcdn.net/u/4CFDy1a3DhO7zSO3N/120x120" tvg-chno=" ",Ubiznews-OM5
 plugin://plugin.video.dailymotion_com/?url=x8dicii&mode=playLiveVideo
 #EXTGRP:Divers
-#EXTINF:-1 tvg-id=" " tvg-logo=" " tvg-chno="187",Le Journal du Golf TV
+#EXTINF:-1 tvg-id=" " tvg-logo=" " tvg-chno=" ",Le Journal du Golf TV
 plugin://plugin.video.dailymotion_com/?url=x6qdjk7&mode=playLiveVideo
 --- RADIOS ---
 #EXTGRP:RNT
@@ -127,37 +127,37 @@ plugin://plugin.video.dailymotion_com/?url=x8naz0t&mode=playLiveVideo
 #EXTINF:-1 tvg-id=" " tvg-logo="https://s1.dmcdn.net/u/7b6Yk1bc-mRy7LetC/120x120" tvg-chno=" ",Arabel
 plugin://plugin.video.dailymotion_com/?url=x7teocz&mode=playLiveVideo
 #EXTGRP:RNT
-#EXTINF:-1 tvg-id=" " tvg-logo="https://s2.dmcdn.net/u/1W-uR1bks066cYzpL/120x120" tvg-chno="1512",Europe 1
+#EXTINF:-1 tvg-id=" " tvg-logo="https://s2.dmcdn.net/u/1W-uR1bks066cYzpL/120x120" tvg-chno=" ",Europe 1
 plugin://plugin.video.dailymotion_com/?url=xqjkfz&mode=playLiveVideo
 #EXTGRP:RNT
-#EXTINF:-1 tvg-id=" " tvg-logo="https://s1.dmcdn.net/u/2gZZC1Tg6FU74DNgl/120x120" tvg-chno="1553",Franceinfo (Radio)
+#EXTINF:-1 tvg-id=" " tvg-logo="https://s1.dmcdn.net/u/2gZZC1Tg6FU74DNgl/120x120" tvg-chno=" ",Franceinfo (Radio)
 plugin://plugin.video.dailymotion_com/?url=x26eox4&mode=playLiveVideo
 #EXTGRP:RNT
-#EXTINF:-1 tvg-id=" " tvg-logo="https://s2.dmcdn.net/u/HT2x1bLFVCKZ1ymd/120x120" tvg-chno="1554",France Inter
+#EXTINF:-1 tvg-id=" " tvg-logo="https://s2.dmcdn.net/u/HT2x1bLFVCKZ1ymd/120x120" tvg-chno=" ",France Inter
 plugin://plugin.video.dailymotion_com/?url=x17qw0a&mode=playLiveVideo
 #EXTGRP:RNT
 #EXTINF:-1 tvg-id=" " tvg-logo="https://s1.dmcdn.net/u/9leGO1bjYlT45Sm0r/120x120" tvg-chno=" ",Fun Radio (Belgique)
 plugin://plugin.video.dailymotion_com/?url=x8fy3fv&mode=playLiveVideo
 #EXTGRP:RNT
-#EXTINF:-1 tvg-id=" " tvg-logo="https://s2.dmcdn.net/u/2MYk91bkt3sf2IWAP/120x120" tvg-chno="1523",Fun Radio (France)
+#EXTINF:-1 tvg-id=" " tvg-logo="https://s2.dmcdn.net/u/2MYk91bkt3sf2IWAP/120x120" tvg-chno=" ",Fun Radio (France)
 plugin://plugin.video.dailymotion_com/?url=xxtuy6&mode=playLiveVideo
 #EXTGRP:RNT
 #EXTINF:-1 tvg-id=" " tvg-logo="https://mlemedia.ch/upload/design/6333f474c31401.16060024.png" tvg-chno=" ",M Le Media
 plugin://plugin.video.dailymotion_com/?url=x8j47xa&mode=playLiveVideo
 #EXTGRP:RNT
-#EXTINF:-1 tvg-id=" " tvg-logo="https://s1.dmcdn.net/u/14FVq1bLFl23xIdhU/120x120" tvg-chno="1545",Mouv'
+#EXTINF:-1 tvg-id=" " tvg-logo="https://s1.dmcdn.net/u/14FVq1bLFl23xIdhU/120x120" tvg-chno=" ",Mouv'
 plugin://plugin.video.dailymotion_com/?url=x8g9lfe&mode=playLiveVideo
 #EXTGRP:RNT
-#EXTINF:-1 tvg-id=" " tvg-logo="https://s2.dmcdn.net/u/s-ur1bkt2D1D5yFW/120x120" tvg-chno="1521",RTL
+#EXTINF:-1 tvg-id=" " tvg-logo="https://s2.dmcdn.net/u/s-ur1bkt2D1D5yFW/120x120" tvg-chno=" ",RTL
 plugin://plugin.video.dailymotion_com/?url=xl1km0&mode=playLiveVideo
 #EXTGRP:RNT
-#EXTINF:-1 tvg-id=" " tvg-logo="https://s1.dmcdn.net/u/2MjtK1bkt3HWJo3ju/120x120" tvg-chno="1522",RTL 2
+#EXTINF:-1 tvg-id=" " tvg-logo="https://s1.dmcdn.net/u/2MjtK1bkt3HWJo3ju/120x120" tvg-chno=" ",RTL 2
 plugin://plugin.video.dailymotion_com/?url=x2tzzpj&mode=playLiveVideo
 #EXTGRP:RNT
 #EXTINF:-1 tvg-id=" " tvg-logo="https://s1.dmcdn.net/v/STYxc1YZQiS3UrEdK/x240" group-title=" " tvg-chno=" ",RTN
 plugin://plugin.video.dailymotion_com/?url=x7wamzq&mode=playLiveVideo
 #EXTGRP:RNT
-#EXTINF:-1 tvg-id=" " tvg-logo="https://s2.dmcdn.net/u/1ERZ11bRUsDAA46-r/120x120" tvg-chno="1542",Sud Radio
+#EXTINF:-1 tvg-id=" " tvg-logo="https://s2.dmcdn.net/u/1ERZ11bRUsDAA46-r/120x120" tvg-chno=" ",Sud Radio
 plugin://plugin.video.dailymotion_com/?url=x8jqxru&mode=playLiveVideo
 #EXTGRP:IPRADIO
 #EXTINF:-1 tvg-id=" " tvg-logo="https://s1.dmcdn.net/u/612i61a0qCq7pVqR-/60x60" tvg-chno=" ",France Bleu Elsass
