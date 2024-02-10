@@ -11,6 +11,9 @@ https://raw.githubusercontent.com/Sibprod/streams/main/ressources/ftv/py/France3
 #EXTGRP:Information
 #EXTINF:-1 tvg-id="BFMTV.fr" tvg-logo="https://focus.telerama.fr/104x104/60/0000/00/01/clear-481.png" tvg-chno="221",BFM TV
 https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_TV/index.m3u8?start=LIVE&end=END
+#EXTGRP:Général
+#EXTINF:-1 tvg-id="C8.fr" tvg-logo="https://s2.dmcdn.net/u/1YP551WAyost7D8IQ/120x120" tvg-chno="222",C8
+https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/dmotion/py/c8/c8s.m3u8
 #EXTGRP:Jeunesse
 #EXTINF:-1 tvg-id="Gulli.fr" tvg-logo="https://focus.telerama.fr/104x104/60/0000/00/01/clear-482.png" tvg-chno="224",Gulli
 https://origin2-6play.live.6cloud.fr/pool_rnpls9by/gulli/sixplaysd/hls_short_q2hyb21h_gulli/index.m3u8
@@ -66,7 +69,7 @@ https://ott.tv5monde.com/Content/HLS/Live/channel(info)/index.m3u8
 #EXTINF:-1 tvg-id="Teva.fr" tvg-logo="https://focus.telerama.fr/104x104/60/0000/00/01/clear-191.png" tvg-chno="280",Téva
 https://raw.githubusercontent.com/Sibprod/streams/main/ressources/RTLfr/Teva.m3u8
 #EXTGRP:Général
-#EXTINF:-1 tvg-id="Canalplus.fr" tvg-logo="https://focus.telerama.fr/104x104/60/0000/00/01/clear-34.png" tvg-chno="282",Canal+
+#EXTINF:-1 tvg-id="Canalplus.fr" tvg-logo="https://focus.telerama.fr/104x104/60/0000/00/01/clear-34.png" tvg-chno="281",Canal+
 https://hls-m007-live-aka-canalplus.akamaized.net/live/disk/canalplusclair-hd/hls-v3-hd-clair/canalplusclair-hd.m3u8
 #EXTGRP:Information
 #EXTINF:-1 tvg-id="LCI.fr" tvg-logo="https://focus.telerama.fr/104x104/60/0000/00/01/clear-112.png" tvg-chno="284",LCI
