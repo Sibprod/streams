@@ -105,7 +105,10 @@ https://d3749synfikwkv.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 https://d15umi5iaezxgx.cloudfront.net/LA7D/CLN/HLS/Live.m3u8
 #EXTGRP:Général
 #EXTINF:-1 tvg-id="RTS1.ch" tvg-logo="https://focus.telerama.fr/104x104/60/0000/00/01/clear-202.png" tvg-chno="341",RTS 1
-http://livetv.ktv.zone/1/play.m3u8
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.stream_headers_referrer=http://www.callofliberty.fr
+http://s1.callofliberty.fr/direct/RTS1/index.mpd
 #EXTGRP:Général
 #EXTINF:-1 tvg-id="RTS2.ch" tvg-logo="https://focus.telerama.fr/104x104/60/0000/00/01/clear-183.png" tvg-chno="342",RTS 2
 http://livetv.ktv.zone/2/play.m3u8
