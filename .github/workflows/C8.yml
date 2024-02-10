@@ -28,7 +28,7 @@ jobs:
           git config --global user.email "<>"
           git config --global user.name "C8 bot"
       
-      - name: updating c8s
+      - name: updating C8
         run: sh ressources/dmotion/py/Canal/C8.sh
         
       - name: git add
