@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTGRP:Général
-#EXTINF:-1 tvg-id="TF1.fr" tvg-logo="https://focus.telerama.fr/104x104/60/0000/00/01/clear-192.png",TF1
+#EXTINF:-1 tvg-id="TF1.fr" tvg-logo="https://focus.telerama.fr/104x104/60/0000/00/01/clear-192.png" tvg-chno="485",TF1
 rtp://233.60.197.61:7500
 #EXTGRP:Général
 #EXTINF:-1 tvg-id="France2.fr" tvg-logo="https://focus.telerama.fr/104x104/60/0000/00/01/clear-4.png",France 2
@@ -15,16 +15,16 @@ rtp://233.136.44.179:7500
 #EXTINF:-1 tvg-id="France5.fr" tvg-logo="https://focus.telerama.fr/104x104/60/0000/00/01/clear-47.png",France 5
 rtp://233.236.44.191:7500
 #EXTGRP:Général
-#EXTINF:-1 tvg-id="M6.fr" tvg-logo="https://focus.telerama.fr/104x104/60/0000/00/01/clear-118.png",M6
+#EXTINF:-1 tvg-id="M6.fr" tvg-logo="https://focus.telerama.fr/104x104/60/0000/00/01/clear-118.png" tvg-chno="254",M6
 rtp://233.49.82.76:7500
 #EXTGRP:Général
 #EXTINF:-1 tvg-id="ARTE.fr" tvg-logo="https://focus.telerama.fr/104x104/60/0000/00/01/clear-111.png",ARTE (Français)
 rtp://233.49.82.71:7500
 #EXTGRP:Divertissement
-#EXTINF:-1 tvg-id="NRJ12.fr" tvg-logo="https://focus.telerama.fr/104x104/60/0000/00/01/clear-444.png",NRJ 12
+#EXTINF:-1 tvg-id="NRJ12.fr" tvg-logo="https://focus.telerama.fr/104x104/60/0000/00/01/clear-444.png" tvg-chno="483",NRJ 12
 rtp://@233.49.82.72:7500
 #EXTGRP:Institutions
-#EXTINF:-1 tvg-id="LaChaineParlementaire.fr" tvg-logo="https://focus.telerama.fr/104x104/60/0000/00/01/clear-234.png",LCP (TNT)
+#EXTINF:-1 tvg-id="LaChaineParlementaire.fr" tvg-logo="https://focus.telerama.fr/104x104/60/0000/00/01/clear-234.png" tvg-chno="481",LCP (TNT)
 rtp://233.60.197.81:7500
 #EXTGRP:Culture;Jeunesse
 #EXTINF:-1 tvg-id="France4.fr" tvg-logo="https://focus.telerama.fr/104x104/60/0000/00/01/clear-78.png",France 4
@@ -42,13 +42,13 @@ rtp://233.49.82.147:65000
 #EXTINF:-1 tvg-id="LEquipe.fr" tvg-logo="https://focus.telerama.fr/104x104/60/0000/00/01/clear-1401.png",L'Équipe
 rtp://233.136.44.155:7500
 #EXTGRP:Général
-#EXTINF:-1 tvg-id="RMCStory.fr" tvg-logo="https://focus.telerama.fr/104x104/60/0000/00/01/clear-1402.png",RMC Story
+#EXTINF:-1 tvg-id="RMCStory.fr" tvg-logo="https://focus.telerama.fr/104x104/60/0000/00/01/clear-1402.png" tvg-chno="294",RMC Story
 rtp://233.49.82.132:7500
 #EXTGRP:Découverte
-#EXTINF:-1 tvg-id="RMCDecouverte.fr" tvg-logo="https://focus.telerama.fr/104x104/60/0000/00/01/clear-1400.png",RMC Découverte
+#EXTINF:-1 tvg-id="RMCDecouverte.fr" tvg-logo="https://focus.telerama.fr/104x104/60/0000/00/01/clear-1400.png" tvg-chno="295",RMC Découverte
 rtp://233.49.82.133:7500
 #EXTGRP:Divertissement
-#EXTINF:-1 tvg-id="Cherie25.fr" tvg-logo="https://focus.telerama.fr/104x104/60/0000/00/01/clear-1399.png",Chérie 25
+#EXTINF:-1 tvg-id="Cherie25.fr" tvg-logo="https://focus.telerama.fr/104x104/60/0000/00/01/clear-1399.png" tvg-chno="291",Chérie 25
 rtp://233.49.82.134:7500
 #EXTGRP:Information
 #EXTINF:-1 tvg-id="Franceinfo.fr" tvg-logo="https://focus.telerama.fr/104x104/60/0000/00/01/clear-2111.png",Franceinfo (TV)
@@ -60,7 +60,7 @@ rtp://233.32.36.183:7500
 #EXTINF:-1 tvg-id="EuronewsFrench.fr" tvg-logo="https://focus.telerama.fr/104x104/60/0000/00/01/clear-140.png" tvg-chno="48",Euronews (Français)
 
 #EXTGRP:Style de Vie
-#EXTINF:-1 tvg-id="LuxeTV.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ae/LUXETV_LOGO_BLACK_MONOCHROME.png",Luxe.TV
+#EXTINF:-1 tvg-id="LuxeTV.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ae/LUXETV_LOGO_BLACK_MONOCHROME.png" tvg-chno="212",Luxe.TV
 rtp://233.136.44.183:7500
 #EXTGRP:Information
 #EXTINF:-1 tvg-id="BFMBusiness.fr" tvg-logo="https://focus.telerama.fr/104x104/60/0000/00/01/clear-1073.png",BFM Business
