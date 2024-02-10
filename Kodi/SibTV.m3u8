@@ -38,6 +38,9 @@ https://artesimulcast.akamaized.net/hls/live/2031003/artelive_fr/index.m3u8
 #EXTGRP:Découverte;Information
 #EXTINF:-1 tvg-id="France5.fr" tvg-logo="https://focus.telerama.fr/104x104/60/0000/00/01/clear-47.png" tvg-chno="253",France 5
 https://raw.githubusercontent.com/Sibprod/streams/main/ressources/ftv/py/France5.m3u8
+#EXTGRP:Divertissement
+#EXTINF:-1 tvg-id="W9.fr" tvg-logo="https://focus.telerama.fr/104x104/60/0000/00/01/clear-119.png" tvg-chno="255",W9
+https://accesiptv.com:443/mU2qjcVU8k/bZGV5sV2d3/76.ts
 #EXTGRP:Général
 #EXTINF:-1 tvg-id="Telequebec.ca" tvg-logo="https://static.epg.best/ca/TeleQuebec.ca.png" tvg-chno="260",Tele-Québec
 https://bcovlive-a.akamaihd.net/575d86160eb143458d51f7ab187a4e68/us-east-1/6101674910001/playlist.m3u8
@@ -65,6 +68,9 @@ https://raw.githubusercontent.com/Sibprod/streams/main/ressources/RTLfr/Teva.m3u
 #EXTGRP:Général
 #EXTINF:-1 tvg-id="Canalplus.fr" tvg-logo="https://focus.telerama.fr/104x104/60/0000/00/01/clear-34.png" tvg-chno="282",Canal+
 https://hls-m007-live-aka-canalplus.akamaized.net/live/disk/canalplusclair-hd/hls-v3-hd-clair/canalplusclair-hd.m3u8
+#EXTGRP:Information
+#EXTINF:-1 tvg-id="LCI.fr" tvg-logo="https://focus.telerama.fr/104x104/60/0000/00/01/clear-112.png" tvg-chno="284",LCI
+https://accesiptv.com:443/mU2qjcVU8k/bZGV5sV2d3/101.ts
 #EXTGRP:Culture;Divertissement
 #EXTINF:-1 tvg-id="ParisPremiere.fr" tvg-logo="https://focus.telerama.fr/104x104/60/0000/00/01/clear-145.png" tvg-chno="285",Paris Première
 https://raw.githubusercontent.com/Sibprod/streams/main/ressources/RTLfr/ParisPremiere.m3u8
@@ -80,6 +86,9 @@ https://hls.savoir.media/live/stream.m3u8
 #EXTGRP:Divertissement
 #EXTINF:-1 tvg-id="Cherie25.fr" tvg-logo="https://focus.telerama.fr/104x104/60/0000/00/01/clear-1399.png" tvg-chno="291",Chérie 25
 https://cherie25.nrjaudio.fm/hls/live/2038375/c25/master.m3u8
+#EXTGRP:Cinéma;Séries
+#EXTINF:-1 tvg-logo="https://focus.telerama.fr/104x104/60/0000/00/01/clear-1404.png" tvg-chno="292",TF1 Séries Films
+https://accesiptv.com:443/mU2qjcVU8k/bZGV5sV2d3/92.ts
 #EXTGRP:Général
 #EXTINF:-1 tvg-logo="https://focus.telerama.fr/104x104/60/0000/00/01/clear-1403.png" tvg-chno="294",RMC Story
 https://d36bxc1bknkxrk.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-3ewcp19zjaxpt/index.m3u8
@@ -187,6 +196,9 @@ https://live02-seg.msr.cdn.mediaset.net/live/ch-er/er-clr.isml/index.m3u8
 #EXTGRP:Radio;Musique
 #EXTINF:-1 tvg-id="Radio105TV.it" tvg-logo="https://www.lyngsat-logo.com/logo/radio/rr/radio_105_it_radio.png" tvg-chno="467",Radio 105 TV
 https://live02-seg.msr.cdn.mediaset.net/live/ch-ec/ec-clr.isml/index.m3u8
+#EXTGRP:Divertissement
+#EXTINF:-1 tvg-id="TFX.fr" tvg-logo="https://focus.telerama.fr/104x104/60/0000/00/01/clear-446.png" tvg-chno="482",TFX
+https://accesiptv.com:443/mU2qjcVU8k/bZGV5sV2d3/79.ts
 #EXTGRP:Divertissement
 #EXTINF:-1 tvg-id="NRJ12.fr" tvg-logo="https://focus.telerama.fr/104x104/60/0000/00/01/clear-444.png" tvg-chno="483",NRJ 12
 https://nrj12.nrjaudio.fm/hls/live/2038374/nrj_12/master.m3u8
