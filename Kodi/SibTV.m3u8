@@ -50,6 +50,9 @@ https://bcovlive-a.akamaihd.net/575d86160eb143458d51f7ab187a4e68/us-east-1/61016
 #EXTGRP:Information;Régionales
 #EXTINF:-1 tvg-id="BFMNormandie.fr" tvg-logo="https://raw.githubusercontent.com/Sibprod/assets/main/Altice/ALTICE_BFM-Normandie.png" tvg-chno="265",BFM Régions (Normandie)
 https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_NORMANDIE/index.m3u8?start=LIVE&end=END
+#EXTGRP:Information
+#EXTINF:-1 tvg-id="RaiNews24.it" tvg-logo="https://i.imgur.com/8juA51j.png" tvg-chno="267",RAI News 24
+https://8e7439fdb1694c8da3a0fd63e4dda518.msvdn.net/rainews1/hls/playlist_mo.m3u8
 #EXTGRP:Général
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/zj9aaeB.png" tvg-chno="271",RTL-TV Letzëburg
 https://stream.rtl.lu/data/live/tele/channel1/playlist.m3u8
