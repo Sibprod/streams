@@ -1,7 +1,6 @@
 #EXTM3U
 #EXTGRP:Général
 #EXTINF:-1 tvg-id="RAI1.it" tvg-logo="https://www.lyngsat.com/logo/tv/rr/rai_1.png" tvg-chno="1",RAI 1
-https://raiuno1-live.akamaized.net/hls/live/598308/raiuno1/raiuno1/playlist_ma.m3u8?hdnea=st=1707733827~exp=1707733977~acl=/*~hmac=11d4d0b7c061d791e7b0eda02e98b36c05386d3f82fd55da249d18e09b7c4960
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=2606803&output=16
 #EXTGRP:Général
 #EXTINF:-1 tvg-id="RAI2.it" tvg-logo="https://www.lyngsat.com/logo/tv/rr/rai_2.png" tvg-chno="2",RAI 2
