@@ -1,11 +1,14 @@
 #EXTM3U
-#EXTGRP:Général
+#EXTVLCOPT:Général
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTINF:-1 tvg-id="RAI1.it" tvg-logo="https://www.lyngsat.com/logo/tv/rr/rai_1.png" tvg-chno="1",RAI 1
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=2606803&output=16
-#EXTGRP:Général
+#EXTVLCOPT:Général
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTINF:-1 tvg-id="RAI2.it" tvg-logo="https://www.lyngsat.com/logo/tv/rr/rai_2.png" tvg-chno="2",RAI 2
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=308718&output=16
-#EXTGRP:Général
+#EXTVLCOPT:Général
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTINF:-1 tvg-id="RAI3.it" tvg-logo="https://www.lyngsat.com/logo/tv/rr/rai_3.png" tvg-chno="3",RAI 3
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=1472284&output=16
 #EXTGRP:Général
@@ -53,19 +56,23 @@ https://nrvideo1.newradio.it/euhsbdamnx/euhsbdamnx/playlist.m3u8
 #EXTGRP:Cinéma;Séries
 #EXTINF:-1 tvg-id="Italia1.it" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/20_Mediaset_2018.svg/512px-20_Mediaset_2018.svg.png" tvg-chno="20",20 Mediaset
 https://live02-seg.msf.cdn.mediaset.net/live/ch-lb/lb-clr.isml/index.m3u8
-#EXTGRP:Divertissement
+#EXTVLCOPT:Cinéma;Séries
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTINF:-1 tvg-id="RAI4.it" tvg-logo="https://www.lyngsat.com/logo/tv/rr/rai_4.png" tvg-chno="21",RAI 4
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746966&output=16
 #EXTGRP:Cinéma;Séries
 #EXTINF:-1 tvg-id="Iris.it" tvg-logo="https://i.imgur.com/ZLnSLh4.png" tvg-chno="22",Iris
 https://live02-seg.msf.cdn.mediaset.net/live/ch-ki/ki-clr.isml/index.m3u8
-#EXTGRP:Culture;Découverte
+#EXTVLCOPT:Culture;Découverte
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTINF:-1 tvg-id="RAI5.it" tvg-logo="https://www.lyngsat.com/logo/tv/rr/rai_5.png" tvg-chno="23",RAI 5
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=395276&output=16
 #EXTGRP:Cinéma
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTINF:-1 tvg-id="RAIMovie.it" tvg-logo="https://www.lyngsat.com/logo/tv/rr/rai_movie.png" tvg-chno="24",RAI Movie
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=747002&output=16
 #EXTGRP:Divertissement
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTINF:-1 tvg-id="RAIMovie.it" tvg-logo="https://www.lyngsat.com/logo/tv/rr/rai_premium.png" tvg-chno="25",RAI Premium
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746992&output=16
 #EXTGRP:Cinéma;Séries
@@ -116,10 +123,12 @@ https://live02-seg.msf.cdn.mediaset.net/live/ch-kb/kb-clr.isml/index.m3u8
 #EXTGRP:Jeunesse
 #EXTINF:-1 tvg-id="K2.it" tvg-logo="https://i.imgur.com/T1E8rFF.png" tvg-chno="41",K2
 https://amg16146-wbdi-amg16146c6-samsung-it-1839.playouts.now.amagi.tv/playlist/amg16146-warnerbrosdiscoveryitalia-k2-samsungit/playlist.m3u8
-#EXTGRP:Jeunesse
+#EXTVLCOPT:Jeunesse
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTINF:-1 tvg-id="RAIGulp.it" tvg-logo="https://www.lyngsat.com/logo/tv/rr/rai_gulp.png" tvg-chno="42",RAI Gulp
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746953&output=16
-#EXTGRP:Jeunesse
+#EXTVLCOPT:Jeunesse
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTINF:-1 tvg-id="RAIYoyo.it" tvg-logo="https://www.lyngsat.com/logo/tv/rr/rai_yoyo.png" tvg-chno="43",RAI YoYo
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746899&output=16
 #EXTGRP:Jeunesse
@@ -131,7 +140,8 @@ https://live02-seg.msf.cdn.mediaset.net/live/ch-la/la-clr.isml/index.m3u8
 #EXTGRP:Jeunesse
 #EXTINF:-1 tvg-id="Super.it" tvg-logo="https://www.lyngsat-stream.com/logo/tv/ss/super-it.png" tvg-chno="47",Super !
 https://vimnitaly.akamaized.net/hls/live/2094034/super/master.m3u8
-#EXTGRP:Information
+#EXTVLCOPT:Information
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTINF:-1 tvg-id="RAINews24.it" tvg-logo="https://www.lyngsat.com/logo/tv/rr/rai_news_24.png" tvg-chno="48",RAI News 24
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=1&output=16
 #EXTGRP:Divertissement
@@ -150,6 +160,7 @@ https://amg16146-wbdi-amg16146c8-samsung-it-1841.playouts.now.amagi.tv/playlist/
 #EXTINF:-1 tvg-id=" " tvg-logo="https://canaleitalia.it/wp-content/uploads/2022/06/logo-canale-italia-streaming.png" tvg-chno="53",Casa Italia 53
 https://6e94aeeb1b42461d95f973ae34be5167.msvdn.net/ac115_live/canale3.smil/playlist.m3u8
 #EXTGRP:Culture
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTINF:-1 tvg-id="RAIStoria.it" tvg-logo="https://www.lyngsat.com/logo/tv/rr/rai_storia.png" tvg-chno="54",RAI Storia
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746990&output=16
 #EXTGRP:Divertissement
@@ -159,9 +170,11 @@ https://live02-seg.msf.cdn.mediaset.net/live/ch-kq/kq-clr.isml/index.m3u8
 #EXTINF:-1 tvg-id="HGTV.it" tvg-logo="https://i.imgur.com/ejPii8T.png" tvg-chno="56",HGTV - Home&Garden
 https://amg16146-wbdi-amg16146c9-samsung-it-1842.playouts.now.amagi.tv/playlist/amg16146-warnerbrosdiscoveryitalia-hgtv-samsungit/playlist.m3u8
 #EXTGRP:Culture;Découverte
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTINF:-1 tvg-id="RAIScuola.it" tvg-logo="https://www.lyngsat.com/logo/tv/rr/rai_scuola.png" tvg-chno="57",RAI Scuola
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=747011&output=16
 #EXTGRP:Sport
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTINF:-1 tvg-id="RAISport.it" tvg-logo="https://www.lyngsat.com/logo/tv/rr/rai_scuola.png" tvg-chno="58",RAI Sport
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=358025&output=16
 #EXTGRP:Sport;Style de Vie
@@ -266,6 +279,7 @@ https://streaming.softwarecreation.it/Odeon/Odeon/playlist.m3u8
 #EXTINF:-1 tvg-id="Primafree.it" tvg-logo="" tvg-chno="170",Prima Free
 https://5f22d76e220e1.streamlock.net/primafree/primafree/playlist.m3u8
 #EXTGRP:Radiovision
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTINF:-1 tvg-id="RAIRadio2.it" tvg-logo="https://i.imgur.com/nbOcZcA.png" tvg-chno="202",RAI Radio 2
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=5674080&output=16
 #EXTGRP:Radiovision
