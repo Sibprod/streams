@@ -1,13 +1,14 @@
 #EXTM3U
 #EXTGRP:Général
 #EXTINF:-1 tvg-id="RAI1.it" tvg-logo="https://www.lyngsat.com/logo/tv/rr/rai_1.png" tvg-chno="1",RAI 1
-https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=2606803&output=64
+https://raiuno1-live.akamaized.net/hls/live/598308/raiuno1/raiuno1/playlist_ma.m3u8?hdnea=st=1707733827~exp=1707733977~acl=/*~hmac=11d4d0b7c061d791e7b0eda02e98b36c05386d3f82fd55da249d18e09b7c4960
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=2606803&output=16
 #EXTGRP:Général
 #EXTINF:-1 tvg-id="RAI2.it" tvg-logo="https://www.lyngsat.com/logo/tv/rr/rai_2.png" tvg-chno="2",RAI 2
-https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=308718&output=64
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=308718&output=16
 #EXTGRP:Général
 #EXTINF:-1 tvg-id="RAI3.it" tvg-logo="https://www.lyngsat.com/logo/tv/rr/rai_3.png" tvg-chno="3",RAI 3
-https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=1472284&output=64
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=1472284&output=16
 #EXTGRP:Général
 #EXTINF:-1 tvg-id="Rete4.it" tvg-logo="https://www.lyngsat.com/logo/tv/rr/rete-4-it.png" tvg-chno="4",Rete 4
 https://live02-seg.msf.cdn.mediaset.net/live/ch-r4/r4-clr.isml/index.m3u8
@@ -55,19 +56,19 @@ https://nrvideo1.newradio.it/euhsbdamnx/euhsbdamnx/playlist.m3u8
 https://live02-seg.msf.cdn.mediaset.net/live/ch-lb/lb-clr.isml/index.m3u8
 #EXTGRP:Divertissement
 #EXTINF:-1 tvg-id="RAI4.it" tvg-logo="https://www.lyngsat.com/logo/tv/rr/rai_4.png" tvg-chno="21",RAI 4
-https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746966&output=64
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746966&output=16
 #EXTGRP:Cinéma;Séries
 #EXTINF:-1 tvg-id="Iris.it" tvg-logo="https://i.imgur.com/ZLnSLh4.png" tvg-chno="22",Iris
 https://live02-seg.msf.cdn.mediaset.net/live/ch-ki/ki-clr.isml/index.m3u8
 #EXTGRP:Culture;Découverte
 #EXTINF:-1 tvg-id="RAI5.it" tvg-logo="https://www.lyngsat.com/logo/tv/rr/rai_5.png" tvg-chno="23",RAI 5
-https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=395276&output=64
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=395276&output=16
 #EXTGRP:Cinéma
 #EXTINF:-1 tvg-id="RAIMovie.it" tvg-logo="https://www.lyngsat.com/logo/tv/rr/rai_movie.png" tvg-chno="24",RAI Movie
-https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=747002&output=64
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=747002&output=16
 #EXTGRP:Divertissement
 #EXTINF:-1 tvg-id="RAIMovie.it" tvg-logo="https://www.lyngsat.com/logo/tv/rr/rai_premium.png" tvg-chno="25",RAI Premium
-https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746992&output=64
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746992&output=16
 #EXTGRP:Cinéma;Séries
 #EXTINF:-1 tvg-id="Cielo.it" tvg-logo="https://i.imgur.com/tWUy3yx.png" tvg-chno="26",Cielo
 https://hlslive-web-gcdn-skycdn-it.akamaized.net/TACT/11219/cieloweb/master.m3u8?hdnea=st=1701861650~exp=1765449000~acl=/*~hmac=84c9f3f71e57b13c3a67afa8b29a8591ea9ed84bf786524399545d94be1ec04d
@@ -118,10 +119,10 @@ https://live02-seg.msf.cdn.mediaset.net/live/ch-kb/kb-clr.isml/index.m3u8
 https://amg16146-wbdi-amg16146c6-samsung-it-1839.playouts.now.amagi.tv/playlist/amg16146-warnerbrosdiscoveryitalia-k2-samsungit/playlist.m3u8
 #EXTGRP:Jeunesse
 #EXTINF:-1 tvg-id="RAIGulp.it" tvg-logo="https://www.lyngsat.com/logo/tv/rr/rai_gulp.png" tvg-chno="42",RAI Gulp
-https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746953&output=64
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746953&output=16
 #EXTGRP:Jeunesse
 #EXTINF:-1 tvg-id="RAIYoyo.it" tvg-logo="https://www.lyngsat.com/logo/tv/rr/rai_yoyo.png" tvg-chno="43",RAI YoYo
-https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746899&output=64
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746899&output=16
 #EXTGRP:Jeunesse
 #EXTINF:-1 tvg-id="Frisbee.it" tvg-logo="https://i.imgur.com/U1MF1vR.png" tvg-chno="44",Frisbee
 https://amg16146-wbdi-amg16146c7-samsung-it-1840.playouts.now.amagi.tv/playlist/amg16146-warnerbrosdiscoveryitalia-frisbee-samsungit/playlist.m3u8
@@ -133,7 +134,7 @@ https://live02-seg.msf.cdn.mediaset.net/live/ch-la/la-clr.isml/index.m3u8
 https://vimnitaly.akamaized.net/hls/live/2094034/super/master.m3u8
 #EXTGRP:Information
 #EXTINF:-1 tvg-id="RAINews24.it" tvg-logo="https://www.lyngsat.com/logo/tv/rr/rai_news_24.png" tvg-chno="48",RAI News 24
-https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=1&output=64
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=1&output=16
 #EXTGRP:Divertissement
 #EXTINF:-1 tvg-id="Italia2.it" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Logo_Italia2.svg/512px-Logo_Italia2.svg.png" tvg-chno="49",Mediaset Italia 2
 https://live02-seg.msf.cdn.mediaset.net/live/ch-i2/i2-clr.isml/index.m3u8
@@ -151,7 +152,7 @@ https://amg16146-wbdi-amg16146c8-samsung-it-1841.playouts.now.amagi.tv/playlist/
 https://6e94aeeb1b42461d95f973ae34be5167.msvdn.net/ac115_live/canale3.smil/playlist.m3u8
 #EXTGRP:Culture
 #EXTINF:-1 tvg-id="RAIStoria.it" tvg-logo="https://www.lyngsat.com/logo/tv/rr/rai_storia.png" tvg-chno="54",RAI Storia
-https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746990&output=64
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746990&output=16
 #EXTGRP:Divertissement
 #EXTINF:-1 tvg-id="MediasetExtra.it" tvg-logo="https://www.lyngsat.com/logo/tv/mm/mediaset_extra.png" tvg-chno="55",Mediaset Extra
 https://live02-seg.msf.cdn.mediaset.net/live/ch-kq/kq-clr.isml/index.m3u8
@@ -160,10 +161,10 @@ https://live02-seg.msf.cdn.mediaset.net/live/ch-kq/kq-clr.isml/index.m3u8
 https://amg16146-wbdi-amg16146c9-samsung-it-1842.playouts.now.amagi.tv/playlist/amg16146-warnerbrosdiscoveryitalia-hgtv-samsungit/playlist.m3u8
 #EXTGRP:Culture;Découverte
 #EXTINF:-1 tvg-id="RAIScuola.it" tvg-logo="https://www.lyngsat.com/logo/tv/rr/rai_scuola.png" tvg-chno="57",RAI Scuola
-https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=747011&output=64
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=747011&output=16
 #EXTGRP:Sport
 #EXTINF:-1 tvg-id="RAISport.it" tvg-logo="https://www.lyngsat.com/logo/tv/rr/rai_scuola.png" tvg-chno="58",RAI Sport
-https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=358025&output=64
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=358025&output=16
 #EXTGRP:Sport;Style de Vie
 #EXTINF:-1 tvg-id="MotorTrend.it" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Motor_Trend_logo.svg/512px-Motor_Trend_logo.svg.png" tvg-chno="59",Motor Trend
 https://amg16146-wbdi-amg16146c10-samsung-it-1843.playouts.now.amagi.tv/playlist/amg16146-warnerbrosdiscoveryitalia-motortrend-samsungit/playlist.m3u8
@@ -267,7 +268,7 @@ https://streaming.softwarecreation.it/Odeon/Odeon/playlist.m3u8
 https://5f22d76e220e1.streamlock.net/primafree/primafree/playlist.m3u8
 #EXTGRP:Radiovision
 #EXTINF:-1 tvg-id="RAIRadio2.it" tvg-logo="https://i.imgur.com/nbOcZcA.png" tvg-chno="202",RAI Radio 2
-https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=5674080&output=64
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=5674080&output=16
 #EXTGRP:Radiovision
 #EXTINF:-1 tvg-id="RadioRomaTelevision.it" tvg-logo="https://i.imgur.com/E2BhLK4.png" tvg-chno="222",Radio Roma Television
 https://5926fc9c7c5b2.streamlock.net/rtfeunawfu/rtfeunawfu/playlist.m3u8
