@@ -172,11 +172,11 @@ https://amg16146-wbdi-amg16146c9-samsung-it-1842.playouts.now.amagi.tv/playlist/
 #EXTGRP:Culture;Découverte
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTINF:-1 tvg-id="RAIScuola.it" tvg-logo="https://www.lyngsat.com/logo/tv/rr/rai_scuola.png" tvg-chno="57",RAI Scuola
-https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=747011&output=16
+http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=747011&output=16
 #EXTGRP:Sport
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTINF:-1 tvg-id="RAISport.it" tvg-logo="https://www.lyngsat.com/logo/tv/rr/rai_scuola.png" tvg-chno="58",RAI Sport
-https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=358025&output=16
+http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=358025&output=16
 #EXTGRP:Sport;Style de Vie
 #EXTINF:-1 tvg-id="MotorTrend.it" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Motor_Trend_logo.svg/512px-Motor_Trend_logo.svg.png" tvg-chno="59",Motor Trend
 https://amg16146-wbdi-amg16146c10-samsung-it-1843.playouts.now.amagi.tv/playlist/amg16146-warnerbrosdiscoveryitalia-motortrend-samsungit/playlist.m3u8
@@ -281,7 +281,7 @@ https://5f22d76e220e1.streamlock.net/primafree/primafree/playlist.m3u8
 #EXTGRP:Radiovision
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTINF:-1 tvg-id="RAIRadio2.it" tvg-logo="https://i.imgur.com/nbOcZcA.png" tvg-chno="202",RAI Radio 2
-https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=5674080&output=16
+http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=5674080&output=16
 #EXTGRP:Radiovision
 #EXTINF:-1 tvg-id="RadioRomaTelevision.it" tvg-logo="https://i.imgur.com/E2BhLK4.png" tvg-chno="222",Radio Roma Television
 https://5926fc9c7c5b2.streamlock.net/rtfeunawfu/rtfeunawfu/playlist.m3u8
