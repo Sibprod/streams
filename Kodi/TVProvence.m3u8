@@ -33,7 +33,10 @@ https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/btv/py/
 https://nrj12.nrjaudio.fm/hls/live/2038374/nrj_12/master.m3u8
 #EXTGRP:Institutions;TNT
 #EXTINF:-1 tvg-id="LaChaineParlementaire.fr" tvg-logo="https://focus.telerama.fr/104x104/60/0000/00/01/clear-234.png" tvg-chno="13",LCP (TNT)
-rtp://233.60.197.81:7500
+https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/dmotion/py/lcpan/lcpan.m3u8
+#EXTGRP:Institutions;TNT
+#EXTINF:-1 tvg-id=" " tvg-logo=" ",Public Sénat
+https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/dmotion/py/pblsnt/pblsnt.m3u8
 #EXTGRP:Culture;Jeunesse;TNT
 #EXTINF:-1 tvg-id="France4.fr" tvg-logo="https://focus.telerama.fr/104x104/60/0000/00/01/clear-78.png" tvg-chno="14",France 4
 https://raw.githubusercontent.com/Sibprod/streams/main/ressources/ftv/py/France4.m3u8
