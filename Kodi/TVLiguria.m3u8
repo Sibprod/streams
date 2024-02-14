@@ -392,10 +392,10 @@ https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S75007890/MUGHuxc9dQ3b/p
 #EXTINF:-1 tvg-id="RTL1025TVDoc.it" tvg-logo="https://i.imgur.com/1gAeWPP.png" tvg-chno="36",RTL 102.5 Doc
 https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S51100361/0Fb4R3k82b5Z/playlist_video.m3u8
 #EXTGRP:Radiovision;Musique;HBBTV
-#EXTINF:-1 tvg-id="RTL1025TVDoc.it" tvg-logo="https://i.imgur.com/jFD0oOD.png" tvg-chno="36",RTL 102.5 Napulè
+#EXTINF:-1 tvg-id="RTL1025TVNapule.it" tvg-logo="https://i.imgur.com/jFD0oOD.png" tvg-chno="36",RTL 102.5 Napulè
 https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S27134503/0f9AhuwKlhnZ/playlist_video.m3u8
 #EXTGRP:Radiovision;Musique;HBBTV
-#EXTINF:-1 tvg-id="RTL1025TVRomeoandJuliet.it" tvg-logo="https://www.phonostar.de/images/auto_created/rtl_1025_romeo184x184.png" tvg-chno="36",RTL 102.5 Romeo & Juliet
+#EXTINF:-1 tvg-id="RTL1025TVCaliente.it" tvg-logo="https://cloud.rtl.it/assets/play.rtl.it/2.0.146/img/broadcaster/TV/44.svg.png" tvg-chno="36",RTL 102.5 Romeo & Juliet
 https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S8448465/zTYa1Z5Op9ue/playlist_video.m3u8
 #EXTGRP:Sport;HBBTV
 #EXTINF:-1 tvg-id="Sportitalia24.it" tvg-logo="https://net-static.tcccdn.com/template/sportitalia.com/img/streaming/si_live24.png" tvg-chno="60",Sportitalia (Live 24)
@@ -422,11 +422,11 @@ http://77.68.40.210:8888/hls/cronache.m3u8
 #EXTINF:-1 tvg-id="YesTVItalia.it" tvg-logo="https://i.imgur.com/3CDxatu.png" tvg-chno="68",TV Yes Italia
 https://5f22d76e220e1.streamlock.net/canale3/canale3/playlist.m3u8
 #EXTGRP:Musique;HBBTV
+#EXTINF:-1 tvg-id="ZerounoTVNews.it" tvg-logo="https://i0.wp.com/www.zerounotv.it/wp-content/uploads/2021/07/cropped-cropped-cropped-Logo-per-streaming-1920-x-1080-per-facebook-2-768x153-1.png?w=768&ssl=1" tvg-chno="68",Zerouno TV News
+https://5f22d76e220e1.streamlock.net/01news/01news/playlist.m3u8
+#EXTGRP:Information;HBBTV
 #EXTINF:-1 tvg-id="Zerounomusic.it" tvg-logo="https://i.imgur.com/RMPVvGR.png" tvg-chno="68",Zerouno TV Music 
-http://5db313b643fd8.streamlock.net:1935/ZerounoTV/ZerounoTV/playlist.m3u8
-#EXTGRP:Informations;HBBTV
-#EXTINF:-1 tvg-id="ZerounoTVNews.it" tvg-logo=" " tvg-chno="68",Zerouno TV News
-https://5db313b643fd8.streamlock.net/ZerounoTVEventi/ZerounoTVEventi/playlist.m3u8
+https://5f22d76e220e1.streamlock.net/zerounotvmusic/zerounotvmusic/playlist.m3u8
 
 #EXTGRP:Musique;Tivùsat
 #EXTINF:-1 tvg-id="RadioItaliaTrendTV.it" tvg-logo="https://i.imgur.com/0JzYwI4.png" tvg-chno="63",Radio Italia Trend
