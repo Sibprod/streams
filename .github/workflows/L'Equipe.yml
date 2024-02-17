@@ -1,4 +1,4 @@
-name: L'Equipe action
+name: LEquipe action
 
 on:
   schedule:
@@ -19,9 +19,9 @@ jobs:
       - name: config
         run: |
           git config --global user.email "<>"
-          git config --global user.name "L'Equipe bot"
+          git config --global user.name "LEquipe bot"
       
-      - name: updating L'Equipe
+      - name: updating LEquipe
         run: python3 ressources/dmotion/py/LEquipe/LEquipe.py > ressources/dmotion/py/LEquipe/LEquipe.m3u8
         
       - name: git add
@@ -32,5 +32,5 @@ jobs:
       - name: commit & push
         run: |
           git pull origin master
-          git commit -m "L'Equipe updated"
+          git commit -m "LEquipe updated"
           git push origin master
