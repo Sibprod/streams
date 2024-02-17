@@ -10,7 +10,7 @@ headers = {
 print('#EXTM3U')
 print('#EXT-X-STREAM-INF:BANDWIDTH=7680000')
 
-url = "http://s2.callofliberty.fr/direct/CSTAR/master.m3u8"
+url = "http://s2.callofliberty.fr/direct/TF1/master.m3u8"
 
 response = requests.get(url, headers=headers)
 
