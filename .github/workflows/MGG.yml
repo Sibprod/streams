@@ -1,0 +1,44 @@
+name: 111 TV
+
+on:
+  schedule:
+    - cron: '0 */4 * * *'
+  
+  workflow_dispatch:
+
+jobs:
+
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+
+      - uses: actions/checkout@v2
+
+       
+      - name: get config
+        run: |
+          git config --global user.email "<>"
+          git config --global user.name "Update"
+
+      
+      - name: grab twitch stream
+        run: |
+          pwd
+          cd ./core/platforms/
+          python3 twitch.py mgg_fr2 > ../../ressources/ttw/py/MGG2.m3u8
+
+        else:
+          pwd
+          cd ./core/platforms/
+          python3 twitch.py mgg_fr > ../../ressources/ttw/py/MGG.m3u8
+        
+      - name: adding everything
+        run: |
+          git add -A
+          ls -la 
+          
+      - name: commit & push
+        run: |
+          git commit -m "111 TV updated"
+          git push
