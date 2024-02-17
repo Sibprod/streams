@@ -19,7 +19,7 @@ jobs:
           git config --global user.name "LCI bot"
       
       - name: updating LCI
-        run: python3 ressources/btv/py/LCI.py > ressources/btv/py/LCI.m3u8
+        run: sh ressources/btv/py/LCI.sh
         
       - name: git add
         run: |
