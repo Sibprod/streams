@@ -1,6 +1,6 @@
 # This is a basic workflow to help you get started with Actions
 # Thanks to pshanmu3 user on github
-name: CStar action
+name: TF1 action
 
 # Controls when the workflow will run
 on:
@@ -26,10 +26,10 @@ jobs:
       - name: config
         run: |
           git config --global user.email "<>"
-          git config --global user.name "CStar bot"
+          git config --global user.name "TF1 bot"
       
-      - name: updating CStar
-        run: sh ressources/dmotion/py/Canal/CStar.sh
+      - name: updating TF1
+        run: sh ressources/btv/TF1.sh
         
       - name: git add
         run: |
@@ -38,5 +38,5 @@ jobs:
           
       - name: commit & push
         run: |
-          git commit -m "CStar updated"
+          git commit -m "TF1 updated"
           git push
