@@ -1,4 +1,4 @@
-name: 111 TV
+name: MGG
 
 on:
   schedule:
@@ -40,5 +40,5 @@ jobs:
           
       - name: commit & push
         run: |
-          git commit -m "111 TV updated"
+          git commit -m "MGG updated"
           git push
