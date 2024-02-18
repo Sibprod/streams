@@ -13,7 +13,7 @@ def snif(line):
     
     return m3u
 
-output_directory = 'ressources/btv/TF1Plus'
+output_directory = 'ressources/btv/'
 os.makedirs(output_directory, exist_ok=True)
 
 with open('ressources/btv/TF1Plus.txt') as f:
