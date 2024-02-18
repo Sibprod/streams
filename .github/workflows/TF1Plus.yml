@@ -1,4 +1,4 @@
-name: TF1+
+name: TF1Plus
 
 on:
   schedule:
@@ -16,7 +16,7 @@ jobs:
       - name: config
         run: |
           git config --global user.email "<>"
-          git config --global user.name "TF1+ bot"
+          git config --global user.name "TF1Plus bot"
       
       - name: grab m3u files
         run: python3 ressources/btv/TF1Plus.py
@@ -29,5 +29,5 @@ jobs:
       - name: commit & push
         run: |
           git pull
-          git commit -m "TF1+ updated"
+          git commit -m "TF1Plus updated"
           git push
