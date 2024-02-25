@@ -18,12 +18,12 @@ fr4_content=$(cat "$input_file" | sed 's/France_2/France_4/g; s/hls_fr2/hls_fr4/
 fr5_content=$(cat "$input_file" | sed 's/France_2/France_5/g; s/hls_fr2/hls_fr5/g')
 noa_content=$(cat "$input_file" | sed 's/France_2/Regions_noa/g; s/hls_fr2/hls_noa/g')
 fri_content=$(cat "$input_file" | sed 's/France_2/France_Info/g; s/hls_fr2/hls_monde_frinfo/g')
-gua_metro_content=$(cat "$input_file" | sed 's/France_2/1er_Guadeloupe/g; s/hls_fr2/hls_monde_gua/g')
-mar_metro_content=$(cat "$input_file" | sed 's/France_2/1er_Martinique/g; s/hls_fr2/hls_monde_mar/g')
-guy_metro_content=$(cat "$input_file" | sed 's/France_2/1er_Guyane/g; s/hls_fr2/hls_monde_guy/g')
-may_metro_content=$(cat "$input_file" | sed 's/France_2/1er_Mayotte/g; s/hls_fr2/hls_monde_may/g')
-reu_metro_content=$(cat "$input_file" | sed 's/France_2/1er_Reunion/g; s/hls_fr2/hls_monde_reu/g')
-nca_metro_content=$(cat "$input_file" | sed 's/France_2/1er_NC/g; s/hls_fr2/hls_monde_NC/g')
+gua_metro_content=$(cat "$input_file" | sed 's/France_2/1er_Guadeloupe/g; s/hls_fr2/hls_monde_1er_gua/g')
+mar_metro_content=$(cat "$input_file" | sed 's/France_2/1er_Martinique/g; s/hls_fr2/hls_monde_1er_mar/g')
+guy_metro_content=$(cat "$input_file" | sed 's/France_2/1er_Guyane/g; s/hls_fr2/hls_monde_1er_guy/g')
+may_metro_content=$(cat "$input_file" | sed 's/France_2/1er_Mayotte/g; s/hls_fr2/hls_monde_1er_may/g')
+reu_metro_content=$(cat "$input_file" | sed 's/France_2/1er_Reunion/g; s/hls_fr2/hls_monde_1er_reu/g')
+nca_metro_content=$(cat "$input_file" | sed 's/France_2/1er_NC/g; s/hls_fr2/hls_monde_1er_NC/g')
 
 echo "$fr3_content" > "$output_dir/France3.m3u8"
 echo "$fr4_content" > "$output_dir/France4.m3u8"
