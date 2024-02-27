@@ -16,7 +16,7 @@ def snif(line):
 output_directory = 'ressources/dm/py/hls'
 os.makedirs(output_directory, exist_ok=True)
 
-with open('ressources/dmotion/py/DMTV/DMTV.txt') as f:
+with open('ressources/dm/py/DMTV/DMTV.txt') as f:
     current_category = None
     for line in f:
         line = line.strip()
