@@ -1,0 +1,85 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="C445.api.telerama.fr" tvg-logo="https://s2.dmcdn.net/u/1YP551WAyost7D8IQ/120x120" group-title="Général",[FR_08] C8
+https://github.com/Sibprod/streams/raw/main/ressources/dm/py/hls/c8.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://s1.dmcdn.net/u/11mWs1bO7A-_EdSCu/120x120" group-title="Information",[FR_13] Public Sénat
+https://github.com/Sibprod/streams/raw/main/ressources/dm/py/hls/publicsenat.m3u8
+#EXTINF:-1 tvg-id="C226.api.telerama.fr" tvg-logo="https://s2.dmcdn.net/u/DhmL1btXUXUiYJNQ/120x120" group-title="Information",[FR_16] CNews
+https://github.com/Sibprod/streams/raw/main/ressources/dm/py/hls/cnews.m3u8
+#EXTINF:-1 tvg-id="C1402.api.telerama.fr" tvg-logo="https://s1.dmcdn.net/u/4XaYa1SL5P3RU_GCd/120x120" group-title="Général",[FR_23] RMC Story
+https://github.com/Sibprod/streams/raw/main/ressources/dm/py/hls/rmcstory.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://s1.dmcdn.net/u/4dvD01bc6pGUCdxYU/120x120" group-title="Locales",[FR_30] Angers Télé
+https://github.com/Sibprod/streams/raw/main/ressources/dm/py/hls/angerstele.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://s2.dmcdn.net/u/7fiM11W1elfKAeKOR/120x120" group-title="Lifestyle",[FR_31] N31
+https://github.com/Sibprod/streams/raw/main/ressources/dm/py/hls/n31.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Locales",[FR_33] ASTV
+https://github.com/Sibprod/streams/raw/main/ressources/twitch/hls/ASTV.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/1922e9e2-2c7a-48cd-9095-d5cd85562178-profile_image-70x70.png" group-title="Locales",[FR_33] LMTV Sarthe
+https://github.com/Sibprod/streams/raw/main/ressources/twitch/hls/LMTVSarthe.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/dba13720-7510-467e-b1bf-d09d8a01f32d-profile_image-70x70.png" group-title="Locales",[FR_33] Télévision Locale du Choletais
+https://github.com/Sibprod/streams/raw/main/ressources/twitch/hls/TLC.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/64e8bf3d-f86e-46a6-9874-978eac737828-profile_image-70x70.png" group-title="Locales",[FR_38] Télégrenoble Isère
+https://github.com/Sibprod/streams/raw/main/ressources/twitch/hls/Telegrenoble.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://s2.dmcdn.net/u/HT2x1bLFVCKZ1ymd/120x120" group-title="Information",[FR_501] France Inter
+https://github.com/Sibprod/streams/blob/main/ressources/dm/py/hls/franceinter.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://s1.dmcdn.net/u/c0lS1bLFavUQXP2i/120x120" group-title="Information",[FR_505] France Info
+https://github.com/Sibprod/streams/raw/main/ressources/dm/py/hls/franceinforadio.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://s1.dmcdn.net/u/14FVq1bLFl23xIdhU/120x120" group-title="Musique",[FR_506] Mouv'
+https://github.com/Sibprod/streams/raw/main/ressources/dm/py/hls/mouv.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://s2.dmcdn.net/u/1W-uR1bks066cYzpL/120x120" group-title="Information",[FR_513] Europe 1
+https://github.com/Sibprod/streams/raw/main/ressources/dm/py/hls/europe1.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://s2.dmcdn.net/u/1W-uR1bks066cYzpL/120x120" group-title="Général",[FR_521] RTL
+https://github.com/Sibprod/streams/raw/main/ressources/dm/py/hls/rtlfr.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://s2.dmcdn.net/u/1W-uR1bks066cYzpL/120x120" group-title="Musique",[FR_522] RTL 2
+https://github.com/Sibprod/streams/raw/main/ressources/dm/py/hls/rtl2fr.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://s2.dmcdn.net/u/2MYk91bkt3sf2IWAP/120x120" group-title="Musique",[FR_523] Fun Radio (France)
+https://github.com/Sibprod/streams/raw/main/ressources/dm/py/hls/funradiofr.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://s1.dmcdn.net/u/1Q7eQ1bkI2XSyFEDc/120x120" group-title="Information",[CH_09] Euronews (Français)
+https://github.com/Sibprod/streams/raw/main/ressources/dm/py/hls/euronewsfr.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://s1.dmcdn.net/u/7gff81TbTGM62obZa/120x120" group-title="Information",[CG_24] Africanews
+https://github.com/Sibprod/streams/raw/main/ressources/dm/py/hls/africanewsfr.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://s1.dmcdn.net/u/9KMc21ZMjS4oRbiNI/120x120" group-title="Lifestyle",[CG_31] EMCI (Afrique)
+https://github.com/Sibprod/streams/raw/main/ressources/dm/py/hls/emciafrique.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://s1.dmcdn.net/u/9X5221Z_Sdmrru_C0/120x120" group-title="Locales",[IT_12] Sardegna 1
+https://github.com/Sibprod/streams/raw/main/ressources/dm/py/hls/sardegna1.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://s1.dmcdn.net/u/7b6Yk1bqC4owAysl4/120x120" group-title="Information",[IT_59] Euronews (Italiano)
+https://github.com/Sibprod/streams/raw/main/ressources/dm/py/hls/euronewsit.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/078dde30-0fd4-4834-a888-24e67a148297-profile_image-70x70.png" group-title="Information",[IT_68] Zerouno TV
+https://github.com/Sibprod/streams/raw/main/ressources/twitch/hls/ZerounoTV.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/b2490e59-6a6a-4e91-a9ba-f7e5e63370c5-profile_image-70x70.png" group-title="Locales",[IT_111] 111 TV
+https://github.com/Sibprod/streams/raw/main/ressources/twitch/hls/111TV.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/641cafd7-f571-4581-899f-e5b90f293687-profile_image-70x70.png" group-title="Lifestyle",[IT_133] Arte Investimenti
+https://github.com/Sibprod/streams/raw/main/ressources/twitch/hls/Arteinvestimenti.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/8aef2a41-b2e5-41ec-9b11-229d88fda200-profile_image-70x70.png" group-title="Radiovision",[IT_192] Radio JukeBox Torino TV
+https://github.com/Sibprod/streams/raw/main/ressources/twitch/hls/Radiojukebox.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://s1.dmcdn.net/u/7b6Yk1bqC4owAysl4/120x120" group-title="Radiovision",Arabel
+https://github.com/Sibprod/streams/raw/main/ressources/dm/py/hls/arabel.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://s2.dmcdn.net/u/8W2l91Z1sf6jI2bLO/120x120" group-title="Information",B Smart
+https://github.com/Sibprod/streams/raw/main/ressources/dm/py/hls/bsmart.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/0eba5085-f93f-4f84-bd0b-bf132e495e3e-profile_image-70x70.png" group-title="Locales",FM 93 Québec
+https://github.com/Sibprod/streams/raw/main/ressources/twitch/hls/FM93Quebec.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://s2.dmcdn.net/u/2MYk91bkt3sf2IWAP/120x120" group-title="Radiovision",Fun Radio (Belgique)
+https://github.com/Sibprod/streams/raw/main/ressources/dm/py/hls/funradiobe.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/18c6b431-c3db-4ac8-92bd-104554a2bb95-profile_image-70x70.png" group-title="Musique",Guadeloupe 4 TV
+https://github.com/Sibprod/streams/raw/main/ressources/twitch/hls/Guadeloupe4TV.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://s1.dmcdn.net/u/7ROBk1Zr7kiklUQeW/120x120" group-title="Radiovision",Guinée Buzz
+https://github.com/Sibprod/streams/raw/main/ressources/dm/py/hls/guineebuzz.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://s1.dmcdn.net/u/9gT3A1aF_7vaVdNDc/120x120" group-title="Information",Le Média
+https://github.com/Sibprod/streams/raw/main/ressources/dm/py/hls/lemedia.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/245dc4fe-390b-400b-bb97-844a2a9ac192-profile_image-70x70.png" group-title="Radiovision",Lor'FM
+https://github.com/Sibprod/streams/raw/main/ressources/twitch/hls/LorFM.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://s1.dmcdn.net/u/8vkDy1W6-hQdvqLRR/120x120" group-title="Découverte",Lyon Capitale TV
+https://github.com/Sibprod/streams/raw/main/ressources/dm/py/hls/lyoncapitale.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo=" " group-title="Musique",M Le Media
+https://github.com/Sibprod/streams/raw/main/ressources/dm/py/hls/mlemedia.m3u8
+#EXTINF:-1 tvg-id="MaisonettravauxTV.fr" tvg-logo="https://s1.dmcdn.net/u/9J-RE1XYfDdi5EWiV/120x120" group-title="Lifestyle",Maison & Travaux TV
+https://github.com/Sibprod/streams/raw/main/ressources/dm/py/hls/maisonettravaux.m3u8
+#EXTINF:-1 tvg-id="MaisonettravauxTV.fr" tvg-logo="https://s1.dmcdn.net/u/2I4XM1WsOzSbM8vCQ/120x120" group-title="Lifestyle",Men's Up TV
+https://github.com/Sibprod/streams/raw/main/ressources/dm/py/hls/mensuptv.m3u8
+
+https://github.com/Sibprod/streams/blob/main/ressources/dm/py/hls/sportenfrance.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/28071841-c617-44cc-91bf-7d3ad0dfb938-profile_image-70x70.png" group-title="Locales",Tahiti Webradio
+https://github.com/Sibprod/streams/raw/main/ressources/twitch/hls/Tahitiwebradio.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/6758ed4e-60e3-4913-9875-e49c9127560b-profile_image-70x70.png" group-title="Musique",TV538
+https://github.com/Sibprod/streams/raw/main/ressources/twitch/hls/TV538.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/4c2f908d-01d0-4ea0-9089-f3477dd89015-profile_image-70x70.jpeg" group-title="Locales",Valloire TV
+https://github.com/Sibprod/streams/raw/main/ressources/twitch/hls/ValloireTV.m3u8
