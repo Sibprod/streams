@@ -26,7 +26,7 @@ jobs:
         run: |
           pwd
           cd ./core/platforms/
-          python3 twitch.py tlccholet > ../../ressources/twitch/py/hls/TLC.m3u8
+          python3 twitch.py tlccholet > ../../ressources/twitch/hls/TLC.m3u8
         
       - name: adding everything
         run: |
