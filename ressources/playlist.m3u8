@@ -41,6 +41,8 @@ https://github.com/Sibprod/streams/raw/main/ressources/dm/py/hls/angerstele.m3u8
 https://github.com/Sibprod/streams/raw/main/ressources/dm/py/hls/n31.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://s1.dmcdn.net/u/H9UA1bMXdQWIRJiX/120x120" group-title="Locales",[FR_31] Télénantes 
 https://github.com/Sibprod/streams/raw/main/ressources/dm/py/hls/telenantes.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo=" " group-title="Locales",[FR_31] viàOccitanie
+https://lives.digiteka.com/stream/9c424a1c-d202-465c-84e1-3efb89a43fee/index.m3u8
 #EXTINF:-1 tvg-id="C701.api.telerama.fr" tvg-logo="https://github.com/Sibprod/SibTV/raw/main/assets/20minutes.png" group-title="Divertissement",[FR_32] 20 Minutes TV IDF
 https://lives.digiteka.com/stream/86d3e867-a272-496b-8412-f59aa0104771/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Locales",[FR_33] ASTV
