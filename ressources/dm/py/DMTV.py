@@ -13,7 +13,7 @@ def snif(line):
     
     return m3u
 
-output_directory = 'ressources/dmotion/py/DMTV'
+output_directory = 'ressources/dm/py/hls'
 os.makedirs(output_directory, exist_ok=True)
 
 with open('ressources/dmotion/py/DMTV/DMTV.txt') as f:
