@@ -1,44 +1,102 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="C4.api.telerama.fr" tvg-logo="https://github.com/Sibprod/SibTV/raw/main/assets/France2.png" group-title="Général",[FR_02] France 2
+https://github.com/Sibprod/streams/raw/main/ressources/ftv/py/France2.m3u8
+#EXTINF:-1 tvg-id="C80.api.telerama.fr" tvg-logo="https://github.com/Sibprod/SibTV/raw/main/assets/France3.png" group-title="Général",[FR_03] France 3
+https://github.com/Sibprod/streams/raw/main/ressources/ftv/py/France3.m3u8
+#EXTINF:-1 tvg-id="C34.api.telerama.fr" tvg-logo="https://github.com/Sibprod/SibTV/raw/main/assets/Canalplus.png" group-title="Général",[FR_04] Canal+
+https://hls-m007-live-aka-canalplus.akamaized.net/live/disk/canalplusclair-hd/hls-v3-hd-clair/canalplusclair-hd.m3u8
+#EXTINF:-1 tvg-id="C47.api.telerama.fr" tvg-logo="https://github.com/Sibprod/SibTV/raw/main/assets/France5.png" group-title="Découverte",[FR_05] France 5
+https://github.com/Sibprod/streams/raw/main/ressources/ftv/py/France5.m3u8
+#EXTINF:-1 tvg-id="C118.api.telerama.fr" tvg-logo="https://github.com/Sibprod/SibTV/raw/main/assets/M6.png" group-title="Général",[FR_06] M6
+https://shls-m6-france-prod-dub.shahid.net/out/v1/c8a9f6e000cd4ebaa4d2fc7d18c15988/index.m3u8
+#EXTINF:-1 tvg-id="C111.api.telerama.fr" tvg-logo="https://github.com/Sibprod/SibTV/raw/main/assets/ARTE.png" group-title="Général",[FR_07] ARTE
+https://artesimulcast.akamaized.net/hls/live/2031003/artelive_fr/index.m3u8
 #EXTINF:-1 tvg-id="C445.api.telerama.fr" tvg-logo="https://s2.dmcdn.net/u/1YP551WAyost7D8IQ/120x120" group-title="Général",[FR_08] C8
 https://github.com/Sibprod/streams/raw/main/ressources/dm/py/hls/c8.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://s1.dmcdn.net/u/11mWs1bO7A-_EdSCu/120x120" group-title="Information",[FR_13] Public Sénat
+#EXTINF:-1 tvg-id="C195.api.telerama.fr" tvg-logo="https://github.com/Sibprod/SibTV/raw/main/assets/TMC.png" group-title="Divertissement",[FR_10] TMC
+https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/btv/py/tmc1.m3u8
+#EXTINF:-1 tvg-id="C444.api.telerama.fr" tvg-logo="https://github.com/Sibprod/SibTV/raw/main/assets/NRJ12.png" group-title="Divertissement",[FR_12] NRJ 12
+https://nrj12.nrjaudio.fm/hls/live/2038374/nrj_12/master.m3u8
+#EXTINF:-1 tvg-id="C234.api.telerama.fr" tvg-logo="https://s1.dmcdn.net/u/11mWs1bO7A-_EdSCu/120x120" group-title="Information",[FR_13] Public Sénat
 https://github.com/Sibprod/streams/raw/main/ressources/dm/py/hls/publicsenat.m3u8
+#EXTINF:-1 tvg-id="C78.api.telerama.fr" tvg-logo="https://github.com/Sibprod/SibTV/raw/main/assets/France4.png" group-title="Divertissement",[FR_14] France 4
+https://github.com/Sibprod/streams/raw/main/ressources/ftv/py/France4.m3u8
+#EXTINF:-1 tvg-id="C481.api.telerama.fr" tvg-logo="https://s2.dmcdn.net/u/p7an1Z37jUZhGCqf/120x120" group-title="Information",[FR_15] BFM TV
+https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_TV/index.m3u8?start=LIVE&end=END
 #EXTINF:-1 tvg-id="C226.api.telerama.fr" tvg-logo="https://s2.dmcdn.net/u/DhmL1btXUXUiYJNQ/120x120" group-title="Information",[FR_16] CNews
 https://github.com/Sibprod/streams/raw/main/ressources/dm/py/hls/cnews.m3u8
+#EXTINF:-1 tvg-id="C482.api.telerama.fr" tvg-logo="https://github.com/Sibprod/SibTV/raw/main/assets/Gulli.png" group-title="Jeunesse",[FR_18] Gulli
+https://github.com/Sibprod/streams/raw/main/ressources/RTLfr/Gulli.m3u8
 #EXTINF:-1 tvg-id="C1402.api.telerama.fr" tvg-logo="https://s1.dmcdn.net/u/4XaYa1SL5P3RU_GCd/120x120" group-title="Général",[FR_23] RMC Story
 https://github.com/Sibprod/streams/raw/main/ressources/dm/py/hls/rmcstory.m3u8
+#EXTINF:-1 tvg-id="C1399.api.telerama.fr" tvg-logo="https://github.com/Sibprod/SibTV/raw/main/assets/Cherie25.png" group-title="Divertissement",[FR_25] Chérie 25
+https://cherie25.nrjaudio.fm/hls/live/2038375/c25/master.m3u8
+#EXTINF:-1 tvg-id="C112.api.telerama.fr" tvg-logo="https://github.com/Sibprod/SibTV/raw/main/assets/LCI.png" group-title="Information",[FR_26] LCI
+https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/btv/py/lci1.m3u8
+#EXTINF:-1 tvg-id="C2111.api.telerama.fr" tvg-logo="https://github.com/Sibprod/SibTV/raw/main/assets/Franceinfo.png" group-title="Information",[FR_27] France Info
+https://github.com/Sibprod/streams/raw/main/ressources/ftv/py/FranceInfo.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://s1.dmcdn.net/u/4dvD01bc6pGUCdxYU/120x120" group-title="Locales",[FR_30] Angers Télé
 https://github.com/Sibprod/streams/raw/main/ressources/dm/py/hls/angerstele.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://s2.dmcdn.net/u/7fiM11W1elfKAeKOR/120x120" group-title="Lifestyle",[FR_31] N31
 https://github.com/Sibprod/streams/raw/main/ressources/dm/py/hls/n31.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://s1.dmcdn.net/u/H9UA1bMXdQWIRJiX/120x120" group-title="Locales",[FR_31] Télénantes 
+https://github.com/Sibprod/streams/raw/main/ressources/dm/py/hls/telenantes.m3u8
+#EXTINF:-1 tvg-id="C701.api.telerama.fr" tvg-logo="https://github.com/Sibprod/SibTV/raw/main/assets/20minutes.png" group-title="Divertissement",[FR_32] 20 Minutes TV IDF
+https://lives.digiteka.com/stream/86d3e867-a272-496b-8412-f59aa0104771/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Locales",[FR_33] ASTV
 https://github.com/Sibprod/streams/raw/main/ressources/twitch/hls/ASTV.m3u8
+#EXTINF:-1 tvg-id="C529.api.telerama.fr" tvg-logo="https://github.com/Sibprod/SibTV/raw/main/assets/France24.png" group-title="Information",[FR_33] France 24
+https://ythls.armelin.one/channel/UCCCPCZNChQdGa9EkATeye4g.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/1922e9e2-2c7a-48cd-9095-d5cd85562178-profile_image-70x70.png" group-title="Locales",[FR_33] LMTV Sarthe
 https://github.com/Sibprod/streams/raw/main/ressources/twitch/hls/LMTVSarthe.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/dba13720-7510-467e-b1bf-d09d8a01f32d-profile_image-70x70.png" group-title="Locales",[FR_33] Télévision Locale du Choletais
 https://github.com/Sibprod/streams/raw/main/ressources/twitch/hls/TLC.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/hcPj99k/fgro.png" group-title="Découverte",[FR_34] Le Figaro TV (IdF)
+https://static.lefigaro.fr/secom/tnt.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/64e8bf3d-f86e-46a6-9874-978eac737828-profile_image-70x70.png" group-title="Locales",[FR_38] Télégrenoble Isère
 https://github.com/Sibprod/streams/raw/main/ressources/twitch/hls/Telegrenoble.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo="https://github.com/Sibprod/SibTV/raw/main/assets/MaurienneTV.jpg" group-title="Locales",[FR_40] Maurienne TV
+https://ythls.armelin.one/channel/UCva-htH2wvmKsG6SkcEJ4Vw.m3u8
+#EXTINF:-1 tvg-id="C145.api.telerama.fr" tvg-logo="https://github.com/Sibprod/SibTV/raw/main/assets/Parispremiere.png" group-title="Divertissement",[FR_41] Paris Première
+https://github.com/Sibprod/streams/raw/main/ressources/RTLfr/ParisPremiere.m3u8
+#EXTINF:-1 tvg-id="C308.api.telerama.fr" tvg-logo="https://github.com/Sibprod/SibTV/raw/main/assets/Viastella.png" group-title="Général",[FR_324] Via Stella
+https://github.com/Sibprod/streams/raw/main/ressources/ftv/py/France3_Corse-ViaStella.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo="https://github.com/Sibprod/SibTV/raw/main/assets/NoA.png" group-title="Découverte",[FR_325] NoA
+https://github.com/Sibprod/streams/raw/main/ressources/ftv/py/France3_NoA.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://s2.dmcdn.net/u/HT2x1bLFVCKZ1ymd/120x120" group-title="Information",[FR_501] France Inter
-https://github.com/Sibprod/streams/blob/main/ressources/dm/py/hls/franceinter.m3u8
+https://github.com/Sibprod/streams/raw/main/ressources/dm/py/hls/franceinter.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://s1.dmcdn.net/u/c0lS1bLFavUQXP2i/120x120" group-title="Information",[FR_505] France Info
 https://github.com/Sibprod/streams/raw/main/ressources/dm/py/hls/franceinforadio.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://s1.dmcdn.net/u/14FVq1bLFl23xIdhU/120x120" group-title="Musique",[FR_506] Mouv'
 https://github.com/Sibprod/streams/raw/main/ressources/dm/py/hls/mouv.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://s2.dmcdn.net/u/1W-uR1bks066cYzpL/120x120" group-title="Information",[FR_513] Europe 1
 https://github.com/Sibprod/streams/raw/main/ressources/dm/py/hls/europe1.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://s2.dmcdn.net/u/1W-uR1bks066cYzpL/120x120" group-title="Général",[FR_521] RTL
+#EXTINF:-1 tvg-id="" tvg-logo="https://s2.dmcdn.net/u/1ERZ11bRUsDAA46-r/120x120" group-title="Information",[FR_517] Sud Radio
+https://github.com/Sibprod/streams/raw/main/ressources/dm/py/hls/sudradio.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://s2.dmcdn.net/u/s-ur1bkt2D1D5yFW/120x120" group-title="Général",[FR_521] RTL
 https://github.com/Sibprod/streams/raw/main/ressources/dm/py/hls/rtlfr.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://s2.dmcdn.net/u/1W-uR1bks066cYzpL/120x120" group-title="Musique",[FR_522] RTL 2
+#EXTINF:-1 tvg-id="" tvg-logo="https://s1.dmcdn.net/u/2MjtK1bkt3HWJo3ju/120x120" group-title="Musique",[FR_522] RTL 2
 https://github.com/Sibprod/streams/raw/main/ressources/dm/py/hls/rtl2fr.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://s2.dmcdn.net/u/2MYk91bkt3sf2IWAP/120x120" group-title="Musique",[FR_523] Fun Radio (France)
 https://github.com/Sibprod/streams/raw/main/ressources/dm/py/hls/funradiofr.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo="https://github.com/Sibprod/SibTV/raw/main/assets/AlpedhuezTV.jpg" group-title="Découverte",[FR_801] Alpe d'Huez TV
+https://livevideo.vedge.infomaniak.com/livecast/adhtv/chunklist.m3u8
+#EXTINF:-1 tvg-id="C .api.telerama.fr" tvg-logo="https://github.com/Sibprod/SibTV/raw/main/assets/TVMonaco.png" group-title="Général",[MC_71] TV Monaco
+https://production-fast-mcrtv.content.okast.tv/channels/2116dc08-1959-465d-857f-3619daefb66b/b702b2b9-aebd-436c-be69-2118f56f3d86/2025/media.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://github.com/Sibprod/SibTV/raw/main/assets/RTLtvi.png" group-title="Général",[BE_03] RTL tvi
+https://github.com/Sibprod/streams/raw/main/ressources/RTLbe/RTLtvi.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://github.com/Sibprod/SibTV/raw/main/assets/RTLclub.png" group-title="Divertissement",[BE_04] RTL club
+https://github.com/Sibprod/streams/raw/main/ressources/RTLbe/RTLclub.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://github.com/Sibprod/SibTV/raw/main/assets/RTLplug.png" group-title="Divertissement",[BE_05] RTL plug
+https://github.com/Sibprod/streams/raw/main/ressources/RTLbe/RTLplug.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://s1.dmcdn.net/u/1Q7eQ1bkI2XSyFEDc/120x120" group-title="Information",[CH_09] Euronews (Français)
 https://github.com/Sibprod/streams/raw/main/ressources/dm/py/hls/euronewsfr.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://s1.dmcdn.net/u/7gff81TbTGM62obZa/120x120" group-title="Information",[CG_24] Africanews
 https://github.com/Sibprod/streams/raw/main/ressources/dm/py/hls/africanewsfr.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://s1.dmcdn.net/u/9KMc21ZMjS4oRbiNI/120x120" group-title="Lifestyle",[CG_31] EMCI (Afrique)
 https://github.com/Sibprod/streams/raw/main/ressources/dm/py/hls/emciafrique.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://s2.dmcdn.net/u/4rBRN1WTOxngxADqH/120x120" group-title="Lifestyle",[SN_03] TFM 
+https://github.com/Sibprod/streams/raw/main/ressources/dm/py/hls/tfm.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://s1.dmcdn.net/u/9X5221Z_Sdmrru_C0/120x120" group-title="Locales",[IT_12] Sardegna 1
 https://github.com/Sibprod/streams/raw/main/ressources/dm/py/hls/sardegna1.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://s1.dmcdn.net/u/7b6Yk1bqC4owAysl4/120x120" group-title="Information",[IT_59] Euronews (Italiano)
@@ -55,6 +113,8 @@ https://github.com/Sibprod/streams/raw/main/ressources/twitch/hls/Radiojukebox.m
 https://github.com/Sibprod/streams/raw/main/ressources/dm/py/hls/arabel.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://s2.dmcdn.net/u/8W2l91Z1sf6jI2bLO/120x120" group-title="Information",B Smart
 https://github.com/Sibprod/streams/raw/main/ressources/dm/py/hls/bsmart.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo=" " group-title="Général",bel RTL
+https://github.com/Sibprod/streams/raw/main/ressources/RTLbe/BelRTL.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/0eba5085-f93f-4f84-bd0b-bf132e495e3e-profile_image-70x70.png" group-title="Locales",FM 93 Québec
 https://github.com/Sibprod/streams/raw/main/ressources/twitch/hls/FM93Quebec.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://s2.dmcdn.net/u/2MYk91bkt3sf2IWAP/120x120" group-title="Radiovision",Fun Radio (Belgique)
@@ -75,11 +135,23 @@ https://github.com/Sibprod/streams/raw/main/ressources/dm/py/hls/mlemedia.m3u8
 https://github.com/Sibprod/streams/raw/main/ressources/dm/py/hls/maisonettravaux.m3u8
 #EXTINF:-1 tvg-id="MaisonettravauxTV.fr" tvg-logo="https://s1.dmcdn.net/u/2I4XM1WsOzSbM8vCQ/120x120" group-title="Lifestyle",Men's Up TV
 https://github.com/Sibprod/streams/raw/main/ressources/dm/py/hls/mensuptv.m3u8
-
-https://github.com/Sibprod/streams/blob/main/ressources/dm/py/hls/sportenfrance.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo=" " group-title="Musique",Radio Contact (Belgique)
+https://github.com/Sibprod/streams/raw/main/ressources/RTLbe/Contactvision.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://s1.dmcdn.net/u/8idB01bSHUrT1FrRj/120x120" group-title="Général",RFM (Sénégal)
+https://github.com/Sibprod/streams/raw/main/ressources/dm/py/hls/rfmsn.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo=" " group-title="Divertissement",RTL play
+https://github.com/Sibprod/streams/raw/main/ressources/RTLbe/RTLPlay.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://s1.dmcdn.net/u/8Dz9c1btQJsDgPHgV/120x120" group-title="Sport",Sport En France
+https://github.com/Sibprod/streams/raw/main/ressources/dm/py/hls/sportenfrance.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/28071841-c617-44cc-91bf-7d3ad0dfb938-profile_image-70x70.png" group-title="Locales",Tahiti Webradio
 https://github.com/Sibprod/streams/raw/main/ressources/twitch/hls/Tahitiwebradio.m3u8
+#EXTINF:-1 tvg-id="C191.api.telerama.fr" tvg-logo="https://github.com/Sibprod/SibTV/raw/main/assets/Teva.png" group-title="Divertissement",Téva
+https://github.com/Sibprod/streams/raw/main/ressources/RTLfr/Teva.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://s1.dmcdn.net/u/4vcte1YCSMHgWzR-W/120x120" group-title="Lifestyle",Top Santé TV
+https://github.com/Sibprod/streams/raw/main/ressources/dm/py/hls/topsante.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/6758ed4e-60e3-4913-9875-e49c9127560b-profile_image-70x70.png" group-title="Musique",TV538
 https://github.com/Sibprod/streams/raw/main/ressources/twitch/hls/TV538.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://s1.dmcdn.net/u/4vcte1YCSMHgWzR-W/120x120" group-title="Locales",Ubiznews - OM5TV
+https://github.com/Sibprod/streams/raw/main/ressources/dm/py/hls/ubiznews.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/4c2f908d-01d0-4ea0-9089-f3477dd89015-profile_image-70x70.jpeg" group-title="Locales",Valloire TV
 https://github.com/Sibprod/streams/raw/main/ressources/twitch/hls/ValloireTV.m3u8
