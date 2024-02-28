@@ -123,6 +123,8 @@ https://github.com/Sibprod/streams/raw/main/ressources/RTLbe/RTLtvi.m3u8
 https://github.com/Sibprod/streams/raw/main/ressources/RTLbe/RTLclub.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://github.com/Sibprod/SibTV/raw/main/assets/RTLplug.png" group-title="Divertissement",[BE_05] RTL plug
 https://github.com/Sibprod/streams/raw/main/ressources/RTLbe/RTLplug.m3u8
+#EXTINF:-1 tvg-id="C303.api.telerama.fr" tvg-logo="https://github.com/Sibprod/SibTV/raw/main/assets/ABXplore.png" group-title="Découverte",[BE_15] ABXplore
+https://mdw-cji.akamaized.net/abxplore/hls/manifest.m3u8?hdnts=exp=1709187075~acl=/abxplore/hls/*~hmac=f574d7e3bc14be0b70cb53e23f4b074a7780ec5f168ee9b976b2f16c3d8cd35c
 #EXTINF:-1 tvg-id="LN24.be" tvg-logo="https://raw.githubusercontent.com/Sibprod/SibTV/main/assets/LN24.png" group-title="Information",[BE_18] LN24
 https://live-ln24.digiteka.com/1911668011/playlist.m3u8
 #EXTINF:-1 tvg-id="RougeTV.ch" tvg-logo="https://github.com/Sibprod/SibTV/raw/main/assets/CARAC1.jpg" group-title="Divertissement",[CH_04] Carac 1
