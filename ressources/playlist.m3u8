@@ -87,6 +87,10 @@ https://ott.tv5monde.com/Content/HLS/Live/channel(fbs)/index.m3u8
 https://github.com/Sibprod/streams/raw/main/ressources/RTLfr/Teva.m3u8
 #EXTINF:-1 tvg-id="C110.api.telerama.fr" tvg-logo="https://github.com/Sibprod/SibTV/raw/main/assets/KTO.png" group-title="Style de Vie",[FR_61] KTO
 https://live-kto.akamaized.net/hls/live/2033284/KTO/index.m3u8
+#EXTINF:-1 tvg-id="C1073.api.telerama.fr" tvg-logo="https://github.com/Sibprod/SibTV/raw/main/assets/Techandco.png" group-title="Information",[FR_81] Tech & Co
+https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_TECHANDCO/index.m3u8?start=LIVE&end=END
+#EXTINF:-1 tvg-id="C318.api.telerama.fr" tvg-logo="https://github.com/Sibprod/SibTV/raw/main/assets/CGTN.png" group-title="Découverte",[FR_87] CGTN (Français)
+http://news.cgtn.com/resource/live/french/cgtn-f.m3u8
 #EXTINF:-1 tvg-id="C308.api.telerama.fr" tvg-logo="https://github.com/Sibprod/SibTV/raw/main/assets/Viastella.png" group-title="Général",[FR_324] Via Stella
 https://github.com/Sibprod/streams/raw/main/ressources/ftv/py/France3_Corse-ViaStella.m3u8
 #EXTINF:-1 tvg-id=" " tvg-logo="https://github.com/Sibprod/SibTV/raw/main/assets/NoA.png" group-title="Découverte",[FR_325] NoA
@@ -119,6 +123,8 @@ https://github.com/Sibprod/streams/raw/main/ressources/RTLbe/RTLtvi.m3u8
 https://github.com/Sibprod/streams/raw/main/ressources/RTLbe/RTLclub.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://github.com/Sibprod/SibTV/raw/main/assets/RTLplug.png" group-title="Divertissement",[BE_05] RTL plug
 https://github.com/Sibprod/streams/raw/main/ressources/RTLbe/RTLplug.m3u8
+#EXTINF:-1 tvg-id="LN24.be" tvg-logo="https://raw.githubusercontent.com/Sibprod/SibTV/main/assets/LN24.png" group-title="Information",[BE_18] LN24
+https://live-ln24.digiteka.com/1911668011/playlist.m3u8
 #EXTINF:-1 tvg-id="RougeTV.ch" tvg-logo="https://github.com/Sibprod/SibTV/raw/main/assets/CARAC1.jpg" group-title="Divertissement",[CH_04] Carac 1
 https://livevideo.vedge.infomaniak.com/livecast/rougetv/master.m3u8
 #EXTINF:-1 tvg-id="OneTV.ch" tvg-logo="https://github.com/Sibprod/SibTV/raw/main/assets/CARAC2.jpg" group-title="Divertissement",[CH_05] Carac 2
@@ -157,6 +163,18 @@ https://github.com/Sibprod/streams/raw/main/ressources/twitch/hls/111TV.m3u8
 https://github.com/Sibprod/streams/raw/main/ressources/twitch/hls/Arteinvestimenti.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/8aef2a41-b2e5-41ec-9b11-229d88fda200-profile_image-70x70.png" group-title="Radiovision",[IT_192] Radio JukeBox Torino TV
 https://github.com/Sibprod/streams/raw/main/ressources/twitch/hls/Radiojukebox.m3u8
+#EXTINF:-1 tvg-id="C.api.telerama.fr" tvg-logo="https://github.com/Sibprod/SibTV/raw/main/assets/A12TV.png" group-title="Général",A12 TV
+https://video1.getstreamhosting.com:1936/8250/8250/playlist.m3u8
+#EXTINF:-1 tvg-id="C.api.telerama.fr" tvg-logo="https://github.com/Sibprod/SibTV/raw/main/assets/Ivoirechannel.png" group-title="Divertissement",Ivoire Channel
+https://video1.getstreamhosting.com:1936/8244/8244/playlist.m3u8
+#EXTINF:-1 tvg-id="C.api.telerama.fr" tvg-logo="https://github.com/Sibprod/SibTV/raw/main/assets/Cinemax.png" group-title="Cinéma et Séries",Ciné Max
+https://video1.getstreamhosting.com:1936/8432/8432/playlist.m3u8
+#EXTINF:-1 tvg-id="C.api.telerama.fr" tvg-logo="https://github.com/Sibprod/SibTV/raw/main/assets/Seriemax.png" group-title="Cinéma et Séries",Série Max
+https://video1.getstreamhosting.com:1936/8446/8446/playlist.m3u8
+#EXTINF:-1 tvg-id="C.api.telerama.fr" tvg-logo="https://github.com/Sibprod/SibTV/raw/main/assets/Novelachannel.png" group-title="Cinéma et Séries",Novela Channel
+https://video1.getstreamhosting.com:1936/8494/8494/playlist.m3u8
+#EXTINF:-1 tvg-id="C.api.telerama.fr" tvg-logo="https://github.com/Sibprod/SibTV/raw/main/assets/FitiniTV.png" group-title="Jeunesse",Fitini TV
+https://video1.getstreamhosting.com:1936/8492/8492/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://s1.dmcdn.net/u/7b6Yk1bqC4owAysl4/120x120" group-title="Radiovision",Arabel
 https://github.com/Sibprod/streams/raw/main/ressources/dm/py/hls/arabel.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://s2.dmcdn.net/u/8W2l91Z1sf6jI2bLO/120x120" group-title="Information",B Smart
@@ -177,10 +195,14 @@ https://github.com/Sibprod/streams/raw/main/ressources/dm/py/hls/guineebuzz.m3u8
 https://github.com/Sibprod/streams/raw/main/ressources/dm/py/hls/lemedia.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/245dc4fe-390b-400b-bb97-844a2a9ac192-profile_image-70x70.png" group-title="Radiovision",Lor'FM
 https://github.com/Sibprod/streams/raw/main/ressources/twitch/hls/LorFM.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo="https://github.com/Sibprod/SibTV/raw/main/assets/Lovewine.png" group-title="Style de Vie",Love Wine
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01821-lovetvchannels-lovewinefrance-lgfr/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://s1.dmcdn.net/u/8vkDy1W6-hQdvqLRR/120x120" group-title="Découverte",Lyon Capitale TV
 https://github.com/Sibprod/streams/raw/main/ressources/dm/py/hls/lyoncapitale.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo=" " group-title="Musique",M Le Media
 https://github.com/Sibprod/streams/raw/main/ressources/dm/py/hls/mlemedia.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo="https://i.ibb.co/6RYpdNz/m6int.png" group-title="Divertissement",M6 International
+https://shls-m6-int-prod-dub.shahid.net/out/v1/a315ab77ee7343a7a17dbe7e32eee3ba/index.m3u8
 #EXTINF:-1 tvg-id="MaisonettravauxTV.fr" tvg-logo="https://s1.dmcdn.net/u/9J-RE1XYfDdi5EWiV/120x120" group-title="Lifestyle",Maison & Travaux TV
 https://github.com/Sibprod/streams/raw/main/ressources/dm/py/hls/maisonettravaux.m3u8
 #EXTINF:-1 tvg-id=" " tvg-logo="https://github.com/Sibprod/SibTV/raw/main/assets/Martiniquela1ere.jpg" group-title="Général",Martinique La 1ère
