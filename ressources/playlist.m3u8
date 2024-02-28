@@ -81,7 +81,9 @@ https://github.com/Sibprod/streams/raw/main/ressources/RTLfr/Teva.m3u8
 https://live-kto.akamaized.net/hls/live/2033284/KTO/index.m3u8
 #EXTINF:-1 tvg-id="C6.api.telerama.fr" tvg-logo="https://focus.telerama.fr/0000/00/01/clear-6.png" group-title="Jeunesse",[FR_62] Mangas
 https://mdw-cji.akamaized.net/mangas/dash/manifest.mpd?hdnts=exp=1709211443~acl=/mangas/dash/*~hmac=4cc1e28f96b8b2d5ca7f302ce863c1a34de8c010ceb8ca21129125f94aeb71ea
-#EXTINF:-1 tvg-id="C .api.telerama.fr" tvg-logo="https://github.com/Sibprod/SibTV/raw/main/assets/TVMonaco.png" group-title="Général",[FR_71] TV Monaco
+#EXTINF:-1 tvg-id="Monacoinfo.mc" tvg-logo="http://www.mmd.mc/images/radio/mcinfo.png" group-title="Information" [MC_70] Monaco Info
+https://webtvmonacoinfo.mc/live/prod_720/index.m3u8
+#EXTINF:-1 tvg-id="C .api.telerama.fr" tvg-logo="https://github.com/Sibprod/SibTV/raw/main/assets/TVMonaco.png" group-title="Général",[MC_71] TV Monaco
 https://production-fast-mcrtv.content.okast.tv/channels/2116dc08-1959-465d-857f-3619daefb66b/b702b2b9-aebd-436c-be69-2118f56f3d86/2025/media.m3u8
 #EXTINF:-1 tvg-id="C38.api.telerama.fr" tvg-logo="https://focus.telerama.fr/0000/00/01/clear-38.png" group-title="Découverte",[FR_72] Chasse & Pêche
 https://mdw-cji.akamaized.net/chassepeche/dash/manifest.mpd?hdnts=exp=1709211443~acl=/chassepeche/dash/*~hmac=4cc1e28f96b8b2d5ca7f302ce863c1a34de8c010ceb8ca21129125f94aeb71ea
@@ -155,13 +157,18 @@ https://github.com/Sibprod/streams/raw/main/ressources/dm/py/hls/rtlfr.m3u8
 https://github.com/Sibprod/streams/raw/main/ressources/dm/py/hls/rtl2fr.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://s2.dmcdn.net/u/2MYk91bkt3sf2IWAP/120x120" group-title="Musique",[FR_523] Fun Radio (France)
 https://github.com/Sibprod/streams/raw/main/ressources/dm/py/hls/funradiofr.m3u8
-
+#EXTINF:-1 tvg-id="" tvg-logo="https://github.com/Sibprod/SibTV/raw/main/assets/RTBF1.png" group-title="Général",[BE_01] La Une
+http://pro.one-iptv.com:25443/live/7772544854/9GTNL11788/17062.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://github.com/Sibprod/SibTV/raw/main/assets/RTBF2.png" group-title="Général",[BE_02] Tipik
+http://pro.one-iptv.com:25443/live/7772544854/9GTNL11788/17064.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://github.com/Sibprod/SibTV/raw/main/assets/RTLtvi.png" group-title="Général",[BE_03] RTL tvi
 https://github.com/Sibprod/streams/raw/main/ressources/RTLbe/RTLtvi.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://github.com/Sibprod/SibTV/raw/main/assets/RTLclub.png" group-title="Divertissement",[BE_04] RTL club
 https://github.com/Sibprod/streams/raw/main/ressources/RTLbe/RTLclub.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://github.com/Sibprod/SibTV/raw/main/assets/RTLplug.png" group-title="Divertissement",[BE_05] RTL plug
 https://github.com/Sibprod/streams/raw/main/ressources/RTLbe/RTLplug.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://github.com/Sibprod/SibTV/raw/main/assets/RTBF3.png" group-title="Général",[BE_06] La Trois
+http://pro.one-iptv.com:25443/live/7772544854/9GTNL11788/17063.m3u8
 #EXTINF:-1 tvg-id="C303.api.telerama.fr" tvg-logo="https://github.com/Sibprod/SibTV/raw/main/assets/ABXplore.png" group-title="Découverte",[BE_15] ABXplore
 https://mdw-cji.akamaized.net/abxplore/hls/manifest.m3u8?hdnts=exp=1709187075~acl=/abxplore/hls/*~hmac=f574d7e3bc14be0b70cb53e23f4b074a7780ec5f168ee9b976b2f16c3d8cd35c
 #EXTINF:-1 tvg-id="LN24.be" tvg-logo="https://raw.githubusercontent.com/Sibprod/SibTV/main/assets/LN24.png" group-title="Information",[BE_18] LN24
