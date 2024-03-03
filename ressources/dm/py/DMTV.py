@@ -4,7 +4,7 @@ import os
 def snif(line):
     try:
         idvideo = line.split('/')[-1]
-        url = f'https://www.dailymotion.com/player/metadata/video/{idvideo}?locale=fr&dmV1st=0792f11c-7de2-4511-b907-c7d16ae5bc6b&dmTs=79732&is_nativ'
+        url = f'https://www.dailymotion.com/player/metadata/video/{idvideo}'
         response = requests.get(url).json()
         stream_url = response['qualities']['auto'][0]['url']
         m3u = requests.get(stream_url).text
