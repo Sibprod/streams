@@ -16,7 +16,7 @@ def get_dailymotion_streams(video_id: str):
         Exception: If an error occurs while retrieving the streams.
     """
     try:
-        url = https://www.dailymotion.com/player/metadata/video/{video_id}'
+        url = https://www.dailymotion.com/player/metadata/video/{video_id}?locale=fr&dmV1st=0792f11c-7de2-4511-b907-c7d16ae5bc6b&dmTs=79732&is_nativ'
         response = requests.get(url).json()
         stream_url = response['qualities']['auto'][0]['url']
         m3u = requests.get(stream_url).text
