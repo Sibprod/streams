@@ -1,0 +1,36 @@
+name: CStar action
+
+on:
+  schedule:
+    - cron: '46 */6 * * *'
+  
+  workflow_dispatch:
+
+jobs:
+
+  build:
+
+    runs-on: ubuntu-latest
+
+    steps:
+
+      - uses: actions/checkout@v3
+
+      - name: config
+        run: |
+          git config --global user.email "<>"
+          git config --global user.name "CStar bot"
+      
+      - name: updating CStar
+        run: python3 ressources/dm/py/CStar.py > ressources/dm/py/CStar.m3u8
+        
+      - name: git add
+        run: |
+          git add -A
+          ls -la 
+          
+      - name: commit & push
+        run: |
+          git pull origin master
+          git commit -m "CStar updated"
+          git push origin master
