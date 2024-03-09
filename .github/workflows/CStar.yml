@@ -19,7 +19,7 @@ jobs:
       - name: config
         run: |
           git config --global user.email "<>"
-          git config --global user.name "CStar bot"
+          git config --global user.name "<>"
       
       - name: updating CStar
         run: python3 ressources/dm/py/CStar.py > ressources/dm/py/CStar.m3u8
