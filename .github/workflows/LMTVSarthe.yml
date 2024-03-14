@@ -26,7 +26,7 @@ jobs:
         run: |
           pwd
           cd ./core/platforms/
-          python3 twitch.py lmtvsarthe > ../../ressources/twitch/hls/LMTVSarthe.m3u8
+          python3 twitch.py lmtv_sarthe > ../../ressources/twitch/hls/LMTVSarthe.m3u8
         
       - name: adding everything
         run: |
