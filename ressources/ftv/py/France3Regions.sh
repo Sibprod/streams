@@ -1,7 +1,7 @@
 #!/bin/bash
 
-input_file="hls/France3_IleDeFrance.m3u8"
-output_dir="hls/FTV/py"
+input_file="ressources/ftv/py/France3_IleDeFrance.m3u8"
+output_dir="ressources/ftv/py"
 
 if [ ! -f "$input_file" ]; then
     echo "Input file $input_file not found!"
