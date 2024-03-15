@@ -35,7 +35,7 @@ jobs:
       - name: actualisation des flux
         run: |
           pwd
-          python3 TF1/TF1.py "https://mediainfo.tf1.fr/mediainfocombo/L_TF1" > hls/TF1.m3u8
+          python3 TF1/TF1.py "https://mediainfo.tf1.fr/mediainfocombo/L_TF1" > TF1/TF1.m3u8
           
           
    
