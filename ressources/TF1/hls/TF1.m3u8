@@ -1,8 +1,0 @@
-#EXTM3U
-#EXT-X-VERSION:3
-#EXT-X-TARGETDURATION:12
-#EXT-X-MEDIA-SEQUENCE:0
-#EXTINF:12.000000,
-https://github.com/BG47510/Zap/raw/main/assets/error.ts
-#EXT-X-ENDLIST
-
