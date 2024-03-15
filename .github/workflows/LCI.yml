@@ -1,4 +1,4 @@
-name: bouy1
+name: LCI
 
 # Actualisation du flux toutes les 4 heures à la 2ème minutes.
 on:
