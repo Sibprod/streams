@@ -1,13 +1,7 @@
 #EXTM3U
 #EXT-X-STREAM-INF:RESOLUTION=848x477,FRAME-RATE=30.000000,BANDWIDTH=1359872,CODECS="avc1.42001f,mp4a.40.2",NAME="480"
-https://stream-01.nyc.dailymotion.com/sec(SCEOt4M5U0fVbrIPRLL548thf3kgJ1PpkQS-ywozSIyqr7fUYN4n4xG6rUndolas)/dm/3/x7kvvgi/s/live-1.m3u8#cell=lnyc
-#EXT-X-STREAM-INF:RESOLUTION=848x477,FRAME-RATE=30.000000,BANDWIDTH=1359872,CODECS="avc1.42001f,mp4a.40.2",NAME="480"
-https://stream-04.nyc.dailymotion.com/sec(SCEOt4M5U0fVbrIPRLL548thf3kgJ1PpkQS-ywozSIyqr7fUYN4n4xG6rUndolas)/dm/3/x7kvvgi/s/live-1.m3u8#cell=lnyc
+https://live-b.cf.dmcdn.net/sec2(YcQOqqW5WNAR2fi0EsMoYwPP8UCyQznThQUGVMAcQHLs8fwfjECNN5yIxlkLmlh-A2lWajGd4vBXuR3xmFAjF5Bzlntyc4B0xLErFTgh8zI)/dm/3/x7kvvgi/s/live-1.m3u8#cell=lcfb
 #EXT-X-STREAM-INF:RESOLUTION=320x180,FRAME-RATE=30.000000,BANDWIDTH=475136,CODECS="avc1.42000d,mp4a.40.5",NAME="240"
-https://stream-01.nyc.dailymotion.com/sec(SCEOt4M5U0fVbrIPRLL548thf3kgJ1PpkQS-ywozSIyqr7fUYN4n4xG6rUndolas)/dm/3/x7kvvgi/s/live-0.m3u8#cell=lnyc
-#EXT-X-STREAM-INF:RESOLUTION=320x180,FRAME-RATE=30.000000,BANDWIDTH=475136,CODECS="avc1.42000d,mp4a.40.5",NAME="240"
-https://stream-04.nyc.dailymotion.com/sec(SCEOt4M5U0fVbrIPRLL548thf3kgJ1PpkQS-ywozSIyqr7fUYN4n4xG6rUndolas)/dm/3/x7kvvgi/s/live-0.m3u8#cell=lnyc
+https://live-b.cf.dmcdn.net/sec2(YcQOqqW5WNAR2fi0EsMoYwPP8UCyQznThQUGVMAcQHLs8fwfjECNN5yIxlkLmlh-A2lWajGd4vBXuR3xmFAjF5Bzlntyc4B0xLErFTgh8zI)/dm/3/x7kvvgi/s/live-0.m3u8#cell=lcfb
 #EXT-X-STREAM-INF:RESOLUTION=1280x720,FRAME-RATE=30.000000,BANDWIDTH=2179072,CODECS="avc1.42001f,mp4a.40.2",NAME="720"
-https://stream-01.nyc.dailymotion.com/sec(SCEOt4M5U0fVbrIPRLL548thf3kgJ1PpkQS-ywozSIyqr7fUYN4n4xG6rUndolas)/dm/3/x7kvvgi/s/live-2.m3u8#cell=lnyc
-#EXT-X-STREAM-INF:RESOLUTION=1280x720,FRAME-RATE=30.000000,BANDWIDTH=2179072,CODECS="avc1.42001f,mp4a.40.2",NAME="720"
-https://stream-04.nyc.dailymotion.com/sec(SCEOt4M5U0fVbrIPRLL548thf3kgJ1PpkQS-ywozSIyqr7fUYN4n4xG6rUndolas)/dm/3/x7kvvgi/s/live-2.m3u8#cell=lnyc
+https://live-b.cf.dmcdn.net/sec2(YcQOqqW5WNAR2fi0EsMoYwPP8UCyQznThQUGVMAcQHLs8fwfjECNN5yIxlkLmlh-A2lWajGd4vBXuR3xmFAjF5Bzlntyc4B0xLErFTgh8zI)/dm/3/x7kvvgi/s/live-2.m3u8#cell=lcfb
