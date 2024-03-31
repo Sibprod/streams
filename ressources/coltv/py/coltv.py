@@ -17,7 +17,7 @@ def snif(url):
     try:
         source = s.get(url, headers=headers)
         flux = (source).text
-        m3u8 = flux.replace("http://s2.callofliberty.fr/directtv/TF1/master.m3u8")
+        m3u8 = flux.replace("http://s2.callofliberty.fr/directtv/TF1/master.m3u8","http://s2.callofliberty.fr/directtv/TMC/master.m3u8","http://s2.callofliberty.fr/directtv/TFX/master.m3u8","http://s2.callofliberty.fr/directtv/TF1SERIESFILMS/master.m3u8")
     except Exception as e:
         m3u8 = requests.get(erreur).text
     finally:
