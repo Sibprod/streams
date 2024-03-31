@@ -1,4 +1,4 @@
-name: coltv
+name: Coltv
 
 # Actualisation du flux toutes les 3 heures à la 46ème minutes.
 on:
