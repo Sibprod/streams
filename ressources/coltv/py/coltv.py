@@ -1,5 +1,5 @@
 #! /usr/bin/python3
-# par github.com/BG47510
+# par github.com/Sibprod
 import requests
 import sys
 
@@ -17,7 +17,7 @@ def snif(url):
     try:
         source = s.get(url, headers=headers)
         flux = (source).text
-        m3u8 = flux.replace("http://s2.callofliberty.fr/HLS-AES/", "")
+        m3u8 = flux.replace("http://s2.callofliberty.fr/directtv/TF1/master.m3u8")
     except Exception as e:
         m3u8 = requests.get(erreur).text
     finally:
