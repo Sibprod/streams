@@ -9,7 +9,7 @@ s = requests.Session()
 response = s.get(f'https://hdfauth.ftven.fr/esi/TA?url=https://live-thema.ftven.fr/ZXhwPTE3MTQxNjg3MTV+YWNsPSUyZip+aG1hYz04OWM0OGQ3NWE1Zjk1MzZjZTAxZTBkZjM4NjNmY2E2M2FmZjkzNGJlOGYzNDk1YzQ1MDRlYjViMjg3NmYyNDcx/docs/735e9260-bb63-11ee-a1a7-0200170265fd_0_HLS-francedomtom/manifest.m3u8')
 
 string = response.text
-new_string = string.replace("manifest", "video_7201280_p_0")
+new_string = string.replace("manifest", "video_7201280_p_0", "video_10801920_p_0")
 print(new_string)
 new2_string = string.replace("manifest", "A_audio_1000017564_128_fr")
 print(f'#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="audio_1000017564_128",LANGUAGE="fr",NAME="fr",DEFAULT=YES,AUTOSELECT=YES,URI="{new2_string}"')
