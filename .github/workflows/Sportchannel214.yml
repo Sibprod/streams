@@ -1,4 +1,4 @@
-name: Sport Channel 214
+name: Sportchannel
 
 on:
   schedule:
@@ -26,7 +26,7 @@ jobs:
         run: |
           pwd
           cd ./core/platforms/
-          python3 twitch.py sportchannelnews > ../../ressources/twitch/hls/Sportchannel214.m3u8
+          python3 twitch.py sportchannelnews > ../../ressources/twitch/hls/Sportchannel.m3u8
         
       - name: adding everything
         run: |
@@ -35,5 +35,5 @@ jobs:
           
       - name: commit & push
         run: |
-          git commit -m "Sport Channel 214 updated"
+          git commit -m "Sportchannel updated"
           git push
