@@ -5,6 +5,7 @@ import requests
 print('#EXTM3U')
 print('#EXT-X-VERSION:3')
 print('#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=3022199,CODECS="avc1.64001F, mp4a.40.2", RESOLUTION=1280x720, SUBTITLES="subs", AUDIO="audio_1000017564_128"')
+print('#EXT-X-STREAM-INF:PROGRAM-ID=2,BANDWIDTH=3022199,CODECS="avc1.64001F, mp4a.40.2", RESOLUTION=1920x1080, SUBTITLES="subs", AUDIO="audio_1000017564_128"')
 s = requests.Session()
 response = s.get(f'https://hdfauth.ftven.fr/esi/TA?url=https://live-thema.ftven.fr/ZXhwPTE3MTQxNjg3MTV+YWNsPSUyZip+aG1hYz04OWM0OGQ3NWE1Zjk1MzZjZTAxZTBkZjM4NjNmY2E2M2FmZjkzNGJlOGYzNDk1YzQ1MDRlYjViMjg3NmYyNDcx/docs/735e9260-bb63-11ee-a1a7-0200170265fd_0_HLS-francedomtom/manifest.m3u8')
 
