@@ -1,0 +1,25 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=5897200,CODECS="avc1.640028, mp4a.40.2", RESOLUTION=1920x1080, SUBTITLES="subs", AUDIO="audio_1000017564_128"
+<HTML><HEAD>
+<TITLE>Access Denied</TITLE>
+</HEAD><BODY>
+<H1>Access Denied</H1>
+ 
+You don't have permission to access "http&#58;&#47;&#47;live&#45;thema&#46;ftven&#46;fr&#47;ZXhwPTE3MTQxNzM1NDN&#43;YWNsPSUyZip&#43;aG1hYz1kY2FkZjEyYmVhZTVlNDlhNGNkNTgwZDBmMWM4MGIyZDlmOTMxNWJlNGQyNTA4NTQ3N2YyMjVhODk4NGI1ZTU0&#47;docs&#47;735e9260&#45;bb63&#45;11ee&#45;a1a7&#45;0200170265fd&#95;0&#95;HLS&#45;francedomtom&#47;video_10801920_p_0.m3u8&#46;m3u8" on this server.<P>
+Reference&#32;&#35;18&#46;5c3fc717&#46;1714152377&#46;1507c0a8
+<P>https&#58;&#47;&#47;errors&#46;edgesuite&#46;net&#47;18&#46;5c3fc717&#46;1714152377&#46;1507c0a8</P>
+</BODY>
+</HTML>
+
+#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="audio_1000017564_128",LANGUAGE="fr",NAME="fr",DEFAULT=YES,AUTOSELECT=YES,URI="A_audio_1000017564_128_fr.m3u8",LANGUAGE="fr",NAME="fr",DEFAULT=YES,AUTOSELECT=YES,URI="<HTML><HEAD>
+<TITLE>Access Denied</TITLE>
+</HEAD><BODY>
+<H1>Access Denied</H1>
+ 
+You don't have permission to access "http&#58;&#47;&#47;live&#45;thema&#46;ftven&#46;fr&#47;ZXhwPTE3MTQxNzM1NDN&#43;YWNsPSUyZip&#43;aG1hYz1kY2FkZjEyYmVhZTVlNDlhNGNkNTgwZDBmMWM4MGIyZDlmOTMxNWJlNGQyNTA4NTQ3N2YyMjVhODk4NGI1ZTU0&#47;docs&#47;735e9260&#45;bb63&#45;11ee&#45;a1a7&#45;0200170265fd&#95;0&#95;HLS&#45;francedomtom&#47;A_audio_1000017564_128_fr&#46;m3u8" on this server.<P>
+Reference&#32;&#35;18&#46;5c3fc717&#46;1714152377&#46;1507c0a8
+<P>https&#58;&#47;&#47;errors&#46;edgesuite&#46;net&#47;18&#46;5c3fc717&#46;1714152377&#46;1507c0a8</P>
+</BODY>
+</HTML>
+"
