@@ -12,4 +12,4 @@ string = response.text
 new_string = string.replace("manifest", "video_10801920_p_0.m3u8")
 print(new_string)
 new2_string = string.replace("manifest", "A_audio_1000017564_128_fr")
-print(f'#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="audio_1000017564_128",LANGUAGE="fr",NAME="fr",DEFAULT=YES,AUTOSELECT=YES,URI="A_audio_1000017564_128_fr.m3u8",LANGUAGE="fr",NAME="fr",DEFAULT=YES,AUTOSELECT=YES,URI="{new2_string}"')
+print(f'#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="audio_1000017564_128",LANGUAGE="fr",NAME="fr",DEFAULT=YES,AUTOSELECT=YES,URI="A_audio_1000017564_128_fr",LANGUAGE="fr",NAME="fr",DEFAULT=YES,AUTOSELECT=YES,URI="{new2_string}"')
