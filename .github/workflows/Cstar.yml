@@ -21,8 +21,8 @@ jobs:
           git config --global user.email "<>"
           git config --global user.name "Cstar bot"
       
-      - name: updating cstr
-        run: python3 ressources/dm/py/Cstar.py > ressources/dm/py/hls/Cstar.m3u8
+      - name: updating cstar
+        run: python3 ressources/dm/py/Cstar.py > ressources/dm/py/hls/cstar.m3u8
         
       - name: git add
         run: |
@@ -32,5 +32,5 @@ jobs:
       - name: commit & push
         run: |
           git pull origin master
-          git commit -m "cstr updated"
+          git commit -m "cstar updated"
           git push origin master
