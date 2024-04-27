@@ -19,7 +19,7 @@ jobs:
           git config --global user.name "Abxplore bot"
       
       - name: updating Abxplore
-        run: sh ressources/ftv/py/Abxplore.sh
+        run: sh ressources/mw/py/Abxplore.sh
         
       - name: git add
         run: |
