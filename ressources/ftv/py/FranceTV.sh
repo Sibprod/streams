@@ -24,6 +24,9 @@ guy_metro_content=$(cat "$input_file" | sed 's/France_2/1er_Guyane/g; s/hls_fr2/
 may_metro_content=$(cat "$input_file" | sed 's/France_2/1er_Mayotte/g; s/hls_fr2/hls_monde_1er_May/g')
 reu_metro_content=$(cat "$input_file" | sed 's/France_2/1er_Reunion/g; s/hls_fr2/hls_monde_1er_Reu/g')
 nca_metro_content=$(cat "$input_file" | sed 's/France_2/1er_NC/g; s/hls_fr2/hls_monde_1er_NC/g')
+pfr_metro_content=$(cat "$input_file" | sed 's/France_2/1er_Polynesie/g; s/hls_fr2/hls_monde_1er_Polynesie/g')
+spm_metro_content=$(cat "$input_file" | sed 's/France_2/1er_SPM/g; s/hls_fr2/hls_monde_1er_SPM/g')
+wfu_metro_content=$(cat "$input_file" | sed 's/France_2/1er_WF/g; s/hls_fr2/hls_monde_1er_WF/g')
 
 echo "$fr3_content" > "$output_dir/France3.m3u8"
 echo "$fr4_content" > "$output_dir/France4.m3u8"
@@ -36,4 +39,7 @@ echo "$gua_metro_content" > "$output_dir/La1ere_guyane_metro.m3u8"
 echo "$may_metro_content" > "$output_dir/La1ere_mayotte_metro.m3u8"
 echo "$reu_metro_content" > "$output_dir/La1ere_reunion_metro.m3u8"
 echo "$nca_metro_content" > "$output_dir/La1ere_NC_metro.m3u8"
+echo "$pfr_metro_content" > "$output_dir/La1ere_polynesie_metro.m3u8"
+echo "$spm_metro_content" > "$output_dir/La1ere_SPM_metro.m3u8"
+echo "$wfu_metro_content" > "$output_dir/La1ere_WF_metro.m3u8"
 
