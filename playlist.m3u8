@@ -329,6 +329,8 @@ https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_BUSINESS/index.m3u8?end=END&star
 https://video1.getstreamhosting.com:1936/8432/8432/playlist.m3u8
 #EXTINF:-1 group-title="Thématiques",Clubbing TV
 https://clubbingtv-rakuten.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="Thématiques",CNA Sat
+https://live.creacast.com/cna/smil:cna.smil/playlist.m3u8
 #EXTINF:-1 group-title="Thématiques",EMCI [Afrique]
 https://github.com/Sibprod/streams/raw/main/ressources/dm/py/hls/emciafrique.m3u8
 #EXTINF:-1 group-title="Thématiques",EMCI [Amérique]
