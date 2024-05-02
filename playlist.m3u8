@@ -1,4 +1,14 @@
 #EXTM3U
+#EXTINF:-1 group-title="TNT",TF1
+https://github.com/Paradise-91/ParaTV/raw/main/streams/mytf1/tf1.m3u8
+#EXTINF:-1 group-title="TNT",TF1 Séries Films
+https://github.com/Paradise-91/ParaTV/raw/main/streams/mytf1/tf1sf.m3u8
+#EXTINF:-1 group-title="TNT",TFX
+https://github.com/Paradise-91/ParaTV/raw/main/streams/mytf1/tfx.m3u8
+#EXTINF:-1 group-title="TNT",TMC
+https://github.com/Paradise-91/ParaTV/raw/main/streams/mytf1/tmc.m3u8
+#EXTINF:-1 group-title="TNT",LCI
+https://github.com/Paradise-91/ParaTV/raw/main/streams/mytf1/lci.m3u8
 #EXTINF:-1 group-title="TNT",France 2
 https://github.com/Sibprod/streams/raw/main/ressources/ftv/py/France2.m3u8
 #EXTINF:-1 group-title="TNT",France 3
@@ -11,25 +21,69 @@ https://github.com/Sibprod/streams/raw/main/ressources/ftv/py/France5.m3u8
 https://github.com/Sibprod/streams/raw/main/ressources/ftv/py/FranceInfo.m3u8
 #EXTINF:-1 group-title="TNT",France Info [flux DM]
 https://github.com/Sibprod/streams/raw/main/ressources/dm/py/hls/franceinfotv.m3u8
+#EXTINF:-1 group-title="TNT",La Chaîne Parlementaire
+https://github.com/Paradise-91/ParaTV/raw/main/streams/lcp/lcp.m3u8
+#EXTINF:-1 group-title="TNT",Public Sénat
+https://github.com/Sibprod/streams/raw/main/ressources/dm/py/hls/publicsenat.m3u8
 #EXTINF:-1 group-title="TNT",C8
 https://github.com/Sibprod/streams/raw/main/ressources/dm/py/hls/c8.m3u8
 #EXTINF:-1 group-title="TNT",Cnews
 https://github.com/Sibprod/streams/raw/main/ressources/dm/py/hls/cnews.m3u8
+#EXTINF:-1 group-title="TNT",Cstar
+https://github.com/Paradise-91/ParaTV/raw/main/streams/cstar/cstar.m3u8
+#EXTINF:-1 group-title="TNT",Gulli
+https://github.com/Sibprod/streams/raw/main/ressources/RTLfr/Gulli.m3u8
+#EXTINF:-1 group-title="TNT",Paris Première
+https://github.com/Sibprod/streams/raw/main/ressources/RTLfr/ParisPremiere.m3u8
+#EXTINF:-1 group-title="TNT",ARTE [France]
+https://artesimulcast.akamaized.net/hls/live/2031003/artelive_fr/index.m3u8
+#EXTINF:-1 group-title="TNT",NRJ 12
+https://nrj12.nrjaudio.fm/hls/live/2038374/nrj_12/master.m3u8
+#EXTINF:-1 group-title="TNT",Chérie 25
+https://cherie25.nrjaudio.fm/hls/live/2038375/c25/master.m3u8
+#EXTINF:-1 group-title="TNT",BFM TV
+https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_TV/index.m3u8?start=LIVE&end=END
+#EXTINF:-1 group-title="TNT",RMC Story
+https://d36bxc1bknkxrk.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-3ewcp19zjaxpt/index.m3u8
+#EXTINF:-1 group-title="TNT",RMC Découverte
+https://d2mt8for1pddy4.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-6uronj7gzvy4j/index.m3u8
+#EXTINF:-1 group-title="TNT",L'Équipe 
+https://github.com/Paradise-91/ParaTV/raw/main/streams/equipe21/equipe21.m3u8
 #EXTINF:-1 group-title="TNT",Euronews [Français] [flux DM]
 https://github.com/Sibprod/streams/raw/main/ressources/dm/py/hls/euronewsfr.m3u8
 #EXTINF:-1 group-title="TNT",Euronews [Français] [flux YT]
 https://ythls.armelin.one/channel/UCW2QcKZiU8aUGg4yxCIditg.m3u8
 #EXTINF:-1 group-title="TNT",Euronews [Français] [flux SSTV+]
 https://euronews-euronews-french-3-fr.xiaomi.wurl.tv/playlist.m3u8
-#EXTINF:-1 group-title="TNT",Public Sénat
-https://github.com/Sibprod/streams/raw/main/ressources/dm/py/hls/publicsenat.m3u8
-#EXTINF:-1 group-title="TNT",Gulli
-https://github.com/Sibprod/streams/raw/main/ressources/RTLfr/Gulli.m3u8
-#EXTINF:-1 group-title="TNT",Paris Première
-https://github.com/Sibprod/streams/raw/main/ressources/RTLfr/ParisPremiere.m3u8
 #EXTINF:-1 group-title="TNT",France 24 [Français] [flux YT]
 https://ythls.armelin.one/channel/UCCCPCZNChQdGa9EkATeye4g.m3u8
+#EXTINF:-1 group-title="TNT",TV5 Monde [Europe]
+https://muutube.sonmezalp.com/proxy.php/https://ott.tv5monde.com/Content/HLS/Live/channel(europe)/index.m3u8
+#EXTINF:-1 group-title="TNT",TV5 Monde [FBSM]
+https://ott.tv5monde.com/Content/HLS/Live/channel(fbs)/variant.m3u8
+#EXTINF:-1 group-title="TNT",Antenne Réunion
+https://live-antenne-reunion.zeop.tv/live/c3eds/antreunihd/hls_fta/antreunihd.m3u8?location=ZEOP01
+#EXTINF:-1 group-title="TNT",TV Monaco
+https://production-fast-mcrtv.content.okast.tv/channels/2116dc08-1959-465d-857f-3619daefb66b/b702b2b9-aebd-436c-be69-2118f56f3d86/master.m3u8
+#EXTINF:-1 group-title="TNT",Carac 1
+http://rougetv.vedge.infomaniak.com/livecast/rougetv/manifest.m3u8
+#EXTINF:-1 group-title="TNT",Carac 2
+http://onefmhd.vedge.infomaniak.com/livecast/onefmhd/manifest.m3u8
+#EXTINF:-1 group-title="TNT",Carac 3
+http://lfmhd.vedge.infomaniak.com/livecast/lfmhd/manifest.m3u8
+#EXTINF:-1 group-title="TNT",Carac 4
+http://compack_media_1.vedge.infomaniak.com/livecast/compack_media_1/manifest.m3u8
+#EXTINF:-1 group-title="TNT",Ici [Radio-Canada] Télé
+https://rcavlive.akamaized.net/hls/live/696615/xcancbft/master.m3u8
+#EXTINF:-1 group-title="TNT",Télé Québec
+https://bcovlive-a.akamaihd.net/575d86160eb143458d51f7ab187a4e68/us-east-1/6101674910001/playlist.m3u8
+#EXTINF:-1 group-title="TNT",Savoir.Media
+https://hls.savoir.media/live/stream.m3u8
+#EXTINF:-1 group-title="TNT",Noovo
+https://pe-fa-lp03a.9c9media.com/live/NOOVO/p/hls/00000201/716cf4c845225692/manifest.m3u8
 
+#EXTINF:-1 group-title="FAST",BFM Grands Reportages
+https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_GRANDSREPORTAGES/index.m3u8?start=LIVE&end=END
 #EXTINF:-1 group-title="FAST",France TV Docs
 https://github.com/Sibprod/streams/raw/main/ressources/ftv/py/FranceTVDocs.m3u8
 #EXTINF:-1 group-title="FAST",France TV Séries
@@ -42,6 +96,8 @@ https://d2l55nvfkhk4sg.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 https://d1mdvi698umja9.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-kuib43fy5umqi-ssai-prd/mgg.m3u8
 #EXTINF:-1 group-title="FAST",Radio-Canada Info
 https://d352zobhe5lhe6.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-j7m6inrqe6jat/master.m3u8
+#EXTINF:-1 group-title="FAST",RMC Talk Sport
+https://d21wdmv2hqydbt.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-n239v7ne7hack/index.m3u8
 #EXTINF:-1 group-title="FAST",Tahiti TV
 https://tntv-samsung-fr.amagi.tv/playlist.m3u8
 
@@ -51,12 +107,60 @@ https://ythls.armelin.one/channel/UCdFv_ZWQ3Xk_NfRiaK-ryGg.m3u8
 https://github.com/Sibprod/streams/raw/main/ressources/dm/py/hls/8montblanc.m3u8
 #EXTINF:-1 group-title="Régionales",8 Mont-Blanc [2ème flux]
 https://github.com/Sibprod/streams/raw/main/ressources/dm/py/hls/8montblanc-2.m3u8
+#EXTINF:-1 group-title="Régionales",20 Minutes TV [IdF]
+https://lives.digiteka.com/stream/86d3e867-a272-496b-8412-f59aa0104771/index.m3u8
+#EXTINF:-1 group-title="Régionales",Alpe d'Huez TV
+https://adhtv.vedge.infomaniak.com/livecast/adhtv/chunklist.m3u8
 #EXTINF:-1 group-title="Régionales",Angers Télé
 https://github.com/Sibprod/streams/raw/main/ressources/dm/py/hls/angerstele.m3u8
+#EXTINF:-1 group-title="Régionales",Antenne Centre
+https://tvlocales-live.freecaster.com/95d2f733-1bc2-4bd5-9b96-c53ed3fc450f/95d2f733-1bc2-4bd5-9b96-c53ed3fc450f.isml/master.m3u8
 #EXTINF:-1 group-title="Régionales",ASTV
 https://github.com/Sibprod/streams/raw/main/ressources/twitch/hls/ASTV.m3u8
+#EXTINF:-1 group-title="Régionales",BFM Régions [Alsace]
+https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_ALSACE/index.m3u8?end=END&start=LIVE
+#EXTINF:-1 group-title="Régionales",BFM Régions [Dici Alpes-du-Sud]
+https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_DICI_ALPESDUSUD/index.m3u8?end=END&start=LIVE
+#EXTINF:-1 group-title="Régionales",BFM Régions [Dici Haute-Provence]
+https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_DICI_HAUTEPROVENCE/index.m3u8?end=END&start=LIVE
+#EXTINF:-1 group-title="Régionales",BFM Régions [Grand Lille]
+https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFMGRANDLILLE/index.m3u8?end=END&start=LIVE
+#EXTINF:-1 group-title="Régionales",BFM Régions [Grand Littoral]
+https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFMGRANDLITTORAL/index.m3u8?end=END&start=LIVE
+#EXTINF:-1 group-title="Régionales",BFM Régions [Lyon-Métropole]
+https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_LYON/index.m3u8?end=END&start=LIVE
+#EXTINF:-1 group-title="Régionales",BFM Régions [Marseille-Provence]
+https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_MARSEILLEPROV/index.m3u8?end=END&start=LIVE
+#EXTINF:-1 group-title="Régionales",BFM Régions [Nice-Côte-d'Azur]
+https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_NICECOTEDAZUR/index.m3u8?end=END&start=LIVE
+#EXTINF:-1 group-title="Régionales",BFM Régions [Normandie]
+https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_NORMANDIE/index.m3u8?end=END&start=LIVE
+#EXTINF:-1 group-title="Régionales",BFM Régions [Paris-Île de France]
+https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_PARIS/index.m3u8?end=END&start=LIVE
+#EXTINF:-1 group-title="Régionales",BFM Régions [Toulon-Var]
+https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_TOULONVAR/index.m3u8?end=END&start=LIVE
+#EXTINF:-1 group-title="Régionales",BIP TV
+https://biptv.tv/live/biptvstream_orig/index.m3u8
+#EXTINF:-1 group-title="Régionales",Boukè
+https://tvlocales-live.freecaster.com/95d2f70d-9229-478b-9aed-bc4fa220316d/95d2f70d-9229-478b-9aed-bc4fa220316d.isml/master.m3u8
 #EXTINF:-1 group-title="Régionales",Boulogne Marina Webcam
 https://github.com/Sibprod/streams/raw/main/ressources/dm/py/hls/boulognemarinawebcam.m3u8
+#EXTINF:-1 group-title="Régionales",BX1
+https://59959724487e3.streamlock.net/stream/live/playlist.m3u8
+#EXTINF:-1 group-title="Régionales",Canal Alpha [Jura]
+http://canalalphaju.vedge.infomaniak.com/livecast/canalalphaju/manifest.m3u8
+#EXTINF:-1 group-title="Régionales",Canal Alpha [Neuchâtel]
+http://canalalpha.vedge.infomaniak.com/livecast/canalalpha/manifest.m3u8
+#EXTINF:-1 group-title="Régionales",Canal Zoom
+https://tvlocales-live.freecaster.com/95d2e3af-5ab8-45a9-9dc9-f544d006b5d5/95d2e3af-5ab8-45a9-9dc9-f544d006b5d5.isml/master.m3u8
+#EXTINF:-1 group-title="Régionales",Canal 9
+http://livehd.vedge.infomaniak.com/livecast/livehd/manifest.m3u8
+#EXTINF:-1 group-title="Régionales",Canal 32
+http://canal32.vedge.infomaniak.com/livecast/canal32/manifest.m3u8
+#EXTINF:-1 group-title="Régionales",Cannes Lérins TV
+https://vdo2.pro-fhi.net:3628/live/uppodsfqlive.m3u8
+#EXTINF:-1 group-title="Régionales",Éclair TV [ETV Guadeloupe]
+https://etvgp.vedge.infomaniak.com/livecast/etvgp/manifest.m3u8
 #EXTINF:-1 group-title="Régionales",France 3 Régions [Alpes]
 https://github.com/Sibprod/streams/raw/main/ressources/ftv/py/France3_AuRA_Grenoble.m3u8
 #EXTINF:-1 group-title="Régionales",France 3 Régions [Alsace]
@@ -107,6 +211,8 @@ https://github.com/Sibprod/streams/raw/main/ressources/ftv/py/France3_NoA_Poitie
 https://github.com/Sibprod/streams/raw/main/ressources/ftv/py/France3_Provence_Marseille.m3u8
 #EXTINF:-1 group-title="Régionales",France 3 Régions [Rhône-Alpes]
 https://github.com/Sibprod/streams/raw/main/ressources/ftv/py/France3_AuRA_Lyon.m3u8
+#EXTINF:-1 group-title="Régionales",IL TV
+https://live.creacast.com/iltv/smil:iltv.smil/playlist.m3u8
 #EXTINF:-1 group-title="Régionales",La 1ère [Guadeloupe]
 https://github.com/Sibprod/streams/raw/main/ressources/ftv/py/La1ere_guadeloupe_metro.m3u8
 #EXTINF:-1 group-title="Régionales",La 1ère [Guyane Française]
@@ -121,25 +227,89 @@ https://github.com/Sibprod/streams/raw/main/ressources/ftv/py/La1ere_NC_metro.m3
 https://github.com/Sibprod/streams/raw/main/ressources/ftv/py/La1ere_PF_metro.m3u8
 #EXTINF:-1 group-title="Régionales",La 1ère [La Réunion]
 https://github.com/Sibprod/streams/raw/main/ressources/ftv/py/La1ere_reunion_metro.m3u8
+#EXTINF:-1 group-title="Régionales",La Chaîne 32
+https://ythls.armelin.one/channel/UChl0zP89T7yZyEwQkCfmmnQ.m3u8
+#EXTINF:-1 group-title="Régionales",La Télé
+http://latele.vedge.infomaniak.com/livecast/latele/manifest.m3u8
+#EXTINF:-1 group-title="Régionales",Le Figaro TV [IdF]
+https://static.lefigaro.fr/secom/tnt.m3u8
+#EXTINF:-1 group-title="Régionales",Léman Bleu
+http://naxoo.vedge.infomaniak.com/livecast/naxoo/manifest.m3u8
 #EXTINF:-1 group-title="Régionales",LMTV Sarthe
 https://github.com/Sibprod/streams/raw/main/ressources/twitch/hls/LMTVSarthe.m3u8
 #EXTINF:-1 group-title="Régionales",Lyon Capitale TV
 https://github.com/Sibprod/streams/raw/main/ressources/dm/py/hls/lyoncapitale.m3u8
+#EXTINF:-1 group-title="Régionales",Ma Télé
+https://5dd226f8f01e8.streamlock.net/via-matele-live/matelelive_1080/playlist.m3u8
 #EXTINF:-1 group-title="Régionales",Maurienne TV
 https://ythls.armelin.one/channel/UCva-htH2wvmKsG6SkcEJ4Vw.m3u8
+#EXTINF:-1 group-title="Régionales",Mirabelle TV
+https://live.creacast.com/mirabelletv/smil:mirabelletv.smil/playlist.m3u8
+#EXTINF:-1 group-title="Régionales",Monaco Info
+https://webtvmonacoinfo.mc/live/prod_720/index.m3u8
 #EXTINF:-1 group-title="Régionales",Mosaïk Cristal TV
 https://ythls.armelin.one/channel/UCQC0xLG_W0QpqAXQ4-yhwBA.m3u8
+#EXTINF:-1 group-title="Régionales",NA TV
+http://naradio.vedge.infomaniak.com/livecast/naradio/manifest.m3u8
+#EXTINF:-1 group-title="Régionales",Nancy Web TV
+https://nancy-webtv.vedge.infomaniak.com/livecast/nancy-webtv/manifest.m3u8
+#EXTINF:-1 group-title="Régionales",No Télé
+https://streaming01.divercom.be/notele_live/_definst_/direct.stream/master.m3u8
+#EXTINF:-1 group-title="Régionales",Puissance Télévision
+https://puissancetelevision.vedge.infomaniak.com/livecast/puissancetelevision/manifest.m3u8
+#EXTINF:-1 group-title="Régionales",RTC-Télé Liège
+https://tvlocales-live.freecaster.com/95d2f6eb-6f01-4d1d-8543-d14966de7b04/95d2f6eb-6f01-4d1d-8543-d14966de7b04.isml/master.m3u8
+#EXTINF:-1 group-title="Régionales",Tébéo
+https://lives.digiteka.com/stream/e0fe6433-554e-4568-9a7e-31969136d8ff/index.m3u8
+#EXTINF:-1 group-title="Régionales",Télé Gohelle
+https://videas.agglo-lenslievin.fr/index.m3u8
 #EXTINF:-1 group-title="Régionales",Télégrenoble
 https://github.com/Sibprod/streams/raw/main/ressources/twitch/hls/Telegrenoble.m3u8
+#EXTINF:-1 group-title="Régionales",Télé MB
+https://tvlocales-live.freecaster.com/95d2f6c9-e85f-4388-8e9c-596260a4206f/95d2f6c9-e85f-4388-8e9c-596260a4206f.isml/master.m3u8
 #EXTINF:-1 group-title="Régionales",Télénantes
 https://github.com/Sibprod/streams/raw/main/ressources/dm/py/hls/telenantes.m3u8
+#EXTINF:-1 group-title="Régionales",Tele Paese
+https://srv.webtvmanager.fr:3118/live/viatelepaeselive.m3u8
 #EXTINF:-1 group-title="Régionales",TLC
 https://github.com/Sibprod/streams/raw/main/ressources/twitch/hls/TLC.m3u8
+#EXTINF:-1 group-title="Régionales",TV3V
+https://tv3v.live-kd.com/live/tv3v/livestream/playlist.m3u8
+#EXTINF:-1 group-title="Régionales",TV7 [Colmar]
+http://tv7.hdr-tv.com/live/tv7/livestream/playlist.m3u8
+#EXTINF:-1 group-title="Régionales",TV7 [Sud-Ouest]
+https://lives.digiteka.com/stream/17c6dea8-fb3f-46fe-b170-2ac88cd5667b/index.m3u8
+#EXTINF:-1 group-title="Régionales",TV78
+https://streamtv.cdn.dvmr.fr/TV78/ngrp:tv78.stream_all/master.m3u8
 #EXTINF:-1 group-title="Régionales",TVC 9
 https://ythls.armelin.one/channel/UC0JP0ek-HhcqisiEpsZiQZA.m3u8
+#EXTINF:-1 group-title="Régionales",TV Lux
+https://tvlocales-live.freecaster.com/95d2f631-8941-4efd-b223-0ebd56a033c4/95d2f631-8941-4efd-b223-0ebd56a033c4.isml/master.m3u8
+#EXTINF:-1 group-title="Régionales",TVPI
+https://ythls.armelin.one/channel/UCwVQAPo6tjC5w5yBBh0WEdA/live.m3u8
+#EXTINF:-1 group-title="Régionales",TVR
+https://streamtv.cdn.dvmr.fr/TVR/ngrp:tvr.stream_all/master.m3u8
+#EXTINF:-1 group-title="Régionales",TV Tarn
+https://live.creacast.com/albi-tv-ch1/stream/master.m3u8
+#EXTINF:-1 group-title="Régionales",TV Tours-Val-de-Loire
+https://lives.digiteka.com/stream/920f083a-9e61-4c09-9bc2-bdb664063aa9/index.m3u8
+#EXTINF:-1 group-title="Régionales",TV Vendée
+https://streamer01.myvideoplace.tv/streamer02/hls/VDE_EVEN_PAD_130923.m3u8
+#EXTINF:-1 group-title="Régionales",Védia
+https://tvlocales-live.freecaster.com/95d2f480-3c9f-48ba-ba4e-af64b58431ef/95d2f480-3c9f-48ba-ba4e-af64b58431ef.isml/master.m3u8
+#EXTINF:-1 group-title="Régionales",viàOccitanie
+https://streamer01.myvideoplace.tv/streamer02/hls/MDS_VIA_PAD_301117_medium/index.m3u8
+#EXTINF:-1 group-title="Régionales",Vosges Télévision
+https://vosgestv.live-kd.com/live/vosgestv/vosgestv/playlist.m3u8
+#EXTINF:-1 group-title="Régionales",Wéo [La Voix du Nord]
+https://lives.digiteka.com/stream/c58028c2-a58b-4526-9ec8-389cad4a71e8/index.m3u8
+#EXTINF:-1 group-title="Régionales",Wéo [Le Courrier Picard]
+https://lives.digiteka.com/stream/bbb843db-8540-4156-98a5-b7c85da54d8e/index.m3u8
 
 #EXTINF:-1 group-title="Afrique_TNT",7 Info
 https://ythls.armelin.one/channel/UCqA1FRAWs2VIiXf2cUYSQBQ.m3u8
+#EXTINF:-1 group-title="Afrique_TNT",Africa 24
+https://africa24.vedge.infomaniak.com/livecast/africa24/manifest.m3u8
 #EXTINF:-1 group-title="Afrique_TNT",Africanews [Français] [flux DM]
 https://github.com/Sibprod/streams/raw/main/ressources/dm/py/hls/africanewsfr.m3u8
 #EXTINF:-1 group-title="Afrique_TNT",Africanews [Français] [flux YT]
@@ -151,8 +321,14 @@ https://ythls.armelin.one/channel/UC7E__Dp9FSIgt6iMa5_uvlw.m3u8
 
 #EXTINF:-1 group-title="Thématiques",Astrocenter TV
 https://ythls.armelin.one/channel/UCMkQQZsNdRVZ3N7Oj6jVnyg.m3u8
-#EXTINF:-1 group-title="Thématiques",BSmart
+#EXTINF:-1 group-title="Thématiques",B Smart
 https://github.com/Sibprod/streams/raw/main/ressources/dm/py/hls/bsmart.m3u8
+#EXTINF:-1 group-title="Thématiques",BFM Business
+https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_BUSINESS/index.m3u8?end=END&start=LIVE
+#EXTINF:-1 group-title="Thématiques",Ciné Max 
+https://video1.getstreamhosting.com:1936/8432/8432/playlist.m3u8
+#EXTINF:-1 group-title="Thématiques",Clubbing TV
+https://clubbingtv-rakuten.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="Thématiques",EMCI [Afrique]
 https://github.com/Sibprod/streams/raw/main/ressources/dm/py/hls/emciafrique.m3u8
 #EXTINF:-1 group-title="Thématiques",EMCI [Amérique]
@@ -161,30 +337,64 @@ https://github.com/Sibprod/streams/raw/main/ressources/dm/py/hls/emciamerique.m3
 https://github.com/Sibprod/streams/raw/main/ressources/dm/py/hls/emcieurope.m3u8
 #EXTINF:-1 group-title="Thématiques",Guadeloupe 4 TV
 https://github.com/Sibprod/streams/raw/main/ressources/twitch/hls/Guadeloupe4TV.m3u8
+#EXTINF:-1 group-title="Thématiques",Handicap TV
+https://srv.webtvmanager.fr:3697/stream/play.m3u8
+#EXTINF:-1 group-title="Thématiques",i24 News [Français]
+https://bcovlive-a.akamaihd.net/cc8266d36bb5469b8b4a3097497e06e6/eu-central-1/5377161796001/playlist-all.m3u8
+#EXTINF:-1 group-title="Thématiques",Ici RDI
+https://rcavlive.akamaized.net/hls/live/704025/xcanrdi/master.m3u8
+#EXTINF:-1 group-title="Thématiques",L'Esprit Sorcier TV
+https://194270.global.ssl.fastly.net/63b43410861d94a9eee067fb/live_947330308dd911edb85c8181cb9b11a8/index.m3u8
 #EXTINF:-1 group-title="Thématiques",Le Média
 https://github.com/Sibprod/streams/raw/main/ressources/dm/py/hls/lemedia.m3u8
+#EXTINF:-1 group-title="Thématiques",LN24
+https://live-ln24.digiteka.com/1911668011/index.m3u8
 #EXTINF:-1 group-title="Thématiques",Maison & Travaux TV [flux DM]
 https://github.com/Sibprod/streams/raw/main/ressources/dm/py/hls/maisonettravaux.m3u8
 #EXTINF:-1 group-title="Thématiques",Maison & Travaux TV [flux SSTV+]
 https://d387lnkgycbwl.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-sdi2aweg8u1y4/master.m3u8
+#EXTINF:-1 group-title="Thématiques",Melody
+https://live.creacast.com/telemelody/smil:telemelody-211112.smil/master.m3u8
 #EXTINF:-1 group-title="Thématiques",Men's Up TV
 https://github.com/Sibprod/streams/raw/main/ressources/dm/py/hls/mensuptv.m3u8
+#EXTINF:-1 group-title="Thématiques",Museum
+https://live.creacast.com/museum-france/smil:museum-france.smil/master.m3u8
 #EXTINF:-1 group-title="Thématiques",My TV Caraïbes
 https://github.com/Sibprod/streams/raw/main/ressources/twitch/hls/MyTVCaraibes.m3u8
+#EXTINF:-1 group-title="Thématiques",My Zen TV
+https://live.creacast.com/myzentv-france/myzentv-france.smil/playlist.m3u8
 #EXTINF:-1 group-title="Thématiques",N31
 https://github.com/Sibprod/streams/raw/main/ressources/dm/py/hls/n31.m3u8
+#EXTINF:-1 group-title="Thématiques",Novela Channel
+https://video1.getstreamhosting.com:1936/8494/8494/playlist.m3u8
 #EXTINF:-1 group-title="Thématiques",RTL plug
 https://github.com/Sibprod/streams/raw/main/ressources/RTLbe/RTLplug.m3u8
+#EXTINF:-1 group-title="Thématiques",Série Max
+https://video1.getstreamhosting.com:1936/8446/8446/playlist.m3u8
 #EXTINF:-1 group-title="Thématiques",Sport En France
 https://github.com/Sibprod/streams/raw/main/ressources/dm/py/hls/sportenfrance.m3u8
 #EXTINF:-1 group-title="Thématiques",Sqool TV
 https://ythls.armelin.one/channel/UCaEqMbRYYOmI3WrALMhxuIg.m3u8
+#EXTINF:-1 group-title="Thématiques",Tech & Co
+https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_TECHANDCO/index.m3u8?end=END&start=LIVE
 #EXTINF:-1 group-title="Thématiques",Télésud
 https://github.com/Sibprod/streams/raw/main/ressources/dm/py/hls/telesud.m3u8
 #EXTINF:-1 group-title="Thématiques",Téva
 https://github.com/Sibprod/streams/raw/main/ressources/RTLfr/Teva.m3u8
+#EXTINF:-1 group-title="Thématiques",TMA Caraïbes
+http://hls.tmacaraibes.com/live/index.m3u8
 #EXTINF:-1 group-title="Thématiques",Top Santé TV
 https://github.com/Sibprod/streams/raw/main/ressources/dm/py/hls/topsante.m3u8
+#EXTINF:-1 group-title="Thématiques",TRACE Brasil
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/trace-brazuca/encrypted.m3u8
+#EXTINF:-1 group-title="Thématiques",TRACE Latina
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/trace-latina/encrypted.m3u8
+#EXTINF:-1 group-title="Thématiques",TRACE Urban
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/trace-urban/encrypted.m3u8
+#EXTINF:-1 group-title="Thématiques",TV5 Monde [Info]
+https://ott.tv5monde.com/Content/HLS/Live/channel(info)/index.m3u8
+#EXTINF:-1 group-title="Thématiques",TV Finance
+https://strhlslb01.streamakaci.tv/str_tvfinance_tvfinance/str_tvfinance_multi/playlist.m3u8
 #EXTINF:-1 group-title="Thématiques",TV Sanctuaire Notre-Dame de Lourdes
 https://ythls.armelin.one/channel/UC7zlbnNCnuAPiC3goKcFgUg.m3u8
 #EXTINF:-1 group-title="Thématiques",Ubiznews
@@ -208,20 +418,38 @@ https://github.com/Sibprod/streams/raw/main/ressources/dm/py/hls/franceinter.m3u
 https://github.com/Sibprod/streams/raw/main/ressources/dm/py/hls/funradiobe.m3u8
 #EXTINF:-1 group-title="Radios",Fun Radio |FR|
 https://github.com/Sibprod/streams/raw/main/ressources/dm/py/hls/funradiofr.m3u8
+#EXTINF:-1 group-title="Radios",Générations
+https://generation-tv.vedge.infomaniak.com/livecast/generation-tv/manifest.m3u8
+#EXTINF:-1 group-title="Radios",Littoral FM
+https://live.creacast.com/littoralfm-ch1/stream/playlist.m3u8
 #EXTINF:-1 group-title="Radios",Lor'FM
 https://github.com/Sibprod/streams/raw/main/ressources/twitch/hls/LorFM.m3u8
 #EXTINF:-1 group-title="Radios",M Le Média
 https://github.com/Sibprod/streams/raw/main/ressources/dm/py/hls/mlemedia.m3u8
+#EXTINF:-1 group-title="Radios",Madras FM TV
+https://madrasfmtv.vedge.infomaniak.com/livecast/madrasfmtv/manifest.m3u8
+#EXTINF:-1 group-title="Radios",Martinique La 1ère
+https://ythls.armelin.one/channel/UCgA9V57lQlZFXkDfhVGTWSg.m3u8
 #EXTINF:-1 group-title="Radios",Mouv'
 https://github.com/Sibprod/streams/raw/main/ressources/dm/py/hls/mouv.m3u8
+#EXTINF:-1 group-title="Radios",NRJ |BE|
+https://tv.ngroup.be/live/ngrp:nrj_all/playlist.m3u8
+#EXTINF:-1 group-title="Radios",Radio Basse-Terre
+https://vdo.ssl-stream.com:3412/stream/play.m3u8
 #EXTINF:-1 group-title="Radios",Radio Contact
 https://github.com/Sibprod/streams/raw/main/ressources/RTLbe/Contactvision.m3u8
+#EXTINF:-1 group-title="Radios",Radio Mont-Blanc
+https://live.creacast.com/radiomontblanc-ch1/smil:radiomontblanc-ch1.smil/playlist.m3u8
+#EXTINF:-1 group-title="Radios",RFI
+https://ythls.armelin.one/channel/UCm4fSpMpPIZ9z6KHoezLUAg.m3u8
 #EXTINF:-1 group-title="Radios",RFM |SN|
 https://github.com/Sibprod/streams/raw/main/ressources/dm/py/hls/rfm.m3u8
 #EXTINF:-1 group-title="Radios",RTL |FR|
 https://github.com/Sibprod/streams/raw/main/ressources/dm/py/hls/rtl.m3u8
 #EXTINF:-1 group-title="Radios",RTL 2 |FR|
 https://github.com/Sibprod/streams/raw/main/ressources/dm/py/hls/rtl2.m3u8
+#EXTINF:-1 group-title="Radios",RTS Couleur 3
+https://rtsc3video.akamaized.net/hls/live/2042837/c3video/3/Couleur3/chunklist-archive.m3u8?startTime=1710238000
 #EXTINF:-1 group-title="Radios",Sud Radio
 https://github.com/Sibprod/streams/raw/main/ressources/dm/py/hls/sudradio.m3u8
 #EXTINF:-1 group-title="Radios",Tahiti Webradio
