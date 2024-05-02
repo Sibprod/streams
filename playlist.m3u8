@@ -217,20 +217,25 @@ https://github.com/Sibprod/streams/raw/main/ressources/ftv/py/France3_Provence_M
 https://github.com/Sibprod/streams/raw/main/ressources/ftv/py/France3_AuRA_Lyon.m3u8
 #EXTINF:-1 group-title="Régionales",IL TV
 https://live.creacast.com/iltv/smil:iltv.smil/playlist.m3u8
-#EXTINF:-1 group-title="Régionales",La 1ère [Guadeloupe]
+#EXTINF:-1 group-title="Régionales",Guadeloupe La 1ère
 https://github.com/Sibprod/streams/raw/main/ressources/ftv/py/La1ere_guadeloupe_metro.m3u8
-#EXTINF:-1 group-title="Régionales",La 1ère [Guyane Française]
+#EXTINF:-1 group-title="Régionales",Guyane La 1ère
 https://github.com/Sibprod/streams/raw/main/ressources/ftv/py/La1ere_guyane_metro.m3u8
-#EXTINF:-1 group-title="Régionales",La 1ère [Martinique]
+#EXTINF:-1 group-title="Régionales",Martinique La 1ère
 https://github.com/Sibprod/streams/raw/main/ressources/ftv/py/La1ere_martinique_metro.m3u8
-#EXTINF:-1 group-title="Régionales",La 1ère [Mayotte]
+#EXTINF:-1 group-title="Régionales",Mayotte La 1ère
 https://github.com/Sibprod/streams/raw/main/ressources/ftv/py/La1ere_mayotte_metro.m3u8
-#EXTINF:-1 group-title="Régionales",La 1ère [Nouvelle-Calédonie]
+#EXTINF:-1 group-title="Régionales",Nouvelle-Calédonie La 1ère
 https://github.com/Sibprod/streams/raw/main/ressources/ftv/py/La1ere_NC_metro.m3u8
-#EXTINF:-1 group-title="Régionales",La 1ère [Polynésie Française]
-https://github.com/Sibprod/streams/raw/main/ressources/ftv/py/La1ere_PF_metro.m3u8
-#EXTINF:-1 group-title="Régionales",La 1ère [La Réunion]
+#EXTINF:-1 group-title="Régionales",Polynésie La 1ère
+https://github.com/Sibprod/streams/raw/main/ressources/ftv/py/La1ere_polynesie_metro.m3u8
+#EXTINF:-1 group-title="Régionales",Réunion La 1ère
 https://github.com/Sibprod/streams/raw/main/ressources/ftv/py/La1ere_reunion_metro.m3u8
+#EXTINF:-1 group-title="Régionales",Saint-Pierre-et-Miquelon La 1ère 
+https://github.com/Sibprod/streams/raw/main/ressources/ftv/py/La1ere_SPM_metro.m3u8
+#EXTINF:-1 group-title="Régionales",Wallis-et-Futuna La 1ère 
+https://github.com/Sibprod/streams/raw/main/ressources/ftv/py/La1ere_WF_metro.m3u8
+
 #EXTINF:-1 group-title="Régionales",La Chaîne 32
 https://ythls.armelin.one/channel/UChl0zP89T7yZyEwQkCfmmnQ.m3u8
 #EXTINF:-1 group-title="Régionales",La Télé
