@@ -131,14 +131,20 @@ http://s2.callofliberty.fr/directcoltv/20MINUTESTVILEDEFRANCE/master.m3u8
 #EXTVLCOPT:http-referrer=http://callofliberty.fr/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 Edg/112.0.1722.34
 http://s2.callofliberty.fr/directcoltv/france.3corse/master.m3u8
+#EXTINF:-1 tvg-logo=" " group-title="TNT" tvg-chno="34",Le Figaro TV [IdF]
+https://static.lefigaro.fr/secom/tnt.m3u8
 #EXTINF:-1 tvg-logo=" " group-title="TNT" tvg-chno="35",TV5 Monde [Europe]
 https://muutube.sonmezalp.com/proxy.php/https://ott.tv5monde.com/Content/HLS/Live/channel(europe)/index.m3u8
+#EXTINF:-1 tvg-logo=" " group-title="TNT" tvg-chno="36",Lyon Capitale TV
+https://github.com/Sibprod/streams/raw/main/ressources/dm/py/hls/lyoncapitale.m3u8
 #EXTINF:-1 tvg-logo=" " group-title="TNT" tvg-chno="38",8 Mont-Blanc
 https://github.com/Sibprod/streams/raw/main/ressources/dm/py/hls/8montblanc.m3u8
 #EXTINF:-1 tvg-logo="http://s2.callofliberty.fr/tv/217-france.3NoA/217-france.3NoA.png" group-title="TNT" tvg-chno="39",France 3 Régions [NoA] 
 #EXTVLCOPT:http-referrer=http://callofliberty.fr/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 Edg/112.0.1722.34
 http://s2.callofliberty.fr/directcoltv/france.3NoA/master.m3u8
+#EXTINF:-1 tvg-logo=" " group-title="TNT" tvg-chno="70",Monaco Info
+https://webtvmonacoinfo.mc/live/prod_720/index.m3u8
 #EXTINF:-1 tvg-logo=" " group-title="TNT" tvg-chno="71",TV Monaco
 https://production-fast-mcrtv.content.okast.tv/channels/2116dc08-1959-465d-857f-3619daefb66b/b702b2b9-aebd-436c-be69-2118f56f3d86/master.m3u8
 #EXTINF:-1 tvg-logo="http://s2.callofliberty.fr/tv/301-RTS1/301-RTS1.png" group-title="TNT" tvg-chno="101",RTS 1
@@ -205,18 +211,24 @@ http://s2.callofliberty.fr/directcoltv/france.tvdocs/index.m3u8
 #EXTVLCOPT:http-referrer=http://callofliberty.fr/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 Edg/112.0.1722.34
 http://s2.callofliberty.fr/directcoltv/AntenneREUNION/master.m3u8
+#EXTINF:-1 tvg-logo=" " group-title="Régionales" tvg-chno="223",Éclair TV
+https://etvgp.vedge.infomaniak.com/livecast/etvgp/manifest.m3u8
 #EXTINF:-1 tvg-logo="http://s2.callofliberty.fr/tv/46-TAHITITV/46-TAHITITV.png" group-title="Régionales" tvg-chno="246",Tahiti TV
 #EXTVLCOPT:http-referrer=http://callofliberty.fr/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 Edg/112.0.1722.34
 http://s2.callofliberty.fr/directcoltv/TAHITITV/index.m3u8
-#EXTINF:-1 tvg-logo=" " group-title="Régionales" tvg-chno="302",BFM Régions [Marseille-Provence]
+#EXTINF:-1 tvg-logo=" " group-title="Régionales" tvg-chno="300",BFM Régions [Marseille-Provence]
 #EXTVLCOPT:http-referrer=http://callofliberty.fr/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 Edg/112.0.1722.34
 http://s2.callofliberty.fr/directcoltv/BFMMARSEILLEPROVENCE/master.m3u8
-#EXTINF:-1 tvg-logo=" " group-title="Régionales" tvg-chno="304",BFM Régions [Toulon-Var]
+#EXTINF:-1 tvg-logo=" " group-title="Régionales" tvg-chno="301",BFM Régions [Toulon-Var]
 #EXTVLCOPT:http-referrer=http://callofliberty.fr/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 Edg/112.0.1722.34
 http://s2.callofliberty.fr/directcoltv/BFMTOULONVAR/master.m3u8
+#EXTINF:-1 group-title="Régionales" tvg-chno="302",Tele Paese
+https://srv.webtvmanager.fr:3118/live/viatelepaeselive.m3u8
+#EXTINF:-1 tvg-logo=" " group-title="Régionales" tvg-chno="303",Cannes Lérins TV
+https://vdo2.pro-fhi.net:3628/live/uppodsfqlive.m3u8
 #EXTINF:-1 tvg-logo=" " group-title="Régionales" tvg-chno="310",BFM Régions [Dici Alpes-du-Sud] 
 #EXTVLCOPT:http-referrer=http://callofliberty.fr/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 Edg/112.0.1722.34
@@ -225,26 +237,40 @@ http://s2.callofliberty.fr/directcoltv/BFMDICIALPESDUSUD/master.m3u8
 #EXTVLCOPT:http-referrer=http://callofliberty.fr/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 Edg/112.0.1722.34
 http://s2.callofliberty.fr/directcoltv/BFMDICIHAUTEPROVENCE/master.m3u8
-#EXTINF:-1 tvg-logo=" " group-title="Régionales" tvg-chno="313",BFM Régions [Nice-Côte d'Azur]
+#EXTINF:-1 tvg-logo=" " group-title="Régionales" tvg-chno="312",BFM Régions [Nice-Côte d'Azur]
 #EXTVLCOPT:http-referrer=http://callofliberty.fr/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 Edg/112.0.1722.34
 http://s2.callofliberty.fr/directcoltv/BFMNICECOTEDAZUR/master.m3u8
+#EXTINF:-1 tvg-logo=" " group-title="Régionales" tvg-chno="313",viàOccitanie
+https://streamer01.myvideoplace.tv/streamer02/hls/MDS_VIA_PAD_301117_medium/index.m3u8
+#EXTINF:-1 tvg-logo=" " group-title="Régionales" tvg-chno="320",France 3 Régions [Côte-d'Azur]
+#EXTVLCOPT:http-referrer=http://callofliberty.fr/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 Edg/112.0.1722.34
+http://s2.callofliberty.fr/directcoltv/france.3cotedazur/master.m3u8
+#EXTINF:-1 tvg-logo=" " group-title="Régionales" tvg-chno="321",France 3 Régions [Provence-Alpes]
+#EXTVLCOPT:http-referrer=http://callofliberty.fr/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 Edg/112.0.1722.34
+http://s2.callofliberty.fr/directcoltv/france.3provencealpes/master.m3u8
+#EXTINF:-1 tvg-logo=" " group-title="Régionales" tvg-chno="380",Télégrenoble
+https://github.com/Sibprod/streams/raw/main/ressources/twitch/hls/Telegrenoble.m3u8
 #EXTINF:-1 tvg-logo=" " group-title="Régionales" tvg-chno="381",Alpe d'Huez TV
 https://adhtv.vedge.infomaniak.com/livecast/adhtv/chunklist.m3u8
 #EXTINF:-1 tvg-logo=" " group-title="Régionales" tvg-chno="921",Léman Bleu
 
 #EXTINF:-1 tvg-logo=" " group-title="Régionales" tvg-chno="922",La Télé
- 
+http://latele.vedge.infomaniak.com/livecast/latele/manifest.m3u8
 #EXTINF:-1 tvg-logo="http://s2.callofliberty.fr/tv/300-canal9/300-canal9.png" group-title="TNT" tvg-chno="923",Canal 9
 #EXTVLCOPT:http-referrer=http://callofliberty.fr/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 Edg/112.0.1722.34
 http://s2.callofliberty.fr/directcoltv/canal9/master.m3u8
 #EXTINF:-1 tvg-logo=" " group-title="Régionales" tvg-chno="924",Telebielingue
 
-#EXTINF:-1 tvg-logo="http://s2.callofliberty.fr/tv/304-canalalpha/304-canalalpha.png" group-title="TNT" tvg-chno="925",Canal Alpha
+#EXTINF:-1 tvg-logo="http://s2.callofliberty.fr/tv/304-canalalpha/304-canalalpha.png" group-title="TNT" tvg-chno="925",Canal Alpha [Neuchâtel]
 #EXTVLCOPT:http-referrer=http://callofliberty.fr/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 Edg/112.0.1722.34
 http://s2.callofliberty.fr/directcoltv/canalalpha/master.m3u8
+#EXTINF:-1 tvg-logo="http://s2.callofliberty.fr/tv/304-canalalpha/304-canalalpha.png" group-title="Régionales" tvg-chno="926",Canal Alpha [Jura]
+http://canalalphaju.vedge.infomaniak.com/livecast/canalalphaju/manifest.m3u8
 #EXTINF:-1 tvg-logo=" " group-title="Régionales" tvg-chno="960",BX1
 https://59959724487e3.streamlock.net/stream/live/playlist.m3u8
 #EXTINF:-1 tvg-logo=" " group-title="FAST" tvg-chno="1900",Radio-Canada Info
@@ -267,14 +293,7 @@ https://dvvyqyxwlc4tn.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a
 https://d21wdmv2hqydbt.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-n239v7ne7hack/index.m3u8
 #EXTINF:-1 tvg-logo=" " group-title="FAST" tvg-chno="3400",Le Figaro Live
 https://d358c6mfrono1y.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-0ppx9nh29jpk7-prod/490bc6dd-734b-4242-8810-294896740082/2.m3u8
-#EXTINF:-1 tvg-logo=" " group-title="Régionales" tvg-chno="3909",France 3 Régions [Côte-d'Azur]
-#EXTVLCOPT:http-referrer=http://callofliberty.fr/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 Edg/112.0.1722.34
-http://s2.callofliberty.fr/directcoltv/france.3cotedazur/master.m3u8
-#EXTINF:-1 tvg-logo=" " group-title="Régionales" tvg-chno="3921",France 3 Régions [Provence-Alpes]
-#EXTVLCOPT:http-referrer=http://callofliberty.fr/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 Edg/112.0.1722.34
-http://s2.callofliberty.fr/directcoltv/france.3provencealpes/master.m3u8
+
 
 
 
