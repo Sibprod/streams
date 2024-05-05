@@ -33,12 +33,15 @@ https://muutube.sonmezalp.com/proxy.php/https://ott.tv5monde.com/Content/HLS/Liv
 https://ott.tv5monde.com/Content/HLS/Live/channel(fbs)/variant.m3u8
 #EXTINF:-1 group-title="TNT",M6
 #EXTVLCOPT:http-referrer=http://callofliberty.fr/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 Edg/112.0.1722.34
 http://s2.callofliberty.fr/directcoltv/M6/index.m3u8
 #EXTINF:-1 group-title="TNT",W9
 #EXTVLCOPT:http-referrer=http://callofliberty.fr/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 Edg/112.0.1722.34
 http://s2.callofliberty.fr/directcoltv/W9/index.m3u8
 #EXTINF:-1 group-title="TNT",6ter
 #EXTVLCOPT:http-referrer=http://callofliberty.fr/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 Edg/112.0.1722.34
 http://s2.callofliberty.fr/directcoltv/6TER/index.m3u8
 #EXTINF:-1 group-title="TNT",Gulli
 https://github.com/Sibprod/streams/raw/main/ressources/RTLfr/Gulli.m3u8
@@ -48,6 +51,7 @@ https://github.com/Sibprod/streams/raw/main/ressources/RTLfr/ParisPremiere.m3u8
 https://artesimulcast.akamaized.net/hls/live/2031003/artelive_fr/index.m3u8
 #EXTINF:-1 group-title="TNT",La Chaîne Parlementaire
 #EXTVLCOPT:http-referrer=http://callofliberty.fr/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 Edg/112.0.1722.34
 http://s2.callofliberty.fr/directcoltv/LCP/master.m3u8
 #EXTINF:-1 group-title="TNT",Public Sénat
 https://github.com/Sibprod/streams/raw/main/ressources/dm/py/hls/publicsenat.m3u8
@@ -369,6 +373,7 @@ https://rcavlive.akamaized.net/hls/live/704025/xcanrdi/master.m3u8
 https://194270.global.ssl.fastly.net/63b43410861d94a9eee067fb/live_947330308dd911edb85c8181cb9b11a8/index.m3u8
 #EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="Thématiques" tvg-chno="",Le Journal du Golf TV
 #EXTVLCOPT:http-referrer=http://callofliberty.fr/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 Edg/112.0.1722.34
 http://s2.callofliberty.fr/directcoltv/journaldugolftv/master.m3u8
 #EXTINF:-1 group-title="Thématiques",Le Média
 https://github.com/Sibprod/streams/raw/main/ressources/dm/py/hls/lemedia.m3u8
