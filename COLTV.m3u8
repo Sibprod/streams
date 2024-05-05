@@ -1,241 +1,245 @@
 #EXTM3U
-#EXTINF:-1 group-title="TNT" tvg-chno="1",TF1
+#EXTINF:-1 tvg-logo="http://s2.callofliberty.fr/tv/1-TF1/1-TF1.png" group-title="TNT" tvg-chno="1",TF1
 #EXTVLCOPT:http-referrer=http://callofliberty.fr/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 Edg/112.0.1722.34
 http://s2.callofliberty.fr/directcoltv/TF1/index.m3u8
-#EXTINF:-1 group-title="TNT" tvg-chno="2",France 2
+#EXTINF:-1 tvg-logo="http://s2.callofliberty.fr/tv/2-france.2/2-france.2.png" group-title="TNT" tvg-chno="2",France 2
 #EXTVLCOPT:http-referrer=http://callofliberty.fr/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 Edg/112.0.1722.34
 http://s2.callofliberty.fr/directcoltv/France.2/index.m3u8
-#EXTINF:-1 group-title="TNT" tvg-chno="3",France 3
+#EXTINF:-1 tvg-logo="http://s2.callofliberty.fr/tv/3-france.3/3-france.3.png" group-title="TNT" tvg-chno="3",France 3
 #EXTVLCOPT:http-referrer=http://callofliberty.fr/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 Edg/112.0.1722.34
 http://s2.callofliberty.fr/directcoltv/France.3/index.m3u8
-#EXTINF:-1 group-title="TNT" tvg-chno="4",Canal+
+#EXTINF:-1 tvg-logo="http://s2.callofliberty.fr/tv/4-CANALPLUS/4-CANALPLUS.png" group-title="TNT" tvg-chno="4",Canal+
 #EXTVLCOPT:http-referrer=http://callofliberty.fr/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 Edg/112.0.1722.34
 http://s2.callofliberty.fr/directcoltv/CANALPLUS/master.m3u8
-#EXTINF:-1 group-title="TNT" tvg-chno="5",France 5
+#EXTINF:-1 tvg-logo="http://s2.callofliberty.fr/tv/5-france.5/5-france.5.png" group-title="TNT" tvg-chno="5",France 5
 #EXTVLCOPT:http-referrer=http://callofliberty.fr/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 Edg/112.0.1722.34
 http://s2.callofliberty.fr/directcoltv/France.5/index.m3u8
-#EXTINF:-1 group-title="TNT" tvg-chno="6",M6
+#EXTINF:-1 tvg-logo="http://s2.callofliberty.fr/tv/6-M6/6-M6.png" group-title="TNT" tvg-chno="6",M6
 #EXTVLCOPT:http-referrer=http://callofliberty.fr/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 Edg/112.0.1722.34
 http://s2.callofliberty.fr/directcoltv/M6/index.m3u8
-#EXTINF:-1 group-title="TNT" tvg-chno="7",ARTE
+#EXTINF:-1 tvg-logo="http://s2.callofliberty.fr/tv/7-ARTE/7-ARTE.png" group-title="TNT" tvg-chno="7",ARTE
 #EXTVLCOPT:http-referrer=http://callofliberty.fr/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 Edg/112.0.1722.34
 http://s2.callofliberty.fr/directcoltv/ARTE/index.m3u8
-#EXTINF:-1 group-title="TNT" tvg-chno="8",C8
+#EXTINF:-1 tvg-logo="http://s2.callofliberty.fr/tv/8-C8/8-C8.png" group-title="TNT" tvg-chno="8",C8
 #EXTVLCOPT:http-referrer=http://callofliberty.fr/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 Edg/112.0.1722.34
 http://s2.callofliberty.fr/directcoltv/C8/index.m3u8
-#EXTINF:-1 group-title="TNT" tvg-chno="9",W9
+#EXTINF:-1 tvg-logo="http://s2.callofliberty.fr/tv/9-W9/9-W9.png" group-title="TNT" tvg-chno="9",W9
 #EXTVLCOPT:http-referrer=http://callofliberty.fr/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 Edg/112.0.1722.34
 http://s2.callofliberty.fr/directcoltv/W9/index.m3u8
-#EXTINF:-1 group-title="TNT" tvg-chno="10",TMC
+#EXTINF:-1 tvg-logo="http://s2.callofliberty.fr/tv/10-TMC/10-TMC.png" group-title="TNT" tvg-chno="10",TMC
 #EXTVLCOPT:http-referrer=http://callofliberty.fr/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 Edg/112.0.1722.34
 http://s2.callofliberty.fr/directcoltv/TMC/index.m3u8
-#EXTINF:-1 group-title="TNT" tvg-chno="11",TFX
+#EXTINF:-1 tvg-logo="http://s2.callofliberty.fr/tv/11-TFX/11-TFX.png" group-title="TNT" tvg-chno="11",TFX
 #EXTVLCOPT:http-referrer=http://callofliberty.fr/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 Edg/112.0.1722.34
 http://s2.callofliberty.fr/directcoltv/TFX/index.m3u8
-#EXTINF:-1 group-title="TNT" tvg-chno="12",NRJ 12
+#EXTINF:-1 tvg-logo="http://s2.callofliberty.fr/tv/12-NRJ12/12-NRJ12.png" group-title="TNT" tvg-chno="12",NRJ 12
 #EXTVLCOPT:http-referrer=http://callofliberty.fr/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 Edg/112.0.1722.34
 http://s2.callofliberty.fr/directcoltv/Nrj12/index.m3u8
-#EXTINF:-1 group-title="TNT" tvg-chno="13",LCP
+#EXTINF:-1 tvg-logo="http://s2.callofliberty.fr/tv/28-LCP/28-LCP.png" group-title="TNT" tvg-chno="13",LCP
 #EXTVLCOPT:http-referrer=http://callofliberty.fr/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 Edg/112.0.1722.34
 http://s2.callofliberty.fr/directcoltv/LCP/master.m3u8
-#EXTINF:-1 group-title="TNT" tvg-chno="13",Public Sénat
-#EXTVLCOPT:http-referrer=http://callofliberty.fr/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 Edg/112.0.1722.34
-http://s2.callofliberty.fr/directcoltv/PUBLICSENAT/master.m3u8
-#EXTINF:-1 group-title="TNT" tvg-chno="14",France 4
+#EXTINF:-1 tvg-logo="http://s2.callofliberty.fr/tv/14-france.4/14-france.4.png" group-title="TNT" tvg-chno="14",France 4
 #EXTVLCOPT:http-referrer=http://callofliberty.fr/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 Edg/112.0.1722.34
 http://s2.callofliberty.fr/directcoltv/France.4/index.m3u8
-#EXTINF:-1 group-title="TNT" tvg-chno="15",BFM TV
+#EXTINF:-1 tvg-logo="http://s2.callofliberty.fr/tv/15-BFMTV/15-BFMTV.png" group-title="TNT" tvg-chno="15",BFM TV
 #EXTVLCOPT:http-referrer=http://callofliberty.fr/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 Edg/112.0.1722.34
 http://s2.callofliberty.fr/directcoltv/BFMTV/index.m3u8
-#EXTINF:-1 group-title="TNT" tvg-chno="16",CNews
+#EXTINF:-1 tvg-logo="http://s2.callofliberty.fr/tv/16-CNEWS/16-CNEWS.png" group-title="TNT" tvg-chno="16",CNews
 #EXTVLCOPT:http-referrer=http://callofliberty.fr/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 Edg/112.0.1722.34
 http://s2.callofliberty.fr/directcoltv/CNEWS/index.m3u8
-#EXTINF:-1 group-title="TNT" tvg-chno="17",CStar
+#EXTINF:-1 tvg-logo="http://s2.callofliberty.fr/tv/17-CSTAR/17-CSTAR.png" group-title="TNT" tvg-chno="17",CStar
 #EXTVLCOPT:http-referrer=http://callofliberty.fr/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 Edg/112.0.1722.34
 http://s2.callofliberty.fr/directcoltv/CSTAR/index.m3u8
-#EXTINF:-1 group-title="TNT" tvg-chno="18",Gulli
+#EXTINF:-1 tvg-logo="http://s2.callofliberty.fr/tv/18-Gulli/18-Gulli.png" group-title="TNT" tvg-chno="18",Gulli
 #EXTVLCOPT:http-referrer=http://callofliberty.fr/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 Edg/112.0.1722.34
 http://s2.callofliberty.fr/directcoltv/GULLI/index.m3u8
-#EXTINF:-1 group-title="TNT" tvg-chno="20",TF1 Séries Films
+#EXTINF:-1 tvg-logo="http://s2.callofliberty.fr/tv/29-PublicSenat/29-PublicSenat.png" group-title="TNT" tvg-chno="19",Public Sénat
+#EXTVLCOPT:http-referrer=http://callofliberty.fr/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 Edg/112.0.1722.34
+http://s2.callofliberty.fr/directcoltv/PUBLICSENAT/master.m3u8
+#EXTINF:-1 tvg-logo="http://s2.callofliberty.fr/tv/20-TF1SERIESFILMS/20-TF1SERIESFILMS.png" group-title="TNT" tvg-chno="20",TF1 Séries Films
 #EXTVLCOPT:http-referrer=http://callofliberty.fr/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 Edg/112.0.1722.34
 http://s2.callofliberty.fr/directcoltv/TF1SERIESFILMS/index.m3u8
-#EXTINF:-1 group-title="TNT" tvg-chno="21",L'Equipe
+#EXTINF:-1 tvg-logo="http://s2.callofliberty.fr/tv/21-LEQUIPE/21-LEQUIPE.png" group-title="TNT" tvg-chno="21",L'Equipe
 #EXTVLCOPT:http-referrer=http://callofliberty.fr/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 Edg/112.0.1722.34
 http://s2.callofliberty.fr/directcoltv/LEQUIPE/master.m3u8
-#EXTINF:-1 group-title="TNT" tvg-chno="22",6ter
+#EXTINF:-1 tvg-logo="http://s2.callofliberty.fr/tv/22-6TER/22-6TER.png" group-title="TNT" tvg-chno="22",6ter
 #EXTVLCOPT:http-referrer=http://callofliberty.fr/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 Edg/112.0.1722.34
 http://s2.callofliberty.fr/directcoltv/6TER/index.m3u8
-#EXTINF:-1 group-title="TNT" tvg-chno="23",RMC Story
+#EXTINF:-1 tvg-logo="http://s2.callofliberty.fr/tv/23-RMCSTORY/23-RMCSTORY.png" group-title="TNT" tvg-chno="23",RMC Story
 #EXTVLCOPT:http-referrer=http://callofliberty.fr/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 Edg/112.0.1722.34
 http://s2.callofliberty.fr/directcoltv/RMCStory/index.m3u8
-#EXTINF:-1 group-title="TNT" tvg-chno="24",RMC Découverte
+#EXTINF:-1 tvg-logo="http://s2.callofliberty.fr/tv/24-RMCDECOUVERTE/24-RMCDECOUVERTE.png" group-title="TNT" tvg-chno="24",RMC Découverte
 #EXTVLCOPT:http-referrer=http://callofliberty.fr/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 Edg/112.0.1722.34
 http://s2.callofliberty.fr/directcoltv/RMCDecouverte/index.m3u8
-#EXTINF:-1 group-title="TNT" tvg-chno="25",Chérie 25
+#EXTINF:-1 tvg-logo="http://s2.callofliberty.fr/tv/25-Cherie25/25-Cherie25.png" group-title="TNT" tvg-chno="25",Chérie 25
 #EXTVLCOPT:http-referrer=http://callofliberty.fr/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 Edg/112.0.1722.34
 http://s2.callofliberty.fr/directcoltv/Cherie25/index.m3u8
-#EXTINF:-1 group-title="TNT" tvg-chno="26",LCI
+#EXTINF:-1 tvg-logo="http://s2.callofliberty.fr/tv/26-LCI/26-LCI.png" group-title="TNT" tvg-chno="26",LCI
 #EXTVLCOPT:http-referrer=http://callofliberty.fr/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 Edg/112.0.1722.34
 http://s2.callofliberty.fr/directcoltv/LCI/index.m3u8
-#EXTINF:-1 group-title="TNT" tvg-chno="27",France Info
+#EXTINF:-1 tvg-logo="http://s2.callofliberty.fr/tv/27-franceinfo/27-franceinfo.png" group-title="TNT" tvg-chno="27",France Info
 #EXTVLCOPT:http-referrer=http://callofliberty.fr/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 Edg/112.0.1722.34
 http://s2.callofliberty.fr/directcoltv/Franceinfo/index.m3u8
-#EXTINF:-1 group-title="TNT" tvg-chno="28",Euronews [Français]
+#EXTINF:-1 tvg-logo="http://s2.callofliberty.fr/tv/35-euronews/35-euronews.png" group-title="TNT" tvg-chno="28",Euronews [Français]
 #EXTVLCOPT:http-referrer=http://callofliberty.fr/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 Edg/112.0.1722.34
 http://s2.callofliberty.fr/directcoltv/Euronews/index.m3u8
-#EXTINF:-1 group-title="TNT" tvg-chno="29",France 24 [Français]
+#EXTINF:-1 tvg-logo="http://s2.callofliberty.fr/tv/39-FRANCE24/39-FRANCE24.png" group-title="TNT" tvg-chno="29",France 24 [Français]
 #EXTVLCOPT:http-referrer=http://callofliberty.fr/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 Edg/112.0.1722.34
 http://s2.callofliberty.fr/directcoltv/France24/index.m3u8
-#EXTINF:-1 group-title="TNT" tvg-chno="30",TV5 Monde [FBSM]
+#EXTINF:-1 tvg-logo="http://s2.callofliberty.fr/tv/37-TV5MONDEFBSM/37-TV5MONDEFBSM.png" group-title="TNT" tvg-chno="30",TV5 Monde [FBSM]
 #EXTVLCOPT:http-referrer=http://callofliberty.fr/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 Edg/112.0.1722.34
 http://s2.callofliberty.fr/directcoltv/TV5MONDEFBSM/master.m3u8
-#EXTINF:-1 group-title="TNT" tvg-chno="31",Paris Première
+#EXTINF:-1 tvg-logo="http://s2.callofliberty.fr/tv/110-PARISPREMIERE/110-PARISPREMIERE.png" group-title="TNT" tvg-chno="31",Paris Première
 #EXTVLCOPT:http-referrer=http://callofliberty.fr/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 Edg/112.0.1722.34
 http://s2.callofliberty.fr/directcoltv/PARISPREMIERE/master.m3u8
-#EXTINF:-1 group-title="TNT" tvg-chno="32",20 Minutes TV [IdF]
+#EXTINF:-1 tvg-logo="http://s2.callofliberty.fr/tv/30-20MINUTESTVILEDEFRANCE/30-20MINUTESTVILEDEFRANCE.png" group-title="TNT" tvg-chno="32",20 Minutes TV [IdF]
 #EXTVLCOPT:http-referrer=http://callofliberty.fr/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 Edg/112.0.1722.34
 http://s2.callofliberty.fr/directcoltv/20MINUTESTVILEDEFRANCE/master.m3u8
-#EXTINF:-1 group-title="TNT" tvg-chno="33",France 3 Régions [Corse] - Via Stella
+#EXTINF:-1 tvg-logo="http://s2.callofliberty.fr/tv/209-france.3corse/209-france.3corse.png" group-title="TNT" tvg-chno="33",France 3 Régions [Corse] - Via Stella
 #EXTVLCOPT:http-referrer=http://callofliberty.fr/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 Edg/112.0.1722.34
 http://s2.callofliberty.fr/directcoltv/france.3corse/master.m3u8
-#EXTINF:-1 group-title="TNT" tvg-chno="39",France 3 Régions [NoA] 
+#EXTINF:-1 tvg-logo="http://s2.callofliberty.fr/tv/217-france.3NoA/217-france.3NoA.png" group-title="TNT" tvg-chno="39",France 3 Régions [NoA] 
 #EXTVLCOPT:http-referrer=http://callofliberty.fr/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 Edg/112.0.1722.34
 http://s2.callofliberty.fr/directcoltv/france.3NoA/master.m3u8
-#EXTINF:-1 group-title="TNT" tvg-chno="41",RTS 1
+#EXTINF:-1 tvg-logo="http://s2.callofliberty.fr/tv/301-RTS1/301-RTS1.png" group-title="TNT" tvg-chno="41",RTS 1
 #EXTVLCOPT:http-referrer=http://callofliberty.fr/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 Edg/112.0.1722.34
 http://s2.callofliberty.fr/directcoltv/RTS1/index.m3u8
-#EXTINF:-1 group-title="TNT" tvg-chno="42",RTS 2
+#EXTINF:-1 tvg-logo="http://s2.callofliberty.fr/tv/302-RTS2/302-RTS2.png" group-title="TNT" tvg-chno="42",RTS 2
 #EXTVLCOPT:http-referrer=http://callofliberty.fr/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 Edg/112.0.1722.34
 http://s2.callofliberty.fr/directcoltv/RTS2/index.m3u8
-#EXTINF:-1 group-title="TNT" tvg-chno="43",TVM 3
+#EXTINF:-1 tvg-logo="http://s2.callofliberty.fr/tv/303-tvm3/303-tvm3.png" group-title="TNT" tvg-chno="43",TVM 3
 #EXTVLCOPT:http-referrer=http://callofliberty.fr/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 Edg/112.0.1722.34
 http://s2.callofliberty.fr/directcoltv/tvm3/master.m3u8
-#EXTINF:-1 group-title="TNT" tvg-chno="44",Carac 1
+#EXTINF:-1 tvg-logo="http://s2.callofliberty.fr/tv/305-carac1/305-carac1.png" group-title="TNT" tvg-chno="44",Carac 1
 #EXTVLCOPT:http-referrer=http://callofliberty.fr/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 Edg/112.0.1722.34
 http://s2.callofliberty.fr/directcoltv/carac1/master.m3u8
-#EXTINF:-1 group-title="TNT" tvg-chno="45",Carac 2
+#EXTINF:-1 tvg-logo="http://s2.callofliberty.fr/tv/306-carac2/306-carac2.png" group-title="TNT" tvg-chno="45",Carac 2
 #EXTVLCOPT:http-referrer=http://callofliberty.fr/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 Edg/112.0.1722.34
 http://s2.callofliberty.fr/directcoltv/carac2/master.m3u8
-#EXTINF:-1 group-title="TNT" tvg-chno="46",Carac 3
+#EXTINF:-1 tvg-logo="http://s2.callofliberty.fr/tv/307-carac3/307-carac3.png" group-title="TNT" tvg-chno="46",Carac 3
 #EXTVLCOPT:http-referrer=http://callofliberty.fr/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 Edg/112.0.1722.34
 http://s2.callofliberty.fr/directcoltv/carac3/master.m3u8
-#EXTINF:-1 group-title="TNT" tvg-chno="47",Carac 4
+#EXTINF:-1 tvg-logo="http://s2.callofliberty.fr/tv/308-carac4/308-carac4.png" group-title="TNT" tvg-chno="47",Carac 4
 #EXTVLCOPT:http-referrer=http://callofliberty.fr/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 Edg/112.0.1722.34
 http://s2.callofliberty.fr/directcoltv/carac4/master.m3u8
-#EXTINF:-1 group-title="TNT" tvg-chno="48",Canal Alpha
+#EXTINF:-1 tvg-logo="http://s2.callofliberty.fr/tv/304-canalalpha/304-canalalpha.png" group-title="TNT" tvg-chno="48",Canal Alpha
 #EXTVLCOPT:http-referrer=http://callofliberty.fr/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 Edg/112.0.1722.34
 http://s2.callofliberty.fr/directcoltv/canalalpha/master.m3u8
-#EXTINF:-1 group-title="TNT" tvg-chno="49",Canal 9
+#EXTINF:-1 tvg-logo="http://s2.callofliberty.fr/tv/300-canal9/300-canal9.png" group-title="TNT" tvg-chno="49",Canal 9
 #EXTVLCOPT:http-referrer=http://callofliberty.fr/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 Edg/112.0.1722.34
 http://s2.callofliberty.fr/directcoltv/canal9/master.m3u8
-#EXTINF:-1 group-title="TNT" tvg-chno="63",RTL plug
+#EXTINF:-1 tvg-logo="http://s2.callofliberty.fr/tv/48-TeleQuebec/48-TeleQuebec.png" group-title="TNT" tvg-chno="53",Télé Québec
+#EXTVLCOPT:http-referrer=http://callofliberty.fr/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 Edg/112.0.1722.34
+http://s2.callofliberty.fr/directcoltv/TeleQuebec/master.m3u8
+#EXTINF:-1 tvg-logo="http://s2.callofliberty.fr/tv/322-RTLplug/322-RTLplug.png" group-title="TNT" tvg-chno="63",RTL plug
 #EXTVLCOPT:http-referrer=http://callofliberty.fr/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 Edg/112.0.1722.34
 http://s2.callofliberty.fr/directcoltv/RTLplug/master.m3u8
-#EXTINF:-1 group-title="Thématiques" tvg-chno="150",BFM Business
+#EXTINF:-1 tvg-logo="http://s2.callofliberty.fr/tv/42-BFMBUSINESS/42-BFMBUSINESS.png" group-title="Thématiques" tvg-chno="150",BFM Business
 #EXTVLCOPT:http-referrer=http://callofliberty.fr/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 Edg/112.0.1722.34
 http://s2.callofliberty.fr/directcoltv/BFMBUSINESS/master.m3u8
-#EXTINF:-1 group-title="Thématiques" tvg-chno="151",Tech & Co
+#EXTINF:-1 tvg-logo="http://s2.callofliberty.fr/tv/41-TECHANDCO/41-TECHANDCO.png" group-title="Thématiques" tvg-chno="151",Tech & Co
 #EXTVLCOPT:http-referrer=http://callofliberty.fr/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 Edg/112.0.1722.34
 http://s2.callofliberty.fr/directcoltv/TECHANDCO/master.m3u8
-#EXTINF:-1 group-title="FAST" tvg-chno="200",France TV Séries
+#EXTINF:-1 tvg-logo="http://s2.callofliberty.fr/tv/31-france.tvseries/31-france.tvseries.png" group-title="FAST" tvg-chno="200",France TV Séries
 #EXTVLCOPT:http-referrer=http://callofliberty.fr/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 Edg/112.0.1722.34
 http://s2.callofliberty.fr/directcoltv/france.tvseries/index.m3u8
-#EXTINF:-1 group-title="FAST" tvg-chno="201",France TV Docs
+#EXTINF:-1 tvg-logo="http://s2.callofliberty.fr/tv/32-france.tvdocs/32-france.tvdocs.png" group-title="FAST" tvg-chno="201",France TV Docs
 #EXTVLCOPT:http-referrer=http://callofliberty.fr/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 Edg/112.0.1722.34
 http://s2.callofliberty.fr/directcoltv/france.tvdocs/index.m3u8
-#EXTINF:-1 group-title="Régionales" tvg-chno="220",Antenne Réunion
+#EXTINF:-1 tvg-logo="http://s2.callofliberty.fr/tv/47-AntenneREUNION/47-AntenneREUNION.png" group-title="Régionales" tvg-chno="220",Antenne Réunion
 #EXTVLCOPT:http-referrer=http://callofliberty.fr/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 Edg/112.0.1722.34
 http://s2.callofliberty.fr/directcoltv/AntenneREUNION/master.m3u8
-#EXTINF:-1 group-title="Régionales" tvg-chno="246",Tahiti TV
+#EXTINF:-1 tvg-logo="http://s2.callofliberty.fr/tv/46-TAHITITV/46-TAHITITV.png" group-title="Régionales" tvg-chno="246",Tahiti TV
 #EXTVLCOPT:http-referrer=http://callofliberty.fr/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 Edg/112.0.1722.34
 http://s2.callofliberty.fr/directcoltv/TAHITITV/index.m3u8
-#EXTINF:-1 group-title="Régionales" tvg-chno="302",BFM Régions [Marseille-Provence]
+#EXTINF:-1 tvg-logo=" " group-title="Régionales" tvg-chno="302",BFM Régions [Marseille-Provence]
 #EXTVLCOPT:http-referrer=http://callofliberty.fr/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 Edg/112.0.1722.34
 http://s2.callofliberty.fr/directcoltv/BFMMARSEILLEPROVENCE/master.m3u8
-#EXTINF:-1 group-title="Régionales" tvg-chno="304",BFM Régions [Toulon-Var]
+#EXTINF:-1 tvg-logo=" " group-title="Régionales" tvg-chno="304",BFM Régions [Toulon-Var]
 #EXTVLCOPT:http-referrer=http://callofliberty.fr/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 Edg/112.0.1722.34
 http://s2.callofliberty.fr/directcoltv/BFMTOULONVAR/master.m3u8
-#EXTINF:-1 group-title="Régionales" tvg-chno="310",BFM Régions [Dici Alpes-du-Sud] 
+#EXTINF:-1 tvg-logo=" " group-title="Régionales" tvg-chno="310",BFM Régions [Dici Alpes-du-Sud] 
 #EXTVLCOPT:http-referrer=http://callofliberty.fr/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 Edg/112.0.1722.34
 http://s2.callofliberty.fr/directcoltv/BFMDICIALPESDUSUD/master.m3u8
-#EXTINF:-1 group-title="Régionales" tvg-chno="311",BFM Régions [Dici Haute-Provence] 
+#EXTINF:-1 tvg-logo=" " group-title="Régionales" tvg-chno="311",BFM Régions [Dici Haute-Provence] 
 #EXTVLCOPT:http-referrer=http://callofliberty.fr/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 Edg/112.0.1722.34
 http://s2.callofliberty.fr/directcoltv/BFMDICIHAUTEPROVENCE/master.m3u8
-#EXTINF:-1 group-title="Régionales" tvg-chno="313",BFM Régions [Nice-Côte d'Azur]
+#EXTINF:-1 tvg-logo=" " group-title="Régionales" tvg-chno="313",BFM Régions [Nice-Côte d'Azur]
 #EXTVLCOPT:http-referrer=http://callofliberty.fr/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 Edg/112.0.1722.34
 http://s2.callofliberty.fr/directcoltv/BFMNICECOTEDAZUR/master.m3u8
-#EXTINF:-1 group-title="Thématiques" tvg-chno="2100",Le Journal du Golf TV
+#EXTINF:-1 tvg-logo="http://s2.callofliberty.fr/tv/44-journaldugolftv/44-journaldugolftv.png" group-title="Thématiques" tvg-chno="2100",Le Journal du Golf TV
 #EXTVLCOPT:http-referrer=http://callofliberty.fr/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 Edg/112.0.1722.34
 http://s2.callofliberty.fr/directcoltv/journaldugolftv/master.m3u8
-#EXTINF:-1 group-title="FAST" tvg-chno="2101",L'Equipe Live 1
+#EXTINF:-1 tvg-logo=" " group-title="FAST" tvg-chno="2101",L'Equipe Live 1
 #EXTVLCOPT:http-referrer=http://callofliberty.fr/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 Edg/112.0.1722.34
 http://s2.callofliberty.fr/directcoltv/LEQUIPElive1/index.m3u8
-#EXTINF:-1 group-title="FAST" tvg-chno="2102",L'Equipe Live 2
+#EXTINF:-1 tvg-logo=" " group-title="FAST" tvg-chno="2102",L'Equipe Live 2
 #EXTVLCOPT:http-referrer=http://callofliberty.fr/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 Edg/112.0.1722.34
 http://s2.callofliberty.fr/directcoltv/LEQUIPElive2/index.m3u8
-#EXTINF:-1 group-title="Régionales" tvg-chno="3909",France 3 Régions [Côte-d'Azur]
+#EXTINF:-1 tvg-logo=" " group-title="Régionales" tvg-chno="3909",France 3 Régions [Côte-d'Azur]
 #EXTVLCOPT:http-referrer=http://callofliberty.fr/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 Edg/112.0.1722.34
 http://s2.callofliberty.fr/directcoltv/france.3cotedazur/master.m3u8
-#EXTINF:-1 group-title="Régionales" tvg-chno="3921",France 3 Régions [Provence-Alpes]
+#EXTINF:-1 tvg-logo=" " group-title="Régionales" tvg-chno="3921",France 3 Régions [Provence-Alpes]
 #EXTVLCOPT:http-referrer=http://callofliberty.fr/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 Edg/112.0.1722.34
 http://s2.callofliberty.fr/directcoltv/france.3provencealpes/master.m3u8
