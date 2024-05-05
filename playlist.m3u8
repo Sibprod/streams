@@ -21,22 +21,38 @@ https://github.com/Sibprod/streams/raw/main/ressources/ftv/py/France5.m3u8
 https://github.com/Sibprod/streams/raw/main/ressources/ftv/py/FranceInfo.m3u8
 #EXTINF:-1 group-title="TNT",France Info [flux DM]
 https://github.com/Sibprod/streams/raw/main/ressources/dm/py/hls/franceinfotv.m3u8
-#EXTINF:-1 group-title="TNT",La Chaîne Parlementaire
-https://github.com/Paradise-91/ParaTV/raw/main/streams/lcp/lcp.m3u8
-#EXTINF:-1 group-title="TNT",Public Sénat
-https://github.com/Sibprod/streams/raw/main/ressources/dm/py/hls/publicsenat.m3u8
 #EXTINF:-1 group-title="TNT",C8
 https://github.com/Sibprod/streams/raw/main/ressources/dm/py/hls/c8.m3u8
 #EXTINF:-1 group-title="TNT",Cnews
 https://github.com/Sibprod/streams/raw/main/ressources/dm/py/hls/cnews.m3u8
 #EXTINF:-1 group-title="TNT",Cstar
 https://github.com/Paradise-91/ParaTV/raw/main/streams/cstar/cstar.m3u8
+#EXTINF:-1 group-title="TNT",TV5 Monde [Europe]
+https://muutube.sonmezalp.com/proxy.php/https://ott.tv5monde.com/Content/HLS/Live/channel(europe)/index.m3u8
+#EXTINF:-1 group-title="TNT",TV5 Monde [FBSM]
+https://ott.tv5monde.com/Content/HLS/Live/channel(fbs)/variant.m3u8
+#EXTINF:-1 group-title="TNT",M6
+#EXTVLCOPT:http-referrer=http://callofliberty.fr/
+http://s2.callofliberty.fr/directcoltv/M6/index.m3u8
+#EXTINF:-1 group-title="TNT",W9
+#EXTVLCOPT:http-referrer=http://callofliberty.fr/
+http://s2.callofliberty.fr/directcoltv/W9/index.m3u8
+#EXTINF:-1 group-title="TNT",6ter
+#EXTVLCOPT:http-referrer=http://callofliberty.fr/
+http://s2.callofliberty.fr/directcoltv/6TER/index.m3u8
 #EXTINF:-1 group-title="TNT",Gulli
 https://github.com/Sibprod/streams/raw/main/ressources/RTLfr/Gulli.m3u8
 #EXTINF:-1 group-title="TNT",Paris Première
 https://github.com/Sibprod/streams/raw/main/ressources/RTLfr/ParisPremiere.m3u8
 #EXTINF:-1 group-title="TNT",ARTE [France]
 https://artesimulcast.akamaized.net/hls/live/2031003/artelive_fr/index.m3u8
+#EXTINF:-1 group-title="TNT",La Chaîne Parlementaire
+#EXTVLCOPT:http-referrer=http://callofliberty.fr/
+http://s2.callofliberty.fr/directcoltv/LCP/master.m3u8
+#EXTINF:-1 group-title="TNT",Public Sénat
+https://github.com/Sibprod/streams/raw/main/ressources/dm/py/hls/publicsenat.m3u8
+#EXTINF:-1 group-title="TNT",France 24 [Français]
+https://ythls.armelin.one/channel/UCCCPCZNChQdGa9EkATeye4g.m3u8
 #EXTINF:-1 group-title="TNT",NRJ 12
 https://nrj12.nrjaudio.fm/hls/live/2038374/nrj_12/master.m3u8
 #EXTINF:-1 group-title="TNT",Chérie 25
@@ -55,12 +71,6 @@ https://github.com/Sibprod/streams/raw/main/ressources/dm/py/hls/euronewsfr.m3u8
 https://ythls.armelin.one/channel/UCW2QcKZiU8aUGg4yxCIditg.m3u8
 #EXTINF:-1 group-title="TNT",Euronews [Français] [flux SSTV+]
 https://euronews-euronews-french-3-fr.xiaomi.wurl.tv/playlist.m3u8
-#EXTINF:-1 group-title="TNT",France 24 [Français] [flux YT]
-https://ythls.armelin.one/channel/UCCCPCZNChQdGa9EkATeye4g.m3u8
-#EXTINF:-1 group-title="TNT",TV5 Monde [Europe]
-https://muutube.sonmezalp.com/proxy.php/https://ott.tv5monde.com/Content/HLS/Live/channel(europe)/index.m3u8
-#EXTINF:-1 group-title="TNT",TV5 Monde [FBSM]
-https://ott.tv5monde.com/Content/HLS/Live/channel(fbs)/variant.m3u8
 #EXTINF:-1 group-title="TNT",Antenne Réunion
 https://live-antenne-reunion.zeop.tv/live/c3eds/antreunihd/hls_fta/antreunihd.m3u8?location=ZEOP01
 #EXTINF:-1 group-title="TNT",TV Monaco
@@ -215,27 +225,12 @@ https://github.com/Sibprod/streams/raw/main/ressources/ftv/py/France3_NoA_Poitie
 https://github.com/Sibprod/streams/raw/main/ressources/ftv/py/France3_Provence_Marseille.m3u8
 #EXTINF:-1 group-title="Régionales",France 3 Régions [Rhône-Alpes]
 https://github.com/Sibprod/streams/raw/main/ressources/ftv/py/France3_AuRA_Lyon.m3u8
-#EXTINF:-1 group-title="Régionales",IL TV
-https://live.creacast.com/iltv/smil:iltv.smil/playlist.m3u8
 #EXTINF:-1 group-title="Régionales",Guadeloupe La 1ère
 https://github.com/Sibprod/streams/raw/main/ressources/ftv/py/La1ere_guadeloupe_metro.m3u8
 #EXTINF:-1 group-title="Régionales",Guyane La 1ère
 https://github.com/Sibprod/streams/raw/main/ressources/ftv/py/La1ere_guyane_metro.m3u8
-#EXTINF:-1 group-title="Régionales",Martinique La 1ère
-https://github.com/Sibprod/streams/raw/main/ressources/ftv/py/La1ere_martinique_metro.m3u8
-#EXTINF:-1 group-title="Régionales",Mayotte La 1ère
-https://github.com/Sibprod/streams/raw/main/ressources/ftv/py/La1ere_mayotte_metro.m3u8
-#EXTINF:-1 group-title="Régionales",Nouvelle-Calédonie La 1ère
-https://github.com/Sibprod/streams/raw/main/ressources/ftv/py/La1ere_NC_metro.m3u8
-#EXTINF:-1 group-title="Régionales",Polynésie La 1ère
-https://github.com/Sibprod/streams/raw/main/ressources/ftv/py/La1ere_polynesie_metro.m3u8
-#EXTINF:-1 group-title="Régionales",Réunion La 1ère
-https://github.com/Sibprod/streams/raw/main/ressources/ftv/py/La1ere_reunion_metro.m3u8
-#EXTINF:-1 group-title="Régionales",Saint-Pierre-et-Miquelon La 1ère 
-https://github.com/Sibprod/streams/raw/main/ressources/ftv/py/La1ere_SPM_metro.m3u8
-#EXTINF:-1 group-title="Régionales",Wallis-et-Futuna La 1ère 
-https://github.com/Sibprod/streams/raw/main/ressources/ftv/py/La1ere_WF_metro.m3u8
-
+#EXTINF:-1 group-title="Régionales",IL TV
+https://live.creacast.com/iltv/smil:iltv.smil/playlist.m3u8
 #EXTINF:-1 group-title="Régionales",La Chaîne 32
 https://ythls.armelin.one/channel/UChl0zP89T7yZyEwQkCfmmnQ.m3u8
 #EXTINF:-1 group-title="Régionales",La Télé
@@ -250,8 +245,12 @@ https://github.com/Sibprod/streams/raw/main/ressources/twitch/hls/LMTVSarthe.m3u
 https://github.com/Sibprod/streams/raw/main/ressources/dm/py/hls/lyoncapitale.m3u8
 #EXTINF:-1 group-title="Régionales",Ma Télé
 https://5dd226f8f01e8.streamlock.net/via-matele-live/matelelive_1080/playlist.m3u8
+#EXTINF:-1 group-title="Régionales",Martinique La 1ère
+https://github.com/Sibprod/streams/raw/main/ressources/ftv/py/La1ere_martinique_metro.m3u8
 #EXTINF:-1 group-title="Régionales",Maurienne TV
 https://ythls.armelin.one/channel/UCva-htH2wvmKsG6SkcEJ4Vw.m3u8
+#EXTINF:-1 group-title="Régionales",Mayotte La 1ère
+https://github.com/Sibprod/streams/raw/main/ressources/ftv/py/La1ere_mayotte_metro.m3u8
 #EXTINF:-1 group-title="Régionales",Mirabelle TV
 https://live.creacast.com/mirabelletv/smil:mirabelletv.smil/playlist.m3u8
 #EXTINF:-1 group-title="Régionales",Monaco Info
@@ -264,10 +263,18 @@ http://naradio.vedge.infomaniak.com/livecast/naradio/manifest.m3u8
 https://nancy-webtv.vedge.infomaniak.com/livecast/nancy-webtv/manifest.m3u8
 #EXTINF:-1 group-title="Régionales",No Télé
 https://streaming01.divercom.be/notele_live/_definst_/direct.stream/master.m3u8
+#EXTINF:-1 group-title="Régionales",Nouvelle-Calédonie La 1ère
+https://github.com/Sibprod/streams/raw/main/ressources/ftv/py/La1ere_NC_metro.m3u8
+#EXTINF:-1 group-title="Régionales",Polynésie La 1ère
+https://github.com/Sibprod/streams/raw/main/ressources/ftv/py/La1ere_polynesie_metro.m3u8
 #EXTINF:-1 group-title="Régionales",Puissance Télévision
 https://puissancetelevision.vedge.infomaniak.com/livecast/puissancetelevision/manifest.m3u8
+#EXTINF:-1 group-title="Régionales",Réunion La 1ère
+https://github.com/Sibprod/streams/raw/main/ressources/ftv/py/La1ere_reunion_metro.m3u8
 #EXTINF:-1 group-title="Régionales",RTC-Télé Liège
 https://tvlocales-live.freecaster.com/95d2f6eb-6f01-4d1d-8543-d14966de7b04/95d2f6eb-6f01-4d1d-8543-d14966de7b04.isml/master.m3u8
+#EXTINF:-1 group-title="Régionales",Saint-Pierre-et-Miquelon La 1ère 
+https://github.com/Sibprod/streams/raw/main/ressources/ftv/py/La1ere_SPM_metro.m3u8
 #EXTINF:-1 group-title="Régionales",Tébéo
 https://lives.digiteka.com/stream/e0fe6433-554e-4568-9a7e-31969136d8ff/index.m3u8
 #EXTINF:-1 group-title="Régionales",Télé Gohelle
@@ -310,6 +317,8 @@ https://tvlocales-live.freecaster.com/95d2f480-3c9f-48ba-ba4e-af64b58431ef/95d2f
 https://streamer01.myvideoplace.tv/streamer02/hls/MDS_VIA_PAD_301117_medium/index.m3u8
 #EXTINF:-1 group-title="Régionales",Vosges Télévision
 https://vosgestv.live-kd.com/live/vosgestv/vosgestv/playlist.m3u8
+#EXTINF:-1 group-title="Régionales",Wallis-et-Futuna La 1ère 
+https://github.com/Sibprod/streams/raw/main/ressources/ftv/py/La1ere_WF_metro.m3u8
 #EXTINF:-1 group-title="Régionales",Wéo [La Voix du Nord]
 https://lives.digiteka.com/stream/c58028c2-a58b-4526-9ec8-389cad4a71e8/index.m3u8
 #EXTINF:-1 group-title="Régionales",Wéo [Le Courrier Picard]
@@ -358,6 +367,9 @@ https://bcovlive-a.akamaihd.net/cc8266d36bb5469b8b4a3097497e06e6/eu-central-1/53
 https://rcavlive.akamaized.net/hls/live/704025/xcanrdi/master.m3u8
 #EXTINF:-1 group-title="Thématiques",L'Esprit Sorcier TV
 https://194270.global.ssl.fastly.net/63b43410861d94a9eee067fb/live_947330308dd911edb85c8181cb9b11a8/index.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="Thématiques" tvg-chno="",Le Journal du Golf TV
+#EXTVLCOPT:http-referrer=http://callofliberty.fr/
+http://s2.callofliberty.fr/directcoltv/journaldugolftv/master.m3u8
 #EXTINF:-1 group-title="Thématiques",Le Média
 https://github.com/Sibprod/streams/raw/main/ressources/dm/py/hls/lemedia.m3u8
 #EXTINF:-1 group-title="Thématiques",LN24
