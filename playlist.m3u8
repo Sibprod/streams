@@ -1,123 +1,139 @@
 #EXTM3U
-#EXTINF:-1 group-title="TNT",TF1
-https://github.com/Paradise-91/ParaTV/raw/main/streams/mytf1/tf1.m3u8
-#EXTINF:-1 group-title="TNT",TF1 Séries Films
-https://github.com/Paradise-91/ParaTV/raw/main/streams/mytf1/tf1sf.m3u8
-#EXTINF:-1 group-title="TNT",TFX
-https://github.com/Paradise-91/ParaTV/raw/main/streams/mytf1/tfx.m3u8
-#EXTINF:-1 group-title="TNT",TMC
-https://github.com/Paradise-91/ParaTV/raw/main/streams/mytf1/tmc.m3u8
-#EXTINF:-1 group-title="TNT",LCI
-https://github.com/Paradise-91/ParaTV/raw/main/streams/mytf1/lci.m3u8
-#EXTINF:-1 group-title="TNT",France 2
+#EXTINF:-1 group-title="TNT" tvg-chno="1",TF1
+https://github.com/Paradise-91/ParaTV/raw/main/streams/tf1plus/tf1.m3u8
+#EXTINF:-1 group-title="TNT" tvg-chno="2",France 2
 https://github.com/Sibprod/streams/raw/main/ressources/ftv/py/France2.m3u8
-#EXTINF:-1 group-title="TNT",France 3
+#EXTINF:-1 group-title="TNT" tvg-chno="3",France 3
 https://github.com/Sibprod/streams/raw/main/ressources/ftv/py/France3.m3u8
-#EXTINF:-1 group-title="TNT",France 4
-https://github.com/Sibprod/streams/raw/main/ressources/ftv/py/France4.m3u8
-#EXTINF:-1 group-title="TNT",France 5
+#EXTINF:-1 group-title="TNT" tvg-chno="4",Canal+
+#EXTVLCOPT:http-referrer=http://callofliberty.fr/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 Edg/112.0.1722.34
+http://s2.callofliberty.fr/directtvcol/CANALPLUS/master.m3u8
+#EXTINF:-1 group-title="TNT" tvg-chno="5",France 5
 https://github.com/Sibprod/streams/raw/main/ressources/ftv/py/France5.m3u8
-#EXTINF:-1 group-title="TNT",France Info
-https://github.com/Sibprod/streams/raw/main/ressources/ftv/py/FranceInfo.m3u8
-#EXTINF:-1 group-title="TNT",France Info [flux DM]
-https://github.com/Sibprod/streams/raw/main/ressources/dm/py/hls/franceinfotv.m3u8
-#EXTINF:-1 group-title="TNT",C8
-https://github.com/Sibprod/streams/raw/main/ressources/dm/py/hls/c8.m3u8
-#EXTINF:-1 group-title="TNT",Cnews
-https://github.com/Sibprod/streams/raw/main/ressources/dm/py/hls/cnews.m3u8
-#EXTINF:-1 group-title="TNT",Cstar
-https://github.com/Paradise-91/ParaTV/raw/main/streams/cstar/cstar.m3u8
-#EXTINF:-1 group-title="TNT",TV5 Monde [Europe]
-https://muutube.sonmezalp.com/proxy.php/https://ott.tv5monde.com/Content/HLS/Live/channel(europe)/index.m3u8
-#EXTINF:-1 group-title="TNT",TV5 Monde [FBSM]
-https://ott.tv5monde.com/Content/HLS/Live/channel(fbs)/variant.m3u8
-#EXTINF:-1 group-title="TNT",M6
+#EXTINF:-1 group-title="TNT" tvg-chno="6",M6
 #EXTVLCOPT:http-referrer=http://callofliberty.fr/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 Edg/112.0.1722.34
-http://s2.callofliberty.fr/directcoltv/M6/index.m3u8
-#EXTINF:-1 group-title="TNT",W9
-#EXTVLCOPT:http-referrer=http://callofliberty.fr/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 Edg/112.0.1722.34
-http://s2.callofliberty.fr/directcoltv/W9/index.m3u8
-#EXTINF:-1 group-title="TNT",6ter
-#EXTVLCOPT:http-referrer=http://callofliberty.fr/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 Edg/112.0.1722.34
-http://s2.callofliberty.fr/directcoltv/6TER/index.m3u8
-#EXTINF:-1 group-title="TNT",Gulli
-https://github.com/Sibprod/streams/raw/main/ressources/RTLfr/Gulli.m3u8
-#EXTINF:-1 group-title="TNT",Paris Première
-https://github.com/Sibprod/streams/raw/main/ressources/RTLfr/ParisPremiere.m3u8
-#EXTINF:-1 group-title="TNT",ARTE [France]
+http://s2.callofliberty.fr/directtvcol/M6/index.m3u8
+#EXTINF:-1 group-title="TNT" tvg-chno="7",ARTE [France]
 https://artesimulcast.akamaized.net/hls/live/2031003/artelive_fr/index.m3u8
-#EXTINF:-1 group-title="TNT",La Chaîne Parlementaire
+#EXTINF:-1 group-title="TNT" tvg-chno="8",C8
+https://github.com/Sibprod/streams/raw/main/ressources/dm/py/hls/c8.m3u8
+#EXTINF:-1 group-title="TNT" tvg-chno="9",W9
 #EXTVLCOPT:http-referrer=http://callofliberty.fr/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 Edg/112.0.1722.34
-http://s2.callofliberty.fr/directcoltv/LCP/master.m3u8
-#EXTINF:-1 group-title="TNT",Public Sénat
-https://github.com/Sibprod/streams/raw/main/ressources/dm/py/hls/publicsenat.m3u8
-#EXTINF:-1 group-title="TNT",France 24 [Français]
-https://ythls.armelin.one/channel/UCCCPCZNChQdGa9EkATeye4g.m3u8
-#EXTINF:-1 group-title="TNT",NRJ 12
+http://s2.callofliberty.fr/directtvcol/W9/index.m3u8
+#EXTINF:-1 group-title="TNT" tvg-chno="10",TMC
+https://github.com/Paradise-91/ParaTV/raw/main/streams/tf1plus/tmc.m3u8
+#EXTINF:-1 group-title="TNT" tvg-chno="11",TFX
+https://github.com/Paradise-91/ParaTV/raw/main/streams/tf1plus/tfx.m3u8
+#EXTINF:-1 group-title="TNT" tvg-chno="12",NRJ 12
 https://nrj12.nrjaudio.fm/hls/live/2038374/nrj_12/master.m3u8
-#EXTINF:-1 group-title="TNT",Chérie 25
-https://cherie25.nrjaudio.fm/hls/live/2038375/c25/master.m3u8
-#EXTINF:-1 group-title="TNT",BFM TV
+#EXTINF:-1 group-title="TNT" tvg-chno="13",La Chaîne Parlementaire
+#EXTVLCOPT:http-referrer=http://callofliberty.fr/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 Edg/112.0.1722.34
+http://s2.callofliberty.fr/directtvcol/LCP/master.m3u8
+#EXTINF:-1 group-title="TNT" tvg-chno="14",France 4
+https://github.com/Sibprod/streams/raw/main/ressources/ftv/py/France4.m3u8
+#EXTINF:-1 group-title="TNT" tvg-chno="15",BFM TV
 https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_TV/index.m3u8?start=LIVE&end=END
-#EXTINF:-1 group-title="TNT",RMC Story
-https://d36bxc1bknkxrk.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-3ewcp19zjaxpt/index.m3u8
-#EXTINF:-1 group-title="TNT",RMC Découverte
-https://d2mt8for1pddy4.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-6uronj7gzvy4j/index.m3u8
-#EXTINF:-1 group-title="TNT",L'Équipe 
+#EXTINF:-1 group-title="TNT" tvg-chno="16",Cnews
+https://github.com/Sibprod/streams/raw/main/ressources/dm/py/hls/cnews.m3u8
+#EXTINF:-1 group-title="TNT" tvg-chno="17",Cstar
+https://github.com/Paradise-91/ParaTV/raw/main/streams/cstar/cstar.m3u8
+#EXTINF:-1 group-title="TNT" tvg-chno="18",Gulli
+https://github.com/Sibprod/streams/raw/main/ressources/RTLfr/Gulli.m3u8
+#EXTINF:-1 group-title="TNT" tvg-chno="20",TF1 Séries Films
+https://github.com/Paradise-91/ParaTV/raw/main/streams/tf1plus/tf1sf.m3u8
+#EXTINF:-1 group-title="TNT" tvg-chno="21",L'Équipe 
 https://github.com/Paradise-91/ParaTV/raw/main/streams/equipe21/equipe21.m3u8
-#EXTINF:-1 group-title="TNT",Euronews [Français] [flux DM]
-https://github.com/Sibprod/streams/raw/main/ressources/dm/py/hls/euronewsfr.m3u8
-#EXTINF:-1 group-title="TNT",Euronews [Français] [flux YT]
-https://ythls.armelin.one/channel/UCW2QcKZiU8aUGg4yxCIditg.m3u8
-#EXTINF:-1 group-title="TNT",Euronews [Français] [flux SSTV+]
-https://euronews-euronews-french-3-fr.xiaomi.wurl.tv/playlist.m3u8
-#EXTINF:-1 group-title="TNT",Antenne Réunion
-https://live-antenne-reunion.zeop.tv/live/c3eds/antreunihd/hls_fta/antreunihd.m3u8?location=ZEOP01
-#EXTINF:-1 group-title="TNT",TV Monaco
+#EXTINF:-1 group-title="TNT" tvg-chno="22",6ter
+#EXTVLCOPT:http-referrer=http://callofliberty.fr/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 Edg/112.0.1722.34
+http://s2.callofliberty.fr/directtvcol/6TER/index.m3u8
+#EXTINF:-1 group-title="TNT" tvg-chno="23",RMC Story
+https://d36bxc1bknkxrk.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-3ewcp19zjaxpt/index.m3u8
+#EXTINF:-1 group-title="TNT" tvg-chno="24",RMC Découverte
+https://d2mt8for1pddy4.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-6uronj7gzvy4j/index.m3u8
+#EXTINF:-1 group-title="TNT" tvg-chno="25",Chérie 25
+https://cherie25.nrjaudio.fm/hls/live/2038375/c25/master.m3u8
+#EXTINF:-1 group-title="TNT" tvg-chno="26",LCI
+https://github.com/Paradise-91/ParaTV/raw/main/streams/tf1plus/lci.m3u8
+#EXTINF:-1 group-title="TNT" tvg-chno="27",France Info
+https://github.com/Sibprod/streams/raw/main/ressources/ftv/py/FranceInfo.m3u8
+#EXTINF:-1 group-title="TNT" tvg-chno="41",Paris Première
+https://github.com/Sibprod/streams/raw/main/ressources/RTLfr/ParisPremiere.m3u8
+#EXTINF:-1 group-title="TNT" tvg-chno="71",TV Monaco
 https://production-fast-mcrtv.content.okast.tv/channels/2116dc08-1959-465d-857f-3619daefb66b/b702b2b9-aebd-436c-be69-2118f56f3d86/master.m3u8
-#EXTINF:-1 group-title="TNT",Carac 1
-http://rougetv.vedge.infomaniak.com/livecast/rougetv/manifest.m3u8
-#EXTINF:-1 group-title="TNT",Carac 2
-http://onefmhd.vedge.infomaniak.com/livecast/onefmhd/manifest.m3u8
-#EXTINF:-1 group-title="TNT",Carac 3
-http://lfmhd.vedge.infomaniak.com/livecast/lfmhd/manifest.m3u8
-#EXTINF:-1 group-title="TNT",Carac 4
-http://compack_media_1.vedge.infomaniak.com/livecast/compack_media_1/manifest.m3u8
-#EXTINF:-1 group-title="TNT",Ici [Radio-Canada] Télé
+#EXTINF:-1 group-title="TNT" tvg-chno="75",TV5 Monde [Europe]
+https://muutube.sonmezalp.com/proxy.php/https://ott.tv5monde.com/Content/HLS/Live/channel(europe)/index.m3u8
+#EXTINF:-1 group-title="TNT" tvg-chno="76",France 24 [Français]
+https://ythls.armelin.one/channel/UCCCPCZNChQdGa9EkATeye4g.m3u8
+#EXTINF:-1 group-title="TNT" tvg-chno="130",Public Sénat
+https://github.com/Sibprod/streams/raw/main/ressources/dm/py/hls/publicsenat.m3u8
+#EXTINF:-1 group-title="TNT" tvg-chno="200",Antenne Réunion
+https://live-antenne-reunion.zeop.tv/live/c3eds/antreunihd/hls_fta/antreunihd.m3u8?location=ZEOP01
+#EXTINF:-1 group-title="TNT" tvg-chno="270",France Info [flux DM]
+https://github.com/Sibprod/streams/raw/main/ressources/dm/py/hls/franceinfotv.m3u8
+#EXTINF:-1 group-title="TNT" tvg-chno="602",Ici [Radio-Canada] Télé [CBFT]
 https://rcavlive.akamaized.net/hls/live/696615/xcancbft/master.m3u8
-#EXTINF:-1 group-title="TNT",Télé Québec
+#EXTINF:-1 group-title="TNT" tvg-chno="603",Télé Québec [CIVQ]
 https://bcovlive-a.akamaihd.net/575d86160eb143458d51f7ab187a4e68/us-east-1/6101674910001/playlist.m3u8
-#EXTINF:-1 group-title="TNT",Savoir.Media
-https://hls.savoir.media/live/stream.m3u8
-#EXTINF:-1 group-title="TNT",Noovo
+#EXTINF:-1 group-title="TNT" tvg-chno="605",Noovo [CFJP]
 https://pe-fa-lp03a.9c9media.com/live/NOOVO/p/hls/00000201/716cf4c845225692/manifest.m3u8
+#EXTINF:-1 group-title="TNT" tvg-chno="622",Savoir.Media [CFTU]
+https://hls.savoir.media/live/stream.m3u8
+#EXTINF:-1 group-title="TNT" tvg-chno="804",Carac 1
+http://rougetv.vedge.infomaniak.com/livecast/rougetv/manifest.m3u8
+#EXTINF:-1 group-title="TNT" tvg-chno="805",Carac 2
+http://onefmhd.vedge.infomaniak.com/livecast/onefmhd/manifest.m3u8
+#EXTINF:-1 group-title="TNT" tvg-chno="806",Carac 3
+http://lfmhd.vedge.infomaniak.com/livecast/lfmhd/manifest.m3u8
+#EXTINF:-1 group-title="TNT" tvg-chno="807",Carac 4
+http://compack_media_1.vedge.infomaniak.com/livecast/compack_media_1/manifest.m3u8
+#EXTINF:-1 group-title="TNT" tvg-chno="808",TV5 Monde [FBSM]
+https://ott.tv5monde.com/Content/HLS/Live/channel(fbs)/variant.m3u8
+#EXTINF:-1 group-title="TNT" tvg-chno="809",Euronews [Français] [flux DM]
+https://github.com/Sibprod/streams/raw/main/ressources/dm/py/hls/euronewsfr.m3u8
+#EXTINF:-1 group-title="TNT" tvg-chno="8090",Euronews [Français] [flux YT]
+https://ythls.armelin.one/channel/UCW2QcKZiU8aUGg4yxCIditg.m3u8
+#EXTINF:-1 group-title="TNT" tvg-chno="8091",Euronews [Français] [flux SSTV+]
+https://euronews-euronews-french-3-fr.xiaomi.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 group-title="FAST",BFM Grands Reportages
-https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_GRANDSREPORTAGES/index.m3u8?start=LIVE&end=END
+#EXTINF:-1 group-title="FAST",Comédie Fiction
+https://github.com/Paradise-91/ParaTV/raw/main/streams/tf1plus/comedie-fiction.m3u8
+#EXTINF:-1 group-title="FAST",Notre Planète
+https://github.com/Paradise-91/ParaTV/raw/main/streams/tf1plus/notre-planete.m3u8
+#EXTINF:-1 group-title="FAST",Polar Fiction
+https://github.com/Paradise-91/ParaTV/raw/main/streams/tf1plus/police-fiction.m3u8
+#EXTINF:-1 group-title="FAST",Saga de l'Été
+https://github.com/Paradise-91/ParaTV/raw/main/streams/tf1plus/saga-de-lete.m3u8
+#EXTINF:-1 group-title="FAST",Thriller Fiction
+https://github.com/Paradise-91/ParaTV/raw/main/streams/tf1plus/thriller-fiction.m3u8
+#EXTINF:-1 group-title="FAST",Ushuaïa For Change
+https://github.com/Paradise-91/ParaTV/raw/main/streams/tf1plus/ushuaia-for-change.m3u8
 #EXTINF:-1 group-title="FAST",France TV Docs
 https://github.com/Sibprod/streams/raw/main/ressources/ftv/py/FranceTVDocs.m3u8
 #EXTINF:-1 group-title="FAST",France TV Séries
 https://github.com/Sibprod/streams/raw/main/ressources/ftv/py/FranceTVSeries.m3u8
+#EXTINF:-1 group-title="FAST",Tahiti TV
+https://tntv-samsung-fr.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="FAST",BFM Grands Reportages
+https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_GRANDSREPORTAGES/index.m3u8?start=LIVE&end=END
 #EXTINF:-1 group-title="FAST",L'Équipe Live 1
 https://d3awaj0f2u3w26.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-gy7euubgydp20-ssai-prd/master.m3u8
 #EXTINF:-1 group-title="FAST",L'Équipe Live 2
 https://d2l55nvfkhk4sg.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-jg7go1lqzgpny-ssai-prd/master.m3u8
+#EXTINF:-1 group-title="FAST",RMC Talk Info
+https://dvvyqyxwlc4tn.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-n5yqxqrvnujl7/index.m3u8
+#EXTINF:-1 group-title="FAST",RMC Talk Sport
+https://d21wdmv2hqydbt.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-n239v7ne7hack/index.m3u8
 #EXTINF:-1 group-title="FAST",Le Figaro Live
 https://d358c6mfrono1y.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-0ppx9nh29jpk7-prod/490bc6dd-734b-4242-8810-294896740082/2.m3u8
 #EXTINF:-1 group-title="FAST",MGG FAST
 https://d1mdvi698umja9.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-kuib43fy5umqi-ssai-prd/mgg.m3u8
 #EXTINF:-1 group-title="FAST",Radio-Canada Info
 https://d352zobhe5lhe6.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-j7m6inrqe6jat/master.m3u8
-#EXTINF:-1 group-title="FAST",RMC Talk Info
-https://dvvyqyxwlc4tn.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-n5yqxqrvnujl7/index.m3u8
-#EXTINF:-1 group-title="FAST",RMC Talk Sport
-https://d21wdmv2hqydbt.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-n239v7ne7hack/index.m3u8
-#EXTINF:-1 group-title="FAST",Tahiti TV
-https://tntv-samsung-fr.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 group-title="Régionales",7 à Limoges
 https://ythls.armelin.one/channel/UCdFv_ZWQ3Xk_NfRiaK-ryGg.m3u8
