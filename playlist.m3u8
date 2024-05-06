@@ -83,6 +83,14 @@ https://bcovlive-a.akamaihd.net/575d86160eb143458d51f7ab187a4e68/us-east-1/61016
 https://pe-fa-lp03a.9c9media.com/live/NOOVO/p/hls/00000201/716cf4c845225692/manifest.m3u8
 #EXTINF:-1 group-title="TNT" tvg-chno="622",Savoir.Media [CFTU]
 https://hls.savoir.media/live/stream.m3u8
+#EXTINF:-1 tvg-logo="http://s2.callofliberty.fr/tv/301-RTS1/301-RTS1.png" group-title="TNT" tvg-chno="801",RTS 1
+#EXTVLCOPT:http-referrer=http://callofliberty.fr/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 Edg/112.0.1722.34
+http://s2.callofliberty.fr/directtvcol/RTS1/index.m3u8
+#EXTINF:-1 tvg-logo="http://s2.callofliberty.fr/tv/302-RTS2/302-RTS2.png" group-title="TNT" tvg-chno="802",RTS 2
+#EXTVLCOPT:http-referrer=http://callofliberty.fr/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 Edg/112.0.1722.34
+http://s2.callofliberty.fr/directtvcol/RTS2/index.m3u8
 #EXTINF:-1 group-title="TNT" tvg-chno="804",Carac 1
 http://rougetv.vedge.infomaniak.com/livecast/rougetv/manifest.m3u8
 #EXTINF:-1 group-title="TNT" tvg-chno="805",Carac 2
