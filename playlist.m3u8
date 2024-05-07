@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="TF1.fr" tvg-logo="http://callofliberty.fr/tv/1-TF1/1-TF1.png" group-title="TNT" tvg-chno="1",TF1
+#EXTINF:-1 tvg-id="TF1.fr" tvg-logo="https://experience-cache.cdi.streaming.proximustv.be/posterserver/poster/DEFAULT/t_0031_000.png" group-title="TNT" tvg-chno="1",TF1
 https://github.com/Paradise-91/ParaTV/raw/main/streams/tf1plus/tf1.m3u8
 #EXTINF:-1 tvg-id="France2.fr" tvg-logo="https://github.com/Sibprod/assets/raw/main/Logo_France2.png" group-title="TNT" tvg-chno="2",France 2
 https://github.com/Sibprod/streams/raw/main/ressources/ftv/py/France2.m3u8
@@ -15,7 +15,7 @@ https://github.com/Sibprod/streams/raw/main/ressources/ftv/py/France5.m3u8
 #EXTVLCOPT:http-referrer=http://callofliberty.fr/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 Edg/112.0.1722.34
 http://s2.callofliberty.fr/directtvcol/M6/index.m3u8
-#EXTINF:-1 tvg-id="ARTE.fr" tvg-logo="" group-title="TNT" tvg-chno="7",ARTE [France]
+#EXTINF:-1 tvg-id="ARTE.fr" tvg-logo="https://github.com/Sibprod/assets/raw/main/Logo_ARTE.png" group-title="TNT" tvg-chno="7",ARTE [France]
 https://artesimulcast.akamaized.net/hls/live/2031003/artelive_fr/index.m3u8
 #EXTINF:-1 tvg-id="C8.fr" tvg-logo="https://github.com/Sibprod/assets/raw/main/Logo_C8.png" group-title="TNT" tvg-chno="8",C8
 https://github.com/Sibprod/streams/raw/main/ressources/dm/py/hls/c8.m3u8
@@ -35,7 +35,7 @@ https://nrj12.nrjaudio.fm/hls/live/2038374/nrj_12/master.m3u8
 http://s2.callofliberty.fr/directtvcol/LCP/master.m3u8
 #EXTINF:-1 tvg-id="France4.fr" tvg-logo="https://github.com/Sibprod/assets/raw/main/Logo_France4.png" group-title="TNT" tvg-chno="14",France 4
 https://github.com/Sibprod/streams/raw/main/ressources/ftv/py/France4.m3u8
-#EXTINF:-1 tvg-id="BFMTV.fr" tvg-logo="" group-title="TNT" tvg-chno="15",BFM TV
+#EXTINF:-1 tvg-id="BFMTV.fr" tvg-logo="https://static-cdn.tv.sfr.net/data/img/apps/edito/attachment/animation/tile/logoschaines169bfmtvmonochrome.png?h=150" group-title="TNT" tvg-chno="15",BFM TV
 https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_TV/index.m3u8?start=LIVE&end=END
 #EXTINF:-1 tvg-id="CNews.fr" tvg-logo="" group-title="TNT" tvg-chno="16",Cnews
 https://github.com/Sibprod/streams/raw/main/ressources/dm/py/hls/cnews.m3u8
@@ -51,9 +51,9 @@ https://github.com/Paradise-91/ParaTV/raw/main/streams/equipe21/equipe21.m3u8
 #EXTVLCOPT:http-referrer=http://callofliberty.fr/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 Edg/112.0.1722.34
 http://s2.callofliberty.fr/directtvcol/6TER/index.m3u8
-#EXTINF:-1 tvg-id="RMCStory.fr" tvg-logo="" group-title="TNT" tvg-chno="23",RMC Story
+#EXTINF:-1 tvg-id="RMCStory.fr" tvg-logo="https://static-cdn.tv.sfr.net/data/img/apps/edito/attachment/animation/tile/rmcstorymonochrome.png?h=150" group-title="TNT" tvg-chno="23",RMC Story
 https://d36bxc1bknkxrk.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-3ewcp19zjaxpt/index.m3u8
-#EXTINF:-1 tvg-id="RMCDecouverte.fr" tvg-logo="" group-title="TNT" tvg-chno="24",RMC Découverte
+#EXTINF:-1 tvg-id="RMCDecouverte.fr" tvg-logo="https://static-cdn.tv.sfr.net/data/img/apps/edito/attachment/animation/tile/rmcdecouvertemonochrome.png?h=150" group-title="TNT" tvg-chno="24",RMC Découverte
 https://d2mt8for1pddy4.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-6uronj7gzvy4j/index.m3u8
 #EXTINF:-1 tvg-id="Cherie25.fr" tvg-logo="" group-title="TNT" tvg-chno="25",Chérie 25
 https://cherie25.nrjaudio.fm/hls/live/2038375/c25/master.m3u8
@@ -124,18 +124,21 @@ https://github.com/Paradise-91/ParaTV/raw/main/streams/tf1plus/ushuaia-for-chang
 https://github.com/Sibprod/streams/raw/main/ressources/ftv/py/FranceTVDocs.m3u8
 #EXTINF:-1 group-title="FAST",France TV Séries
 https://github.com/Sibprod/streams/raw/main/ressources/ftv/py/FranceTVSeries.m3u8
-#EXTINF:-1 group-title="FAST",Tahiti TV
+#EXTINF:-1 channel-id="samsung-FR " tvg-id="FR " group-title="FAST",Tahiti TV
 https://tntv-samsung-fr.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="FAST",BFM Grands Reportages
+#EXTINF:-1 channel-id="samsung-FR " tvg-id="FR " tvg-logo="https://static-cdn.tv.sfr.net/data/img/apps/chaines/logos/BFMGrandsReportagesBlanc100x100.png" group-title="FAST",BFM Grands Reportages
 https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_GRANDSREPORTAGES/index.m3u8?start=LIVE&end=END
-#EXTINF:-1 group-title="FAST",L'Équipe Live 1
+#EXTINF:-1 channel-id="samsung-FR " tvg-id="FR " group-title="FAST",L'Équipe Live 1
 https://d3awaj0f2u3w26.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-gy7euubgydp20-ssai-prd/master.m3u8
-#EXTINF:-1 group-title="FAST",L'Équipe Live 2
+#EXTINF:-1 channel-id="samsung-FR " tvg-id="FR " group-title="FAST",L'Équipe Live 2
 https://d2l55nvfkhk4sg.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-jg7go1lqzgpny-ssai-prd/master.m3u8
-#EXTINF:-1 group-title="FAST",RMC Talk Info
+#EXTINF:-1 channel-id="samsung-FR " tvg-id="FR " tvg-logo="https://static-cdn.tv.sfr.net/data/img/apps/chaines/logos/RMCTalkInfoBlanc100x100.png" group-title="FAST",RMC Talk Info
 https://dvvyqyxwlc4tn.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-n5yqxqrvnujl7/index.m3u8
-#EXTINF:-1 group-title="FAST",RMC Talk Sport
+#EXTINF:-1 channel-id="samsung-FR " tvg-id="FR " tvg-logo="https://static-cdn.tv.sfr.net/data/img/apps/chaines/logos/RMCTalkSportBlanc100x100.png" group-title="FAST",RMC Talk Sport
 https://d21wdmv2hqydbt.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-n239v7ne7hack/index.m3u8
+#EXTINF:-1 channel-id="samsung-FR300001M1" tvg-id="FR300001M1" tvg-logo="https://static-cdn.tv.sfr.net/data/img/apps/chaines/logos/RMCWOWBlanc100x100.png" group-title="Découverte",RMC Wow
+https://d18uxd7zigjv4y.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-hynzl7bz38ht6/index.m3u8
+
 #EXTINF:-1 group-title="FAST",Le Figaro Live
 https://d358c6mfrono1y.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-0ppx9nh29jpk7-prod/490bc6dd-734b-4242-8810-294896740082/2.m3u8
 #EXTINF:-1 group-title="FAST",MGG FAST
@@ -369,7 +372,7 @@ https://ythls.armelin.one/channel/UC7E__Dp9FSIgt6iMa5_uvlw.m3u8
 https://ythls.armelin.one/channel/UCMkQQZsNdRVZ3N7Oj6jVnyg.m3u8
 #EXTINF:-1 group-title="Thématiques",B Smart
 https://github.com/Sibprod/streams/raw/main/ressources/dm/py/hls/bsmart.m3u8
-#EXTINF:-1 group-title="Thématiques",BFM Business
+#EXTINF:-1 tvg-logo="https://static-cdn.tv.sfr.net/data/img/apps/edito/attachment/animation/tile/logosmenubfmbusinessmonochromenew.png?h=150" group-title="Thématiques",BFM Business
 https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_BUSINESS/index.m3u8?end=END&start=LIVE
 #EXTINF:-1 group-title="Thématiques",CGTN [Français]
 https://livefr.cgtn.com/1000f/prog_index.m3u8
@@ -429,7 +432,7 @@ https://video1.getstreamhosting.com:1936/8446/8446/playlist.m3u8
 https://github.com/Sibprod/streams/raw/main/ressources/dm/py/hls/sportenfrance.m3u8
 #EXTINF:-1 group-title="Thématiques",Sqool TV
 https://ythls.armelin.one/channel/UCaEqMbRYYOmI3WrALMhxuIg.m3u8
-#EXTINF:-1 group-title="Thématiques",Tech & Co
+#EXTINF:-1 channel-id="samsung-FR " tvg-id="FR " tvg-logo="https://static-cdn.tv.sfr.net/data/img/apps/chaines/logos/SFR100x100RMCBFMPLAY.png" group-title="Thématiques",Tech & Co
 https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_TECHANDCO/index.m3u8?end=END&start=LIVE
 #EXTINF:-1 group-title="Thématiques",Télésud
 https://github.com/Sibprod/streams/raw/main/ressources/dm/py/hls/telesud.m3u8
