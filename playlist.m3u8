@@ -1,111 +1,111 @@
 #EXTM3U
-#EXTINF:-1 group-title="TNT" tvg-chno="1",TF1
+#EXTINF:-1 tvg-id="TF1.fr" tvg-logo="http://callofliberty.fr/tv/1-TF1/1-TF1.png" group-title="TNT" tvg-chno="1",TF1
 https://github.com/Paradise-91/ParaTV/raw/main/streams/tf1plus/tf1.m3u8
-#EXTINF:-1 group-title="TNT" tvg-chno="2",France 2
+#EXTINF:-1 tvg-id="France2.fr" tvg-logo="https://github.com/Sibprod/assets/raw/main/Logo_France2.png" group-title="TNT" tvg-chno="2",France 2
 https://github.com/Sibprod/streams/raw/main/ressources/ftv/py/France2.m3u8
-#EXTINF:-1 group-title="TNT" tvg-chno="3",France 3
+#EXTINF:-1 tvg-id="France3.fr" tvg-logo="https://github.com/Sibprod/assets/raw/main/Logo_France3.png" group-title="TNT" tvg-chno="3",France 3
 https://github.com/Sibprod/streams/raw/main/ressources/ftv/py/France3.m3u8
-#EXTINF:-1 group-title="TNT" tvg-chno="4",Canal+
+#EXTINF:-1 tvg-id="CanalPlus.fr" tvg-logo="" group-title="TNT" tvg-chno="4",Canal+
 #EXTVLCOPT:http-referrer=http://callofliberty.fr/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 Edg/112.0.1722.34
 http://s2.callofliberty.fr/directtvcol/CANALPLUS/master.m3u8
-#EXTINF:-1 group-title="TNT" tvg-chno="5",France 5
+#EXTINF:-1 tvg-id="France5.fr" tvg-logo="https://github.com/Sibprod/assets/raw/main/Logo_France5.png" group-title="TNT" tvg-chno="5",France 5
 https://github.com/Sibprod/streams/raw/main/ressources/ftv/py/France5.m3u8
-#EXTINF:-1 group-title="TNT" tvg-chno="6",M6
+#EXTINF:-1 tvg-id="M6.fr" tvg-logo="" group-title="TNT" tvg-chno="6",M6
 #EXTVLCOPT:http-referrer=http://callofliberty.fr/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 Edg/112.0.1722.34
 http://s2.callofliberty.fr/directtvcol/M6/index.m3u8
-#EXTINF:-1 group-title="TNT" tvg-chno="7",ARTE [France]
+#EXTINF:-1 tvg-id="ARTE.fr" tvg-logo="" group-title="TNT" tvg-chno="7",ARTE [France]
 https://artesimulcast.akamaized.net/hls/live/2031003/artelive_fr/index.m3u8
-#EXTINF:-1 group-title="TNT" tvg-chno="8",C8
+#EXTINF:-1 tvg-id="C8.fr" tvg-logo="https://github.com/Sibprod/assets/raw/main/Logo_C8.png" group-title="TNT" tvg-chno="8",C8
 https://github.com/Sibprod/streams/raw/main/ressources/dm/py/hls/c8.m3u8
-#EXTINF:-1 group-title="TNT" tvg-chno="9",W9
+#EXTINF:-1 tvg-id="W9.fr" tvg-logo="" group-title="TNT" tvg-chno="9",W9
 #EXTVLCOPT:http-referrer=http://callofliberty.fr/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 Edg/112.0.1722.34
 http://s2.callofliberty.fr/directtvcol/W9/index.m3u8
-#EXTINF:-1 group-title="TNT" tvg-chno="10",TMC
+#EXTINF:-1 tvg-id="TMC.fr" tvg-logo="https://github.com/Sibprod/assets/raw/main/Logo_TMC.png" group-title="TNT" tvg-chno="10",TMC
 https://github.com/Paradise-91/ParaTV/raw/main/streams/tf1plus/tmc.m3u8
-#EXTINF:-1 group-title="TNT" tvg-chno="11",TFX
+#EXTINF:-1 tvg-id="TFX.fr" tvg-logo="" group-title="TNT" tvg-chno="11",TFX
 https://github.com/Paradise-91/ParaTV/raw/main/streams/tf1plus/tfx.m3u8
-#EXTINF:-1 group-title="TNT" tvg-chno="12",NRJ 12
+#EXTINF:-1 tvg-id="NRJ12.fr" tvg-logo="" group-title="TNT" tvg-chno="12",NRJ 12
 https://nrj12.nrjaudio.fm/hls/live/2038374/nrj_12/master.m3u8
-#EXTINF:-1 group-title="TNT" tvg-chno="13",La Chaîne Parlementaire
+#EXTINF:-1 tvg-id="LaChaineParlementaire.fr" tvg-logo="" group-title="TNT" tvg-chno="13",La Chaîne Parlementaire
 #EXTVLCOPT:http-referrer=http://callofliberty.fr/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 Edg/112.0.1722.34
 http://s2.callofliberty.fr/directtvcol/LCP/master.m3u8
-#EXTINF:-1 group-title="TNT" tvg-chno="14",France 4
+#EXTINF:-1 tvg-id="France4.fr" tvg-logo="https://github.com/Sibprod/assets/raw/main/Logo_France4.png" group-title="TNT" tvg-chno="14",France 4
 https://github.com/Sibprod/streams/raw/main/ressources/ftv/py/France4.m3u8
-#EXTINF:-1 group-title="TNT" tvg-chno="15",BFM TV
+#EXTINF:-1 tvg-id="BFMTV.fr" tvg-logo="" group-title="TNT" tvg-chno="15",BFM TV
 https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_TV/index.m3u8?start=LIVE&end=END
-#EXTINF:-1 group-title="TNT" tvg-chno="16",Cnews
+#EXTINF:-1 tvg-id="CNews.fr" tvg-logo="" group-title="TNT" tvg-chno="16",Cnews
 https://github.com/Sibprod/streams/raw/main/ressources/dm/py/hls/cnews.m3u8
-#EXTINF:-1 group-title="TNT" tvg-chno="17",Cstar
+#EXTINF:-1 tvg-id="CStar.fr" tvg-logo="" group-title="TNT" tvg-chno="17",Cstar
 https://github.com/Paradise-91/ParaTV/raw/main/streams/cstar/cstar.m3u8
-#EXTINF:-1 group-title="TNT" tvg-chno="18",Gulli
+#EXTINF:-1 tvg-id="Gulli.fr" tvg-logo="https://github.com/Sibprod/assets/raw/main/Logo_Gulli.png" group-title="TNT" tvg-chno="18",Gulli
 https://github.com/Sibprod/streams/raw/main/ressources/RTLfr/Gulli.m3u8
-#EXTINF:-1 group-title="TNT" tvg-chno="20",TF1 Séries Films
+#EXTINF:-1 tvg-id="TF1SeriesFilms.fr" tvg-logo="https://github.com/Sibprod/assets/raw/main/Logo_TF1SF.png" group-title="TNT" tvg-chno="20",TF1 Séries Films
 https://github.com/Paradise-91/ParaTV/raw/main/streams/tf1plus/tf1sf.m3u8
-#EXTINF:-1 group-title="TNT" tvg-chno="21",L'Équipe 
+#EXTINF:-1 tvg-id="LEquipe.fr" tvg-logo="" group-title="TNT" tvg-chno="21",L'Équipe 
 https://github.com/Paradise-91/ParaTV/raw/main/streams/equipe21/equipe21.m3u8
-#EXTINF:-1 group-title="TNT" tvg-chno="22",6ter
+#EXTINF:-1 tvg-id="6ter.fr" tvg-logo="" group-title="TNT" tvg-chno="22",6ter
 #EXTVLCOPT:http-referrer=http://callofliberty.fr/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 Edg/112.0.1722.34
 http://s2.callofliberty.fr/directtvcol/6TER/index.m3u8
-#EXTINF:-1 group-title="TNT" tvg-chno="23",RMC Story
+#EXTINF:-1 tvg-id="RMCStory.fr" tvg-logo="" group-title="TNT" tvg-chno="23",RMC Story
 https://d36bxc1bknkxrk.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-3ewcp19zjaxpt/index.m3u8
-#EXTINF:-1 group-title="TNT" tvg-chno="24",RMC Découverte
+#EXTINF:-1 tvg-id="RMCDecouverte.fr" tvg-logo="" group-title="TNT" tvg-chno="24",RMC Découverte
 https://d2mt8for1pddy4.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-6uronj7gzvy4j/index.m3u8
-#EXTINF:-1 group-title="TNT" tvg-chno="25",Chérie 25
+#EXTINF:-1 tvg-id="Cherie25.fr" tvg-logo="" group-title="TNT" tvg-chno="25",Chérie 25
 https://cherie25.nrjaudio.fm/hls/live/2038375/c25/master.m3u8
-#EXTINF:-1 group-title="TNT" tvg-chno="26",LCI
+#EXTINF:-1 tvg-id="LCI.fr" tvg-logo="https://github.com/Sibprod/assets/raw/main/Logo_LCI.png" group-title="TNT" tvg-chno="26",LCI
 https://github.com/Paradise-91/ParaTV/raw/main/streams/tf1plus/lci.m3u8
-#EXTINF:-1 group-title="TNT" tvg-chno="27",France Info
+#EXTINF:-1 tvg-id="Franceinfo.fr" tvg-logo="" group-title="TNT" tvg-chno="27",France Info
 https://github.com/Sibprod/streams/raw/main/ressources/ftv/py/FranceInfo.m3u8
-#EXTINF:-1 group-title="TNT" tvg-chno="41",Paris Première
+#EXTINF:-1 tvg-id="ParisPremiere.fr" tvg-logo="" group-title="TNT" tvg-chno="41",Paris Première
 https://github.com/Sibprod/streams/raw/main/ressources/RTLfr/ParisPremiere.m3u8
-#EXTINF:-1 group-title="TNT" tvg-chno="71",TV Monaco
+#EXTINF:-1 tvg-id="TVMonaco.mc" tvg-logo="" group-title="TNT" tvg-chno="71",TV Monaco
 https://production-fast-mcrtv.content.okast.tv/channels/2116dc08-1959-465d-857f-3619daefb66b/b702b2b9-aebd-436c-be69-2118f56f3d86/master.m3u8
-#EXTINF:-1 group-title="TNT" tvg-chno="75",TV5 Monde [Europe]
+#EXTINF:-1 tvg-id="TV5MondeEurope.fr" tvg-logo="https://github.com/Sibprod/assets/raw/main/Logo_TV5Monde.png" group-title="TNT" tvg-chno="75",TV5 Monde [Europe]
 https://muutube.sonmezalp.com/proxy.php/https://ott.tv5monde.com/Content/HLS/Live/channel(europe)/index.m3u8
-#EXTINF:-1 group-title="TNT" tvg-chno="76",France 24 [Français]
+#EXTINF:-1 tvg-id="France24.fr" tvg-logo="https://github.com/Sibprod/assets/raw/main/Logo_France24.png" group-title="TNT" tvg-chno="76",France 24 [Français]
 https://ythls.armelin.one/channel/UCCCPCZNChQdGa9EkATeye4g.m3u8
-#EXTINF:-1 group-title="TNT" tvg-chno="130",Public Sénat
+#EXTINF:-1 tvg-id="PublicSenat.fr" tvg-logo="" group-title="TNT" tvg-chno="130",Public Sénat
 https://github.com/Sibprod/streams/raw/main/ressources/dm/py/hls/publicsenat.m3u8
-#EXTINF:-1 group-title="TNT" tvg-chno="200",Antenne Réunion
+#EXTINF:-1 tvg-id="AntenneReunion.fr" tvg-logo="" group-title="TNT" tvg-chno="200",Antenne Réunion
 https://live-antenne-reunion.zeop.tv/live/c3eds/antreunihd/hls_fta/antreunihd.m3u8?location=ZEOP01
-#EXTINF:-1 group-title="TNT" tvg-chno="270",France Info [flux DM]
+#EXTINF:-1 tvg-id="Franceinfo.fr" tvg-logo="" group-title="TNT" tvg-chno="270",France Info [flux DM]
 https://github.com/Sibprod/streams/raw/main/ressources/dm/py/hls/franceinfotv.m3u8
-#EXTINF:-1 group-title="TNT" tvg-chno="602",Ici [Radio-Canada] Télé [CBFT]
+#EXTINF:-1 tvg-id="CBFT.ca" tvg-logo="" group-title="TNT" tvg-chno="602",Ici [Radio-Canada] Télé [CBFT]
 https://rcavlive.akamaized.net/hls/live/696615/xcancbft/master.m3u8
-#EXTINF:-1 group-title="TNT" tvg-chno="603",Télé Québec [CIVQ]
+#EXTINF:-1 tvg-id="CIVQ.ca" tvg-logo="" group-title="TNT" tvg-chno="603",Télé Québec [CIVQ]
 https://bcovlive-a.akamaihd.net/575d86160eb143458d51f7ab187a4e68/us-east-1/6101674910001/playlist.m3u8
-#EXTINF:-1 group-title="TNT" tvg-chno="605",Noovo [CFJP]
+#EXTINF:-1 tvg-id="Noovo.ca" tvg-logo="" group-title="TNT" tvg-chno="605",Noovo [CFJP]
 https://pe-fa-lp03a.9c9media.com/live/NOOVO/p/hls/00000201/716cf4c845225692/manifest.m3u8
-#EXTINF:-1 group-title="TNT" tvg-chno="622",Savoir.Media [CFTU]
+#EXTINF:-1 tvg-id="CanalSavoir.ca" tvg-logo="" group-title="TNT" tvg-chno="622",Savoir.Media [CFTU]
 https://hls.savoir.media/live/stream.m3u8
-#EXTINF:-1 tvg-logo="http://s2.callofliberty.fr/tv/301-RTS1/301-RTS1.png" group-title="TNT" tvg-chno="801",RTS 1
+#EXTINF:-1 tvg-id="RTS1.ch" tvg-logo="http://s2.callofliberty.fr/tv/301-RTS1/301-RTS1.png" group-title="TNT" tvg-chno="801",RTS 1
 #EXTVLCOPT:http-referrer=http://callofliberty.fr/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 Edg/112.0.1722.34
 http://s2.callofliberty.fr/directtvcol/RTS1/index.m3u8
-#EXTINF:-1 tvg-logo="http://s2.callofliberty.fr/tv/302-RTS2/302-RTS2.png" group-title="TNT" tvg-chno="802",RTS 2
+#EXTINF:-1 tvg-id="RTS2.ch" tvg-logo="http://s2.callofliberty.fr/tv/302-RTS2/302-RTS2.png" group-title="TNT" tvg-chno="802",RTS 2
 #EXTVLCOPT:http-referrer=http://callofliberty.fr/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 Edg/112.0.1722.34
 http://s2.callofliberty.fr/directtvcol/RTS2/index.m3u8
-#EXTINF:-1 group-title="TNT" tvg-chno="804",Carac 1
+#EXTINF:-1 tvg-id="Carac1.ch" tvg-logo="" group-title="TNT" tvg-chno="804",Carac 1
 http://rougetv.vedge.infomaniak.com/livecast/rougetv/manifest.m3u8
-#EXTINF:-1 group-title="TNT" tvg-chno="805",Carac 2
+#EXTINF:-1 tvg-id="Carac2.ch" tvg-logo="" group-title="TNT" tvg-chno="805",Carac 2
 http://onefmhd.vedge.infomaniak.com/livecast/onefmhd/manifest.m3u8
-#EXTINF:-1 group-title="TNT" tvg-chno="806",Carac 3
+#EXTINF:-1 tvg-id="Carac3.ch" tvg-logo="" group-title="TNT" tvg-chno="806",Carac 3
 http://lfmhd.vedge.infomaniak.com/livecast/lfmhd/manifest.m3u8
-#EXTINF:-1 group-title="TNT" tvg-chno="807",Carac 4
+#EXTINF:-1 tvg-id="Carac4.ch" tvg-logo="" group-title="TNT" tvg-chno="807",Carac 4
 http://compack_media_1.vedge.infomaniak.com/livecast/compack_media_1/manifest.m3u8
-#EXTINF:-1 group-title="TNT" tvg-chno="808",TV5 Monde [FBSM]
+#EXTINF:-1 tvg-id="TV5MondeFBS.fr" tvg-logo="https://github.com/Sibprod/assets/raw/main/Logo_TV5Monde.png" group-title="TNT" tvg-chno="808",TV5 Monde [FBSM]
 https://ott.tv5monde.com/Content/HLS/Live/channel(fbs)/variant.m3u8
-#EXTINF:-1 group-title="TNT" tvg-chno="809",Euronews [Français] [flux DM]
+#EXTINF:-1 tvg-id="Euronews.fr" tvg-logo="" group-title="TNT" tvg-chno="809",Euronews [Français] [flux DM]
 https://github.com/Sibprod/streams/raw/main/ressources/dm/py/hls/euronewsfr.m3u8
-#EXTINF:-1 group-title="TNT" tvg-chno="8090",Euronews [Français] [flux YT]
+#EXTINF:-1 tvg-id="Euronews.fr" tvg-logo="" group-title="TNT" tvg-chno="8090",Euronews [Français] [flux YT]
 https://ythls.armelin.one/channel/UCW2QcKZiU8aUGg4yxCIditg.m3u8
-#EXTINF:-1 group-title="TNT" tvg-chno="8091",Euronews [Français] [flux SSTV+]
+#EXTINF:-1 tvg-id="Euronews.fr" tvg-logo="" group-title="TNT" tvg-chno="8091",Euronews [Français] [flux SSTV+]
 https://euronews-euronews-french-3-fr.xiaomi.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 group-title="FAST",Comédie Fiction
@@ -421,7 +421,7 @@ https://live.creacast.com/myzentv-france/myzentv-france.smil/playlist.m3u8
 https://github.com/Sibprod/streams/raw/main/ressources/dm/py/hls/n31.m3u8
 #EXTINF:-1 group-title="Thématiques",Novela Channel
 https://video1.getstreamhosting.com:1936/8494/8494/playlist.m3u8
-#EXTINF:-1 group-title="Thématiques",RTL plug
+#EXTINF:-1 tvg-id="PlugRTL.be" tvg-logo="https://github.com/Sibprod/assets/raw/main/Logo_RTLplug.png" group-title="Thématiques",RTL plug
 https://github.com/Sibprod/streams/raw/main/ressources/RTLbe/RTLplug.m3u8
 #EXTINF:-1 group-title="Thématiques",Série Max
 https://video1.getstreamhosting.com:1936/8446/8446/playlist.m3u8
