@@ -12,9 +12,9 @@ http://s2.callofliberty.fr/directa/CANALPLUS/master.m3u8
 #EXTINF:-1 tvg-id="France5.fr" tvg-logo="https://github.com/Sibprod/assets/raw/main/Logo_France5.png" group-title="TNT" tvg-chno="5",France 5
 https://github.com/Sibprod/streams/raw/main/ressources/ftv/py/France5.m3u8
 #EXTINF:-1 tvg-id="M6.fr" tvg-logo="https://assets-global.website-files.com/62385f8fc46d9a65da3c49a1/6245f1cbcd09b50ffa3bc423_Logo-M6.png" group-title="TNT" tvg-chno="6",M6
-#EXTVLCOPT:http-referrer=http://callofliberty.fr/
+#EXTVLCOPT:http-referrer=https://www.tntendirect.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 Edg/112.0.1722.34
-http://s2.callofliberty.fr/directa/M6/index.m3u8
+https://s14.tntendirect.com/m6/live/playlist.m3u8
 #EXTINF:-1 tvg-id="ARTE.fr" tvg-logo="https://github.com/Sibprod/assets/raw/main/Logo_ARTE.png" group-title="TNT" tvg-chno="7",ARTE [France]
 https://artesimulcast.akamaized.net/hls/live/2031003/artelive_fr/index.m3u8
 #EXTINF:-1 tvg-id="C8.fr" tvg-logo="https://github.com/Sibprod/assets/raw/main/Logo_C8.png" group-title="TNT" tvg-chno="8",C8
