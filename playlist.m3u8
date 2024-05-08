@@ -128,9 +128,9 @@ https://github.com/Sibprod/streams/raw/main/ressources/ftv/py/FranceTVSeries.m3u
 https://tntv-samsung-fr.amagi.tv/playlist.m3u8
 #EXTINF:-1 channel-id="samsung-FR " tvg-id="FR " tvg-logo="https://static-cdn.tv.sfr.net/data/img/apps/chaines/logos/BFMGrandsReportagesBlanc100x100.png" group-title="FAST",BFM Grands Reportages
 https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_GRANDSREPORTAGES/index.m3u8?start=LIVE&end=END
-#EXTINF:-1 channel-id="samsung-FR " tvg-id="FR " group-title="FAST",L'Équipe Live 1
+#EXTINF:-1 channel-id="samsung-FR " tvg-id="FR " tvg-logo="" group-title="FAST",L'Équipe Live 1
 https://d3awaj0f2u3w26.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-gy7euubgydp20-ssai-prd/master.m3u8
-#EXTINF:-1 channel-id="samsung-FR " tvg-id="FR " group-title="FAST",L'Équipe Live 2
+#EXTINF:-1 channel-id="samsung-FR " tvg-id="FR " tvg-logo="" group-title="FAST",L'Équipe Live 2
 https://d2l55nvfkhk4sg.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-jg7go1lqzgpny-ssai-prd/master.m3u8
 #EXTINF:-1 channel-id="samsung-FR " tvg-id="FR " tvg-logo="https://static-cdn.tv.sfr.net/data/img/apps/chaines/logos/RMCTalkInfoBlanc100x100.png" group-title="FAST",RMC Talk Info
 https://dvvyqyxwlc4tn.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-n5yqxqrvnujl7/index.m3u8
@@ -138,7 +138,18 @@ https://dvvyqyxwlc4tn.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a
 https://d21wdmv2hqydbt.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-n239v7ne7hack/index.m3u8
 #EXTINF:-1 channel-id="samsung-FR300001M1" tvg-id="FR300001M1" tvg-logo="https://static-cdn.tv.sfr.net/data/img/apps/chaines/logos/RMCWOWBlanc100x100.png" group-title="Découverte",RMC Wow
 https://d18uxd7zigjv4y.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-hynzl7bz38ht6/index.m3u8
-
+#EXTINF:-1 tvg-logo="https://github.com/Sibprod/assets/raw/main/Sony%20One/Sony%20One_Action%20Hits.png" group-title="FAST",Sony One Hits Action
+https://linear-817.frequency.stream/mt/studio/817/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/Sibprod/assets/raw/main/Sony%20One/Sony%20One_Comedy%20Hits.png" group-title="FAST",Sony One Hits Comédie
+https://linear-818.frequency.stream/mt/studio/818/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/Sibprod/assets/raw/main/Sony%20One/Sony%20One_Comedy.png" group-title="FAST",Sony One Séries Comédie
+https://linear-819.frequency.stream/mt/studio/819/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/Sibprod/assets/raw/main/Sony%20One/Sony%20One_Favoris.png" group-title="FAST",Sony One Favoris
+https://linear-820.frequency.stream/mt/studio/820/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/Sibprod/assets/raw/main/Sony%20One/Sony%20One_Thriller.png" group-title="FAST",Sony One Séries Thriller
+https://linear-821.frequency.stream/mt/studio/821/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/Sibprod/assets/raw/main/Sony%20One/Sony%20One_blacklist.png" group-title="FAST",Sony One Blacklist
+https://linear-822.frequency.stream/mt/studio/822/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="FAST",Le Figaro Live
 https://d358c6mfrono1y.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-0ppx9nh29jpk7-prod/490bc6dd-734b-4242-8810-294896740082/2.m3u8
 #EXTINF:-1 group-title="FAST",MGG FAST
@@ -404,7 +415,7 @@ https://194270.global.ssl.fastly.net/63b43410861d94a9eee067fb/live_947330308dd91
 http://s2.callofliberty.fr/directcoltv/journaldugolftv/master.m3u8
 #EXTINF:-1 group-title="Thématiques",Le Média
 https://github.com/Sibprod/streams/raw/main/ressources/dm/py/hls/lemedia.m3u8
-#EXTINF:-1 group-title="Thématiques",LN24
+#EXTINF:-1 tvg-id="LN24.be" tvg-logo="https://experience-cache.cdi.streaming.proximustv.be/posterserver/poster/DEFAULT/t_0311_000.png" group-title="Thématiques",LN24
 https://live-ln24.digiteka.com/1911668011/index.m3u8
 #EXTINF:-1 group-title="Thématiques",Maison & Travaux TV [flux DM]
 https://github.com/Sibprod/streams/raw/main/ressources/dm/py/hls/maisonettravaux.m3u8
