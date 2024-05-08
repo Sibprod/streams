@@ -6,9 +6,7 @@ https://github.com/Sibprod/streams/raw/main/ressources/ftv/py/France2.m3u8
 #EXTINF:-1 tvg-id="France3.fr" tvg-logo="https://github.com/Sibprod/assets/raw/main/Logo_France3.png" group-title="TNT" tvg-chno="3",France 3
 https://github.com/Sibprod/streams/raw/main/ressources/ftv/py/France3.m3u8
 #EXTINF:-1 tvg-id="CanalPlus.fr" tvg-logo="" group-title="TNT" tvg-chno="4",Canal+
-#EXTVLCOPT:http-referrer=http://callofliberty.fr/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 Edg/112.0.1722.34
-http://s2.callofliberty.fr/directa/CANALPLUS/master.m3u8
+http://vavoo.to/play/832300098/index.m3u8
 #EXTINF:-1 tvg-id="France5.fr" tvg-logo="https://github.com/Sibprod/assets/raw/main/Logo_France5.png" group-title="TNT" tvg-chno="5",France 5
 https://github.com/Sibprod/streams/raw/main/ressources/ftv/py/France5.m3u8
 #EXTINF:-1 tvg-id="M6.fr" tvg-logo="https://assets-global.website-files.com/62385f8fc46d9a65da3c49a1/6245f1cbcd09b50ffa3bc423_Logo-M6.png" group-title="TNT" tvg-chno="6",M6
@@ -20,9 +18,7 @@ https://artesimulcast.akamaized.net/hls/live/2031003/artelive_fr/index.m3u8
 #EXTINF:-1 tvg-id="C8.fr" tvg-logo="https://github.com/Sibprod/assets/raw/main/Logo_C8.png" group-title="TNT" tvg-chno="8",C8
 https://github.com/Sibprod/streams/raw/main/ressources/dm/py/hls/c8.m3u8
 #EXTINF:-1 tvg-id="W9.fr" tvg-logo="https://images.squarespace-cdn.com/content/v1/5490471de4b0072fa54da48f/1424982776480-LC1NJXH5CF1MA9YI88PL/2000px-W9.png" group-title="TNT" tvg-chno="9",W9
-#EXTVLCOPT:http-referrer=https://www.tntendirect.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 Edg/112.0.1722.34
-https://s14.tntendirect.com/w9/live/playlist.m3u8
+http://vavoo.to/play/665307335/index.m3u8
 #EXTINF:-1 tvg-id="TMC.fr" tvg-logo="https://github.com/Sibprod/assets/raw/main/Logo_TMC.png" group-title="TNT" tvg-chno="10",TMC
 https://github.com/Paradise-91/ParaTV/raw/main/streams/tf1plus/tmc.m3u8
 #EXTINF:-1 tvg-id="TFX.fr" tvg-logo="" group-title="TNT" tvg-chno="11",TFX
@@ -50,9 +46,7 @@ https://github.com/Paradise-91/ParaTV/raw/main/streams/tf1plus/tf1sf.m3u8
 #EXTINF:-1 tvg-id="LEquipe.fr" tvg-logo="https://www.anodeetcathode.fr/wp-content/uploads/2016/12/equipe-logo.png" group-title="TNT" tvg-chno="21",L'Équipe 
 https://github.com/Paradise-91/ParaTV/raw/main/streams/equipe21/equipe21.m3u8
 #EXTINF:-1 tvg-id="6ter.fr" tvg-logo="https://www.satisfactiongroup.com/wp-content/uploads/2022/11/6ter-blanc.png" group-title="TNT" tvg-chno="22",6ter
-#EXTVLCOPT:http-referrer=https://www.tntendirect.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 Edg/112.0.1722.34
-https://s14.tntendirect.com/6ter/live/playlist.m3u8
+http://vavoo.to/play/1277148681/index.m3u8
 #EXTINF:-1 tvg-id="RMCStory.fr" tvg-logo="https://static-cdn.tv.sfr.net/data/img/apps/edito/attachment/animation/tile/rmcstorymonochrome.png?h=150" group-title="TNT" tvg-chno="23",RMC Story
 https://d36bxc1bknkxrk.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-3ewcp19zjaxpt/index.m3u8
 #EXTINF:-1 tvg-id="RMCDecouverte.fr" tvg-logo="https://static-cdn.tv.sfr.net/data/img/apps/edito/attachment/animation/tile/rmcdecouvertemonochrome.png?h=150" group-title="TNT" tvg-chno="24",RMC Découverte
@@ -67,6 +61,18 @@ https://github.com/Paradise-91/ParaTV/raw/main/streams/tf1plus/lci.m3u8
 https://github.com/Sibprod/streams/raw/main/ressources/ftv/py/FranceInfo.m3u8
 #EXTINF:-1 tvg-id="ParisPremiere.fr" tvg-logo="" group-title="TNT" tvg-chno="41",Paris Première
 https://github.com/Sibprod/streams/raw/main/ressources/RTLfr/ParisPremiere.m3u8
+#EXTINF:-1 tvg-id="CanalPlusSport.fr" tvg-logo="" group-title="TNT" tvg-chno="42",Canal+ Sport
+https://vavoo.to/play/4143669776/index.m3u8
+#EXTINF:-1 tvg-id="CanalPlusCinema.fr" tvg-logo="" group-title="TNT" tvg-chno="43",Canal+ Cinéma
+https://vavoo.to/play/3509508771/index.m3u8
+#EXTINF:-1 tvg-id="AB1.fr" tvg-logo="" group-title="TNT" tvg-chno="44",AB1
+https://vavoo.to/play/1171342739/index.m3u8
+#EXTINF:-1 tvg-id="Planete.fr" tvg-logo="" group-title="TNT" tvg-chno="45",Planète+
+https://vavoo.to/play/966067356/index.m3u8
+#EXTINF:-1 tvg-id="CanalJ.fr" tvg-logo="" group-title="TNT" tvg-chno="47",Canal J
+https://vavoo.to/play/2635571762/index.m3u8
+#EXTINF:-1 tvg-id="Eurosport1.fr" tvg-logo="" group-title="TNT" tvg-chno="49",Eurosport 1
+https://vavoo.to/play/2117816384/index.m3u8
 #EXTINF:-1 tvg-id="RTLTVI.be" tvg-logo="https://github.com/Sibprod/assets/raw/main/Logo_RTLtvi.png" group-title="TNT" tvg-chno="61",RTL tvi
 https://github.com/Sibprod/streams/raw/main/ressources/RTLbe/RTLtvi.m3u8
 #EXTINF:-1 tvg-id="ClubRTL.be" tvg-logo="https://github.com/Sibprod/assets/raw/main/Logo_RTLclub.png" group-title="TNT" tvg-chno="62",RTL club
