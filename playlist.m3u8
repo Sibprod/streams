@@ -138,6 +138,12 @@ https://dvvyqyxwlc4tn.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a
 https://d21wdmv2hqydbt.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-n239v7ne7hack/index.m3u8
 #EXTINF:-1 channel-id="samsung-FR300001M1" tvg-id="FR300001M1" tvg-logo="https://static-cdn.tv.sfr.net/data/img/apps/chaines/logos/RMCWOWBlanc100x100.png" group-title="Découverte",RMC Wow
 https://d18uxd7zigjv4y.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-hynzl7bz38ht6/index.m3u8
+#EXTINF:-1 group-title="FAST",Le Figaro Live
+https://d358c6mfrono1y.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-0ppx9nh29jpk7-prod/490bc6dd-734b-4242-8810-294896740082/2.m3u8
+#EXTINF:-1 group-title="FAST",MGG FAST
+https://d1mdvi698umja9.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-kuib43fy5umqi-ssai-prd/mgg.m3u8
+#EXTINF:-1 group-title="FAST",Radio-Canada Info
+https://d352zobhe5lhe6.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-j7m6inrqe6jat/master.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/Sibprod/assets/raw/main/Sony%20One/Sony%20One_Action%20Hits.png" group-title="FAST",Sony One Hits Action
 https://linear-817.frequency.stream/mt/studio/817/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/Sibprod/assets/raw/main/Sony%20One/Sony%20One_Comedy%20Hits.png" group-title="FAST",Sony One Hits Comédie
@@ -150,12 +156,6 @@ https://linear-820.frequency.stream/mt/studio/820/hls/master/playlist.m3u8
 https://linear-821.frequency.stream/mt/studio/821/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/Sibprod/assets/raw/main/Sony%20One/Sony%20One_blacklist.png" group-title="FAST",Sony One Blacklist
 https://linear-822.frequency.stream/mt/studio/822/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="FAST",Le Figaro Live
-https://d358c6mfrono1y.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-0ppx9nh29jpk7-prod/490bc6dd-734b-4242-8810-294896740082/2.m3u8
-#EXTINF:-1 group-title="FAST",MGG FAST
-https://d1mdvi698umja9.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-kuib43fy5umqi-ssai-prd/mgg.m3u8
-#EXTINF:-1 group-title="FAST",Radio-Canada Info
-https://d352zobhe5lhe6.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-j7m6inrqe6jat/master.m3u8
 
 #EXTINF:-1 group-title="Régionales",7 à Limoges
 https://ythls.armelin.one/channel/UCdFv_ZWQ3Xk_NfRiaK-ryGg.m3u8
