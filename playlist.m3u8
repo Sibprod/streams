@@ -20,15 +20,17 @@ https://artesimulcast.akamaized.net/hls/live/2031003/artelive_fr/index.m3u8
 #EXTINF:-1 tvg-id="C8.fr" tvg-logo="https://github.com/Sibprod/assets/raw/main/Logo_C8.png" group-title="TNT" tvg-chno="8",C8
 https://github.com/Sibprod/streams/raw/main/ressources/dm/py/hls/c8.m3u8
 #EXTINF:-1 tvg-id="W9.fr" tvg-logo="https://images.squarespace-cdn.com/content/v1/5490471de4b0072fa54da48f/1424982776480-LC1NJXH5CF1MA9YI88PL/2000px-W9.png" group-title="TNT" tvg-chno="9",W9
-#EXTVLCOPT:http-referrer=http://callofliberty.fr/
+#EXTVLCOPT:http-referrer=https://www.tntendirect.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 Edg/112.0.1722.34
-http://s2.callofliberty.fr/directa/W9/index.m3u8
+https://s14.tntendirect.com/w9/live/playlist.m3u8
 #EXTINF:-1 tvg-id="TMC.fr" tvg-logo="https://github.com/Sibprod/assets/raw/main/Logo_TMC.png" group-title="TNT" tvg-chno="10",TMC
 https://github.com/Paradise-91/ParaTV/raw/main/streams/tf1plus/tmc.m3u8
 #EXTINF:-1 tvg-id="TFX.fr" tvg-logo="" group-title="TNT" tvg-chno="11",TFX
 https://github.com/Paradise-91/ParaTV/raw/main/streams/tf1plus/tfx.m3u8
 #EXTINF:-1 tvg-id="NRJ12.fr" tvg-logo="" group-title="TNT" tvg-chno="12",NRJ 12
-https://nrj12.nrjaudio.fm/hls/live/2038374/nrj_12/master.m3u8
+#EXTVLCOPT:http-referrer=https://www.tntendirect.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 Edg/112.0.1722.34
+https://s14.tntendirect.com/nrj12/live/playlist.m3u8
 #EXTINF:-1 tvg-id="LaChaineParlementaire.fr" tvg-logo="" group-title="TNT" tvg-chno="13",La Chaîne Parlementaire
 #EXTVLCOPT:http-referrer=http://callofliberty.fr/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 Edg/112.0.1722.34
@@ -48,15 +50,17 @@ https://github.com/Paradise-91/ParaTV/raw/main/streams/tf1plus/tf1sf.m3u8
 #EXTINF:-1 tvg-id="LEquipe.fr" tvg-logo="https://www.anodeetcathode.fr/wp-content/uploads/2016/12/equipe-logo.png" group-title="TNT" tvg-chno="21",L'Équipe 
 https://github.com/Paradise-91/ParaTV/raw/main/streams/equipe21/equipe21.m3u8
 #EXTINF:-1 tvg-id="6ter.fr" tvg-logo="https://www.satisfactiongroup.com/wp-content/uploads/2022/11/6ter-blanc.png" group-title="TNT" tvg-chno="22",6ter
-#EXTVLCOPT:http-referrer=http://callofliberty.fr/directtvcol/
+#EXTVLCOPT:http-referrer=https://www.tntendirect.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 Edg/112.0.1722.34
-http://s2.callofliberty.fr/directtvcol/6TER/index.m3u8
+https://s14.tntendirect.com/6ter/live/playlist.m3u8
 #EXTINF:-1 tvg-id="RMCStory.fr" tvg-logo="https://static-cdn.tv.sfr.net/data/img/apps/edito/attachment/animation/tile/rmcstorymonochrome.png?h=150" group-title="TNT" tvg-chno="23",RMC Story
 https://d36bxc1bknkxrk.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-3ewcp19zjaxpt/index.m3u8
 #EXTINF:-1 tvg-id="RMCDecouverte.fr" tvg-logo="https://static-cdn.tv.sfr.net/data/img/apps/edito/attachment/animation/tile/rmcdecouvertemonochrome.png?h=150" group-title="TNT" tvg-chno="24",RMC Découverte
 https://d2mt8for1pddy4.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-6uronj7gzvy4j/index.m3u8
 #EXTINF:-1 tvg-id="Cherie25.fr" tvg-logo="" group-title="TNT" tvg-chno="25",Chérie 25
-https://cherie25.nrjaudio.fm/hls/live/2038375/c25/master.m3u8
+#EXTVLCOPT:http-referrer=https://www.tntendirect.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 Edg/112.0.1722.34
+https://s14.tntendirect.com/cherie25/live/playlist.m3u8
 #EXTINF:-1 tvg-id="LCI.fr" tvg-logo="https://github.com/Sibprod/assets/raw/main/Logo_LCI.png" group-title="TNT" tvg-chno="26",LCI
 https://github.com/Paradise-91/ParaTV/raw/main/streams/tf1plus/lci.m3u8
 #EXTINF:-1 tvg-id="Franceinfo.fr" tvg-logo="" group-title="TNT" tvg-chno="27",France Info
