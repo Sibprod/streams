@@ -67,6 +67,12 @@ https://github.com/Paradise-91/ParaTV/raw/main/streams/tf1plus/lci.m3u8
 https://github.com/Sibprod/streams/raw/main/ressources/ftv/py/FranceInfo.m3u8
 #EXTINF:-1 tvg-id="ParisPremiere.fr" tvg-logo="" group-title="TNT" tvg-chno="41",Paris Première
 https://github.com/Sibprod/streams/raw/main/ressources/RTLfr/ParisPremiere.m3u8
+#EXTINF:-1 tvg-id="RTLTVI.be" tvg-logo="https://github.com/Sibprod/assets/raw/main/Logo_RTLtvi.png" group-title="TNT" tvg-chno="61",RTL tvi
+https://github.com/Sibprod/streams/raw/main/ressources/RTLbe/RTLtvi.m3u8
+#EXTINF:-1 tvg-id="ClubRTL.be" tvg-logo="https://github.com/Sibprod/assets/raw/main/Logo_RTLclub.png" group-title="TNT" tvg-chno="62",RTL club
+https://github.com/Sibprod/streams/raw/main/ressources/RTLbe/RTLclub.m3u8
+#EXTINF:-1 tvg-id="PlugRTL.be" tvg-logo="https://github.com/Sibprod/assets/raw/main/Logo_RTLplug.png" group-title="Thématiques",RTL plug
+https://github.com/Sibprod/streams/raw/main/ressources/RTLbe/RTLplug.m3u8
 #EXTINF:-1 tvg-id="TVMonaco.mc" tvg-logo="" group-title="TNT" tvg-chno="71",TV Monaco
 https://production-fast-mcrtv.content.okast.tv/channels/2116dc08-1959-465d-857f-3619daefb66b/b702b2b9-aebd-436c-be69-2118f56f3d86/master.m3u8
 #EXTINF:-1 tvg-id="TV5MondeEurope.fr" tvg-logo="https://github.com/Sibprod/assets/raw/main/Logo_TV5Monde.png" group-title="TNT" tvg-chno="75",TV5 Monde [Europe]
@@ -439,8 +445,6 @@ https://live.creacast.com/myzentv-france/myzentv-france.smil/playlist.m3u8
 https://github.com/Sibprod/streams/raw/main/ressources/dm/py/hls/n31.m3u8
 #EXTINF:-1 group-title="Thématiques",Novela Channel
 https://video1.getstreamhosting.com:1936/8494/8494/playlist.m3u8
-#EXTINF:-1 tvg-id="PlugRTL.be" tvg-logo="https://github.com/Sibprod/assets/raw/main/Logo_RTLplug.png" group-title="Thématiques",RTL plug
-https://github.com/Sibprod/streams/raw/main/ressources/RTLbe/RTLplug.m3u8
 #EXTINF:-1 group-title="Thématiques",Série Max
 https://video1.getstreamhosting.com:1936/8446/8446/playlist.m3u8
 #EXTINF:-1 group-title="Thématiques",Sport En France
