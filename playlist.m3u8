@@ -73,6 +73,8 @@ https://github.com/Sibprod/streams/raw/main/ressources/RTLbe/RTLtvi.m3u8
 https://github.com/Sibprod/streams/raw/main/ressources/RTLbe/RTLclub.m3u8
 #EXTINF:-1 tvg-id="PlugRTL.be" tvg-logo="https://github.com/Sibprod/assets/raw/main/Logo_RTLplug.png" group-title="Thématiques",RTL plug
 https://github.com/Sibprod/streams/raw/main/ressources/RTLbe/RTLplug.m3u8
+#EXTINF:-1 tvg-id="TVMonaco.mc" tvg-logo="" group-title="TNT" tvg-chno="70",Monaco Info
+https://webtvmonacoinfo.mc/live/prod_720/index.m3u8
 #EXTINF:-1 tvg-id="TVMonaco.mc" tvg-logo="" group-title="TNT" tvg-chno="71",TV Monaco
 https://production-fast-mcrtv.content.okast.tv/channels/2116dc08-1959-465d-857f-3619daefb66b/b702b2b9-aebd-436c-be69-2118f56f3d86/master.m3u8
 #EXTINF:-1 tvg-id="TV5MondeEurope.fr" tvg-logo="https://github.com/Sibprod/assets/raw/main/Logo_TV5Monde.png" group-title="TNT" tvg-chno="75",TV5 Monde [Europe]
@@ -305,8 +307,6 @@ https://ythls.armelin.one/channel/UCva-htH2wvmKsG6SkcEJ4Vw.m3u8
 https://github.com/Sibprod/streams/raw/main/ressources/ftv/py/La1ere_mayotte_metro.m3u8
 #EXTINF:-1 group-title="Régionales",Mirabelle TV
 https://live.creacast.com/mirabelletv/smil:mirabelletv.smil/playlist.m3u8
-#EXTINF:-1 group-title="Régionales",Monaco Info
-https://webtvmonacoinfo.mc/live/prod_720/index.m3u8
 #EXTINF:-1 group-title="Régionales",Mosaïk Cristal TV
 https://ythls.armelin.one/channel/UCQC0xLG_W0QpqAXQ4-yhwBA.m3u8
 #EXTINF:-1 group-title="Régionales",NA TV
