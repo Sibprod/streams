@@ -71,7 +71,7 @@ https://github.com/Sibprod/streams/raw/main/ressources/RTLfr/ParisPremiere.m3u8
 https://github.com/Sibprod/streams/raw/main/ressources/RTLbe/RTLtvi.m3u8
 #EXTINF:-1 tvg-id="ClubRTL.be" tvg-logo="https://github.com/Sibprod/assets/raw/main/Logo_RTLclub.png" group-title="TNT" tvg-chno="62",RTL club
 https://github.com/Sibprod/streams/raw/main/ressources/RTLbe/RTLclub.m3u8
-#EXTINF:-1 tvg-id="PlugRTL.be" tvg-logo="https://github.com/Sibprod/assets/raw/main/Logo_RTLplug.png" group-title="Thématiques",RTL plug
+#EXTINF:-1 tvg-id="PlugRTL.be" tvg-logo="https://github.com/Sibprod/assets/raw/main/Logo_RTLplug.png" group-title="TNT" tvg-chno="63",RTL plug
 https://github.com/Sibprod/streams/raw/main/ressources/RTLbe/RTLplug.m3u8
 #EXTINF:-1 tvg-id="TVMonaco.mc" tvg-logo="" group-title="TNT" tvg-chno="70",Monaco Info
 https://webtvmonacoinfo.mc/live/prod_720/index.m3u8
