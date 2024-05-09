@@ -22,8 +22,6 @@ https://github.com/Paradise-91/ParaTV/raw/main/streams/tf1plus/tmc.m3u8
 #EXTINF:-1 tvg-id="TFX.fr" tvg-logo="" group-title="TNT" tvg-chno="11",TFX
 https://github.com/Paradise-91/ParaTV/raw/main/streams/tf1plus/tfx.m3u8
 #EXTINF:-1 tvg-id="NRJ12.fr" tvg-logo="" group-title="TNT" tvg-chno="12",NRJ 12
-#EXTVLCOPT:http-referrer=https://www.tntendirect.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 Edg/112.0.1722.34
 https://s14.tntendirect.com/nrj12/live/playlist.m3u8
 #EXTINF:-1 tvg-id="LaChaineParlementaire.fr" tvg-logo="" group-title="TNT" tvg-chno="13",La Chaîne Parlementaire
 https://github.com/ipstreet312/freeiptv/raw/master/ressources/dmotion/py/lcpan/lcp1.m3u8
@@ -48,8 +46,6 @@ https://d36bxc1bknkxrk.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 #EXTINF:-1 tvg-id="RMCDecouverte.fr" tvg-logo="https://static-cdn.tv.sfr.net/data/img/apps/edito/attachment/animation/tile/rmcdecouvertemonochrome.png?h=150" group-title="TNT" tvg-chno="24",RMC Découverte
 https://d2mt8for1pddy4.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-6uronj7gzvy4j/index.m3u8
 #EXTINF:-1 tvg-id="Cherie25.fr" tvg-logo="" group-title="TNT" tvg-chno="25",Chérie 25
-#EXTVLCOPT:http-referrer=https://www.tntendirect.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 Edg/112.0.1722.34
 https://s14.tntendirect.com/cherie25/live/playlist.m3u8
 #EXTINF:-1 tvg-id="LCI.fr" tvg-logo="https://github.com/Sibprod/assets/raw/main/Logo_LCI.png" group-title="TNT" tvg-chno="26",LCI
 https://github.com/Paradise-91/ParaTV/raw/main/streams/tf1plus/lci.m3u8
