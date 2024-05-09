@@ -164,9 +164,9 @@ https://tvlocales-live.freecaster.com/95d2f70d-9229-478b-9aed-bc4fa220316d/95d2f
 https://github.com/Sibprod/streams/raw/main/ressources/dm/py/hls/boulognemarinawebcam.m3u8
 #EXTINF:-1 group-title="Régionales",BX1
 https://59959724487e3.streamlock.net/stream/live/playlist.m3u8
-#EXTINF:-1 group-title="Régionales",Canal Alpha [Jura]
+#EXTINF:-1 tvg-logo="" group-title="Régionales",Canal Alpha [Jura]
 http://canalalphaju.vedge.infomaniak.com/livecast/canalalphaju/manifest.m3u8
-#EXTINF:-1 group-title="Régionales",Canal Alpha [Neuchâtel]
+#EXTINF:-1 tvg-logo="" group-title="Régionales",Canal Alpha [Neuchâtel]
 http://canalalpha.vedge.infomaniak.com/livecast/canalalpha/manifest.m3u8
 #EXTINF:-1 group-title="Régionales",Canal Zoom
 https://tvlocales-live.freecaster.com/95d2e3af-5ab8-45a9-9dc9-f544d006b5d5/95d2e3af-5ab8-45a9-9dc9-f544d006b5d5.isml/master.m3u8
@@ -236,7 +236,7 @@ https://github.com/Sibprod/streams/raw/main/ressources/ftv/py/La1ere_guyane_metr
 https://live.creacast.com/iltv/smil:iltv.smil/playlist.m3u8
 #EXTINF:-1 group-title="Régionales",La Chaîne 32
 https://ythls.armelin.one/channel/UChl0zP89T7yZyEwQkCfmmnQ.m3u8
-#EXTINF:-1 group-title="Régionales",La Télé
+#EXTINF:-1 tvg-logo="" group-title="Régionales",La Télé
 http://latele.vedge.infomaniak.com/livecast/latele/manifest.m3u8
 #EXTINF:-1 group-title="Régionales",Le Figaro TV [IdF]
 https://static.lefigaro.fr/secom/tnt.m3u8
