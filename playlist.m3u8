@@ -6,7 +6,7 @@ https://github.com/Sibprod/streams/raw/main/ressources/ftv/py/France2.m3u8
 #EXTINF:-1 tvg-id="France3.fr" tvg-logo="https://github.com/Sibprod/assets/raw/main/Logo_France3.png" group-title="TNT" tvg-chno="3",France 3
 https://github.com/Sibprod/streams/raw/main/ressources/ftv/py/France3.m3u8
 #EXTINF:-1 tvg-id="CanalPlus.fr" tvg-logo="" group-title="TNT" tvg-chno="4",Canal+
-http://vavoo.to/play/832300098/index.m3u8
+
 #EXTINF:-1 tvg-id="France5.fr" tvg-logo="https://github.com/Sibprod/assets/raw/main/Logo_France5.png" group-title="TNT" tvg-chno="5",France 5
 https://github.com/Sibprod/streams/raw/main/ressources/ftv/py/France5.m3u8
 #EXTINF:-1 tvg-id="M6.fr" tvg-logo="https://assets-global.website-files.com/62385f8fc46d9a65da3c49a1/6245f1cbcd09b50ffa3bc423_Logo-M6.png" group-title="TNT" tvg-chno="6",M6
@@ -117,55 +117,6 @@ https://github.com/Sibprod/streams/raw/main/ressources/dm/py/hls/euronewsfr.m3u8
 https://ythls.armelin.one/channel/UCW2QcKZiU8aUGg4yxCIditg.m3u8
 #EXTINF:-1 tvg-id="Euronews.fr" tvg-logo="" group-title="TNT" tvg-chno="8091",Euronews [Français] [flux SSTV+]
 https://euronews-euronews-french-3-fr.xiaomi.wurl.tv/playlist.m3u8
-
-#EXTINF:-1 group-title="FAST",Comédie Fiction
-https://github.com/Paradise-91/ParaTV/raw/main/streams/tf1plus/comedie-fiction.m3u8
-#EXTINF:-1 group-title="FAST",Notre Planète
-https://github.com/Paradise-91/ParaTV/raw/main/streams/tf1plus/notre-planete.m3u8
-#EXTINF:-1 group-title="FAST",Polar Fiction
-https://github.com/Paradise-91/ParaTV/raw/main/streams/tf1plus/police-fiction.m3u8
-#EXTINF:-1 group-title="FAST",Saga de l'Été
-https://github.com/Paradise-91/ParaTV/raw/main/streams/tf1plus/saga-de-lete.m3u8
-#EXTINF:-1 group-title="FAST",Thriller Fiction
-https://github.com/Paradise-91/ParaTV/raw/main/streams/tf1plus/thriller-fiction.m3u8
-#EXTINF:-1 group-title="FAST",Ushuaïa For Change
-https://github.com/Paradise-91/ParaTV/raw/main/streams/tf1plus/ushuaia-for-change.m3u8
-#EXTINF:-1 group-title="FAST",France TV Docs
-https://github.com/Sibprod/streams/raw/main/ressources/ftv/py/FranceTVDocs.m3u8
-#EXTINF:-1 group-title="FAST",France TV Séries
-https://github.com/Sibprod/streams/raw/main/ressources/ftv/py/FranceTVSeries.m3u8
-#EXTINF:-1 channel-id="samsung-FR " tvg-id="FR " group-title="FAST",Tahiti TV
-https://tntv-samsung-fr.amagi.tv/playlist.m3u8
-#EXTINF:-1 channel-id="samsung-FR " tvg-id="FR " tvg-logo="https://static-cdn.tv.sfr.net/data/img/apps/chaines/logos/BFMGrandsReportagesBlanc100x100.png" group-title="FAST",BFM Grands Reportages
-https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_GRANDSREPORTAGES/index.m3u8?start=LIVE&end=END
-#EXTINF:-1 channel-id="samsung-FR " tvg-id="FR " tvg-logo="" group-title="FAST",L'Équipe Live 1
-https://d3awaj0f2u3w26.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-gy7euubgydp20-ssai-prd/master.m3u8
-#EXTINF:-1 channel-id="samsung-FR " tvg-id="FR " tvg-logo="" group-title="FAST",L'Équipe Live 2
-https://d2l55nvfkhk4sg.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-jg7go1lqzgpny-ssai-prd/master.m3u8
-#EXTINF:-1 channel-id="samsung-FR " tvg-id="FR " tvg-logo="https://static-cdn.tv.sfr.net/data/img/apps/chaines/logos/RMCTalkInfoBlanc100x100.png" group-title="FAST",RMC Talk Info
-https://dvvyqyxwlc4tn.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-n5yqxqrvnujl7/index.m3u8
-#EXTINF:-1 channel-id="samsung-FR " tvg-id="FR " tvg-logo="https://static-cdn.tv.sfr.net/data/img/apps/chaines/logos/RMCTalkSportBlanc100x100.png" group-title="FAST",RMC Talk Sport
-https://d21wdmv2hqydbt.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-n239v7ne7hack/index.m3u8
-#EXTINF:-1 channel-id="samsung-FR300001M1" tvg-id="FR300001M1" tvg-logo="https://static-cdn.tv.sfr.net/data/img/apps/chaines/logos/RMCWOWBlanc100x100.png" group-title="Découverte",RMC Wow
-https://d18uxd7zigjv4y.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-hynzl7bz38ht6/index.m3u8
-#EXTINF:-1 group-title="FAST",Le Figaro Live
-https://d358c6mfrono1y.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-0ppx9nh29jpk7-prod/490bc6dd-734b-4242-8810-294896740082/2.m3u8
-#EXTINF:-1 group-title="FAST",MGG FAST
-https://d1mdvi698umja9.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-kuib43fy5umqi-ssai-prd/mgg.m3u8
-#EXTINF:-1 group-title="FAST",Radio-Canada Info
-https://d352zobhe5lhe6.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-j7m6inrqe6jat/master.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/Sibprod/assets/raw/main/Sony%20One/Sony%20One_Action%20Hits.png" group-title="FAST",Sony One Hits Action
-https://linear-817.frequency.stream/mt/studio/817/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/Sibprod/assets/raw/main/Sony%20One/Sony%20One_Comedy%20Hits.png" group-title="FAST",Sony One Hits Comédie
-https://linear-818.frequency.stream/mt/studio/818/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/Sibprod/assets/raw/main/Sony%20One/Sony%20One_Comedy.png" group-title="FAST",Sony One Séries Comédie
-https://linear-819.frequency.stream/mt/studio/819/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/Sibprod/assets/raw/main/Sony%20One/Sony%20One_Favoris.png" group-title="FAST",Sony One Favoris
-https://linear-820.frequency.stream/mt/studio/820/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/Sibprod/assets/raw/main/Sony%20One/Sony%20One_Thriller.png" group-title="FAST",Sony One Séries Thriller
-https://linear-821.frequency.stream/mt/studio/821/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/Sibprod/assets/raw/main/Sony%20One/Sony%20One_blacklist.png" group-title="FAST",Sony One Blacklist
-https://linear-822.frequency.stream/mt/studio/822/hls/master/playlist.m3u8
 
 #EXTINF:-1 group-title="Régionales",7 à Limoges
 https://ythls.armelin.one/channel/UCdFv_ZWQ3Xk_NfRiaK-ryGg.m3u8
