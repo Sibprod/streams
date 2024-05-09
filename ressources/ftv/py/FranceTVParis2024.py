@@ -9,6 +9,6 @@ s = requests.Session()
 response = s.get(f'https://hdfauth.ftven.fr/esi/TA?url=https://live-olympics.ftven.fr/paris2024-francedomtom/master.m3u8')
 
 string = response.text
-new_string = string.replace("playlist", "b0EF_720p", "b0EF_1080p")
+new_string = string.replace("master", "b0EF_720p", "b0EF_1080p")
 print(new_string)
 
