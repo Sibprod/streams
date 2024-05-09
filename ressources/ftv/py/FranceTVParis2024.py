@@ -9,6 +9,9 @@ s = requests.Session()
 response = s.get(f'https://hdfauth.ftven.fr/esi/TA?url=https://live-olympics.ftven.fr/paris2024-francedomtom/master.m3u8')
 
 string = response.text
-new_string = string.replace("master", "b0EF_720p", "b0EF_1080p")
+new_string = string.replace("playlist")
 print(new_string)
+new2_string = string.replace("iframe")
+print(f'#EXT-X-I-FRAME-STREAM-INF:BANDWIDTH=1150600,RESOLUTION=640x360,CODECS="avc1.4d401e", URI="{new2_string}"')
+
 
