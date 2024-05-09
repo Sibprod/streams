@@ -77,9 +77,9 @@ https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/paris
 https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_GRANDSREPORTAGES/index.m3u8?start=LIVE&end=END
 #EXTINF:-1 channel-id="samsung-FR " tvg-id="FR " tvg-logo="" group-title="FAST" tvg-chno="1901",Radio-Canada Info
 https://d352zobhe5lhe6.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-j7m6inrqe6jat/master.m3u8
-#EXTINF:-1 channel-id="samsung-FR " tvg-id="FR " tvg-logo="" group-title="FAST" tvg-chno="1902",Tahiti TV
+#EXTINF:-1 channel-id="samsung-FRBB49000059E" tvg-id="FRBB49000059E" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBB49000059E_20230614T005617SQUARE.png_20230614005618.png" group-title="FAST" tvg-chno="1902",Tahiti TV
 https://tntv-samsung-fr.amagi.tv/playlist.m3u8
-#EXTINF:-1 channel-id="samsung-FR " tvg-id="FR " tvg-logo="" group-title="FAST" tvg-chno="2101",L'Équipe Live 1
+#EXTINF:-1 channel-id="" group-title="FAST" tvg-chno="2101",L'Équipe Live 1
 https://d3awaj0f2u3w26.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-gy7euubgydp20-ssai-prd/master.m3u8
 #EXTINF:-1 channel-id="samsung-FR " tvg-id="FR " tvg-logo="" group-title="FAST" tvg-chno="2102",L'Équipe Live 2
 https://d2l55nvfkhk4sg.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-jg7go1lqzgpny-ssai-prd/master.m3u8
@@ -95,7 +95,7 @@ https://d21wdmv2hqydbt.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 https://d3bb0xy15a32jc.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-3gcgvdj5b4sla/index.m3u8
 #EXTINF:-1 channel-id="samsung-FR300001M1" tvg-id="FR300001M1" tvg-logo="https://static-cdn.tv.sfr.net/data/img/apps/chaines/logos/RMCWOWBlanc100x100.png" group-title="FAST" tvg-chno="2402",RMC Wow
 https://d18uxd7zigjv4y.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-hynzl7bz38ht6/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="FAST" tvg-chno="3401",Le Figaro Live
+#EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBC1400002JN_20221109T010511SQUARE.png_20221109010511.png" group-title="FAST" tvg-chno="3401",Le Figaro Live
 https://d358c6mfrono1y.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-0ppx9nh29jpk7-prod/490bc6dd-734b-4242-8810-294896740082/2.m3u8
 
 #EXTINF:-1 channel-id="samsung-FRBC4000001IO" tvg-id="FRBC4000001IO" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBC4000001IO_20240402T134144SQUARE.png" group-title="FAST" tvg-chno="4001",Destination Nature
