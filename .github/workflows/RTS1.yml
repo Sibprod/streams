@@ -1,0 +1,36 @@
+name: RTS1 action
+
+on:
+  schedule:
+    - cron: '46 */6 * * *'
+  
+  workflow_dispatch:
+
+jobs:
+
+  build:
+
+    runs-on: ubuntu-latest
+
+    steps:
+
+      - uses: actions/checkout@v3
+
+      - name: config
+        run: |
+          git config --global user.email "<>"
+          git config --global user.name "RTS1 bot"
+      
+      - name: updating RTS1
+        run: python3 ressources/col/py/RTS/RTS1.py > ressources/col/py/RTS/RTS1.m3u8
+        
+      - name: git add
+        run: |
+          git add -A
+          ls -la 
+          
+      - name: commit & push
+        run: |
+          git pull origin master
+          git commit -m "RTS1 updated"
+          git push origin master
