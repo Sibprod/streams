@@ -864,11 +864,11 @@ https://video1.getstreamhosting.com:1936/8427/8427/playlist.m3u8
 https://video1.getstreamhosting.com:1936/8428/8428/playlist.m3u8
 #EXTINF:-1,
 https://video1.getstreamhosting.com:1936/8429/8429/playlist.m3u8
-#EXTINF:-1,
+#EXTINF:-1,|US|House Groove Radio
 https://video1.getstreamhosting.com:1936/8430/8430/playlist.m3u8
 #EXTINF:-1,
 https://video1.getstreamhosting.com:1936/8431/8431/playlist.m3u8
-#EXTINF:-1,[CI] Cinémax 
+#EXTINF:-1,|CI|Cinémax 
 https://video1.getstreamhosting.com:1936/8432/8432/playlist.m3u8
 #EXTINF:-1,
 https://video1.getstreamhosting.com:1936/8433/8433/playlist.m3u8
@@ -896,7 +896,7 @@ https://video1.getstreamhosting.com:1936/8443/8443/playlist.m3u8
 https://video1.getstreamhosting.com:1936/8444/8444/playlist.m3u8
 #EXTINF:-1,
 https://video1.getstreamhosting.com:1936/8445/8445/playlist.m3u8
-#EXTINF:-1,[CI] Série Max
+#EXTINF:-1,|CI|Série Max
 https://video1.getstreamhosting.com:1936/8446/8446/playlist.m3u8
 #EXTINF:-1,
 https://video1.getstreamhosting.com:1936/8447/8447/playlist.m3u8
@@ -984,15 +984,15 @@ https://video1.getstreamhosting.com:1936/8487/8487/playlist.m3u8
 https://video1.getstreamhosting.com:1936/8488/8488/playlist.m3u8
 #EXTINF:-1,
 https://video1.getstreamhosting.com:1936/8489/8489/playlist.m3u8
-#EXTINF:-1,[CI] Afromagic Channel
+#EXTINF:-1,|CI|Afromagic Channel
 https://video1.getstreamhosting.com:1936/8490/8490/playlist.m3u8
 #EXTINF:-1,
 https://video1.getstreamhosting.com:1936/8491/8491/playlist.m3u8
-#EXTINF:-1,[CI] Fitini TV - B/A (Redmedia / Ivoire Channel group)
+#EXTINF:-1,|CI|Fitini TV
 https://video1.getstreamhosting.com:1936/8492/8492/playlist.m3u8
 #EXTINF:-1,
 https://video1.getstreamhosting.com:1936/8493/8493/playlist.m3u8
-#EXTINF:-1,[CI] Novela Channel
+#EXTINF:-1,|CI|Novela Channel
 https://video1.getstreamhosting.com:1936/8494/8494/playlist.m3u8
 #EXTINF:-1,
 https://video1.getstreamhosting.com:1936/8495/8495/playlist.m3u8
@@ -1127,7 +1127,7 @@ https://video1.getstreamhosting.com:1936/8557/8557/playlist.m3u8
 https://video1.getstreamhosting.com:1936/8558/8558/playlist.m3u8
 #EXTINF:-1,
 https://video1.getstreamhosting.com:1936/8559/8559/playlist.m3u8
-#EXTINF:-1,
+#EXTINF:-1,|HT|Radio Télé Puissance
 https://video1.getstreamhosting.com:1936/8560/8560/playlist.m3u8
 #EXTINF:-1,
 https://video1.getstreamhosting.com:1936/8561/8561/playlist.m3u8
@@ -1167,7 +1167,7 @@ https://video1.getstreamhosting.com:1936/8577/8577/playlist.m3u8
 https://video1.getstreamhosting.com:1936/8578/8578/playlist.m3u8
 #EXTINF:-1,
 https://video1.getstreamhosting.com:1936/8579/8579/playlist.m3u8
-#EXTINF:-1,
+#EXTINF:-1,BIG BUNNY
 https://video1.getstreamhosting.com:1936/8580/8580/playlist.m3u8
 #EXTINF:-1,
 https://video1.getstreamhosting.com:1936/8581/8581/playlist.m3u8
