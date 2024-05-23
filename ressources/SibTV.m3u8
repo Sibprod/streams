@@ -95,75 +95,87 @@ https://d3tuo4zu8l334y.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 #EXTINF:-1 tvg-id="FRBA3300063FP" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBA3300063FP_20230614T005614SQUARE.png_20230614005614.png" group-title="Lifestyle" tvg-chno=" ",Wellbeing TV
 https://amg01255-secomcofites-my-myzen-samsungfr-samsungfr-36vwz.amagi.tv/playlist/amg01255-secomcofites-my-myzen-samsungfr-samsungfr/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Musique" tvg-chno=" ",Alive My TV
+#EXTINF:-1 tvg-id=" " tvg-logo="" group-title="Musique" tvg-chno=" ",Alive My TV
 https://vdo2.pro-fhi.net:3711/stream/play.m3u8
-#EXTINF:-1 tvg-logo="https://conceptradio.fr/wp-content/uploads/revslider/slider-1-1/logo-conceptradio-2024-blanc-01-1.png" group-title="Musique" tvg-chno=" ",Concept Radio
+#EXTINF:-1 tvg-id=" " tvg-logo="https://conceptradio.fr/wp-content/uploads/revslider/slider-1-1/logo-conceptradio-2024-blanc-01-1.png" group-title="Musique" tvg-chno=" ",Concept Radio
 https://srv.webtvmanager.fr:3635/stream/play.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Musique" tvg-chno=" ",Deluxe Dance
+#EXTINF:-1 tvg-id=" " tvg-logo="" group-title="Musique" tvg-chno=" ",Deluxe Dance
 https://sdn-global-live-streaming-packager-cache.3qsdn.com/64733/64733_264_live.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Musique" tvg-chno=" ",Deluxe Flashback
+#EXTINF:-1 tvg-id=" " tvg-logo="" group-title="Musique" tvg-chno=" ",Deluxe Flashback
 https://sdn-global-live-streaming-packager-cache.3qsdn.com/65185/65185_264_live.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Musique" tvg-chno=" ",Deluxe Music
+#EXTINF:-1 tvg-id=" " tvg-logo="" group-title="Musique" tvg-chno=" ",Deluxe Music
 https://sdn-global-live-streaming-packager-cache.3qsdn.com/13456/13456_264_live.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Musique" tvg-chno=" ",Deluxe Rap
+#EXTINF:-1 tvg-id=" " tvg-logo="" group-title="Musique" tvg-chno=" ",Deluxe Rap
 https://sdn-global-live-streaming-packager-cache.3qsdn.com/65183/65183_264_live.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Musique" tvg-chno=" ",Deluxe Rock
+#EXTINF:-1 tvg-id=" " tvg-logo="" group-title="Musique" tvg-chno=" ",Deluxe Rock
 https://sdn-global-live-streaming-packager-cache.3qsdn.com/65181/65181_264_live.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Musique" tvg-chno=" ",Deluxe Schlager
+#EXTINF:-1 tvg-id=" " tvg-logo="" group-title="Musique" tvg-chno=" ",Deluxe Schlager
 https://sdn-global-live-streaming-packager-cache.3qsdn.com/26658/26658_264_live.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Musique" tvg-chno=" ",Émotion
+#EXTINF:-1 tvg-id=" " tvg-logo="" group-title="Musique" tvg-chno=" ",Émotion
 https://amg01736-harmonysecomgro-harmonymelody-samsungfr-n25pe.amagi.tv/playlist/amg01736-harmonysecomgro-harmonymelody-samsungfr/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Musique" tvg-chno=" ",Eibiza Music TV
+#EXTINF:-1 tvg-id=" " tvg-logo="" group-title="Musique" tvg-chno=" ",Eibiza Music TV
 https://srv.webtvmanager.fr:3164/stream/play.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Musique" tvg-chno=" ",IDF TV
+#EXTINF:-1 tvg-id=" " tvg-logo="" group-title="Musique" tvg-chno=" ",IDF TV
 https://srv.webtvmanager.fr:3534/stream/play.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Musique" tvg-chno=" ",Live DJM
-https://vdo.pro-fhi.net:3296/stream/play.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Musique" tvg-chno=" ",Live NRJ Corsica
-https://srv.webtvmanager.fr:3064/stream/play.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Musique" tvg-chno=" ",Littoral TV
-https://live.creacast.com/littoralfm-ch1/stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/hcpE7PeM0izqAwVCSPwfhzEdEbqyJVEh36trObdyx5qeamkJlS7_uH1cCNTrz-jgrmV_oYP1=s160-c-k-c0x00ffffff-no-rj" group-title="Musique" tvg-chno=" ",Master TV
-https://srv.webtvmanager.fr:3769/stream/play.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Musique",Melody
-https://live.creacast.com/telemelody/smil:telemelody-211112.smil/master.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Musique" tvg-chno=" ",Radio 15 (One Five)
-https://vdo.pro-fhi.net:3531/stream/play.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Musique" tvg-chno=" ",Radio Extremix
-https://srv.webtvmanager.fr:3630/stream/play.m3u8
-#EXTINF:-1 tvg-id="RhoneTV.ch" tvg-logo="" group-title="Musique" tvg-chno="",Rhône FM
-http://studio.vedge.infomaniak.com/livecast/studio/manifest.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Musique" tvg-chno=" ",RUTV
-https://strm.yandex.ru/kal/rutv_cv/rutv_cv0.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Musique" tvg-chno=" ",TMF Rus
-https://s.catcast.tv/content/43273/index.m3u8
-#EXTINF:-1 tvg-id="TVM3.ch" tvg-logo="" group-title="Musique" tvg-chno="",TVM 3
-http://tvm3.vedge.infomaniak.com/livecast/tvm3/manifest.m3u8
-#EXTINF:-1 tvg-logo="https://vdo.pro-fhi.net/uploads/directorylists/kbawbfec.jpg" group-title="Musique" tvg-chno=" ",UTV (Underground TV)
-https://vdo.pro-fhi.net:3744/stream/play.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Musique" tvg-chno=" ",Viva Russia
-https://s.catcast.tv/content/39575/index.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo="" group-title="Musique" tvg-chno=" ",Kronehit TV
 
-#EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBA1000008LK_20220713T034405SQUARE.png_20220713034406.png" group-title="Séries" tvg-chno=" ",BBC Drama [Français]
+#EXTINF:-1 tvg-id=" " tvg-logo="" group-title="Musique" tvg-chno=" ",Live DJM
+https://vdo.pro-fhi.net:3296/stream/play.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo="" group-title="Musique" tvg-chno=" ",Live NRJ Corsica
+https://srv.webtvmanager.fr:3064/stream/play.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo="" group-title="Musique" tvg-chno=" ",Littoral TV
+https://live.creacast.com/littoralfm-ch1/stream/playlist.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo="https://yt3.googleusercontent.com/hcpE7PeM0izqAwVCSPwfhzEdEbqyJVEh36trObdyx5qeamkJlS7_uH1cCNTrz-jgrmV_oYP1=s160-c-k-c0x00ffffff-no-rj" group-title="Musique" tvg-chno=" ",Master TV
+https://srv.webtvmanager.fr:3769/stream/play.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo="" group-title="Musique",Melody
+https://live.creacast.com/telemelody/smil:telemelody-211112.smil/master.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo="" tvg-group="Musique",Now 70's
+https://lightning-now70s-samsungnz.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo="" tvg-group="Musique",Now 80's
+https://lightning-now80s-samsungnz.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo="" tvg-group="Musique",Now Rock
+https://lightning-now90s-samsungnz.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo="" group-title="Musique" tvg-chno=" ",Radio 15 (One Five)
+https://vdo.pro-fhi.net:3531/stream/play.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo="" group-title="Musique" tvg-chno=" ",Radio Extremix
+https://srv.webtvmanager.fr:3630/stream/play.m3u8
+#EXTINF:-1 tvg-id=" " tvg-id="RhoneTV.ch" tvg-logo="" group-title="Musique" tvg-chno="",Rhône FM
+http://studio.vedge.infomaniak.com/livecast/studio/manifest.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo="" group-title="Musique" tvg-chno=" ",RUTV
+https://strm.yandex.ru/kal/rutv_cv/rutv_cv0.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo="" group-title="Musique" tvg-chno=" ",TMF Rus
+https://s.catcast.tv/content/43273/index.m3u8
+#EXTINF:-1 tvg-id=" " tvg-id="TVM3.ch" tvg-logo="" group-title="Musique" tvg-chno="",TVM 3
+http://tvm3.vedge.infomaniak.com/livecast/tvm3/manifest.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo="https://vdo.pro-fhi.net/uploads/directorylists/kbawbfec.jpg" group-title="Musique" tvg-chno=" ",UTV (Underground TV)
+https://vdo.pro-fhi.net:3744/stream/play.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo="" group-title="Musique" tvg-chno=" ",Viva Russia
+https://s.catcast.tv/content/39575/index.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo="" group-title="Musique" tvg-chno=" ",Xite
+
+#EXTINF:-1 channel-id="samsung-USBD3300004RH" tvg-id="USBD3300004RH" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3300004RH_20231024T231908SQUARE.png_20231024231909.png" tvg-chno="1503" group-title="USA",XITE Hits US
+https://i.mjh.nz/SamsungTVPlus/USBD3300004RH.m3u8
+
+#EXTINF:-1 tvg-id=" " tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBA1000008LK_20220713T034405SQUARE.png_20220713034406.png" group-title="Séries" tvg-chno=" ",BBC Drama [Français]
 https://caec5a936f944a8d83ccb21f8266b684.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Samsung-fr_BBCDrama/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Séries" tvg-chno=" ",Canal 4
+#EXTINF:-1 tvg-id=" " tvg-logo="" group-title="Séries" tvg-chno=" ",Canal 4
 https://vdo2.pro-fhi.net:3931/live/bvpazwtylive.m3u8
-#EXTINF:-1 tvg-id="FRBC4700001XG" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBC4700001XG_20230809T053911SQUARE.png_20230809053911.png" group-title="Séries" tvg-chno=" ",Génération Sitcoms
+#EXTINF:-1 tvg-id=" " tvg-id="FRBC4700001XG" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBC4700001XG_20230809T053911SQUARE.png_20230809053911.png" group-title="Séries" tvg-chno=" ",Génération Sitcoms
 https://d14w9hcrss4gd2.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-5510c31dvuxs2-ssai-prd/master.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Séries" tvg-chno=" ",K2000
+#EXTINF:-1 tvg-id=" " tvg-logo="" group-title="Séries" tvg-chno=" ",K2000
 https://vdo2.pro-fhi.net:3286/stream/play.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Séries" tvg-chno=" ",Les Simpsons
+#EXTINF:-1 tvg-id=" " tvg-logo="" group-title="Séries" tvg-chno=" ",Les Simpsons
 https://srv.webtvmanager.fr:3750/stream/play.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Séries" tvg-chno=" ",NB5 La Télé
+#EXTINF:-1 tvg-id=" " tvg-logo="" group-title="Séries" tvg-chno=" ",NB5 La Télé
 https://vdo3.pro-fhi.net:3696/stream/play.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Séries" tvg-chno=" ",Novela Channel
+#EXTINF:-1 tvg-id=" " tvg-logo="" group-title="Séries" tvg-chno=" ",Novela Channel
 https://video1.getstreamhosting.com:1936/8494/8494/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Séries" tvg-chno=" ",RTL Plus
+#EXTINF:-1 tvg-id=" " tvg-logo="" group-title="Séries" tvg-chno=" ",RTL Plus
 https://vdo2.pro-fhi.net:3594/live/rmlegahmlive.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Séries" tvg-chno=" ",Série Max
+#EXTINF:-1 tvg-id=" " tvg-logo="" group-title="Séries" tvg-chno=" ",Série Max
 https://video1.getstreamhosting.com:1936/8446/8446/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="" tvg-group="Sport",Drive TV
+#EXTINF:-1 tvg-id=" " tvg-logo="" tvg-group="Sport",Drive TV
 https://amg01796-fastmediabackbo-drivetv-samsungfr-k7n16.amagi.tv/playlist/amg01796-fastmediabackbo-drivetv-samsungfr/playlist.m3u8
 #EXTINF:-1 tvg-id=" " tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBC4200004XH_20230414T072304SQUARE.png_20230414072305.png" group-title="Sport" tvg-chno="",L'Équipe Live 1
 https://d3awaj0f2u3w26.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-gy7euubgydp20-ssai-prd/master.m3u8
