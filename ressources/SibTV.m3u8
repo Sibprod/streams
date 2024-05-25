@@ -139,7 +139,9 @@ https://lightning-now90s-samsungnz.amagi.tv/playlist.m3u8
 https://vdo.pro-fhi.net:3531/stream/play.m3u8
 #EXTINF:-1 tvg-id=" " tvg-logo="" group-title="Musique" tvg-chno=" ",Radio Extremix
 https://srv.webtvmanager.fr:3630/stream/play.m3u8
-#EXTINF:-1 tvg-id=" " tvg-id="RhoneTV.ch" tvg-logo="" group-title="Musique" tvg-chno="",Rhône FM
+#EXTINF:-1 tvg-id=" " tvg-logo="" group-title="Musique" tvg-chno="",Retro 80s TV
+https://v2.catcast.tv/content/38147/index.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo="" group-title="Musique" tvg-chno="",Rhône FM
 http://studio.vedge.infomaniak.com/livecast/studio/manifest.m3u8
 #EXTINF:-1 tvg-id=" " tvg-logo="" group-title="Musique" tvg-chno=" ",RUTV
 https://strm.yandex.ru/kal/rutv_cv/rutv_cv0.m3u8
