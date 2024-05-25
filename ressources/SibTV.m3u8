@@ -7,7 +7,7 @@ https://vdo3.pro-fhi.net:3931/live/unfnrwfclive.m3u8
 #EXTINF:-1 tvg-id="TV8MontBlanc.fr" tvg-logo="https://s2.dmcdn.net/u/8R0v1W7a_lQXKYlS/120x120" group-title="Découverte",8 Mont-Blanc
 https://github.com/Sibprod/streams/raw/main/ressources/dm/py/hls/8montblanc.m3u8
 #EXTINF:-1 tvg-id=" " tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBD39000064E_20231101T032829SQUARE.png_20231101032830.png" group-title="Découverte",100% Docs
-https://amg02162-newenconnect-amg02162c2-samsung-fr-1077.playouts.now.amagi.tv/playlist/amg02162-newenconnect-100pour100docs-samsungfr/playlist.m3u8
+https://amg02162-newenconnect-amg02162c2-rakuten-us-1981.playouts.now.amagi.tv/playlist/amg02162-newenconnect-100pour100docs-rakutenus/playlist.m3u8
 #EXTINF:-1 tvg-id=" " tvg-logo="https://static.wixstatic.com/media/dd5ade_19f789617d654077a0f66846c2e75056~mv2.png/v1/fill/w_131,h_58,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/161113_logo_adhtv_2017_black.png" group-title="Découverte",Alpe d'Huez TV
 https://adhtv.vedge.infomaniak.com/livecast/adhtv/chunklist.m3u8
 #EXTINF:-1 tvg-id=" " tvg-logo="https://www.c11.media/uploads/1/0/5/2/10528808/editor/c11-media.jpg?1694265447" group-title="Découverte" tvg-chno=" ",C11 Média
