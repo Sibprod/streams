@@ -23,10 +23,10 @@ mar_metro_content=$(cat "$input_file" | sed 's/France_2/1er_Martinique/g; s/hls_
 guy_metro_content=$(cat "$input_file" | sed 's/France_2/1er_Guyane/g; s/hls_fr2/hls_monde_1er_Guy/g')
 may_metro_content=$(cat "$input_file" | sed 's/France_2/1er_Mayotte/g; s/hls_fr2/hls_monde_1er_May/g')
 reu_metro_content=$(cat "$input_file" | sed 's/France_2/1er_Reunion/g; s/hls_fr2/hls_monde_1er_Reu/g')
-nca_metro_content=$(cat "$input_file" | sed 's/France_2/1er_NC/g; s/hls_fr2/hls_monde_1er_NC/g')
+nca_metro_content=$(cat "$input_file" | sed 's/France_2/1er_Nouvelle_Caledonie/g; s/hls_fr2/hls_monde_1er_NC/g')
 pfr_metro_content=$(cat "$input_file" | sed 's/France_2/1er_Polynesie/g; s/hls_fr2/hls_monde_1er_Polynesie/g')
-spm_metro_content=$(cat "$input_file" | sed 's/France_2/1er_SPM/g; s/hls_fr2/hls_monde_1er_SPM/g')
-wfu_metro_content=$(cat "$input_file" | sed 's/France_2/1er_WF/g; s/hls_fr2/hls_monde_1er_WF/g')
+spm_metro_content=$(cat "$input_file" | sed 's/France_2/1er_Saint-Pierre_Miquelon/g; s/hls_fr2/hls_monde_1er_SPM/g')
+wfu_metro_content=$(cat "$input_file" | sed 's/France_2/1er_Wallis_Futuna/g; s/hls_fr2/hls_monde_1er_WF/g')
 
 echo "$fr3_content" > "$output_dir/France3.m3u8"
 echo "$fr4_content" > "$output_dir/France4.m3u8"
