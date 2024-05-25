@@ -1,0 +1,237 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="Régionales",|BE|Antenne Centre
+https://tvlocales-live.freecaster.com/95d2f733-1bc2-4bd5-9b96-c53ed3fc450f/95d2f733-1bc2-4bd5-9b96-c53ed3fc450f.isml/master.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Régionales",|BE|Boukè
+https://tvlocales-live.freecaster.com/95d2f70d-9229-478b-9aed-bc4fa220316d/95d2f70d-9229-478b-9aed-bc4fa220316d.isml/master.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Régionales",|BE|BX1
+https://59959724487e3.streamlock.net/stream/live/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Régionales",|BE|Canal Zoom
+https://tvlocales-live.freecaster.com/95d2e3af-5ab8-45a9-9dc9-f544d006b5d5/95d2e3af-5ab8-45a9-9dc9-f544d006b5d5.isml/master.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Régionales",|BE|No Télé
+https://streaming01.divercom.be/notele_live/_definst_/direct.stream/master.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Régionales",|BE|RTC-Télé Liège
+https://tvlocales-live.freecaster.com/95d2f6eb-6f01-4d1d-8543-d14966de7b04/95d2f6eb-6f01-4d1d-8543-d14966de7b04.isml/master.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Régionales",|BE|Télé MB
+https://tvlocales-live.freecaster.com/95d2f6c9-e85f-4388-8e9c-596260a4206f/95d2f6c9-e85f-4388-8e9c-596260a4206f.isml/master.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Régionales",|BE|TV Lux
+https://tvlocales-live.freecaster.com/95d2f631-8941-4efd-b223-0ebd56a033c4/95d2f631-8941-4efd-b223-0ebd56a033c4.isml/master.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Régionales",|BE|Védia
+https://tvlocales-live.freecaster.com/95d2f480-3c9f-48ba-ba4e-af64b58431ef/95d2f480-3c9f-48ba-ba4e-af64b58431ef.isml/master.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Régionales",|CA|TVC 9
+https://ythls.armelin.one/channel/UC0JP0ek-HhcqisiEpsZiQZA.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Régionales",|CH|Canal 9
+http://livehd.vedge.infomaniak.com/livecast/livehd/manifest.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Régionales",|CH|Canal Alpha [Jura]
+http://canalalphaju.vedge.infomaniak.com/livecast/canalalphaju/manifest.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Régionales",|CH|Canal Alpha [Neuchâtel]
+http://canalalpha.vedge.infomaniak.com/livecast/canalalpha/manifest.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Régionales",|CH|La Télé
+http://latele.vedge.infomaniak.com/livecast/latele/manifest.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Régionales",|CH|Léman Bleu
+http://naxoo.vedge.infomaniak.com/livecast/naxoo/manifest.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Régionales",|CH|Telebielingue
+http://telebielingue.vedge.infomaniak.com/livecast/telebielingue/manifest.m3u8
+#EXTINF:-1 group-title="Régionales",|FR|7 à Limoges
+https://ythls.armelin.one/channel/UCdFv_ZWQ3Xk_NfRiaK-ryGg.m3u8
+#EXTINF:-1 group-title="Régionales",|FR|8 Mont-Blanc
+https://github.com/Sibprod/streams/raw/main/ressources/dm/py/hls/8montblanc.m3u8
+#EXTINF:-1 group-title="Régionales",|FR|8 Mont-Blanc [2ème flux]
+https://github.com/Sibprod/streams/raw/main/ressources/dm/py/hls/8montblanc-2.m3u8
+#EXTINF:-1 group-title="Régionales",|FR|20 Minutes TV [IdF]
+https://lives.digiteka.com/stream/86d3e867-a272-496b-8412-f59aa0104771/index.m3u8
+#EXTINF:-1 group-title="Régionales",|FR|Alpe d'Huez TV
+https://adhtv.vedge.infomaniak.com/livecast/adhtv/chunklist.m3u8
+#EXTINF:-1 group-title="Régionales",|FR|Angers Télé
+https://github.com/Sibprod/streams/raw/main/ressources/dm/py/hls/angerstele.m3u8
+#EXTINF:-1 group-title="Régionales",|FR|ASTV
+https://github.com/Sibprod/streams/raw/main/ressources/twitch/hls/ASTV.m3u8
+#EXTINF:-1 group-title="Régionales",|FR|BFM Régions [Alsace]
+https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_ALSACE/index.m3u8?end=END&start=LIVE
+#EXTINF:-1 group-title="Régionales",|FR|BFM Régions [Dici Alpes-du-Sud]
+https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_DICI_ALPESDUSUD/index.m3u8?end=END&start=LIVE
+#EXTINF:-1 group-title="Régionales",|FR|BFM Régions [Dici Haute-Provence]
+https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_DICI_HAUTEPROVENCE/index.m3u8?end=END&start=LIVE
+#EXTINF:-1 group-title="Régionales",|FR|BFM Régions [Grand Lille]
+https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFMGRANDLILLE/index.m3u8?end=END&start=LIVE
+#EXTINF:-1 group-title="Régionales",|FR|BFM Régions [Grand Littoral]
+https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFMGRANDLITTORAL/index.m3u8?end=END&start=LIVE
+#EXTINF:-1 group-title="Régionales",|FR|BFM Régions [Lyon-Métropole]
+https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_LYON/index.m3u8?end=END&start=LIVE
+#EXTINF:-1 group-title="Régionales",|FR|BFM Régions [Marseille-Provence]
+https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_MARSEILLEPROV/index.m3u8?end=END&start=LIVE
+#EXTINF:-1 group-title="Régionales",|FR|BFM Régions [Nice-Côte-d'Azur]
+https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_NICECOTEDAZUR/index.m3u8?end=END&start=LIVE
+#EXTINF:-1 group-title="Régionales",|FR|BFM Régions [Normandie]
+https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_NORMANDIE/index.m3u8?end=END&start=LIVE
+#EXTINF:-1 group-title="Régionales",|FR|BFM Régions [Paris-Île de France]
+https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_PARIS/index.m3u8?end=END&start=LIVE
+#EXTINF:-1 group-title="Régionales",|FR|BFM Régions [Toulon-Var]
+https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_TOULONVAR/index.m3u8?end=END&start=LIVE
+#EXTINF:-1 group-title="Régionales",|FR|BIP TV
+https://biptv.tv/live/biptvstream_orig/index.m3u8
+#EXTINF:-1 group-title="Régionales",|FR|Brionnais TV
+https://stream2.mandarine.media/brionnaistv/brionnaistv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://bordomediagroup.fr/wp-content/uploads/2023/03/LOGO-BORDO-TV-BLANC-RECTANGULAIRE-768x232.png" group-title="Régionales",|FR|Bordo TV
+https://srv.webtvmanager.fr:3463/stream/play.m3u8
+#EXTINF:-1 tvg-logo="https://bordomediagroup.fr/wp-content/uploads/2023/03/LOGO-BORDO-TV-BLANC-ET-ROUGE-RECTANGULAIRE-768x255.png" group-title="Régionales",|FR|Bordo TV Sport
+https://srv.webtvmanager.fr:3225/stream/play.m3u8
+#EXTINF:-1 group-title="Régionales",|FR|Boulogne Marina Webcam
+https://github.com/Sibprod/streams/raw/main/ressources/dm/py/hls/boulognemarinawebcam.m3u8
+#EXTINF:-1 tvg-logo="https://www.c11.media/uploads/1/0/5/2/10528808/editor/c11-media.jpg?1694265447" group-title="Régionales" tvg-chno=" ",|FR|C11 Média
+https://srv.webtvmanager.fr:3508/stream/play.m3u8
+#EXTINF:-1 group-title="Régionales",|FR|Canal 32
+http://canal32.vedge.infomaniak.com/livecast/canal32/manifest.m3u8
+#EXTINF:-1 group-title="Régionales",|FR|Cannes Lérins TV
+https://vdo2.pro-fhi.net:3628/live/uppodsfqlive.m3u8
+#EXTINF:-1 group-title="Régionales",|FR|France 3 Régions [Alpes]
+https://github.com/Sibprod/streams/raw/main/ressources/ftv/py/France3_AuRA_Grenoble.m3u8
+#EXTINF:-1 group-title="Régionales",|FR|France 3 Régions [Alsace]
+https://github.com/Sibprod/streams/raw/main/ressources/ftv/py/France3_GE_Strasbourg.m3u8
+#EXTINF:-1 group-title="Régionales",|FR|France 3 Régions [Aquitaine]
+https://github.com/Sibprod/streams/raw/main/ressources/ftv/py/France3_NoA_Bordeaux.m3u8
+#EXTINF:-1 group-title="Régionales",|FR|France 3 Régions [Auvergne]
+https://github.com/Sibprod/streams/raw/main/ressources/ftv/py/France3_AuRA_Clermont.m3u8
+#EXTINF:-1 group-title="Régionales",|FR|France 3 Régions [Basse-Normandie]
+https://github.com/Sibprod/streams/raw/main/ressources/ftv/py/France3_Normandie_Caen.m3u8
+#EXTINF:-1 group-title="Régionales",|FR|France 3 Régions [Bretagne]
+https://github.com/Sibprod/streams/raw/main/ressources/ftv/py/France3_Bretagne.m3u8
+#EXTINF:-1 group-title="Régionales",|FR|France 3 Régions [Bourgogne]
+https://github.com/Sibprod/streams/raw/main/ressources/ftv/py/France3_BFC_Dijon.m3u8
+#EXTINF:-1 group-title="Régionales",|FR|France 3 Régions [Centre-Val-de-Loire]
+https://github.com/Sibprod/streams/raw/main/ressources/ftv/py/France3_Centre.m3u8
+#EXTINF:-1 group-title="Régionales",|FR|France 3 Régions [Champagne-Ardenne]
+https://github.com/Sibprod/streams/raw/main/ressources/ftv/py/France3_GE_Reims.m3u8
+#EXTINF:-1 group-title="Régionales",|FR|France 3 Régions [Corse] - Via Stella
+https://github.com/Sibprod/streams/raw/main/ressources/ftv/py/France3_Corse-ViaStella.m3u8
+#EXTINF:-1 group-title="Régionales",|FR|France 3 Régions [Côte d'Azur]
+https://github.com/Sibprod/streams/raw/main/ressources/ftv/py/France3_Provence_Nice.m3u8
+#EXTINF:-1 group-title="Régionales",|FR|France 3 Régions [Franche-Comté]
+https://github.com/Sibprod/streams/raw/main/ressources/ftv/py/France3_BFCBesancon.m3u8
+#EXTINF:-1 group-title="Régionales",|FR|France 3 Régions [Haute-Normandie]
+https://github.com/Sibprod/streams/raw/main/ressources/ftv/py/France3_Normandie_Rouen.m3u8
+#EXTINF:-1 group-title="Régionales",|FR|France 3 Régions [Languedoc-Roussillon]
+https://github.com/Sibprod/streams/raw/main/ressources/ftv/py/France3_Occitanie_Languedoc.m3u8
+#EXTINF:-1 group-title="Régionales",|FR|France 3 Régions [Limousin]
+https://github.com/Sibprod/streams/raw/main/ressources/ftv/py/France3_NoA_Limoges.m3u8
+#EXTINF:-1 group-title="Régionales",|FR|France 3 Régions [Lorraine]
+https://github.com/Sibprod/streams/raw/main/ressources/ftv/py/France3_GE_Nancy.m3u8
+#EXTINF:-1 group-title="Régionales",|FR|France 3 Régions [Midi-Pyrénées]
+https://github.com/Sibprod/streams/raw/main/ressources/ftv/py/France3_Occitanie_Toulouse.m3u8
+#EXTINF:-1 group-title="Régionales",|FR|France 3 Régions [NoA]
+https://github.com/Sibprod/streams/raw/main/ressources/ftv/py/France3_NoA.m3u8
+#EXTINF:-1 group-title="Régionales",|FR|France 3 Régions [Nord-Pas-de-Calais]
+https://github.com/Sibprod/streams/raw/main/ressources/ftv/py/France3_HDF_Lille.m3u8
+#EXTINF:-1 group-title="Régionales",|FR|France 3 Régions [Paris/Île-de-France]
+https://github.com/Sibprod/streams/raw/main/ressources/ftv/py/France3_IleDeFrance.m3u8
+#EXTINF:-1 group-title="Régionales",|FR|France 3 Régions [Pays-de-la-Loire]
+https://github.com/Sibprod/streams/raw/main/ressources/ftv/py/France3_PaysDeLoire.m3u8
+#EXTINF:-1 group-title="Régionales",|FR|France 3 Régions [Picardie]
+https://github.com/Sibprod/streams/raw/main/ressources/ftv/py/France3_HDF_Amiens.m3u8
+#EXTINF:-1 group-title="Régionales",|FR|France 3 Régions [Poitou-Charentes]
+https://github.com/Sibprod/streams/raw/main/ressources/ftv/py/France3_NoA_Poitiers.m3u8
+#EXTINF:-1 group-title="Régionales",|FR|France 3 Régions [Provence-Alpes-Côte-d'Azur]
+https://github.com/Sibprod/streams/raw/main/ressources/ftv/py/France3_Provence_Marseille.m3u8
+#EXTINF:-1 group-title="Régionales",|FR|France 3 Régions [Rhône-Alpes]
+https://github.com/Sibprod/streams/raw/main/ressources/ftv/py/France3_AuRA_Lyon.m3u8
+#EXTINF:-1 group-title="Régionales",|FR|IDF TV
+https://srv.webtvmanager.fr:3534/stream/play.m3u8
+#EXTINF:-1 group-title="Régionales",|FR|IL TV
+https://live.creacast.com/iltv/smil:iltv.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.la16.fr/fr/wp-content/uploads/2021/08/logo-350-100.png" group-title="Régionales",|FR|La 16 TV
+https://github.com/Sibprod/streams/raw/main/ressources/twitch/hls/la16TV.m3u8
+#EXTINF:-1 group-title="Régionales",|FR|La Chaîne 32
+https://ythls.armelin.one/channel/UChl0zP89T7yZyEwQkCfmmnQ.m3u8
+#EXTINF:-1 group-title="Régionales",|FR|Le Figaro TV [IdF]
+https://static.lefigaro.fr/secom/tnt.m3u8
+#EXTINF:-1 group-title="Régionales",|FR|LMTV Sarthe
+https://github.com/Sibprod/streams/raw/main/ressources/twitch/hls/LMTVSarthe.m3u8
+#EXTINF:-1 group-title="Régionales",|FR|Lyon Capitale TV
+https://github.com/Sibprod/streams/raw/main/ressources/dm/py/hls/lyoncapitale.m3u8
+#EXTINF:-1 group-title="Régionales",|FR|Ma Télé
+https://5dd226f8f01e8.streamlock.net/via-matele-live/matelelive_1080/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/hcpE7PeM0izqAwVCSPwfhzEdEbqyJVEh36trObdyx5qeamkJlS7_uH1cCNTrz-jgrmV_oYP1=s160-c-k-c0x00ffffff-no-rj" group-title="Régionales" tvg-chno=" ",|FR|Master TV
+https://srv.webtvmanager.fr:3750/stream/play.m3u8
+#EXTINF:-1 group-title="Régionales",|FR|Maurienne TV
+https://ythls.armelin.one/channel/UCva-htH2wvmKsG6SkcEJ4Vw.m3u8
+#EXTINF:-1 group-title="Régionales",|FR|Mirabelle TV
+https://live.creacast.com/mirabelletv/smil:mirabelletv.smil/playlist.m3u8
+#EXTINF:-1 group-title="Régionales",|FR|Mosaïk Cristal TV
+https://ythls.armelin.one/channel/UCQC0xLG_W0QpqAXQ4-yhwBA.m3u8
+#EXTINF:-1 group-title="Régionales",|FR|NA TV
+http://naradio.vedge.infomaniak.com/livecast/naradio/manifest.m3u8
+#EXTINF:-1 group-title="Régionales",|FR|Nancy Web TV
+https://nancy-webtv.vedge.infomaniak.com/livecast/nancy-webtv/manifest.m3u8
+#EXTINF:-1 group-title="Régionales",|FR|Puissance Télévision
+https://ythls.armelin.one/channel/UCxSUslP_JMH3Bb50oXd1Nnw.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="Régionales",|FR|Radio Mont-Blanc
+https://live.creacast.com/radiomontblanc-ch1/smil:radiomontblanc-ch1.smil/playlist.m3u8
+#EXTINF:-1 group-title="Régionales",|FR|Tébéo
+https://lives.digiteka.com/stream/e0fe6433-554e-4568-9a7e-31969136d8ff/index.m3u8
+#EXTINF:-1 group-title="Régionales",|FR|Télé Gohelle
+https://videas.agglo-lenslievin.fr/index.m3u8
+#EXTINF:-1 group-title="Régionales",|FR|Télégrenoble
+https://github.com/Sibprod/streams/raw/main/ressources/twitch/hls/Telegrenoble.m3u8
+#EXTINF:-1 group-title="Régionales",|FR|Télénantes
+https://github.com/Sibprod/streams/raw/main/ressources/dm/py/hls/telenantes.m3u8
+#EXTINF:-1 group-title="Régionales",|FR|Tele Paese
+https://srv.webtvmanager.fr:3118/live/viatelepaeselive.m3u8
+#EXTINF:-1 group-title="Régionales",|FR|TLC
+https://github.com/Sibprod/streams/raw/main/ressources/twitch/hls/TLC.m3u8
+#EXTINF:-1 group-title="Régionales",|FR|TV3V
+https://tv3v.live-kd.com/live/tv3v/livestream/playlist.m3u8
+#EXTINF:-1 group-title="Régionales",|FR|TV7 [Colmar]
+http://tv7.hdr-tv.com/live/tv7/livestream/playlist.m3u8
+#EXTINF:-1 group-title="Régionales",|FR|TV7 [Sud-Ouest]
+https://lives.digiteka.com/stream/17c6dea8-fb3f-46fe-b170-2ac88cd5667b/index.m3u8
+#EXTINF:-1 group-title="Régionales",|FR|TV78
+https://streamtv.cdn.dvmr.fr/TV78/ngrp:tv78.stream_all/master.m3u8
+#EXTINF:-1 group-title="Régionales",|FR|TVPI
+https://ythls.armelin.one/channel/UCwVQAPo6tjC5w5yBBh0WEdA/live.m3u8
+#EXTINF:-1 group-title="Régionales",|FR|TVR
+https://streamtv.cdn.dvmr.fr/TVR/ngrp:tvr.stream_all/master.m3u8
+#EXTINF:-1 group-title="Régionales",|FR|TV Tarn
+https://live.creacast.com/albi-tv-ch1/stream/master.m3u8
+#EXTINF:-1 group-title="Régionales",|FR|TV Tours-Val-de-Loire
+https://lives.digiteka.com/stream/920f083a-9e61-4c09-9bc2-bdb664063aa9/index.m3u8
+#EXTINF:-1 group-title="Régionales",|FR|TV Vendée
+https://streamer01.myvideoplace.tv/streamer02/hls/VDE_EVEN_PAD_130923.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="Régionales",|FR|Valloire TV
+https://github.com/Sibprod/streams/raw/main/ressources/twitch/hls/ValloireTV.m3u8
+#EXTINF:-1 group-title="Régionales",|FR|viàOccitanie
+https://streamer01.myvideoplace.tv/streamer02/hls/MDS_VIA_PAD_301117_medium/index.m3u8
+#EXTINF:-1 group-title="Régionales",|FR|Vosges Télévision
+https://vosgestv.live-kd.com/live/vosgestv/vosgestv/playlist.m3u8
+#EXTINF:-1 group-title="Régionales",|WF|Wallis-et-Futuna La 1ère 
+https://github.com/Sibprod/streams/raw/main/ressources/ftv/py/La1ere_WF_metro.m3u8
+#EXTINF:-1 group-title="Régionales",|FR|Wéo [La Voix du Nord]
+https://lives.digiteka.com/stream/c58028c2-a58b-4526-9ec8-389cad4a71e8/index.m3u8
+#EXTINF:-1 group-title="Régionales",|FR|Wéo [Le Courrier Picard]
+https://lives.digiteka.com/stream/bbb843db-8540-4156-98a5-b7c85da54d8e/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Régionales",|GF|Guyane La 1ère
+https://github.com/Sibprod/streams/raw/main/ressources/ftv/py/La1ere_guyane_metro.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Régionales",|GP|Guadeloupe La 1ère
+https://github.com/Sibprod/streams/raw/main/ressources/ftv/py/La1ere_guadeloupe_metro.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Régionales",|GP|Éclair TV (ETV)
+https://etvgp.vedge.infomaniak.com/livecast/etvgp/manifest.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="Régionales" tvg-chno=" ",|GP|Radio Basse-Terre
+https://vdo.ssl-stream.com:3412/stream/play.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="Régionales",|GP|Teveka (Marie-Galante)
+https://www.teveka.net:8443/show/teveka/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Régionales",|MQ|Martinique La 1ère
+https://github.com/Sibprod/streams/raw/main/ressources/ftv/py/La1ere_martinique_metro.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Régionales",|MQ|Fusion TV
+http://fusiontv.vedge.infomaniak.com/livecast/fusiontv/manifest.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Régionales",|NC|Nouvelle-Calédonie La 1ère
+https://github.com/Sibprod/streams/raw/main/ressources/ftv/py/La1ere_NC_metro.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Régionales",|PF|Polynésie La 1ère
+https://github.com/Sibprod/streams/raw/main/ressources/ftv/py/La1ere_polynesie_metro.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Régionales",|PM|Saint-Pierre-et-Miquelon La 1ère 
+https://github.com/Sibprod/streams/raw/main/ressources/ftv/py/La1ere_SPM_metro.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Régionales",|RE|Réunion La 1ère
+https://github.com/Sibprod/streams/raw/main/ressources/ftv/py/La1ere_reunion_metro.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Régionales",|RE|Oxygène TV 974
+https://vdo.pro-fhi.net:3161/stream/play.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Régionales",|YT|Mayotte La 1ère
+https://github.com/Sibprod/streams/raw/main/ressources/ftv/py/La1ere_mayotte_metro.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo="https://i.imgur.com/7oLUSeO.png" group-title="Régionales" tvg-chno=" ",|YT|Mayotte One 
+https://live.mytv.yt:3946/multi_web/play.m3u8
