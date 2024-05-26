@@ -143,7 +143,7 @@ https://i.mjh.nz/SamsungTVPlus/ESBC4100003WE.m3u8
 https://i.mjh.nz/SamsungTVPlus/FRBD2300001UQ.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Jeunesse" tvg-chno=" ",Fitini TV
 https://video1.getstreamhosting.com:1936/8492/8492/playlist.m3u8
-#EXTINF:-1 tvg-id="FRBB49000014I" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBB49000014I_20220511T011734SQUARE.png_20220511011736.png" tvg-chno="4117" group-title="France",Gong
+#EXTINF:-1 tvg-id="FRBB49000014I" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBB49000014I_20220511T011734SQUARE.png_20220511011736.png" tvg-chno=" " group-title="Jeunesse",Gong
 https://i.mjh.nz/SamsungTVPlus/FRBC3900003ZH.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Jeunesse" tvg-chno=" ",Japanim TV
 https://foxkidstv.be:3369/stream/play.m3u8
