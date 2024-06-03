@@ -1,0 +1,32 @@
+name: Lequipe action
+
+on:
+  schedule:
+    - cron: '15 */06 * * *'
+  
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+    
+      - uses: actions/checkout@v2
+
+      - name: config
+        run: |
+          git config --global user.email "<>"
+          git config --global user.name "Lequipe bot"
+      
+      - name: updating Lequipe
+        run: python3 ${GITHUB_WORKSPACE}/ressources/dmotion/py/dmfr/Lequipe.py > ${GITHUB_WORKSPACE}/ressources/dm/py/hls/Lequipe.m3u8
+        
+      - name: git add
+        run: |
+          git add -A
+          ls -la 
+          
+      - name: commit & push
+        run: |
+          git commit -m "Lequipe updated"
+          git push
