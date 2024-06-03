@@ -1,28 +1,25 @@
-name: LCP action
+name: LCP
 
 on:
   schedule:
-    - cron: '52 */5 * * *'
+    - cron: '44 */4 * * *'
   
   workflow_dispatch:
 
 jobs:
-
   build:
-
     runs-on: ubuntu-latest
 
     steps:
-
-      - uses: actions/checkout@v2
+      - uses: actions/checkout@v3
 
       - name: config
         run: |
           git config --global user.email "<>"
           git config --global user.name "LCP bot"
       
-      - name: updating LCP
-        run: sh ressources/dm/py/LCP.sh
+      - name: grab m3u files
+        run: python3 ressources/dm/py/LCP.py
         
       - name: git add
         run: |
@@ -31,5 +28,6 @@ jobs:
           
       - name: commit & push
         run: |
+          git pull
           git commit -m "LCP updated"
           git push
