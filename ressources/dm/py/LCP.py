@@ -32,13 +32,11 @@ def grab(line):
         m3u = d[max(d, key=int)]    
     except Exception as e:
         m3u = na
-    finally:
-        print(m3u)
+return m3u
 
-print('#EXTM3U')
-print('#EXT-X-VERSION:3')
-print('#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000')
-s = requests.Session()
+output_directory = 'ressources/dm/py/hls'
+os.makedirs(output_directory, exist_ok=True)
+
 with open('ressources/dm/py/LCP_info.txt') as f:
     for line in f:
         line = line.strip()
