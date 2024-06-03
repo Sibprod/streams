@@ -21,7 +21,7 @@ jobs:
           git config --global user.email "<>"
           git config --global user.name "Lequipe bot"
       
-      - name: updating eqpe
+      - name: updating Lequipe
         run: sh ressources/dm/py/Lequipe.sh
         
       - name: git add
