@@ -19,7 +19,7 @@ jobs:
           git config --global user.name "CStar bot"
       
       - name: updating CStar
-        run: python3 ${GITHUB_WORKSPACE}/ressources/dm/py/dmfr/Cstar.py > ${GITHUB_WORKSPACE}/ressources/dm/py/hls/CStar.m3u8
+        run: python3 ${GITHUB_WORKSPACE}/ressources/dm/py/dmfr/Cstar.py
         
       - name: git add
         run: |
