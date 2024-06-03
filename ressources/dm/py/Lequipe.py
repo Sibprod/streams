@@ -1,35 +1,11 @@
 #! /usr/bin/python3
-# Thanks to pshanmu3 user on github
+
 import requests
-import os
-import sys
 
-proxies = {}
-if len(sys.argv) == 2:
-    proxies = {
-                'http' : sys.argv[1],
-                'https' : sys.argv[1]
-              }
+s = requests.Session()
+response = s.get('https://pwultrp.alwaysdata.net/equipe.php?m3u8')
 
-na = 'https://raw.githubusercontent.com/naveenland4/UTLive/main/assets/info.m3u8'
-def grab(line):
-    try:
-        _id = line.split('/')[4]
-        response = s.get(f'https://www.dailymotion.com/player/metadata/video/{_id}', proxies=proxies).json()['qualities']['auto'][0]['url']
-        m3u = s.get(response, proxies=proxies).text
-        m3u = m3u.strip().split('\n')[1:]
-        d = {}
-        cnd = True
-        for item in m3u:
-            if cnd:
-                resolution = item.strip().split(',')[2].split('=')[1]
-                if resolution not in d:
-                    d[resolution] = []
-            else:
-                d[resolution]= item
-            cnd = not cnd
-        #print(m3u)
-        m3u = d[max(d, key=int)]    
+print(response.text)
     except Exception as e:
         m3u = na
     finally:
