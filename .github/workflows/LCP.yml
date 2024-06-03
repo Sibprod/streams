@@ -1,0 +1,32 @@
+name: LCP action
+
+on:
+  schedule:
+    - cron: '15 */06 * * *'
+  
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+    
+      - uses: actions/checkout@v2
+
+      - name: config
+        run: |
+          git config --global user.email "<>"
+          git config --global user.name "LCP bot"
+      
+      - name: updating eqpetv
+        run: python3 ${GITHUB_WORKSPACE}/ressources/dm/py/dmfr/LCP.py > ${GITHUB_WORKSPACE}/ressources/dm/py/hls/LCP.m3u8
+        
+      - name: git add
+        run: |
+          git add -A
+          ls -la 
+          
+      - name: commit & push
+        run: |
+          git commit -m "LCP updated"
+          git push
