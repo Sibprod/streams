@@ -19,7 +19,7 @@ jobs:
           git config --global user.name "Lequipe bot"
       
       - name: updating Lequipe
-        run: python3 ${GITHUB_WORKSPACE}/ressources/dmotion/py/dmfr/Lequipe.py > ${GITHUB_WORKSPACE}/ressources/dm/py/hls/Lequipe.m3u8
+        run: python3 ${GITHUB_WORKSPACE}/ressources/dm/py/dmfr/Lequipe.py > ${GITHUB_WORKSPACE}/ressources/dm/py/hls/Lequipe.m3u8
         
       - name: git add
         run: |
