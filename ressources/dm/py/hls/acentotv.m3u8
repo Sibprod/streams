@@ -1,1 +1,9 @@
-https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/infos/barkers/info.m3u8
+#EXTM3U
+#EXT-X-STREAM-INF:RESOLUTION=848x477,FRAME-RATE=30.000000,BANDWIDTH=1359872,CODECS="avc1.64001f,mp4a.40.2",NAME="480"
+https://live-b.cf.dmcdn.net/sec2(AB8lyK7O5EMTPSY34vGHAQesBcUrba8w5hultkaqRxzBQ-MP6Tkj1LP_OMc403zfnMeix4Iaby4mp9gbBy0s8Kbuf8_XoY12KM7Y7MQY1CA)/dm/3/x8dxadh/s/live-2.m3u8#cell=lcfb
+#EXT-X-STREAM-INF:RESOLUTION=320x180,FRAME-RATE=30.000000,BANDWIDTH=475136,CODECS="avc1.42000d,mp4a.40.5",NAME="240"
+https://live-b.cf.dmcdn.net/sec2(AB8lyK7O5EMTPSY34vGHAQesBcUrba8w5hultkaqRxzBQ-MP6Tkj1LP_OMc403zfnMeix4Iaby4mp9gbBy0s8Kbuf8_XoY12KM7Y7MQY1CA)/dm/3/x8dxadh/s/live-0.m3u8#cell=lcfb
+#EXT-X-STREAM-INF:RESOLUTION=512x288,FRAME-RATE=30.000000,BANDWIDTH=782336,CODECS="avc1.420015,mp4a.40.5",NAME="380"
+https://live-b.cf.dmcdn.net/sec2(AB8lyK7O5EMTPSY34vGHAQesBcUrba8w5hultkaqRxzBQ-MP6Tkj1LP_OMc403zfnMeix4Iaby4mp9gbBy0s8Kbuf8_XoY12KM7Y7MQY1CA)/dm/3/x8dxadh/s/live-1.m3u8#cell=lcfb
+#EXT-X-STREAM-INF:RESOLUTION=1280x720,FRAME-RATE=30.000000,BANDWIDTH=2179072,CODECS="avc1.64001f,mp4a.40.2",NAME="720"
+https://live-b.cf.dmcdn.net/sec2(AB8lyK7O5EMTPSY34vGHAQesBcUrba8w5hultkaqRxzBQ-MP6Tkj1LP_OMc403zfnMeix4Iaby4mp9gbBy0s8Kbuf8_XoY12KM7Y7MQY1CA)/dm/3/x8dxadh/s/live-3.m3u8#cell=lcfb
