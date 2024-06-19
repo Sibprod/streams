@@ -141,4 +141,7 @@ https://github.com/Sibprod/streams/raw/main/ressources/ftv/py/La1ere_mayotte_met
 https://github.com/Sibprod/streams/raw/main/ressources/ftv/py/La1ere_polynesie_metro.m3u8
 #EXTINF:-1 tvg-id="TahitiTV.fr" tvg-logo="" group-title="|PF|" tvg-chno="2",Tahiti TV
 https://tntv-samsung-fr.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="NouvelleCaledonie1ere.nc" tvg-logo=" " group-title="|NC|" tvg-chno="1",Nouvelle-Calédonie La 1ère
+https://github.com/Sibprod/streams/raw/main/ressources/ftv/py/La1ere_NC_metro.m3u8
+
 
