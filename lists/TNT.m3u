@@ -47,44 +47,60 @@ https://github.com/Paradise-91/ParaTV/raw/main/streams/tf1plus/lci.m3u8
 https://github.com/Sibprod/streams/raw/main/ressources/ftv/py/FranceInfo.m3u8
 #EXTINF:-1 tvg-id="ParisPremiere.fr" tvg-logo=" " group-title="|FR|" tvg-chno="41",Paris Première
 https://github.com/Sibprod/streams/raw/main/ressources/RTLfr/ParisPremiere.m3u8
+
 #EXTINF:-1 tvg-id="Monacoinfo.mc" tvg-logo=" " group-title="|MC|" tvg-chno="70",Monaco Info
 https://webtv.monacoinfo.com/live/prod_720/index.m3u8
 #EXTINF:-1 tvg-id="TVMonaco.mc" tvg-logo="https://i.ibb.co/XjzvmqL/tvmonaco.jpg" group-title="|MC|" tvg-chno="71",TV Monaco
 https://production-fast-mcrtv.content.okast.tv/channels/2116dc08-1959-465d-857f-3619daefb66b/b702b2b9-aebd-436c-be69-2118f56f3d86/master.m3u8
-#EXTINF:-1 tvg-id="RougeTV.ch" tvg-logo="https://api.tv.init7.net/media/logos/2169_RougeTV.ch.png" group-title="|CH.F|" tvg-chno="4",Carac 1
-http://rougetv.vedge.infomaniak.com/livecast/rougetv/manifest.m3u8
-#EXTINF:-1 tvg-id="OneTV.ch" tvg-logo="https://api.tv.init7.net/media/logos/2172_OneTV.ch.png" group-title="|CH.F|" tvg-chno="5",Carac 2
-http://onefmhd.vedge.infomaniak.com/livecast/onefmhd/manifest.m3u8
-#EXTINF:-1 tvg-id="LFMTV.ch" tvg-logo="https://api.tv.init7.net/media/logos/2175_LFMTV.ch.png" group-title="|CH.F|" tvg-chno="6",Carac 3
-http://lfmhd.vedge.infomaniak.com/livecast/lfmhd/manifest.m3u8
-#EXTINF:-1 tvg-id="TVSuissePlus.ch" tvg-logo="" group-title="|CH.F|" tvg-chno="7",Carac 4
-http://compack_media_1.vedge.infomaniak.com/livecast/compack_media_1/manifest.m3u8
 
-#EXTINF:-1 tvg-id="Guadeloupe1ere.gp" tvg-logo="" group-title="|FR.GP|" tvg-chno="1",Guadeloupe La 1ère
+#EXTINF:-1 tvg-id="Lemanbleu.ch" tvg-logo="" group-title="|CH.F|" tvg-chno="803",Léman Bleu
+http://naxoo.vedge.infomaniak.com/livecast/naxoo/manifest.m3u8
+#EXTINF:-1 tvg-id="RougeTV.ch" tvg-logo="https://api.tv.init7.net/media/logos/2169_RougeTV.ch.png" group-title="|CH.F|" tvg-chno="804",Carac 1
+http://rougetv.vedge.infomaniak.com/livecast/rougetv/manifest.m3u8
+#EXTINF:-1 tvg-id="OneTV.ch" tvg-logo="https://api.tv.init7.net/media/logos/2172_OneTV.ch.png" group-title="|CH.F|" tvg-chno="805",Carac 2
+http://onefmhd.vedge.infomaniak.com/livecast/onefmhd/manifest.m3u8
+#EXTINF:-1 tvg-id="LFMTV.ch" tvg-logo="https://api.tv.init7.net/media/logos/2175_LFMTV.ch.png" group-title="|CH.F|" tvg-chno="806",Carac 3
+http://lfmhd.vedge.infomaniak.com/livecast/lfmhd/manifest.m3u8
+#EXTINF:-1 tvg-id="TVSuissePlus.ch" tvg-logo="" group-title="|CH.F|" tvg-chno="807",Carac 4
+http://compack_media_1.vedge.infomaniak.com/livecast/compack_media_1/manifest.m3u8
+#EXTINF:-1 tvg-id="CanalAlpha.ch" tvg-logo="" group-title="|CH.F|" tvg-chno="808",Canal Alpha [Jura]
+http://canalalphaju.vedge.infomaniak.com/livecast/canalalphaju/manifest.m3u8
+#EXTINF:-1 tvg-id="CanalAlpha.ch" tvg-logo=" " group-title="|CH.F|" tvg-chno="809",Canal Alpha [Neuchâtel]
+http://canalalpha.vedge.infomaniak.com/livecast/canalalpha/manifest.m3u8
+
+#EXTINF:-1 tvg-id="Guadeloupe1ere.gp" tvg-logo="" group-title="|FR.GP|" tvg-chno="1971",Guadeloupe La 1ère
 https://github.com/Sibprod/streams/raw/main/ressources/ftv/py/La1ere_guadeloupe_metro.m3u8
-#EXTINF:-1 tvg-id="ETV.gp" tvg-logo="" group-title="|FR.GP|" tvg-chno="11",ETV [Éclair TV]
+#EXTINF:-1 tvg-id="ETV.gp" tvg-logo="" group-title="|FR.GP|" tvg-chno="11971",ETV [Éclair TV]
 https://etvgp.vedge.infomaniak.com/livecast/etvgp/manifest.m3u8
-#EXTINF:-1 tvg-id="Martinique1ere.mq" tvg-logo="https://i.imgur.com/rBhc87a.png" group-title="|FR.MQ|" tvg-chno="1",Martinique La 1ère (TV)
+
+#EXTINF:-1 tvg-id="Martinique1ere.mq" tvg-logo="https://i.imgur.com/rBhc87a.png" group-title="|FR.MQ|" tvg-chno="1972",Martinique La 1ère (TV)
 https://github.com/Sibprod/streams/raw/main/ressources/ftv/py/La1ere_martinique_metro.m3u8
-#EXTINF:-1 tvg-id="ATVMartinique.mq" tvg-logo="https://viaatv.tv/fileadmin/via_main/img/logos/LOGO_ATV_Web.png" group-title="|FR.MQ|" tvg-chno="2",viàATV
+#EXTINF:-1 tvg-id="ATVMartinique.mq" tvg-logo="https://viaatv.tv/fileadmin/via_main/img/logos/LOGO_ATV_Web.png" group-title="|FR.MQ|" tvg-chno="2972",viàATV
 https://streamer01.myvideoplace.tv/streamer02/hls/ATV_DIRECT_EV_111018_medium/index.m3u8
-#EXTINF:-1 tvg-id="Guyane1ere.gf" tvg-logo="" group-title="|FR.GF|" tvg-chno="1",Guyane La 1ère
+
+#EXTINF:-1 tvg-id="Guyane1ere.gf" tvg-logo="" group-title="|FR.GF|" tvg-chno="1973",Guyane La 1ère
 https://github.com/Sibprod/streams/raw/main/ressources/ftv/py/La1ere_guyane_metro.m3u8
-#EXTINF:-1 tvg-id="Reunion1ere.fr" tvg-logo="" group-title="|FR.RE|" tvg-chno="1",Réunion La 1ère
+
+#EXTINF:-1 tvg-id="Reunion1ere.fr" tvg-logo="" group-title="|FR.RE|" tvg-chno="1974",Réunion La 1ère
 https://github.com/Sibprod/streams/raw/main/ressources/ftv/py/La1ere_reunion_metro.m3u8
-#EXTINF:-1 tvg-id="AntenneReunion.fr" tvg-logo="" group-title="|FR.RE|" tvg-chno="2",Antenne Réunion
+#EXTINF:-1 tvg-id="AntenneReunion.fr" tvg-logo="" group-title="|FR.RE|" tvg-chno="2974",Antenne Réunion
 https://live-antenne-reunion.zeop.tv/live/c3eds/antreunihd/hls_fta/antreunihd.m3u8
-#EXTINF:-1 tvg-id="SPM1ere.pm" tvg-logo="" group-title="|FR.PM|",Saint-Pierre-et-Miquelon La 1ère 
+
+#EXTINF:-1 tvg-id="SPM1ere.pm" tvg-logo="" group-title="|FR.PM|" tvg-chno="1975",Saint-Pierre-et-Miquelon La 1ère 
 https://github.com/Sibprod/streams/raw/main/ressources/ftv/py/La1ere_SPM_metro.m3u8
-#EXTINF:-1 tvg-id="Mayotte1ere.yt" tvg-logo=" " group-title="|FR.YT|" tvg-chno="1",Mayotte La 1ère
+
+#EXTINF:-1 tvg-id="Mayotte1ere.yt" tvg-logo=" " group-title="|FR.YT|" tvg-chno="1976",Mayotte La 1ère
 https://github.com/Sibprod/streams/raw/main/ressources/ftv/py/La1ere_mayotte_metro.m3u8
-#EXTINF:-1 tvg-id="WallisFutuna1ere.wf" tvg-logo=" " group-title="|FR.WF|",Wallis-et-Futuna La 1ère 
+
+#EXTINF:-1 tvg-id="WallisFutuna1ere.wf" tvg-logo=" " group-title="|FR.WF|" tvg-chno="1986",Wallis-et-Futuna La 1ère 
 https://github.com/Sibprod/streams/raw/main/ressources/ftv/py/La1ere_WF_metro.m3u8
-#EXTINF:-1 tvg-id="Polynesie1ere.pf" tvg-logo="" group-title="|FR.PF|" tvg-chno="1",Polynésie La 1ère
+
+#EXTINF:-1 tvg-id="Polynesie1ere.pf" tvg-logo="" group-title="|FR.PF|" tvg-chno="1987",Polynésie La 1ère
 https://github.com/Sibprod/streams/raw/main/ressources/ftv/py/La1ere_polynesie_metro.m3u8
-#EXTINF:-1 tvg-id="TahitiTV.fr" tvg-logo="" group-title="|FR.PF|" tvg-chno="2",Tahiti TV
+#EXTINF:-1 tvg-id="TahitiTV.fr" tvg-logo="" group-title="|FR.PF|" tvg-chno="2987",Tahiti TV
 https://tntv-samsung-fr.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="NouvelleCaledonie1ere.nc" tvg-logo=" " group-title="|FR.NC|" tvg-chno="1",Nouvelle-Calédonie La 1ère
+
+#EXTINF:-1 tvg-id="NouvelleCaledonie1ere.nc" tvg-logo=" " group-title="|FR.NC|" tvg-chno="1988",Nouvelle-Calédonie La 1ère
 https://github.com/Sibprod/streams/raw/main/ressources/ftv/py/La1ere_NC_metro.m3u8
 
 #EXTINF:-1 tvg-id="BFMMarseille.fr" tvg-logo=" " group-title="|FR.REG|" tvg-chno="3013",BFM Régions [Marseille-Provence]
