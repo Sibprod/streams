@@ -1,23 +1,31 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="TF1.fr" tvg-logo="https://www.teleboy.ch/assets/stations/308/icon80_light.png?v2024_21_1" group-title="|FR|" tvg-chno="1",TF1
+#EXTINF:-1 tvg-id="TF1.fr" tvg-logo="https://github.com/Sibprod/SibTV/raw/main/logos/TF1.png" group-title="|FR|" tvg-chno="1",TF1
 https://github.com/Paradise-91/ParaTV/raw/main/streams/tf1plus/tf1.m3u8
-#EXTINF:-1 tvg-id="France2.fr" tvg-logo="https://api.tv.init7.net/media/logos/2118_France2.fr.png" group-title="|FR|" tvg-chno="2",France 2
+#EXTINF:-1 tvg-id="France2.fr" tvg-logo="https://github.com/Sibprod/SibTV/raw/main/logos/France%202.png" group-title="|FR|" tvg-chno="2",France 2
 https://github.com/Sibprod/streams/raw/main/ressources/ftv/py/France2.m3u8
-#EXTINF:-1 tvg-id="France3.fr" tvg-logo="https://api.tv.init7.net/media/logos/2121_France3.fr.png" group-title="|FR|" tvg-chno="3",France 3
+#EXTINF:-1 tvg-id="France3.fr" tvg-logo="https://github.com/Sibprod/SibTV/raw/main/logos/France%203.png" group-title="|FR|" tvg-chno="3",France 3
 https://github.com/Sibprod/streams/raw/main/ressources/ftv/py/France3.m3u8
 #EXTINF:-1 tvg-id="CanalPlus.fr" tvg-logo="https://api.tv.init7.net/media/logos/2133_CanalPlus.fr.png" group-title="|FR|" tvg-chno="4",Canal+ [en clair]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/canalplus/canalplusclair-hd.m3u8
-#EXTINF:-1 tvg-id="France5.fr" tvg-logo="https://api.tv.init7.net/media/logos/2124_France5.fr.png" group-title="|FR|" tvg-chno="5",France 5
+#EXTINF:-1 tvg-id="France5.fr" tvg-logo="https://github.com/Sibprod/SibTV/raw/main/logos/France%205.png" group-title="|FR|" tvg-chno="5",France 5
 https://github.com/Sibprod/streams/raw/main/ressources/ftv/py/France5.m3u8
+#EXTINF:-1 tvg-id="M6.fr" tvg-logo="https://github.com/Sibprod/SibTV/raw/main/logos/M6.png" group-title="|FR|" tvg-chno="6",M6
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.4.1 Safari/605.1.15
+#EXTVLCOPT:http-referrer=https://s2.callofliberty.fr/directg/M6/index.m3u8
+https://s2.callofliberty.fr/directg/M6/master.m3u8
 #EXTINF:-1 tvg-id="Arte.fr" tvg-logo="https://api.tv.init7.net/media/logos/2130_arte.fr.png" group-title="|FR|" tvg-chno="7",ARTE [France]
 https://artesimulcast.akamaized.net/hls/live/2031003/artelive_fr/index.m3u8
 #EXTINF:-1 tvg-id="C8.fr" tvg-logo="https://api.tv.init7.net/media/logos/2136_C8.fr.png" group-title="|FR|" tvg-chno="8",C8
 https://github.com/Sibprod/streams/raw/main/ressources/dm/py/hls/c8.m3u8
-#EXTINF:-1 tvg-id="TMC.fr" tvg-logo="https://api.tv.init7.net/media/logos/2142_TMC.fr.png" group-title="|FR|" tvg-chno="10",TMC
+#EXTINF:-1 tvg-id="W9.fr" tvg-logo="" group-title="|FR|" tvg-chno="9",W9
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.4.1 Safari/605.1.15
+#EXTVLCOPT:http-referrer=https://s2.callofliberty.fr/directg/W9/master.m3u8
+https://s2.callofliberty.fr/directg/W9/index.m3u8
+#EXTINF:-1 tvg-id="TMC.fr" tvg-logo="https://github.com/Sibprod/SibTV/raw/main/logos/TMC.png" group-title="|FR|" tvg-chno="10",TMC
 https://github.com/Paradise-91/ParaTV/raw/main/streams/tf1plus/tmc.m3u8
-#EXTINF:-1 tvg-id="TFX.fr" tvg-logo="https://api.tv.init7.net/media/logos/2145_TFXSwitzerland.ch.png" group-title="|FR|" tvg-chno="11",TFX
+#EXTINF:-1 tvg-id="TFX.fr" tvg-logo="https://github.com/Sibprod/SibTV/raw/main/logos/TFX.png" group-title="|FR|" tvg-chno="11",TFX
 https://github.com/Paradise-91/ParaTV/raw/main/streams/tf1plus/tfx.m3u8
-#EXTINF:-1 tvg-id="NRJ12.fr" tvg-logo="https://api.tv.init7.net/media/logos/2148_NRJ12.fr.png" group-title="|FR|" tvg-chno="12",NRJ 12
+#EXTINF:-1 tvg-id="NRJ12.fr" tvg-logo="https://github.com/Sibprod/SibTV/raw/main/logos/NRJ%2012.png" group-title="|FR|" tvg-chno="12",NRJ 12
 https://nrj12.nrjaudio.fm/hls/live/2038374/nrj_12/master.m3u8
 #EXTINF:-1 tvg-id="LaChaineParlementaire.fr" tvg-logo="https://s2.dmcdn.net/u/1CkLf1aVUMG_e-YmE/120x120" group-title="|FR|" tvg-chno="13",LCP
 https://github.com/Sibprod/streams/raw/main/ressources/dm/py/hls/LCP.m3u8
@@ -31,19 +39,23 @@ https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_TV/index.m3u8?start=LIVE&end=END
 https://hls-m010-live-aka-canalplus.akamaized.net/live/disk/cnews-clair-hd/hls-v3-hd-clair/cnews-clair-hd.m3u8
 #EXTINF:-1 tvg-id="CStar.fr" tvg-logo=" " group-title="|FR|" tvg-chno="17",CStar
 https://github.com/Paradise-91/ParaTV/raw/main/streams/canalplus/cstar.m3u8
-#EXTINF:-1 tvg-id="Gulli.fr" tvg-logo="https://api.tv.init7.net/media/logos/2508_Gulli.fr.png" group-title="|FR|" tvg-chno="18",Gulli
+#EXTINF:-1 tvg-id="Gulli.fr" tvg-logo="https://github.com/Sibprod/SibTV/raw/main/logos/Gulli.png" group-title="|FR|" tvg-chno="18",Gulli
 https://github.com/Sibprod/streams/raw/main/ressources/RTLfr/Gulli.m3u8
-#EXTINF:-1 tvg-id="TF1SeriesFilms.fr" tvg-logo=" " group-title="|FR|" tvg-chno="20",TF1 Séries Films
+#EXTINF:-1 tvg-id="TF1SeriesFilms.fr" tvg-logo="https://github.com/Sibprod/SibTV/raw/main/logos/TF1%20Series%20Films.png" group-title="|FR|" tvg-chno="20",TF1 Séries Films
 https://github.com/Paradise-91/ParaTV/raw/main/streams/tf1plus/tf1sf.m3u8
 #EXTINF:-1 tvg-id="LEquipe.fr" tvg-logo="https://s2.dmcdn.net/u/5LK8J1bkd3Y8Ags3e/120x120" group-title="|FR|" tvg-chno="21",L'Equipe
 https://github.com/Sibprod/streams/raw/main/ressources/dm/py/hls/Lequipe.m3u8
+#EXTINF:-1 tvg-id="6ter.fr" tvg-logo="https://github.com/Sibprod/SibTV/raw/main/logos/6ter.png" group-title="|FR|" tvg-chno="22",6ter
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.4.1 Safari/605.1.15
+#EXTVLCOPT:http-referrer=https://s2.callofliberty.fr/directg/6ter/master.m3u8
+https://s2.callofliberty.fr/directg/6ter/index.m3u8
 #EXTINF:-1 tvg-id="RMCStory.fr" tvg-logo="https://api.tv.init7.net/media/logos/2157_RMCStory.fr.png" group-title="|FR|" tvg-chno="23",RMC Story
 https://d36bxc1bknkxrk.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-3ewcp19zjaxpt/index.m3u8
 #EXTINF:-1 tvg-id="RMCDecouverte.fr" tvg-logo=" " group-title="|FR|" tvg-chno="24",RMC Découverte
 https://d2mt8for1pddy4.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-6uronj7gzvy4j/index.m3u8
 #EXTINF:-1 tvg-id="Cherie25.fr" tvg-logo="https://i.ibb.co/R3KG4L9/cherie25.png" group-title="|FR|" tvg-chno="25",Chérie 25
 https://cherie25.nrjaudio.fm/hls/live/2038375/c25/master.m3u8
-#EXTINF:-1 tvg-id="LCI.fr" tvg-logo="https://i.ibb.co/Zfcrrr1/lci.png" group-title="|FR|" tvg-chno="26",LCI
+#EXTINF:-1 tvg-id="LCI.fr" tvg-logo="https://github.com/Sibprod/SibTV/raw/main/logos/LCI.png" group-title="|FR|" tvg-chno="26",LCI
 https://github.com/Paradise-91/ParaTV/raw/main/streams/tf1plus/lci.m3u8
 #EXTINF:-1 tvg-id="FranceInfo.fr" tvg-logo="https://i.ibb.co/XkLHrbC/frinfo2bl.png" group-title="|FR|" tvg-chno="27",Franceinfo
 https://github.com/Sibprod/streams/raw/main/ressources/ftv/py/FranceInfo.m3u8
@@ -55,11 +67,11 @@ https://webtv.monacoinfo.com/live/prod_720/index.m3u8
 #EXTINF:-1 tvg-id="TVMonaco.mc" tvg-logo="https://i.ibb.co/XjzvmqL/tvmonaco.jpg" group-title="|MC|" tvg-chno="71",TV Monaco
 https://production-fast-mcrtv.content.okast.tv/channels/2116dc08-1959-465d-857f-3619daefb66b/b702b2b9-aebd-436c-be69-2118f56f3d86/master.m3u8
 
-#EXTINF:-1 tvg-id="RTS1.ch" tvg-logo="" group-title="|CH.F|" tvg-chno="801",RTS 1
+#EXTINF:-1 tvg-id="RTS1.ch" tvg-logo="https://github.com/Sibprod/SibTV/raw/main/logos/RTS%201.png" group-title="|CH.F|" tvg-chno="801",RTS 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.4.1 Safari/605.1.15
 #EXTVLCOPT:http-referrer=https://s2.callofliberty.fr/directg/RTS1/index.m3u8
 https://s2.callofliberty.fr/directg/RTS1/index.m3u8
-#EXTINF:-1 tvg-id="RTS1.ch" tvg-logo="" group-title="|CH.F|" tvg-chno="802",RTS 2
+#EXTINF:-1 tvg-id="RTS1.ch" tvg-logo="https://github.com/Sibprod/SibTV/raw/main/logos/RTS%202.png" group-title="|CH.F|" tvg-chno="802",RTS 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.4.1 Safari/605.1.15
 #EXTVLCOPT:http-referrer=https://s2.callofliberty.fr/directg/RTS2/index.m3u8
 https://s2.callofliberty.fr/directg/RTS2/index.m3u8
@@ -80,25 +92,22 @@ http://canalalpha.vedge.infomaniak.com/livecast/canalalpha/manifest.m3u8
 
 #EXTINF:-1 tvg-id="Laune.be" tvg-logo="" group-title="|BE.F|" tvg-chno="811",La Une
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.4.1 Safari/605.1.15
-#EXTVLCOPT:http-referrer=https://s2.callofliberty.fr/directg/Laune/master.m3u8
-https://s2.callofliberty.fr/directg/Laune/master.m3u8
+
 #EXTINF:-1 tvg-id="Tipik.be" tvg-logo="" group-title="|BE.F|" tvg-chno="812",Tipik
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.4.1 Safari/605.1.15
-#EXTVLCOPT:http-referrer=https://s2.callofliberty.fr/directg/Tipik/master.m3u8
-https://s2.callofliberty.fr/directg/Tipik/master.m3u8
+
 #EXTINF:-1 tvg-id="Latrois.be" tvg-logo="" group-title="|BE.F|" tvg-chno="813",La Trois
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.4.1 Safari/605.1.15
-#EXTVLCOPT:http-referrer=https://s2.callofliberty.fr/directg/Latrois/master.m3u8
-https://s2.callofliberty.fr/directg/Latrois/master.m3u8
-#EXTINF:-1 tvg-id="RTLtvi.be" tvg-logo="" group-title="|BE.F|" tvg-chno="814",RTL tvi
+
+#EXTINF:-1 tvg-id="RTLtvi.be" tvg-logo="https://github.com/Sibprod/SibTV/raw/main/logos/RTL%20tvi.png" group-title="|BE.F|" tvg-chno="814",RTL tvi
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.4.1 Safari/605.1.15
 #EXTVLCOPT:http-referrer=https://s2.callofliberty.fr/directg/RTLtvi/master.m3u8
 https://s2.callofliberty.fr/directg/RTLtvi/master.m3u8
-#EXTINF:-1 tvg-id="RTLtvi.be" tvg-logo="" group-title="|BE.F|" tvg-chno="815",RTL club
+#EXTINF:-1 tvg-id="RTLtvi.be" tvg-logo="https://github.com/Sibprod/SibTV/raw/main/logos/RTL%20club.png" group-title="|BE.F|" tvg-chno="815",RTL club
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.4.1 Safari/605.1.15
 #EXTVLCOPT:http-referrer=https://s2.callofliberty.fr/directg/RTLclub/master.m3u8
 https://s2.callofliberty.fr/directg/RTLclub/master.m3u8
-#EXTINF:-1 tvg-id="RTLtvi.be" tvg-logo="" group-title="|BE.F|" tvg-chno="816",RTL plug
+#EXTINF:-1 tvg-id="RTLtvi.be" tvg-logo="https://github.com/Sibprod/SibTV/raw/main/logos/RTL%20plug.png" group-title="|BE.F|" tvg-chno="816",RTL plug
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.4.1 Safari/605.1.15
 #EXTVLCOPT:http-referrer=https://s2.callofliberty.fr/directg/RTLplug/master.m3u8
 https://s2.callofliberty.fr/directg/RTLplug/master.m3u8
@@ -108,7 +117,7 @@ https://github.com/Sibprod/streams/raw/main/ressources/ftv/py/La1ere_guadeloupe_
 #EXTINF:-1 tvg-id="ETV.gp" tvg-logo="" group-title="|FR.GP|" tvg-chno="11971",ETV [Éclair TV]
 https://etvgp.vedge.infomaniak.com/livecast/etvgp/manifest.m3u8
 
-#EXTINF:-1 tvg-id="Martinique1ere.mq" tvg-logo="https://i.imgur.com/rBhc87a.png" group-title="|FR.MQ|" tvg-chno="1972",Martinique La 1ère (TV)
+#EXTINF:-1 tvg-id="Martinique1ere.mq" tvg-logo="https://github.com/Sibprod/SibTV/raw/main/logos/Martinique1ere.png" group-title="|FR.MQ|" tvg-chno="1972",Martinique La 1ère (TV)
 https://github.com/Sibprod/streams/raw/main/ressources/ftv/py/La1ere_martinique_metro.m3u8
 #EXTINF:-1 tvg-id="ATVMartinique.mq" tvg-logo="https://viaatv.tv/fileadmin/via_main/img/logos/LOGO_ATV_Web.png" group-title="|FR.MQ|" tvg-chno="2972",viàATV
 https://streamer01.myvideoplace.tv/streamer02/hls/ATV_DIRECT_EV_111018_medium/index.m3u8
