@@ -1,0 +1,41 @@
+#EXTM3U
+#EXTINF:-1 tvg-id=" " tvg-logo="https://i.imgur.com/MgBeU52.png" group-title="|FR|" tvg-chno="501",France Inter
+https://github.com/Sibprod/streams/raw/main/ressources/dm/py/hls/franceinter.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="|FR|" tvg-chno="506",Mouv'
+https://github.com/Sibprod/streams/raw/main/ressources/dm/py/hls/mouv.m3u8
+#EXTINF:-1 tvg-id="RFI.fr" tvg-logo=" " group-title="|FR|" tvg-chno="507",RFI
+https://ythls.armelin.one/channel/UCm4fSpMpPIZ9z6KHoezLUAg.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="|FR|" tvg-chno="509",Sud Radio
+https://github.com/Sibprod/streams/raw/main/ressources/dm/py/hls/sudradio.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo="https://i.imgur.com/tztG1MX.png" group-title="|FR|" tvg-chno="510",Europe 1
+https://github.com/Sibprod/streams/raw/main/ressources/dm/py/hls/europe1.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="|FR|" tvg-chno="511",RTL
+https://github.com/Sibprod/streams/raw/main/ressources/dm/py/hls/rtl.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="|FR|" tvg-chno="512",RTL 2
+https://github.com/Sibprod/streams/raw/main/ressources/dm/py/hls/rtl2.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo="https://i.imgur.com/wgxuYsQ.png" group-title="|FR|" tvg-chno="513",Fun Radio
+https://github.com/Sibprod/streams/raw/main/ressources/dm/py/hls/funradiofr.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo="https://i.imgur.com/DCZKAQ1.png" group-title="|FR|" tvg-chno="520",Littoral FM
+https://live.creacast.com/littoralfm-ch1/stream/playlist.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="|FR|" tvg-chno="521",Radio Espérance
+https://github.com/Sibprod/streams/raw/main/ressources/dm/py/hls/radioesperance.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="|FR|" tvg-chno="522",Radio Mont-Blanc
+https://live.creacast.com/radiomontblanc-ch1/smil:radiomontblanc-ch1.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="|BE.F|" tvg-chno=" ",TiPik Vision
+https://c9851ec-rbm-hilv-fsly.cdn.redbee.live/L26/0cb7453d/6146346c.isml/.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="|BE.F|" tvg-chno=" ",Vivacité
+https://c9851ec-rbm-hilv-fsly.cdn.redbee.live/L8/0397124b/825ae98d.isml/.m3u8
+#EXTINF:-1 tvg-id="BelRTL.be" tvg-logo="https://i.imgur.com/ljbdWkC.png" group-title="|BE.F|",bel RTL
+https://github.com/Sibprod/streams/raw/main/ressources/RTLbe/BelRTL.m3u8
+#EXTINF:-1 tvg-id="RadioContact.be" tvg-logo="https://i.imgur.com/ljbdWkC.png" group-title="|BE.F|",Radio Contact
+https://github.com/Sibprod/streams/raw/main/ressources/RTLbe/Contactvision.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="|BE.F|" tvg-chno=" ",Fun Radio
+https://github.com/Sibprod/streams/raw/main/ressources/dm/py/hls/funradiobe.m3u8
+#EXTINF:-1 tvg-id="NRJ.be" tvg-logo="https://i.imgur.com/ljbdWkC.png" group-title="|BE.F|",NRJ
+https://tv.ngroup.be/live/ngrp:nrj_all/playlist.m3u8
+
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="|CH.F|" tvg-chno=" ",RTS Couleur 3
+
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="|CH.F|" tvg-chno=" ",M Le Média
+https://github.com/Sibprod/streams/raw/main/ressources/dm/py/hls/mlemedia.m3u8
