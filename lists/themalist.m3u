@@ -98,33 +98,3 @@ https://sp1564435593.mytvchain.info/live/sp1564435593/index.m3u8
 #EXTGRP:Jeunesse
 #EXTINF:-1 tvg-id=" " tvg-logo="https://github.com/Sibprod/SibTV/raw/main/assets/FitiniTV.png" group-title="Jeunesse",Fitini TV
 https://video1.getstreamhosting.com:1936/8492/8492/playlist.m3u8
-
-#EXTGRP:Radios
-#EXTINF:-1 tvg-id="BelRTL.be" tvg-logo="https://i.imgur.com/ljbdWkC.png" group-title="Radios",bel RTL
-https://github.com/Sibprod/streams/raw/main/ressources/RTLbe/BelRTL.m3u8
-#EXTINF:-1 tvg-id="NRJ.be" tvg-logo="https://i.imgur.com/ljbdWkC.png" group-title="Radios",NRJ
-https://tv.ngroup.be/live/ngrp:nrj_all/playlist.m3u8
-#EXTINF:-1 tvg-id="RadioContact.be" tvg-logo="https://i.imgur.com/ljbdWkC.png" group-title="Radios",Radio Contact
-https://github.com/Sibprod/streams/raw/main/ressources/RTLbe/Contactvision.m3u8
-#EXTINF:-1 tvg-id="FranceInter.fr" tvg-logo="https://i.imgur.com/MgBeU52.png" group-title="Radios",France Inter
-https://github.com/Sibprod/streams/raw/main/ressources/dm/py/hls/franceinter.m3u8
-#EXTINF:-1 tvg-id="Franceinfo.fr" tvg-logo="https://i.imgur.com/eITXz6A.png" group-title="Radios",Franceinfo 
-https://github.com/Sibprod/streams/raw/main/ressources/dm/py/hls/franceinforadio.m3u8
-#EXTINF:-1 tvg-id="RFI.fr" tvg-logo=" " group-title="Radios",RFI
-https://ythls.armelin.one/channel/UCm4fSpMpPIZ9z6KHoezLUAg.m3u8
-#EXTINF:-1 tvg-id="Europe1.fr" tvg-logo="https://i.imgur.com/tztG1MX.png" group-title="Radios",Europe 1
-https://github.com/Sibprod/streams/raw/main/ressources/dm/py/hls/europe1.m3u8
-#EXTINF:-1 tvg-id="RTL.fr" tvg-logo=" " group-title="Radios",RTL
-https://github.com/Sibprod/streams/raw/main/ressources/dm/py/hls/rtl.m3u8
-#EXTINF:-1 tvg-id="RTL2.fr" tvg-logo=" " group-title="Radios",RTL 2
-https://github.com/Sibprod/streams/raw/main/ressources/dm/py/hls/rtl2.m3u8
-#EXTINF:-1 tvg-id="FunRadio.fr" tvg-logo="https://i.imgur.com/wgxuYsQ.png" group-title="Radios",Fun Radio
-https://github.com/Sibprod/streams/raw/main/ressources/dm/py/hls/funradiofr.m3u8
-#EXTINF:-1 tvg-id="Sudradio.fr" tvg-logo=" " group-title="Radios",Sud Radio
-https://github.com/Sibprod/streams/raw/main/ressources/dm/py/hls/sudradio.m3u8
-#EXTINF:-1 tvg-logo="https://conceptradio.fr/wp-content/uploads/revslider/slider-1-1/logo-conceptradio-2024-blanc-01-1.png" group-title="Radios",Concept Radio
-https://srv.webtvmanager.fr:3635/stream/play.m3u8
-#EXTINF:-1 tvg-id=" " tvg-logo="https://i.imgur.com/DCZKAQ1.png" group-title="Radios",Littoral FM
-https://live.creacast.com/littoralfm-ch1/stream/playlist.m3u8
-#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="Radios",Radio Mont-Blanc
-https://live.creacast.com/radiomontblanc-ch1/smil:radiomontblanc-ch1.smil/playlist.m3u8
