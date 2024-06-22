@@ -85,6 +85,8 @@ https://ythls.armelin.one/channel/UCaEqMbRYYOmI3WrALMhxuIg.m3u8
 https://d3awaj0f2u3w26.cloudfront.net/3/media.m3u8
 #EXTINF:-1 tvg-id=" " tvg-logo="https://i.ibb.co/KXhYwm0/lequipe.png" group-title="Sport",L'Equipe Live 2
 https://d2l55nvfkhk4sg.cloudfront.net/3/media.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo="https://i.ibb.co/KXhYwm0/lequipe.png" group-title="Sport",L'Equipe Live Foot
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/lequipe/l-equipe-live-foot.m3u8
 #EXTINF:-1 tvg-id=" " tvg-logo="https://i.ibb.co/Xt5YPJY/jdgolf.png" group-title="Sport",Le Journal du Golf TV
 https://raw.githubusercontent.com/schumijo/iptv/main/playlists/jdg-tv/jdg-tv.m3u8
 #EXTINF:-1 tvg-id=" " tvg-logo="https://i.ibb.co/gTxbf2C/rmcts.jpg" group-title="Sport",RMC Talk Sport
