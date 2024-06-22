@@ -25,8 +25,9 @@ https://video1.getstreamhosting.com:1936/8244/8244/playlist.m3u8
 #EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="Divertissement",Fusion TV
 https://fusiontv.vedge.infomaniak.com/livecast/fusiontv/manifest.m3u8
 
-
 #EXTGRP:Cinéma-Séries
+#EXTINF:-1 tvg-id=" " tvg-logo="https://i.imgur.com/cbcIKCT.png" group-title="Cinéma-Séries",France TV Séries
+https://github.com/Sibprod/streams/raw/main/ressources/ftv/py/FranceTVSeries.m3u8
 #EXTINF:-1 tvg-id="MyTVChannel.cm" tvg-logo="https://i.imgur.com/vh2373L.png" group-title="Cinéma-Séries",MyTV Channel
 http://connectiktv.ddns.net:5000/mytvchannel/@mytvchannel/playlist.m3u8
 #EXTINF:-1 tvg-id="PLEXTV.cm" tvg-logo="https://i.ibb.co/H4VktvG/Plex-TV-237.jpg" group-title="Cinéma-Séries",Plex 
@@ -37,16 +38,12 @@ https://video1.getstreamhosting.com:1936/8432/8432/playlist.m3u8
 https://video1.getstreamhosting.com:1936/8494/8494/playlist.m3u8
 #EXTINF:-1 tvg-id=" " tvg-logo="https://github.com/Sibprod/SibTV/raw/main/assets/Seriemax.png" group-title="Cinéma-Séries",Série Max
 https://video1.getstreamhosting.com:1936/8446/8446/playlist.m3u8
-#EXTINF:-1 tvg-id=" " tvg-logo="https://i.imgur.com/cbcIKCT.png" group-title="Cinéma-Séries",France TV Séries
-https://github.com/Sibprod/streams/raw/main/ressources/ftv/py/FranceTVSeries.m3u8
 #EXTINF:-1 tvg-id=" "  tvg-logo="" group-title="Cinéma-Séries",NB5 La Télé
 https://vdo3.pro-fhi.net:3696/stream/play.m3u8
 #EXTINF:-1 tvg-id="GTV1.gn" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/23136/logo_256_1707987204.png" group-title="Cinéma-Séries",GTV 1
 https://helga.iptv2022.com/GTV/index.m3u8
 
 #EXTGRP:Découverte
-#EXTINF:-1 tvg-id="CanalSavoir.ca" tvg-logo="" group-title="Découverte" tvg-chno="29",Savoir.Media
-https://hls.savoir.media/live/stream.m3u8
 #EXTINF:-1 tvg-id=" " tvg-logo="https://i.imgur.com/imvOEt6.png" group-title="Découverte",France TV Docs
 https://github.com/Sibprod/streams/raw/main/ressources/ftv/py/FranceTVDocs.m3u8
 #EXTINF:-1 tvg-id="BFMGrandsReportages.fr" tvg-logo="https://i.ibb.co/ChVvjpF/bfmgr.jpg" group-title="Découverte",BFM Grands Reportages
@@ -59,6 +56,8 @@ https://d3w0weunrynif9.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 https://d3bb0xy15a32jc.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-3gcgvdj5b4sla/index.m3u8
 #EXTINF:-1 channel-id="samsung-FR300001M1" tvg-id="FR300001M1" tvg-logo="https://static-cdn.tv.sfr.net/data/img/apps/chaines/logos/RMCWOWBlanc100x100.png" group-title="Découverte",RMC Wow
 https://d18uxd7zigjv4y.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-hynzl7bz38ht6/index.m3u8
+#EXTINF:-1 tvg-id="CanalSavoir.ca" tvg-logo="" group-title="Découverte" tvg-chno="29",Savoir.Media
+https://hls.savoir.media/live/stream.m3u8
 #EXTINF:-1 tvg-id="LyonCapitaleTV.fr" tvg-logo="https://i.imgur.com/4WfnEaj.png" group-title="Découverte",Lyon Capitale TV
 https://github.com/Sibprod/streams/raw/main/ressources/dm/py/hls/lyoncapitale.m3u8
 #EXTINF:-1 channel-id="samsung-FR1200001N2" tvg-id="FR1200001N2" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR1200001N2_20240507T094245SQUARE.png" group-title="Découverte",Doc Story
@@ -81,6 +80,8 @@ https://new.cache-stream.workers.dev/stream/UCT67YOMntJxfRnO_9bXDpvw/live.m3u8
 https://ythls.armelin.one/channel/UCaEqMbRYYOmI3WrALMhxuIg.m3u8
 
 #EXTGRP:Sport
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="Sport",France TV Paris 2024
+https://github.com/Paradise-91/ParaTV/raw/main/streams/francetv/paris2024.m3u8
 #EXTINF:-1 tvg-id=" " tvg-logo="https://i.ibb.co/KXhYwm0/lequipe.png" group-title="Sport",L'Equipe Live 1
 https://d3awaj0f2u3w26.cloudfront.net/3/media.m3u8
 #EXTINF:-1 tvg-id=" " tvg-logo="https://i.ibb.co/KXhYwm0/lequipe.png" group-title="Sport",L'Equipe Live 2
