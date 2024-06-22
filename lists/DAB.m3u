@@ -1,25 +1,31 @@
 #EXTM3U
-#EXTINF:-1 tvg-id=" " tvg-logo="https://i.imgur.com/MgBeU52.png" group-title="|FR|" tvg-chno="501",France Inter
-https://github.com/Sibprod/streams/raw/main/ressources/dm/py/hls/franceinter.m3u8
-#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="|FR|" tvg-chno="506",Mouv'
-https://github.com/Sibprod/streams/raw/main/ressources/dm/py/hls/mouv.m3u8
-#EXTINF:-1 tvg-id="RFI.fr" tvg-logo=" " group-title="|FR|" tvg-chno="507",RFI
+#EXTINF:-1 tvg-id="RFI.fr" tvg-logo=" " group-title="|FR|" tvg-chno="1000",RFI
 https://ythls.armelin.one/channel/UCm4fSpMpPIZ9z6KHoezLUAg.m3u8
-#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="|FR|" tvg-chno="509",Sud Radio
-https://github.com/Sibprod/streams/raw/main/ressources/dm/py/hls/sudradio.m3u8
-#EXTINF:-1 tvg-id=" " tvg-logo="https://i.imgur.com/tztG1MX.png" group-title="|FR|" tvg-chno="510",Europe 1
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="|FR|" tvg-chno="1002",BFM Business
+https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_TV/index.m3u8?start=LIVE&end=END
+#EXTINF:-1 tvg-id=" " tvg-logo="https://i.imgur.com/tztG1MX.png" group-title="|FR|" tvg-chno="1005",Europe 1
 https://github.com/Sibprod/streams/raw/main/ressources/dm/py/hls/europe1.m3u8
-#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="|FR|" tvg-chno="511",RTL
-https://github.com/Sibprod/streams/raw/main/ressources/dm/py/hls/rtl.m3u8
-#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="|FR|" tvg-chno="512",RTL 2
-https://github.com/Sibprod/streams/raw/main/ressources/dm/py/hls/rtl2.m3u8
-#EXTINF:-1 tvg-id=" " tvg-logo="https://i.imgur.com/wgxuYsQ.png" group-title="|FR|" tvg-chno="513",Fun Radio
+#EXTINF:-1 tvg-id=" " tvg-logo="https://i.imgur.com/MgBeU52.png" group-title="|FR|" tvg-chno="1010",France Inter
+https://github.com/Sibprod/streams/raw/main/ressources/dm/py/hls/franceinter.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo="https://i.imgur.com/wgxuYsQ.png" group-title="|FR|" tvg-chno="1012",Fun Radio
 https://github.com/Sibprod/streams/raw/main/ressources/dm/py/hls/funradiofr.m3u8
-#EXTINF:-1 tvg-id=" " tvg-logo="https://i.imgur.com/DCZKAQ1.png" group-title="|FR|" tvg-chno="520",Littoral FM
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="|FR|" tvg-chno="1016",Mouv'
+https://github.com/Sibprod/streams/raw/main/ressources/dm/py/hls/mouv.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="|FR|" tvg-chno="1023",RTL
+https://github.com/Sibprod/streams/raw/main/ressources/dm/py/hls/rtl.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="|FR|" tvg-chno="1024",RTL 2
+https://github.com/Sibprod/streams/raw/main/ressources/dm/py/hls/rtl2.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="|FR|" tvg-chno="1039",Generations
+https://generation-tv.vedge.infomaniak.com/livecast/generation-tv/manifest.m3u8
+#EXTINF:-1 channel-id="samsung-FRBC900001LB" tvg-id="FRBC900001LB" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBC900001LB_20230208T013112SQUARE.png_20230208013112.png" group-title="|FR|" tvg-chno="1048",Émotion
+https://amg01736-harmonysecomgro-harmonymelody-samsungfr-n25pe.amagi.tv/playlist/amg01736-harmonysecomgro-harmonymelody-samsungfr/playlist.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="|FR|" tvg-chno="1056",Sud Radio
+https://github.com/Sibprod/streams/raw/main/ressources/dm/py/hls/sudradio.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo="https://i.imgur.com/DCZKAQ1.png" group-title="|FR|" tvg-chno="1061",Littoral FM
 https://live.creacast.com/littoralfm-ch1/stream/playlist.m3u8
-#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="|FR|" tvg-chno="521",Radio Espérance
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="|FR|" tvg-chno="1062",Radio Espérance
 https://github.com/Sibprod/streams/raw/main/ressources/dm/py/hls/radioesperance.m3u8
-#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="|FR|" tvg-chno="522",Radio Mont-Blanc
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="|FR|" tvg-chno="1063",Radio Mont-Blanc
 https://live.creacast.com/radiomontblanc-ch1/smil:radiomontblanc-ch1.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="|BE.F|" tvg-chno=" ",TiPik Vision
@@ -36,6 +42,6 @@ https://github.com/Sibprod/streams/raw/main/ressources/dm/py/hls/funradiobe.m3u8
 https://tv.ngroup.be/live/ngrp:nrj_all/playlist.m3u8
 
 #EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="|CH.F|" tvg-chno=" ",RTS Couleur 3
-
+https://rtsc3video.akamaized.net/hls/live/2042837/c3video/3/playlist.m3u8
 #EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="|CH.F|" tvg-chno=" ",M Le Média
 https://github.com/Sibprod/streams/raw/main/ressources/dm/py/hls/mlemedia.m3u8
