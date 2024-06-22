@@ -59,6 +59,10 @@ https://production-fast-mcrtv.content.okast.tv/channels/2116dc08-1959-465d-857f-
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.4.1 Safari/605.1.15
 #EXTVLCOPT:http-referrer=https://s2.callofliberty.fr/directg/RTS1/index.m3u8
 https://s2.callofliberty.fr/directg/RTS1/index.m3u8
+#EXTINF:-1 tvg-id="RTS1.ch" tvg-logo="" group-title="|CH.F|" tvg-chno="802",RTS 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.4.1 Safari/605.1.15
+#EXTVLCOPT:http-referrer=https://s2.callofliberty.fr/directg/RTS2/index.m3u8
+https://s2.callofliberty.fr/directg/RTS2/index.m3u8
 #EXTINF:-1 tvg-id="Lemanbleu.ch" tvg-logo="" group-title="|CH.F|" tvg-chno="803",Léman Bleu
 http://naxoo.vedge.infomaniak.com/livecast/naxoo/manifest.m3u8
 #EXTINF:-1 tvg-id="RougeTV.ch" tvg-logo="https://api.tv.init7.net/media/logos/2169_RougeTV.ch.png" group-title="|CH.F|" tvg-chno="804",Carac 1
@@ -73,6 +77,11 @@ http://compack_media_1.vedge.infomaniak.com/livecast/compack_media_1/manifest.m3
 http://canalalphaju.vedge.infomaniak.com/livecast/canalalphaju/manifest.m3u8
 #EXTINF:-1 tvg-id="CanalAlpha.ch" tvg-logo=" " group-title="|CH.F|" tvg-chno="809",Canal Alpha [Neuchâtel]
 http://canalalpha.vedge.infomaniak.com/livecast/canalalpha/manifest.m3u8
+
+#EXTINF:-1 tvg-id="RTLtvi.be" tvg-logo="" group-title="|BE.F|" tvg-chno="814",RTL tvi
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.4.1 Safari/605.1.15
+#EXTVLCOPT:http-referrer=https://s2.callofliberty.fr/directg/RTLTVI/index.m3u8
+https://s2.callofliberty.fr/directg/RTLTVI/index.m3u8
 
 #EXTINF:-1 tvg-id="Guadeloupe1ere.gp" tvg-logo="" group-title="|FR.GP|" tvg-chno="1971",Guadeloupe La 1ère
 https://github.com/Sibprod/streams/raw/main/ressources/ftv/py/La1ere_guadeloupe_metro.m3u8
