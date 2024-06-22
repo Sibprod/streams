@@ -78,10 +78,30 @@ http://canalalphaju.vedge.infomaniak.com/livecast/canalalphaju/manifest.m3u8
 #EXTINF:-1 tvg-id="CanalAlpha.ch" tvg-logo=" " group-title="|CH.F|" tvg-chno="809",Canal Alpha [Neuchâtel]
 http://canalalpha.vedge.infomaniak.com/livecast/canalalpha/manifest.m3u8
 
+#EXTINF:-1 tvg-id="RTLtvi.be" tvg-logo="" group-title="|BE.F|" tvg-chno="811",La Une
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.4.1 Safari/605.1.15
+#EXTVLCOPT:http-referrer=https://s2.callofliberty.fr/directg/Laune/master.m3u8
+https://s2.callofliberty.fr/directg/Laune/master.m3u8
+#EXTINF:-1 tvg-id="RTLtvi.be" tvg-logo="" group-title="|BE.F|" tvg-chno="812",Tipik
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.4.1 Safari/605.1.15
+#EXTVLCOPT:http-referrer=https://s2.callofliberty.fr/directg/Tipik/master.m3u8
+https://s2.callofliberty.fr/directg/Tipik/master.m3u8
+#EXTINF:-1 tvg-id="RTLtvi.be" tvg-logo="" group-title="|BE.F|" tvg-chno="813",La Trois
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.4.1 Safari/605.1.15
+#EXTVLCOPT:http-referrer=https://s2.callofliberty.fr/directg/Latrois/master.m3u8
+https://s2.callofliberty.fr/directg/Latrois/master.m3u8
 #EXTINF:-1 tvg-id="RTLtvi.be" tvg-logo="" group-title="|BE.F|" tvg-chno="814",RTL tvi
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.4.1 Safari/605.1.15
-#EXTVLCOPT:http-referrer=https://s2.callofliberty.fr/directg/RTLTVI/index.m3u8
-https://s2.callofliberty.fr/directg/RTLTVI/index.m3u8
+#EXTVLCOPT:http-referrer=https://s2.callofliberty.fr/directg/RTLtvi/master.m3u8
+https://s2.callofliberty.fr/directg/RTLtvi/master.m3u8
+#EXTINF:-1 tvg-id="RTLtvi.be" tvg-logo="" group-title="|BE.F|" tvg-chno="815",RTL club
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.4.1 Safari/605.1.15
+#EXTVLCOPT:http-referrer=https://s2.callofliberty.fr/directg/RTLclub/master.m3u8
+https://s2.callofliberty.fr/directg/RTLclub/master.m3u8
+#EXTINF:-1 tvg-id="RTLtvi.be" tvg-logo="" group-title="|BE.F|" tvg-chno="816",RTL plug
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.4.1 Safari/605.1.15
+#EXTVLCOPT:http-referrer=https://s2.callofliberty.fr/directg/RTLplug/master.m3u8
+https://s2.callofliberty.fr/directg/RTLplug/master.m3u8
 
 #EXTINF:-1 tvg-id="Guadeloupe1ere.gp" tvg-logo="" group-title="|FR.GP|" tvg-chno="1971",Guadeloupe La 1ère
 https://github.com/Sibprod/streams/raw/main/ressources/ftv/py/La1ere_guadeloupe_metro.m3u8
