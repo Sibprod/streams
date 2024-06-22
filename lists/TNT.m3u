@@ -183,6 +183,8 @@ https://streamer01.myvideoplace.tv/streamer02/hls/MDS_VIA_PAD_301117_medium/inde
 https://github.com/Sibprod/streams/raw/main/ressources/dm/py/hls/telenantes.m3u8
 #EXTINF:-1 tvg-id="BFMLyon.fr" tvg-logo=" " group-title="|FR.REG|" tvg-chno="3159",BFM Régions [Grand Lille]
 https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFMGRANDLILLE/index.m3u8?start=LIVE&end=END
+#EXTINF:-1 tvg-id="TV8MontBlanc.fr" tvg-logo=" " group-title="|FR.REG|" tvg-chno="3174",8 Mont-Blanc
+https://github.com/Sibprod/streams/raw/main/ressources/dm/py/hls/8montblanc-2.m3u8
 #EXTINF:-1 tvg-id=" " tvg-logo="https://i.ibb.co/qkkHNPR/vosges.png" group-title="|FR.REG|" tvg-chno="3188",Vosges Télévision
 https://vosgestv.live-kd.com/live/vosgestv/vosgestv/playlist.m3u8
 #EXTINF:-1 tvg-id="Canal32.fr" tvg-logo=" " group-title="|FR.REG|" tvg-chno="3210",Canal 32
