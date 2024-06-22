@@ -6,7 +6,7 @@ https://github.com/Sibprod/streams/raw/main/ressources/ftv/py/France2.m3u8
 #EXTINF:-1 tvg-id="France3.fr" tvg-logo="https://api.tv.init7.net/media/logos/2121_France3.fr.png" group-title="|FR|" tvg-chno="3",France 3
 https://github.com/Sibprod/streams/raw/main/ressources/ftv/py/France3.m3u8
 #EXTINF:-1 tvg-id="CanalPlus.fr" tvg-logo="https://api.tv.init7.net/media/logos/2133_CanalPlus.fr.png" group-title="|FR|" tvg-chno="4",Canal+ [en clair]
-http://hls-m007.live-cft.canalplus-cdn.net/live/disk/canalplusclair-hd/hls-ios-fhd-clair/canalplusclair-hd.m3u8
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/canalplus/canalplusclair-hd.m3u8
 #EXTINF:-1 tvg-id="France5.fr" tvg-logo="https://api.tv.init7.net/media/logos/2124_France5.fr.png" group-title="|FR|" tvg-chno="5",France 5
 https://github.com/Sibprod/streams/raw/main/ressources/ftv/py/France5.m3u8
 #EXTINF:-1 tvg-id="Arte.fr" tvg-logo="https://api.tv.init7.net/media/logos/2130_arte.fr.png" group-title="|FR|" tvg-chno="7",ARTE [France]
@@ -29,6 +29,8 @@ https://github.com/Sibprod/streams/raw/main/ressources/ftv/py/France4.m3u8
 https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_TV/index.m3u8?start=LIVE&end=END
 #EXTINF:-1 tvg-id="CNews.fr" tvg-logo="https://i.ibb.co/qY6w8ds/cnews.png" group-title="|FR|" tvg-chno="16",CNews
 https://hls-m010-live-aka-canalplus.akamaized.net/live/disk/cnews-clair-hd/hls-v3-hd-clair/cnews-clair-hd.m3u8
+#EXTINF:-1 tvg-id="CStar.fr" tvg-logo=" " group-title="|FR|" tvg-chno="17",CStar
+https://github.com/Paradise-91/ParaTV/raw/main/streams/canalplus/cstar.m3u8
 #EXTINF:-1 tvg-id="Gulli.fr" tvg-logo="https://api.tv.init7.net/media/logos/2508_Gulli.fr.png" group-title="|FR|" tvg-chno="18",Gulli
 https://github.com/Sibprod/streams/raw/main/ressources/RTLfr/Gulli.m3u8
 #EXTINF:-1 tvg-id="TF1SeriesFilms.fr" tvg-logo=" " group-title="|FR|" tvg-chno="20",TF1 Séries Films
