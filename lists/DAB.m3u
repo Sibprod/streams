@@ -40,8 +40,28 @@ https://github.com/Sibprod/streams/raw/main/ressources/RTLbe/Contactvision.m3u8
 https://github.com/Sibprod/streams/raw/main/ressources/dm/py/hls/funradiobe.m3u8
 #EXTINF:-1 tvg-id="NRJ.be" tvg-logo="https://i.imgur.com/ljbdWkC.png" group-title="|BE.F|",NRJ
 https://tv.ngroup.be/live/ngrp:nrj_all/playlist.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="|BE.N|" tvg-chno=" ",Joe FM
+https://dpp-streamlive-plain.medialaancdn.be/joe_kijklive/plain/hls_hd.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="|BE.N|" tvg-chno=" ",Q-Music
+https://dpp-streamlive-plain.medialaancdn.be/qmusic/plain/hls.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="|BE.N|" tvg-chno=" ",Radio Pros
+https://558bd16067b67.streamlock.net/radiopros/livestream/playlist.m3u8
 
 #EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="|CH.F|" tvg-chno=" ",RTS Couleur 3
 https://rtsc3video.akamaized.net/hls/live/2042837/c3video/3/playlist.m3u8
 #EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="|CH.F|" tvg-chno=" ",M Le Média
 https://github.com/Sibprod/streams/raw/main/ressources/dm/py/hls/mlemedia.m3u8
+#EXTINF:-1 tvg-id="Radio3i.ch" tvg-logo=" " group-title="|CH.I|" tvg-chno=" ",Radio 3i
+https://vstream-cdn.ch/hls/radio3i.m3u8
+
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="|CA.F|" tvg-chno=" ",CNV Montreal
+https://media1.radioservers.biz:1936/cnv/cnv/playlist.m3u8
+
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="|LU|" tvg-chno=" ",Eldo.TV (1080p)
+https://eldo-streaming.eldo.lu/eldotv/smil:eldotv.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="RTLGold.lu" tvg-logo=" " group-title="|LU|" tvg-chno=" ",RTL Gold
+https://stream.rtl.lu/data/live/tele/rtlgold/playlist.m3u8
+#EXTINF:-1 tvg-id="RTLWebRadioTV.lu" tvg-logo=" " group-title="|LU|" tvg-chno=" ",RTL Radio
+https://rtlradio-streaming.rtl.lu/rtlradiowebtv/smil:rtlradiowebtv/playlist.m3u8
+#EXTINF:-1 tvg-id="TodayRadio.lu" tvg-logo=" " group-title="|LU|" tvg-chno=" ",RTL Today Radio
+https://stream.rtl.lu/data/live/tele/rtltodayradio/playlist.m3u8
