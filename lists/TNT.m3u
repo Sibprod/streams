@@ -117,6 +117,9 @@ https://s2.callofliberty.fr/direct123/RTLclub/master.m3u8
 #EXTVLCOPT:http-referrer=https://s2.callofliberty.fr/direct123/RTLplug/master.m3u8
 https://s2.callofliberty.fr/direct123/RTLplug/master.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="|AF.BJ|" tvg-chno="901",ORTB
+https://strhls.streamakaci.tv/ortb/ortb1-multi/playlist.m3u8
+
 #EXTINF:-1 tvg-id="Guadeloupe1ere.gp" tvg-logo="" group-title="|FR.GP|" tvg-chno="1971",Guadeloupe La 1ère
 https://github.com/Sibprod/streams/raw/main/ressources/ftv/py/La1ere_guadeloupe_metro.m3u8
 #EXTINF:-1 tvg-id="ETV.gp" tvg-logo="" group-title="|FR.GP|" tvg-chno="11971",ETV [Éclair TV]
