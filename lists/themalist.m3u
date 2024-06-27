@@ -1,7 +1,7 @@
 #EXTM3U
 #EXTGRP:Général
 #EXTINF:-1 tvg-id="RTLTVI.be" tvg-logo="https://github.com/Sibprod/assets/raw/main/Logo_RTLtvi.png" group-title="Général" tvg-chno="3",RTL tvi
-https://github.com/Sibprod/streams/raw/main/ressources/RTLbe/RTLtvi.m3u8
+
 #EXTINF:-1 tvg-id="TVMonaco.mc" tvg-logo="https://i.ibb.co/XjzvmqL/tvmonaco.jpg" group-title="Général" tvg-chno="9",TV Monaco
 https://production-fast-mcrtv.content.okast.tv/channels/2116dc08-1959-465d-857f-3619daefb66b/b702b2b9-aebd-436c-be69-2118f56f3d86/master.m3u8
 #EXTINF:-1 tvg-id="A12TV.fr" tvg-logo="https://i.imgur.com/JgnjgvF.png" group-title="Général" tvg-chno="12",A12 TV
@@ -11,15 +11,15 @@ https://rcavlive.akamaized.net/hls/live/696615/xcancbft/master.m3u8
 #EXTINF:-1 tvg-id="CIVQ.ca" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Télé-Québec_logo.svg/512px-Télé-Québec_logo.svg.png" group-title="Général" tvg-chno="26",Télé Québec
 https://bcovlive-a.akamaihd.net/575d86160eb143458d51f7ab187a4e68/us-east-1/6101674910001/playlist.m3u8
 #EXTINF:-1 tvg-id="ATVMartinique.mq" tvg-logo="https://viaatv.tv/fileadmin/via_main/img/logos/LOGO_ATV_Web.png" group-title="Général" tvg-chno="28",viàATV
-https://streamer01.myvideoplace.tv/streamer02/hls/ATV_DIRECT_EV_111018_medium/index.m3u8
+
 #EXTINF:-1 tvg-id="TV5MondeEurope.fr" tvg-logo="https://github.com/Sibprod/assets/raw/main/Logo_TV5Monde.png" group-title="Général" tvg-chno="75",TV5 Monde [Europe]
 https://muutube.sonmezalp.com/proxy.php/https://ott.tv5monde.com/Content/HLS/Live/channel(europe)/index.m3u8
 
 #EXTGRP:Divertissement
 #EXTINF:-1 tvg-id="ClubRTL.be" tvg-logo="https://github.com/Sibprod/assets/raw/main/Logo_RTLclub.png" group-title="Divertissement" tvg-chno="4",RTL club
-https://github.com/Sibprod/streams/raw/main/ressources/RTLbe/RTLclub.m3u8
+
 #EXTINF:-1 tvg-id="PlugRTL.be" tvg-logo="https://github.com/Sibprod/assets/raw/main/Logo_RTLplug.png" group-title="Divertissement" tvg-chno="5",RTL plug
-https://github.com/Sibprod/streams/raw/main/ressources/RTLbe/RTLplug.m3u8
+
 #EXTINF:-1 tvg-id=" " tvg-logo="https://github.com/Sibprod/SibTV/raw/main/assets/Ivoirechannel.png" group-title="Divertissement",Ivoire Channel
 https://video1.getstreamhosting.com:1936/8244/8244/playlist.m3u8
 #EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="Divertissement",Fusion TV
@@ -98,3 +98,66 @@ https://sp1564435593.mytvchain.info/live/sp1564435593/index.m3u8
 #EXTGRP:Jeunesse
 #EXTINF:-1 tvg-id=" " tvg-logo="https://github.com/Sibprod/SibTV/raw/main/assets/FitiniTV.png" group-title="Jeunesse",Fitini TV
 https://video1.getstreamhosting.com:1936/8492/8492/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://vdo.pro-fhi.net/uploads/directorylists/kbawbfec.jpg" group-title="SibTV" tvg-chno="1",UTV (TV souterraine)
+https://vdo.pro-fhi.net:3744/stream/play.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SibTV" tvg-chno="2",GM TV
+https://vdo3.pro-fhi.net:3931/live/unfnrwfclive.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SibTV" tvg-chno="3",RTL Plus
+https://vdo2.pro-fhi.net:3594/live/rmlegahmlive.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SibTV" tvg-chno="4",Canal 4
+https://vdo2.pro-fhi.net:3931/live/bvpazwtylive.m3u8
+#EXTINF:-1 tvg-logo="" groupe-titre="SibTV" tvg-chno="5",NB5
+https://vdo3.pro-fhi.net:3696/stream/play.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SibTV" tvg-chno="6",Japanim TV
+https://foxkidstv.be:3369/stream/play.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SibTV" tvg-chno="7",La Sept
+https://vdo2.pro-fhi.net:3286/stream/play.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SibTV" tvg-chno="8",DCM TV
+https://vdo.pro-fhi.net:3060/stream/play.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SibTV" tvg-chno="9",Eibiza Music TV
+https://srv.webtvmanager.fr:3164/stream/play.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SibTV" tvg-chno="10",Canal 10
+https://srv.webtvmanager.fr:3750/stream/play.m3u8
+#EXTINF:-1 tvg-logo="https://www.c11.media/uploads/1/0/5/2/10528808/editor/c11-media.jpg?1694265447" group-title="SibTV" tvg -chno="11",C11 Média
+https://srv.webtvmanager.fr:3508/stream/play.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SibTV" tvg-chno="12",A12 TV
+https://video1.getstreamhosting.com:1936/8250/8250/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/hcpE7PeM0izqAwVCSPwfhzEdEbqyJVEh36trObdyx5qeamkJlS7_uH1cCNTrz-jgrmV_oYP1=s160-ck-c0x00ffffff-no-rj" group-title="SibTV" tvg-chno="13",Master TV
+https://srv.webtvmanager.fr:3769/stream/play.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SibTV" tvg-chno="14",Afric 4
+https://vdo2.pro-fhi.net:3112/stream/play.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SibTV" tvg-chno="15",Radio 15 (One Five)
+https://vdo.pro-fhi.net:3531/stream/play.m3u8
+#EXTINF:-1 tvg-logo="https://dolcegroup.fr/wp-content/uploads/2019/08/cropped-cropped-Dolce-Group.png" group-title="SibTV" tvg-chno=" 16",Dolce TV
+https://srv.webtvmanager.fr:3991/stream/play.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SibTV" tvg-chno="17",Studio 17
+https://vdo3.pro-fhi.net:3622/stream/play.m3u8
+#EXTINF:-1 group-title="SibTV" tvg-chno="18",Littoral TV
+https://live.creacast.com/littoralfm-ch1/stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SibTV" tvg-chno="30",Chaîne 30
+https://srv.webtvmanager.fr:3064/stream/play.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SibTV" tvg-chno="32",DJM en direct
+https://vdo.pro-fhi.net:3296/stream/play.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SibTV" tvg-chno="36",Radio Extremix
+https://srv.webtvmanager.fr:3630/stream/play.m3u8
+#EXTINF:-1 tvg-logo="https://conceptradio.fr/wp-content/uploads/revslider/slider-1-1/logo-conceptradio-2024-blanc-01-1.png" group-title= "SibTV" tvg-chno="36",Concept Radio
+https://srv.webtvmanager.fr:3635/stream/play.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SibTV" tvg-chno="37",Alive My TV
+https://vdo2.pro-fhi.net:3711/stream/play.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SibTV" tvg-chno="39",Viva Russie
+https://s.catcast.tv/content/39575/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SibTV" tvg-chno="43",TMF Rus
+https://s.catcast.tv/content/43273/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SibTV" tvg-chno="82",Chaîne Ivoire
+https://video1.getstreamhosting.com:1936/8244/8244/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SibTV" tvg-chno="84",Ciné Max
+https://video1.getstreamhosting.com:1936/8432/8432/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SibTV" tvg-chno="84",Série Max
+https://video1.getstreamhosting.com:1936/8446/8446/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SibTV" tvg-chno="84",Afromagic Channel
+https://video1.getstreamhosting.com:1936/8490/8490/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SibTV" tvg-chno="84",Fitini TV
+https://video1.getstreamhosting.com:1936/8492/8492/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SibTV" tvg-chno="84",Chaîne Novela
+https://video1.getstreamhosting.com:1936/8494/8494/playlist.m3u8
