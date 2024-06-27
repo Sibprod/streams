@@ -11,16 +11,16 @@ https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/canalplus/cana
 https://github.com/Sibprod/streams/raw/main/ressources/ftv/py/France5.m3u8
 #EXTINF:-1 tvg-id="M6.fr" tvg-logo="https://github.com/Sibprod/SibTV/raw/main/logos/M6.png" group-title="|FR|" tvg-chno="6",M6
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.4.1 Safari/605.1.15
-#EXTVLCOPT:http-referrer=https://s2.callofliberty.fr/direct123/M6/index.m3u8
-https://s2.callofliberty.fr/direct123/M6/master.m3u8
+#EXTVLCOPT:http-referrer=https://s2.callofliberty.fr/direct1234/M6/index.m3u8
+https://s2.callofliberty.fr/direct1234/M6/master.m3u8
 #EXTINF:-1 tvg-id="Arte.fr" tvg-logo="https://api.tv.init7.net/media/logos/2130_arte.fr.png" group-title="|FR|" tvg-chno="7",ARTE [France]
 https://artesimulcast.akamaized.net/hls/live/2031003/artelive_fr/index.m3u8
 #EXTINF:-1 tvg-id="C8.fr" tvg-logo="https://api.tv.init7.net/media/logos/2136_C8.fr.png" group-title="|FR|" tvg-chno="8",C8
 https://github.com/Sibprod/streams/raw/main/ressources/dm/py/hls/c8.m3u8
 #EXTINF:-1 tvg-id="W9.fr" tvg-logo="https://callofliberty.fr/tv/9-W9/9-W9.png" group-title="|FR|" tvg-chno="9",W9
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.4.1 Safari/605.1.15
-#EXTVLCOPT:http-referrer=https://s2.callofliberty.fr/direct123/W9/master.m3u8
-https://s2.callofliberty.fr/direct123/W9/index.m3u8
+#EXTVLCOPT:http-referrer=https://s2.callofliberty.fr/direct1234/W9/master.m3u8
+https://s2.callofliberty.fr/direct1234/W9/index.m3u8
 #EXTINF:-1 tvg-id="TMC.fr" tvg-logo="https://github.com/Sibprod/SibTV/raw/main/logos/TMC.png" group-title="|FR|" tvg-chno="10",TMC
 https://github.com/Paradise-91/ParaTV/raw/main/streams/tf1plus/tmc.m3u8
 #EXTINF:-1 tvg-id="TFX.fr" tvg-logo="https://github.com/Sibprod/SibTV/raw/main/logos/TFX.png" group-title="|FR|" tvg-chno="11",TFX
@@ -47,8 +47,8 @@ https://github.com/Paradise-91/ParaTV/raw/main/streams/tf1plus/tf1sf.m3u8
 https://github.com/Sibprod/streams/raw/main/ressources/dm/py/hls/Lequipe.m3u8
 #EXTINF:-1 tvg-id="6ter.fr" tvg-logo="https://callofliberty.fr/tv/22-6ter/22-6ter.png" group-title="|FR|" tvg-chno="22",6ter
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.4.1 Safari/605.1.15
-#EXTVLCOPT:http-referrer=https://s2.callofliberty.fr/direct123/6ter/master.m3u8
-https://s2.callofliberty.fr/direct123/6ter/index.m3u8
+#EXTVLCOPT:http-referrer=https://s2.callofliberty.fr/direct1234/6ter/master.m3u8
+https://s2.callofliberty.fr/direct1234/6ter/index.m3u8
 #EXTINF:-1 tvg-id="RMCStory.fr" tvg-logo="https://api.tv.init7.net/media/logos/2157_RMCStory.fr.png" group-title="|FR|" tvg-chno="23",RMC Story
 https://d36bxc1bknkxrk.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-3ewcp19zjaxpt/index.m3u8
 #EXTINF:-1 tvg-id="RMCDecouverte.fr" tvg-logo=" " group-title="|FR|" tvg-chno="24",RMC Découverte
@@ -74,12 +74,12 @@ https://live-edge.rtl.lu/channel2/smil:channel2/playlist.m3u8
 
 #EXTINF:-1 tvg-id="RTS1.ch" tvg-logo="https://callofliberty.fr/tv/301-RTS1/301-RTS1.png" group-title="|CH.F|" tvg-chno="801",RTS 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.4.1 Safari/605.1.15
-#EXTVLCOPT:http-referrer=https://s2.callofliberty.fr/direct123/RTS1/index.m3u8
-https://s2.callofliberty.fr/direct123/RTS1/index.m3u8
+#EXTVLCOPT:http-referrer=https://s2.callofliberty.fr/direct1234/RTS1/index.m3u8
+https://s2.callofliberty.fr/direct1234/RTS1/index.m3u8
 #EXTINF:-1 tvg-id="RTS1.ch" tvg-logo="https://callofliberty.fr/tv/302-RTS2/302-RTS2.png" group-title="|CH.F|" tvg-chno="802",RTS 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.4.1 Safari/605.1.15
-#EXTVLCOPT:http-referrer=https://s2.callofliberty.fr/direct123/RTS2/index.m3u8
-https://s2.callofliberty.fr/direct123/RTS2/index.m3u8
+#EXTVLCOPT:http-referrer=https://s2.callofliberty.fr/direct1234/RTS2/index.m3u8
+https://s2.callofliberty.fr/direct1234/RTS2/index.m3u8
 #EXTINF:-1 tvg-id="Lemanbleu.ch" tvg-logo="" group-title="|CH.F|" tvg-chno="803",Léman Bleu
 http://naxoo.vedge.infomaniak.com/livecast/naxoo/manifest.m3u8
 #EXTINF:-1 tvg-id="RougeTV.ch" tvg-logo="https://callofliberty.fr/tv/305-carac1/305-carac1.png" group-title="|CH.F|" tvg-chno="804",Carac 1
@@ -106,16 +106,16 @@ http://canalalpha.vedge.infomaniak.com/livecast/canalalpha/manifest.m3u8
 
 #EXTINF:-1 tvg-id="RTLtvi.be" tvg-logo="https://github.com/Sibprod/SibTV/raw/main/logos/RTL%20tvi.png" group-title="|BE.F|" tvg-chno="814",RTL tvi
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.4.1 Safari/605.1.15
-#EXTVLCOPT:http-referrer=https://s2.callofliberty.fr/direct123/RTLtvi/master.m3u8
-https://s2.callofliberty.fr/direct123/RTLtvi/master.m3u8
+#EXTVLCOPT:http-referrer=https://s2.callofliberty.fr/direct1234/RTLtvi/master.m3u8
+https://s2.callofliberty.fr/direct1234/RTLtvi/master.m3u8
 #EXTINF:-1 tvg-id="RTLtvi.be" tvg-logo="https://github.com/Sibprod/SibTV/raw/main/logos/RTL%20club.png" group-title="|BE.F|" tvg-chno="815",RTL club
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.4.1 Safari/605.1.15
-#EXTVLCOPT:http-referrer=https://s2.callofliberty.fr/direct123/RTLclub/master.m3u8
-https://s2.callofliberty.fr/direct123/RTLclub/master.m3u8
+#EXTVLCOPT:http-referrer=https://s2.callofliberty.fr/direct1234/RTLclub/master.m3u8
+https://s2.callofliberty.fr/direct1234/RTLclub/master.m3u8
 #EXTINF:-1 tvg-id="RTLtvi.be" tvg-logo="https://github.com/Sibprod/SibTV/raw/main/logos/RTL%20plug.png" group-title="|BE.F|" tvg-chno="816",RTL plug
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.4.1 Safari/605.1.15
-#EXTVLCOPT:http-referrer=https://s2.callofliberty.fr/direct123/RTLplug/master.m3u8
-https://s2.callofliberty.fr/direct123/RTLplug/master.m3u8
+#EXTVLCOPT:http-referrer=https://s2.callofliberty.fr/direct1234/RTLplug/master.m3u8
+https://s2.callofliberty.fr/direct1234/RTLplug/master.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="|AF.BJ|" tvg-chno="901",ORTB
 https://strhls.streamakaci.tv/ortb/ortb1-multi/playlist.m3u8
