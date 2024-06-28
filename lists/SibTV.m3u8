@@ -32,9 +32,9 @@ https://vdo2.pro-fhi.net:3931/live/bvpazwtylive.m3u8
 #EXTINF:-1 tvg-id="SportenFrance.fr" tvg-logo="https://i.imgur.com/1IXQoWq.png" group-title="|RFS|",016.Sport En France
 https://sp1564435593.mytvchain.info/live/sp1564435593/index.m3u8
 #EXTINF:-1 tvg-id="Monacoinfo.mc" tvg-logo="http://www.mmd.mc/images/radio/mcinfo.png" group-title="|RFS|",018.Monaco Info
-https://webtvmonacoinfo.mc/live/prod_720/index.m3u8
+https://webtv.monacoinfo.com/live/prod_720/index.m3u8
 #EXTINF:-1 tvg-id="TVMonaco.mc" tvg-logo="https://uploads-ssl.webflow.com/64ef486c2dea3ecce41aa815/64ef4d4df9dc3aad9060ed45_Logo_Rouge_blanc0-p-500.png" group-title="|RFS|",019.TV Monaco
-https://production-fast-mcrtv.content.okast.tv/channels/2116dc08-1959-465d-857f-3619daefb66b/b702b2b9-aebd-436c-be69-2118f56f3d86/2025/media.m3u8
+https://production-fast-mcrtv.content.okast.tv/channels/2116dc08-1959-465d-857f-3619daefb66b/b702b2b9-aebd-436c-be69-2118f56f3d86/master.m3u8
 #EXTINF:-1 tvg-id="AntenneReunion.mu" tvg-logo="http://www.callofliberty.fr/tv/47-AntenneREUNION/47-AntenneREUNION.png" group-title="|RFS|",020.Antenne Réunion
 https://live-antenne-reunion.zeop.tv/live/c3eds/antreunihd/hls_fta/antreunihd.m3u8?location=ZEOP01
 #EXTINF:-1 tvg-logo="https://scontent.fctt1-1.fna.fbcdn.net/v/t39.30808-6/438059230_8392832187400283_2775075603314696881_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=njbIxhx9jHQQ7kNvgHCLIVj&_nc_ht=scontent.fctt1-1.fna&oh=00_AYD8WeA_yRl76ECSDjLE0l0fkuMeU3Uv88DMaT2aKTxAzw&oe=6684974F" group-title="|RFS|",021.GM TV
