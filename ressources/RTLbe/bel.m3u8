@@ -3,4 +3,3 @@
 #EXT-X-STREAM-INF:BANDWIDTH=3150000,RESOLUTION=1280x720,FRAME-RATE=25,CODECS="avc1.64001f,mp4a.40.2",AUDIO="aac-lc-96000"
 https://origin2-rtlbe.live.6cloud.fr/pool_z6h2o6qd/belrtl/rtlbehde/hls_short_fp10_belrtl/evyIdkW/vwY8N2N/index.m3u8
 #EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="aac-lc-96000",NAME="French",LANGUAGE="fre",AUTOSELECT=YES,DEFAULT=YES,CHANNELS="2",URI="https://origin2-rtlbe.live.6cloud.fr/pool_z6h2o6qd/rtltvi/rtlbehde/hls_short_fp00_rtltvi/NA/ayKqaBx/index.m3u8"
-https://origin2-rtlbe.live.6cloud.fr/pool_z6h2o6qd/belrtl/rtlbehde/hls_short_fp10_belrtl/NA/ayKqaBx/index.m3u8
