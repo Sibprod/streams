@@ -61,6 +61,8 @@ https://github.com/Paradise-91/ParaTV/raw/main/streams/tf1plus/lci.m3u8
 https://github.com/Sibprod/streams/raw/main/ressources/ftv/py/FranceInfo.m3u8
 #EXTINF:-1 tvg-id="ParisPremiere.fr" tvg-logo=" " group-title="|FR|" tvg-chno="41",Paris Première
 https://github.com/Sibprod/streams/raw/main/ressources/RTLfr/ParisPremiere.m3u8
+#EXTINF:-1 tvg-id="CanalPlusSport.fr" tvg-logo=" " group-title="|FR|" tvg-chno="42",Canal+ Sport
+https://dvrfl06.tulix.tv/astv/astv-canalplussport1/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Monacoinfo.mc" tvg-logo=" " group-title="|MC|" tvg-chno="70",Monaco Info
 https://webtv.monacoinfo.com/live/prod_720/index.m3u8
@@ -69,6 +71,8 @@ https://production-fast-mcrtv.content.okast.tv/channels/2116dc08-1959-465d-857f-
 
 #EXTINF:-1 tvg-id="TV5MondeEurope.fr" tvg-logo=" " group-title="|IT.F| tvg-chno="75",TV5 Monde [Europe]
 https://muutube.sonmezalp.com/proxy.php/https://ott.tv5monde.com/Content/HLS/Live/channel(europe)/index.m3u8
+#EXTINF:-1 tvg-id="France24.fr" tvg-logo=" " group-title="|IT.F| tvg-chno="76",France 24 [Français]
+https://bozztv.com/dvrfl05/gin-france24french/playlist.m3u8
 
 #EXTINF:-1 tvg-id="RTLTeleLetzebuerg.lu" tvg-logo=" " group-title="|LU|" tvg-chno="80",RTL Télé Lëtzebuerg
 https://live-edge.rtl.lu/channel1/smil:channel1/playlist.m3u8
