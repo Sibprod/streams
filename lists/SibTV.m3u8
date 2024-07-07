@@ -43,9 +43,10 @@ https://vdo3.pro-fhi.net:3696/stream/play.m3u8
 https://vdo3.pro-fhi.net:3931/live/unfnrwfclive.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/3/3e/La_Cinq_%281986-1987%29.svg/177px-La_Cinq_%281986-1987%29.svg.png" group-title="NosTelevision" tvg-chno="5",La Cinq
 https://vdo2.pro-fhi.net:3931/live/bvpazwtylive.m3u8
-#EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/be970b89-4bb4-4958-97e7-48a94d972cba-profile_image-70x70.png" group-title="NosTelevision" tvg-chno="9",RTL Plus
+#EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/be970b89-4bb4-4958-97e7-48a94d972cba-profile_image-70x70.png" group-title="NosTelevision" tvg-chno="9",RTL+
 https://vdo2.pro-fhi.net:3594/live/rmlegahmlive.m3u8
-
+#EXTINF:-1 tvg-id=" " tvg-logo="https://vdo3.pro-fhi.net/uploads/playerpic/poster_huulkskw.png" group-title="NosTelevision",Star Ciné
+https://vdo3.pro-fhi.net:3386/live/huulkskwlive.m3u8
 #EXTINF:-1 tvg-id=" " tvg-logo="https://github.com/Sibprod/SibTV/raw/main/assets/Ivoirechannel.png" group-title="Redmedia" tvg-chno="220",Ivoire Channel
 https://video1.getstreamhosting.com:1936/8244/8244/playlist.m3u8
 #EXTINF:-1 tvg-id=" " tvg-logo="https://github.com/Sibprod/SibTV/raw/main/assets/Cinemax.png" group-title="Redmedia" tvg-chno="221",Ciné Max
@@ -61,11 +62,11 @@ https://video1.getstreamhosting.com:1936/8492/8492/playlist.m3u8
 #EXTINF:-1 tvg-id=" " tvg-logo="https://github.com/Sibprod/SibTV/raw/main/assets/Seriemax.png" group-title="Redmedia" tvg-chno="230",Série Max
 https://video1.getstreamhosting.com:1936/8446/8446/playlist.m3u8
 
-#EXTINF:-1 channel-number=  tvg-id=" " tvg-name=" " tvg-logo="" tvg-name=" " group-title="XKS Digital",D5 TV
+#EXTINF:-1 channel-number=  tvg-id="D5tv.fr" tvg-name="D5TV" tvg-logo="https://i.imgur.com/FpNAT5b.png" group-title="XKS Digital",D5 TV
 https://accesiptv.com:443/mU2qjcVU8k/bZGV5sV2d3/591.m3u8
-#EXTINF:-1 channel-number=  tvg-id=" " tvg-name=" " tvg-logo="" tvg-name=" " group-title="XKS Digital",D5 Music
+#EXTINF:-1 channel-number=  tvg-id="D5Music.fr" tvg-name="D5Music" tvg-logo="https://i.imgur.com/IfhcbEt.png" group-title="XKS Digital",D5 Music
 https://accesiptv.com:443/mU2qjcVU8k/bZGV5sV2d3/592.m3u8
-#EXTINF:-1 channel-number=  tvg-id=" " tvg-name=" " tvg-logo="" tvg-name=" " group-title="XKS Digital",My Comedy
+#EXTINF:-1 channel-number=  tvg-id="MyComedy.fr" tvg-name="MyComedy" tvg-logo="https://i.imgur.com/pInICUY.png" group-title="XKS Digital",My Comedy
 https://accesiptv.com:443/mU2qjcVU8k/bZGV5sV2d3/590.m3u8
 
 #EXTINF:-1 tvg-id=" " tvg-logo="https://tv2free.ru/sites/default/files/styles/medium/public/tv-logo/tv-dance-tv.jpg?itok=r7XqJHTv" group-title="Autres",Dance Television
