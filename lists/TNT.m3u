@@ -126,7 +126,9 @@ https://s2.callofliberty.fr/direct1234/RTLclub/master.m3u8
 #EXTVLCOPT:http-referrer=https://s2.callofliberty.fr/direct1234/RTLplug/master.m3u8
 https://s2.callofliberty.fr/direct1234/RTLplug/master.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="|AF.BJ|" tvg-chno="901",ORTB
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="|AF.CI|" tvg-chno="905",A+ Ivoire
+https://dvrfl07.bozztv.com/astv-aplusivoire/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="|AF.BJ|" tvg-chno="911",ORTB
 https://strhls.streamakaci.tv/ortb/ortb1-multi/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Guadeloupe1ere.gp" tvg-logo="" group-title="|FR.GP|" tvg-chno="1971",Guadeloupe La 1ère
