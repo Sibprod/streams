@@ -45,6 +45,8 @@ https://vdo3.pro-fhi.net:3931/live/unfnrwfclive.m3u8
 https://vdo2.pro-fhi.net:3931/live/bvpazwtylive.m3u8
 #EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/be970b89-4bb4-4958-97e7-48a94d972cba-profile_image-70x70.png" group-title="NosTelevision" tvg-chno="9",RTL+
 https://vdo2.pro-fhi.net:3594/live/rmlegahmlive.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="NosTelevision" tvg-chno="11",Terror TV
+
 #EXTINF:-1 tvg-id=" " tvg-logo="https://vdo3.pro-fhi.net/uploads/playerpic/poster_huulkskw.png" group-title="NosTelevision",Star Ciné
 https://vdo3.pro-fhi.net:3386/live/huulkskwlive.m3u8
 #EXTINF:-1 tvg-id=" " tvg-logo="https://github.com/Sibprod/SibTV/raw/main/assets/Ivoirechannel.png" group-title="Redmedia" tvg-chno="220",Ivoire Channel
