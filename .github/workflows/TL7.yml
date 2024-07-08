@@ -35,5 +35,5 @@ emplois:
           
       - nom : commit & push
         courir: |
-          git commit -m "Télévision Locale du Choletais mise à jour"
+          git commit -m "TL7 mise à jour"
           git push
