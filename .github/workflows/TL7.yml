@@ -1,0 +1,39 @@
+nom : TL7
+
+sur:
+  calendrier:
+    - cron: '0 */4 * * *'
+  
+  workflow_dispatch :
+
+emplois:
+
+  construire:
+    fonctionne sur : ubuntu-latest
+
+    pas:
+
+      - utilise : actions/checkout@v2
+
+       
+      - nom : obtenir la configuration
+        courir: |
+          git config --global utilisateur.email "<>"
+          git config --global user.name "Mise à jour"
+
+      
+      - nom : récupérer le flux Twitch
+        courir: |
+          mot de passe
+          cd ./core/platforms/
+          python3 twitch.py tl7loire > ../../ressources/twitch/hls/TL7.m3u8
+        
+      - nom : tout ajouter
+        courir: |
+          git add -A
+          ls-la
+          
+      - nom : commit & push
+        courir: |
+          git commit -m "Télévision Locale du Choletais mise à jour"
+          git push
