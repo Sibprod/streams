@@ -234,7 +234,7 @@ https://streamtv.cdn.dvmr.fr/TVR/ngrp:tvr.stream_all/master.m3u8
 https://lives.digiteka.com/stream/bbb843db-8540-4156-98a5-b7c85da54d8e/index.m3u8
 #EXTINF:-1 tvg-id=" " tvg-logo="https://i.ibb.co/61mqv2h/biptv.png" group-title="|FR.REG|" tvg-chno="3636",36 - BIP TV
 https://biptv.tv/live/biptvstream_orig/index.m3u8
-#EXTINF:-1 tvg-id="C540.api.telerama.fr" tvg-logo="https://i.ibb.co/vDRB1fK/tvtloire.png" group-title="|FR.REG|" tvg-chno="3737",TV Tours - Val de Loire
+#EXTINF:-1 tvg-id="C540.api.telerama.fr" tvg-logo="https://i.ibb.co/vDRB1fK/tvtloire.png" group-title="|FR.REG|" tvg-chno="3737",37 - TV Tours - Val de Loire
 https://lives.digiteka.com/stream/920f083a-9e61-4c09-9bc2-bdb664063aa9/index.m3u8
-#EXTINF:-1 tvg-id="Telegrenoble.fr" tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/64e8bf3d-f86e-46a6-9874-978eac737828-profile_image-70x70.png" group-title="|FR.REG|" tvg-chno="3838",Télégrenoble Isère
+#EXTINF:-1 tvg-id="Telegrenoble.fr" tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/64e8bf3d-f86e-46a6-9874-978eac737828-profile_image-70x70.png" group-title="|FR.REG|" tvg-chno="3838",38 - Télégrenoble Isère
 https://github.com/Sibprod/streams/raw/main/ressources/twitch/hls/Telegrenoble.m3u8
