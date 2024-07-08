@@ -26,7 +26,7 @@ emplois:
         courir: |
           mot de passe
           cd ./core/platforms/
-          python3 twitch.py tl7loire > ../../ressources/twitch/hls/TL7.m3u8
+          python3 twitch.py ​​tl7loire > ../../ressources/twitch/hls/TL7.m3u8
         
       - nom : tout ajouter
         courir: |
