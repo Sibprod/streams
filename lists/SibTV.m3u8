@@ -71,6 +71,11 @@ https://accesiptv.com:443/mU2qjcVU8k/bZGV5sV2d3/592.m3u8
 #EXTINF:-1 channel-number=  tvg-id="MyComedy.fr" tvg-name="MyComedy" tvg-logo="https://i.imgur.com/pInICUY.png" group-title="XKS Digital",My Comedy
 https://accesiptv.com:443/mU2qjcVU8k/bZGV5sV2d3/590.m3u8
 
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="Limex TV",Canal C Junior
+https://helga.iptv2022.com/Canal_C_Junior/playlist.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="Limex TV",Star+ Novelas
+https://helga.iptv2022.com/Stars_Novelas/playlist.m3u8
+
 #EXTINF:-1 tvg-id=" " tvg-logo="https://tv2free.ru/sites/default/files/styles/medium/public/tv-logo/tv-dance-tv.jpg?itok=r7XqJHTv" group-title="Autres",Dance Television
 https://m2b2.worldcast.tv:7443/dancetelevisionfour/2/dancetelevisionfour.m3u8
 #EXTINF:-1 tvg-id="GTV1.gn" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/23136/logo_256_1707987204.png" group-title="Autres",GTV 1
