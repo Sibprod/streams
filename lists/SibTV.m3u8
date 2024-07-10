@@ -29,14 +29,6 @@ https://d2l55nvfkhk4sg.cloudfront.net/3/media.m3u8
 #EXTINF:-1 tvg-id=" " tvg-logo="https://i.ibb.co/KXhYwm0/lequipe.png" group-title="Amaury",L'Equipe Live Foot
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/lequipe/l-equipe-live-foot.m3u8
 
-#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="Canal",A+
-https://dvrfl07.bozztv.com/astv-aplusivoire/playlist.m3u8
-
-#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="Mediawan",Action
-https://dvrfl07.bozztv.com/astv-actionhd/playlist.m3u8
-#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="Mediawan",Chasse & Pêche
-https://dvrfl07.bozztv.com/astv-chassepeche/playlist.m3u8
-
 #EXTINF:-1 tvg-id=" " tvg-logo="https://scontent-fra3-1.xx.fbcdn.net/v/t39.30808-6/448810313_1191555161804007_2443947206609705850_n.png?_nc_cat=103&ccb=1-7&_nc_sid=cc71e4&_nc_ohc=cV-iQHtZ6xYQ7kNvgHcYnTm&_nc_ht=scontent-fra3-1.xx&oh=00_AYAsV_HH2rprHacyfI0Qo1ia1xQxhQPXD8mGxNjWEVmcVQ&oe=66847B7B" group-title="NosTelevision" tvg-chno="1",NTV
 https://vdo3.pro-fhi.net:3696/stream/play.m3u8
 #EXTINF:-1 tvg-logo="https://scontent.fctt1-1.fna.fbcdn.net/v/t39.30808-6/438059230_8392832187400283_2775075603314696881_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=njbIxhx9jHQQ7kNvgHCLIVj&_nc_ht=scontent.fctt1-1.fna&oh=00_AYD8WeA_yRl76ECSDjLE0l0fkuMeU3Uv88DMaT2aKTxAzw&oe=6684974F" group-title="NosTelevision" tvg-chno="2",GM TV
@@ -44,9 +36,9 @@ https://vdo3.pro-fhi.net:3931/live/unfnrwfclive.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/3/3e/La_Cinq_%281986-1987%29.svg/177px-La_Cinq_%281986-1987%29.svg.png" group-title="NosTelevision" tvg-chno="5",La Cinq
 https://vdo2.pro-fhi.net:3931/live/bvpazwtylive.m3u8
 #EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/be970b89-4bb4-4958-97e7-48a94d972cba-profile_image-70x70.png" group-title="NosTelevision" tvg-chno="9",RTL+
-https://vdo2.pro-fhi.net:3594/live/rmlegahmlive.m3u8
-#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="NosTelevision" tvg-chno="11",Terror TV
 
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="NosTelevision" tvg-chno="11",Terror TV
+https://vdo2.pro-fhi.net:3594/live/rmlegahmlive.m3u8
 #EXTINF:-1 tvg-id=" " tvg-logo="https://vdo3.pro-fhi.net/uploads/playerpic/poster_huulkskw.png" group-title="NosTelevision",Star Ciné
 https://vdo3.pro-fhi.net:3386/live/huulkskwlive.m3u8
 #EXTINF:-1 tvg-id=" " tvg-logo="https://github.com/Sibprod/SibTV/raw/main/assets/Ivoirechannel.png" group-title="Redmedia" tvg-chno="220",Ivoire Channel
@@ -73,6 +65,12 @@ https://accesiptv.com:443/mU2qjcVU8k/bZGV5sV2d3/590.m3u8
 
 #EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="Limex TV",Canal C Junior
 https://helga.iptv2022.com/Canal_C_Junior/playlist.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="Limex TV",Direct 7
+https://helga.iptv2022.com/DIRECT__7/playlist.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="Limex TV",GN TV
+https://helga.iptv2022.com/GN_TV/playlist.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="Limex TV",Next TV
+https://helga.iptv2022.com/Next_tv/playlist.m3u8
 #EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="Limex TV",Star+ Novelas
 https://helga.iptv2022.com/Stars_Novelas/playlist.m3u8
 
