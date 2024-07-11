@@ -74,11 +74,28 @@ https://helga.iptv2022.com/Next_tv/playlist.m3u8
 #EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="Cinéma-Séries",Star+ Novelas
 https://helga.iptv2022.com/Stars_Novelas/playlist.m3u8
 
-#EXTINF:-1 tvg-id=" " tvg-logo="https://tv2free.ru/sites/default/files/styles/medium/public/tv-logo/tv-dance-tv.jpg?itok=r7XqJHTv" group-title="Musique",Dance Television #Algorythm
+#EXTINF:-1 tvg-id=" " tvg-logo="https://tv2free.ru/sites/default/files/styles/medium/public/tv-logo/tv-dance-tv.jpg?itok=r7XqJHTv" group-title="Musique",Dance Television - Channel 1
+https://m1b2.worldcast.tv/dancetelevisionone/2/dancetelevisionone.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo="https://tv2free.ru/sites/default/files/styles/medium/public/tv-logo/tv-dance-tv.jpg?itok=r7XqJHTv" group-title="Musique",Dance Television - Channel 2 : #Deephousedistrict
+https://m1b2.worldcast.tv/dancetelevisiontwo/2/dancetelevisiontwo.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo="https://tv2free.ru/sites/default/files/styles/medium/public/tv-logo/tv-dance-tv.jpg?itok=r7XqJHTv" group-title="Musique",Dance Television - Channel 3 : #Technowarehouse
+https://m2b2.worldcast.tv:7443/dancetelevisionthree/2/dancetelevisionthree.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo="https://tv2free.ru/sites/default/files/styles/medium/public/tv-logo/tv-dance-tv.jpg?itok=r7XqJHTv" group-title="Musique",Dance Television - Channel 4 : #Algorhythm
 https://m2b2.worldcast.tv:7443/dancetelevisionfour/2/dancetelevisionfour.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo="https://tv2free.ru/sites/default/files/styles/medium/public/tv-logo/tv-dance-tv.jpg?itok=r7XqJHTv" group-title="Musique",Dance Television - Channel 5 : #Housefloor
+https://m2b2.worldcast.tv:7443/dancetelevisionfive/2/dancetelevisionfive.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo="https://tv2free.ru/sites/default/files/styles/medium/public/tv-logo/tv-dance-tv.jpg?itok=r7XqJHTv" group-title="Musique",Dance Television - Channel 6 : #MNML
+https://mbit1.worldcast.tv/dancetelevisionsix/multibit.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo="https://tv2free.ru/sites/default/files/styles/medium/public/tv-logo/tv-dance-tv.jpg?itok=r7XqJHTv" group-title="Musique",Dance Television - Channel 7 : #Mainstage
+https://mbit1.worldcast.tv/dancetelevisionseven/multibit.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo="https://tv2free.ru/sites/default/files/styles/medium/public/tv-logo/tv-dance-tv.jpg?itok=r7XqJHTv" group-title="Musique",Dance Television - Channel 8 : #ChillAF
+https://mbit1.worldcast.tv/dancetelevisioneight/multibit.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo="https://tv2free.ru/sites/default/files/styles/medium/public/tv-logo/tv-dance-tv.jpg?itok=r7XqJHTv" group-title="Musique",Dance Television - Channel 9 : #Melodictech
+https://mbit1.worldcast.tv/dancetelevisionnine/multibit.m3u8
+
 #EXTINF:-1 tvg-id="GTV1.gn" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/23136/logo_256_1707987204.png" group-title="Cinéma-Séries",GTV 1
 https://helga.iptv2022.com/GTV/index.m3u8
-#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="Musique",Kronehit TV
+#EXTINF:-1 tvg-id=" " tvg-logo="https://www.kronehit.at/static/base/main/img/logo.ecbaf631e769.png?v2" group-title="Musique",Kronehit TV
 https://bitcdn-kronehit.bitmovin.com/v2/hls/playlist.m3u8
 #EXTINF:-1 tvg-id="LN24.be" tvg-logo="https://raw.githubusercontent.com/Sibprod/SibTV/main/assets/LN24.png" group-title="Information",LN24
 https://live-ln24.digiteka.com/1911668011/playlist.m3u8
@@ -92,7 +109,7 @@ https://sp1564435593.mytvchain.info/live/sp1564435593/index.m3u8
 
 #EXTINF:-1 tvg-id=" " tvg-logo="https://vdo.pro-fhi.net/uploads/directorylists/kbawbfec.jpg" group-title="Musique",UTV
 https://vdo.pro-fhi.net:3744/stream/play.m3u8
-#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="Autres",Vibe To Beat
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="Musique",Vibe To Beat
 https://abr.de1se01.v2beat.live/playlist.m3u8
 #EXTINF:-1 tvg-id=" " tvg-logo="https://upload.wikimedia.org/wikipedia/fr/1/1e/Viva-Logo.png?20061019084414" group-title="Musique",Viva Russia
 https://hls.goodgame.ru/manifest/180805_master.m3u8
