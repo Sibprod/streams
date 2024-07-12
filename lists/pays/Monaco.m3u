@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="Monacoinfo.mc" tvg-logo=" " group-title="Information",Monaco Info
+#EXTINF:-1 tvg-id="Monacoinfo.mc" tvg-logo="https://monacoinfo.com/wp-content/themes/monacoinfo_v4/assets/img/monacoinfo-color.png" group-title="Information",Monaco Info
 https://webtv.monacoinfo.com/live/prod_720/index.m3u8
 #EXTINF:-1 tvg-id="Superyacht.mc" tvg-logo="https://superyacht.tv/media/cache/header_main_logo/bundles/app/img/logo.png" group-title="Style de Vie",SuperYacht.TV
 https://sy.wns.live/hls/stream.m3u8
