@@ -1,0 +1,7 @@
+#EXTM3U
+#EXTINF:-1,BX1
+https://59959724487e3.streamlock.net/stream/live/playlist.m3u8
+#EXTINF:-1,Ketnet Junior
+https://virtch.vrtcdn.be/v1/channel/KETNET_JUNIOR_PROD_MPEG_DASH/ketnet_junior_prod_mpeg_dash-dash.mpd
+#EXTINF:-1,VTM
+https://dpp-live-events.medialaancdn.be/events/hls/aes/webstream1.m3u8
