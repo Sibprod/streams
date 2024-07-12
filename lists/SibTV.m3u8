@@ -18,6 +18,8 @@ https://github.com/Sibprod/streams/raw/main/ressources/ftv/py/FranceTVDocs.m3u8
 https://github.com/Sibprod/streams/raw/main/ressources/dm/py/hls/lyoncapitale.m3u8
 #EXTINF:-1 tvg-id="Direct7.tg" tvg-logo="https://direct7.tg/wp-content/uploads/2021/10/LOGO-PNG-1.png" group-title="Découverte",Direct 7
 https://helga.iptv2022.com/DIRECT__7/playlist.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/26510/logo_256_1717486539.jpg" group-title="Découverte",Voyages+
+https://streams2.sofast.tv/ptnr-limex/title-VOYAGES-FRE_LIMEX/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/c30aa0d0-fb77-4f9b-8acf-b156ab5b969b/manifest.m3u8
 
 #EXTGRP:Information
 #EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="Information",TV5 Monde Info
