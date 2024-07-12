@@ -1,0 +1,27 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="Canal9.ch" tvg-logo="" tvg-logo="Régionales",Canal 9
+http://livehd.vedge.infomaniak.com/livecast/livehd/manifest.m3u8
+#EXTINF:-1 tvg-id="CanalAlpha.ch" tvg-logo="https://callofliberty.fr/tv/304-canalalpha/304-canalalpha.png" tvg-logo="Régionales",Canal Alpha [Jura]
+http://canalalphaju.vedge.infomaniak.com/livecast/canalalphaju/manifest.m3u8
+#EXTINF:-1 tvg-id="CanalAlpha.ch" tvg-logo="https://callofliberty.fr/tv/304-canalalpha/304-canalalpha.png" tvg-logo="Régionales",Canal Alpha [Neuchâtel]
+http://canalalpha.vedge.infomaniak.com/livecast/canalalpha/manifest.m3u8
+#EXTINF:-1 tvg-id="RougeTV.ch" tvg-logo="https://callofliberty.fr/tv/305-carac1/305-carac1.png" tvg-logo="Divertissement",Carac 1
+http://rougetv.vedge.infomaniak.com/livecast/rougetv/manifest.m3u8
+#EXTINF:-1 tvg-id="OneTV.ch" tvg-logo="https://callofliberty.fr/tv/306-carac2/306-carac2.png" tvg-logo="Divertissement",Carac 2
+http://onefmhd.vedge.infomaniak.com/livecast/onefmhd/manifest.m3u8
+#EXTINF:-1 tvg-id="LFMTV.ch" tvg-logo="https://callofliberty.fr/tv/307-carac3/307-carac3.png" tvg-logo="Divertissement",Carac 3
+http://lfmhd.vedge.infomaniak.com/livecast/lfmhd/manifest.m3u8
+#EXTINF:-1 tvg-id="TVSuissePlus.ch" tvg-logo="https://callofliberty.fr/tv/308-carac4/308-carac4.png" tvg-logo="Divertissement",Carac 4
+http://compack_media_1.vedge.infomaniak.com/livecast/compack_media_1/manifest.m3u8
+#EXTINF:-1 tvg-id="Latele.ch" tvg-logo="Régionales",La Télé
+http://latele.vedge.infomaniak.com/livecast/latele/manifest.m3u8
+#EXTINF:-1 tvg-id="Lemanbleu.ch" tvg-logo="Régionales",Léman Bleu
+http://naxoo.vedge.infomaniak.com/livecast/naxoo/manifest.m3u8
+#EXTINF:-1 tvg-id="CanalplusSuisse.ch" tvg-logo="Musique",M Le Media
+https://github.com/Sibprod/streams/raw/main/ressources/dm/py/hls/mlemedia.m3u8
+#EXTINF:-1 tvg-id="Radio3i.ch" tvg-logo=" " group-title="Musique",Radio 3i
+https://vstream-cdn.ch/hls/radio3i.m3u8
+#EXTINF:-1 tvg-id="Couleur3.ch" tvg-logo=" " group-title="Musique",RTS Couleur 3
+https://rtsc3video.akamaized.net/hls/live/2042837/c3video/3/playlist.m3u8
+#EXTINF:-1 tvg-id="Telebielingue.ch" tvg-logo="Régionales",Telebielingue
+http://telebielinguech.vedge.infomaniak.com/livecast/telebielinguech/manifest.m3u8
