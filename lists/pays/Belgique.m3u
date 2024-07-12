@@ -1,7 +1,28 @@
 #EXTM3U
-#EXTINF:-1,BX1
+#EXTINF:-1 tvg-id="BelRTL.be" tvg-logo="https://i.imgur.com/ljbdWkC.png" group-title="Divertissement",bel RTL
+https://github.com/Sibprod/streams/raw/main/ressources/RTLbe/BelRTL.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="Régionales",BX1
 https://59959724487e3.streamlock.net/stream/live/playlist.m3u8
-#EXTINF:-1,Ketnet Junior
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="Musique",Fun Radio
+https://github.com/Sibprod/streams/raw/main/ressources/dm/py/hls/funradiobe.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="Musique",Joe FM
+https://dpp-streamlive-plain.medialaancdn.be/joe_kijklive/plain/hls_hd.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="Jeunesse",Ketnet Junior
 https://virtch.vrtcdn.be/v1/channel/KETNET_JUNIOR_PROD_MPEG_DASH/ketnet_junior_prod_mpeg_dash-dash.mpd
-#EXTINF:-1,VTM
+#EXTINF:-1 tvg-id="NRJ.be" tvg-logo="https://i.imgur.com/ljbdWkC.png" group-title="Musique",NRJ
+https://tv.ngroup.be/live/ngrp:nrj_all/playlist.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="Musique",Q-Music
+https://dpp-streamlive-plain.medialaancdn.be/qmusic/plain/hls.m3u8
+#EXTINF:-1 tvg-id="RadioContact.be" tvg-logo="https://i.imgur.com/ljbdWkC.png" group-title="Musique",Radio Contact
+https://github.com/Sibprod/streams/raw/main/ressources/RTLbe/Contactvision.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="Musique",Radio Pros
+https://558bd16067b67.streamlock.net/radiopros/livestream/playlist.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="Divertissement",VTM
 https://dpp-live-events.medialaancdn.be/events/hls/aes/webstream1.m3u8
+
+
+
+
+
+
+
