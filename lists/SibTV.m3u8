@@ -1,4 +1,5 @@
 #EXTM3U
+#EXTGRP:Général
 #EXTINF:-1 channel-number=  tvg-id="D5tv.fr" tvg-name="D5TV" tvg-logo="https://i.imgur.com/FpNAT5b.png" group-title="Général",D5 TV
 https://accesiptv.com:443/mU2qjcVU8k/bZGV5sV2d3/591.m3u8
 #EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="Général",Direct 7
@@ -6,19 +7,23 @@ https://helga.iptv2022.com/DIRECT__7/playlist.m3u8
 #EXTINF:-1 tvg-id="A12TV.fr" tvg-logo="https://i.imgur.com/JgnjgvF.png" group-title="Général" tvg-chno="224",A12 TV
 https://video1.getstreamhosting.com:1936/8250/8250/playlist.m3u8
 
+#EXTGRP:Divertissement
 #EXTINF:-1 tvg-id=" " tvg-logo="https://github.com/Sibprod/SibTV/raw/main/assets/Ivoirechannel.png" group-title="Divertissement" tvg-chno="220",Ivoire Channel
 https://video1.getstreamhosting.com:1936/8244/8244/playlist.m3u8
 #EXTINF:-1 channel-number=  tvg-id="MyComedy.fr" tvg-name="MyComedy" tvg-logo="https://i.imgur.com/pInICUY.png" group-title="Divertissement",My Comedy
 https://accesiptv.com:443/mU2qjcVU8k/bZGV5sV2d3/590.m3u8
 
+#EXTGRP:Découverte
 #EXTINF:-1 tvg-id=" " tvg-logo="https://i.imgur.com/imvOEt6.png" group-title="Découverte",France TV Docs
 https://github.com/Sibprod/streams/raw/main/ressources/ftv/py/FranceTVDocs.m3u8
 
+#EXTGRP:Information
 #EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="Information",TV5 Monde [Info]
 https://ott.tv5monde.com/Content/HLS/Live/channel(info)/index.m3u8
 #EXTINF:-1 tvg-id="LN24.be" tvg-logo="https://raw.githubusercontent.com/Sibprod/SibTV/main/assets/LN24.png" group-title="Information",LN24
 https://live-ln24.digiteka.com/1911668011/playlist.m3u8
 
+#EXTGRP:Cinéma et Séries
 #EXTINF:-1 tvg-id=" " tvg-logo="https://i.imgur.com/cbcIKCT.png" group-title="Cinéma-Séries",France TV Séries
 https://github.com/Sibprod/streams/raw/main/ressources/ftv/py/FranceTVSeries.m3u8
 #EXTINF:-1 tvg-id=" " tvg-logo="https://github.com/Sibprod/SibTV/raw/main/assets/Cinemax.png" group-title="Cinéma-Séries" tvg-chno="221",Ciné Max
@@ -48,6 +53,7 @@ https://vdo2.pro-fhi.net:3594/live/rmlegahmlive.m3u8
 #EXTINF:-1 tvg-id=" " tvg-logo="https://vdo3.pro-fhi.net/uploads/playerpic/poster_huulkskw.png" group-title="Cinéma-Séries",Star Ciné
 https://vdo3.pro-fhi.net:3386/live/huulkskwlive.m3u8
 
+#EXTGRP:Sport
 #EXTINF:-1 tvg-id="SportenFrance.fr" tvg-logo="https://i.imgur.com/1IXQoWq.png" group-title="Sport",Sport En France
 https://sp1564435593.mytvchain.info/live/sp1564435593/index.m3u8
 #EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="Sport",France TV Paris 2024
@@ -63,11 +69,13 @@ https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/lequipe/l-equi
 #EXTINF:-1 tvg-id=" " tvg-logo="https://pancrace.tv/uploads/images/logo_site_small_1485347403.jpg" group-title="Sport",Pancrace TV
 https://stream2.mandarine.media/pancracetv/pancracetv/playlist.m3u8
 
+#EXTGRP:Jeunesse
 #EXTINF:-1 tvg-id=" " tvg-logo="https://github.com/Sibprod/SibTV/raw/main/assets/FitiniTV.png" group-title="Jeunesse" tvg-chno="229",Fitini TV
 https://video1.getstreamhosting.com:1936/8492/8492/playlist.m3u8
 #EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="Jeunesse",Canal C Junior
 https://helga.iptv2022.com/Canal_C_Junior/playlist.m3u8
 
+#EXTGRP:Musique
 #EXTINF:-1 channel-number=  tvg-id="D5Music.fr" tvg-name="D5Music" tvg-logo="https://i.imgur.com/IfhcbEt.png" group-title="Musique",D5 Music
 https://accesiptv.com:443/mU2qjcVU8k/bZGV5sV2d3/592.m3u8
 #EXTINF:-1 tvg-id=" " tvg-logo="https://tv2free.ru/sites/default/files/styles/medium/public/tv-logo/tv-dance-tv.jpg?itok=r7XqJHTv" group-title="Musique",Dance Television - Channel 1
