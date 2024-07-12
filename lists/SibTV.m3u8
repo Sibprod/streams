@@ -14,6 +14,8 @@ https://accesiptv.com:443/mU2qjcVU8k/bZGV5sV2d3/590.m3u8
 #EXTGRP:Découverte
 #EXTINF:-1 tvg-id=" " tvg-logo="https://i.imgur.com/imvOEt6.png" group-title="Découverte",France TV Docs
 https://github.com/Sibprod/streams/raw/main/ressources/ftv/py/FranceTVDocs.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo="https://www.jpl-productions.fr/wp-content/uploads/2020/06/Lyon-Capitale-TV-logo.png" group-title="Découverte",Lyon Capitale TV
+https://github.com/Sibprod/streams/raw/main/ressources/dm/py/hls/lyoncapitale.m3u8
 #EXTINF:-1 tvg-id="Direct7.tg" tvg-logo="https://direct7.tg/wp-content/uploads/2021/10/LOGO-PNG-1.png" group-title="Découverte",Direct 7
 https://helga.iptv2022.com/DIRECT__7/playlist.m3u8
 
