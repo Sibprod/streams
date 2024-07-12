@@ -1,9 +1,0 @@
-#EXTM3U
-#EXTINF:-1,RU.TV (Live 1080p)
-https://hls-03-video.webcaramba.com/rutv/live_1080/index.m3u8
-#EXTINF:-1,RU.TV (Live 720p)
-https://hls-03-video.webcaramba.com/rutv/live_720/index.m3u8
-#EXTINF:-1,RU.TV (Live 480p)
-https://hls-03-video.webcaramba.com/rutv/live_480/index.m3u8
-#EXTINF:-1,RU.TV (Live 360p)
-https://hls-03-video.webcaramba.com/rutv/live_360/index.m3u8
