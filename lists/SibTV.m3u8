@@ -68,6 +68,8 @@ https://d2l55nvfkhk4sg.cloudfront.net/3/media.m3u8
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/lequipe/l-equipe-live-foot.m3u8
 #EXTINF:-1 tvg-id=" " tvg-logo="https://pancrace.tv/uploads/images/logo_site_small_1485347403.jpg" group-title="Sport",Pancrace TV
 https://stream2.mandarine.media/pancracetv/pancracetv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://bordomediagroup.fr/wp-content/uploads/2023/03/LOGO-BORDO-TV-BLANC-ET-ROUGE-RECTANGULAIRE-768x255.png" group-title="Sport",Bordo TV Sport
+https://srv.webtvmanager.fr:3225/stream/play.m3u8
 
 #EXTGRP:Jeunesse
 #EXTINF:-1 tvg-id=" " tvg-logo="https://github.com/Sibprod/SibTV/raw/main/assets/FitiniTV.png" group-title="Jeunesse" tvg-chno="229",Fitini TV
