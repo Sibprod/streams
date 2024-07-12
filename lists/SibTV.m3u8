@@ -1,14 +1,12 @@
 #EXTM3U
 #EXTGRP:Général
-#EXTINF:-1 channel-number=  tvg-id="D5tv.fr" tvg-name="D5TV" tvg-logo="https://i.imgur.com/FpNAT5b.png" group-title="Général",D5 TV
+#EXTINF:-1 tvg-id="D5tv.fr" tvg-name="D5TV" tvg-logo="https://i.imgur.com/FpNAT5b.png" group-title="Général",D5 TV
 https://accesiptv.com:443/mU2qjcVU8k/bZGV5sV2d3/591.m3u8
-#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="Général",Direct 7
-https://helga.iptv2022.com/DIRECT__7/playlist.m3u8
-#EXTINF:-1 tvg-id="A12TV.fr" tvg-logo="https://i.imgur.com/JgnjgvF.png" group-title="Général" tvg-chno="224",A12 TV
+#EXTINF:-1 tvg-id="A12TV.fr" tvg-logo="https://i.imgur.com/JgnjgvF.png" group-title="Général",A12 TV
 https://video1.getstreamhosting.com:1936/8250/8250/playlist.m3u8
 
 #EXTGRP:Divertissement
-#EXTINF:-1 tvg-id=" " tvg-logo="https://github.com/Sibprod/SibTV/raw/main/assets/Ivoirechannel.png" group-title="Divertissement" tvg-chno="220",Ivoire Channel
+#EXTINF:-1 tvg-id=" " tvg-logo="https://github.com/Sibprod/SibTV/raw/main/assets/Ivoirechannel.png" group-title="Divertissement",Ivoire Channel
 https://video1.getstreamhosting.com:1936/8244/8244/playlist.m3u8
 #EXTINF:-1 channel-number=  tvg-id="MyComedy.fr" tvg-name="MyComedy" tvg-logo="https://i.imgur.com/pInICUY.png" group-title="Divertissement",My Comedy
 https://accesiptv.com:443/mU2qjcVU8k/bZGV5sV2d3/590.m3u8
@@ -16,9 +14,11 @@ https://accesiptv.com:443/mU2qjcVU8k/bZGV5sV2d3/590.m3u8
 #EXTGRP:Découverte
 #EXTINF:-1 tvg-id=" " tvg-logo="https://i.imgur.com/imvOEt6.png" group-title="Découverte",France TV Docs
 https://github.com/Sibprod/streams/raw/main/ressources/ftv/py/FranceTVDocs.m3u8
+#EXTINF:-1 tvg-id="Direct7.tg" tvg-logo="https://direct7.tg/wp-content/uploads/2021/10/LOGO-PNG-1.png" group-title="Découverte",Direct 7
+https://helga.iptv2022.com/DIRECT__7/playlist.m3u8
 
 #EXTGRP:Information
-#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="Information",TV5 Monde [Info]
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="Information",TV5 Monde Info
 https://ott.tv5monde.com/Content/HLS/Live/channel(info)/index.m3u8
 #EXTINF:-1 tvg-id="LN24.be" tvg-logo="https://raw.githubusercontent.com/Sibprod/SibTV/main/assets/LN24.png" group-title="Information",LN24
 https://live-ln24.digiteka.com/1911668011/playlist.m3u8
