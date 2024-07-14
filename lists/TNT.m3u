@@ -10,13 +10,13 @@ https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/canalplus/cana
 #EXTINF:-1 tvg-id="France5.fr" tvg-logo="https://github.com/Sibprod/SibTV/raw/main/logos/France%205.png" group-title="|FR|" tvg-chno="5",France 5
 https://github.com/Sibprod/streams/raw/main/ressources/ftv/py/France5.m3u8
 #EXTINF:-1 tvg-id="M6.fr" tvg-logo="https://github.com/Sibprod/SibTV/raw/main/logos/M6.png" group-title="|FR|" tvg-chno="6",M6
-https://github.com/Sibprod/streams/raw/main/ressources/divers/M6_iptv.m3u8
+https://accesiptv.com:443/mU2qjcVU8k/bZGV5sV2d3/70.m3u8
 #EXTINF:-1 tvg-id="Arte.fr" tvg-logo="https://api.tv.init7.net/media/logos/2130_arte.fr.png" group-title="|FR|" tvg-chno="7",ARTE [France]
 https://artesimulcast.akamaized.net/hls/live/2031003/artelive_fr/index.m3u8
 #EXTINF:-1 tvg-id="C8.fr" tvg-logo="https://api.tv.init7.net/media/logos/2136_C8.fr.png" group-title="|FR|" tvg-chno="8",C8
 https://github.com/Sibprod/streams/raw/main/ressources/dm/py/hls/c8.m3u8
 #EXTINF:-1 tvg-id="W9.fr" tvg-logo="https://callofliberty.fr/tv/9-W9/9-W9.png" group-title="|FR|" tvg-chno="9",W9
-https://github.com/Sibprod/streams/raw/main/ressources/divers/W9_iptv.m3u8
+https://accesiptv.com:443/mU2qjcVU8k/bZGV5sV2d3/76.m3u8
 #EXTINF:-1 tvg-id="TMC.fr" tvg-logo="https://github.com/Sibprod/SibTV/raw/main/logos/TMC.png" group-title="|FR|" tvg-chno="10",TMC
 https://github.com/Paradise-91/ParaTV/raw/main/streams/tf1plus/tmc.m3u8
 #EXTINF:-1 tvg-id="TFX.fr" tvg-logo="https://github.com/Sibprod/SibTV/raw/main/logos/TFX.png" group-title="|FR|" tvg-chno="11",TFX
@@ -40,7 +40,7 @@ https://github.com/Sibprod/streams/raw/main/ressources/RTLfr/Gulli.m3u8
 #EXTINF:-1 tvg-id="TF1SeriesFilms.fr" tvg-logo="https://github.com/Sibprod/SibTV/raw/main/logos/TF1%20Series%20Films.png" group-title="|FR|" tvg-chno="20",TF1 Séries Films
 https://github.com/Paradise-91/ParaTV/raw/main/streams/tf1plus/tf1sf.m3u8
 #EXTINF:-1 tvg-id="LEquipe.fr" tvg-logo="https://callofliberty.fr/tv/21-LEQUIPE/21-LEQUIPE.png" group-title="|FR|" tvg-chno="21",L'Equipe
-https://github.com/Sibprod/streams/raw/main/ressources/dm/py/hls/Lequipe.m3u8
+https://accesiptv.com:443/mU2qjcVU8k/bZGV5sV2d3/95.m3u8
 #EXTINF:-1 tvg-id="6ter.fr" tvg-logo="https://callofliberty.fr/tv/22-6ter/22-6ter.png" group-title="|FR|" tvg-chno="22",6ter
 https://github.com/Sibprod/streams/raw/main/ressources/divers/6ter_iptv.m3u8
 #EXTINF:-1 tvg-id="RMCStory.fr" tvg-logo="https://api.tv.init7.net/media/logos/2157_RMCStory.fr.png" group-title="|FR|" tvg-chno="23",RMC Story
