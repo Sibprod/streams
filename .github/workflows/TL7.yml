@@ -1,31 +1,30 @@
 nom : TL7
 
-sur:
-  calendrier:
+on:
+  schedule:
     - cron: '0 */4 * * *'
   
-  workflow_dispatch :
+  workflow_dispatch:
 
-emplois:
+jobs:
 
-  construire:
-    fonctionne sur : ubuntu-latest
+  build:
+    runs-on: ubuntu-latest
 
-    pas:
+    steps:
 
-      - utilise : actions/checkout@v2
+      - uses: actions/checkout@v2
 
        
-      - nom : obtenir la configuration
-        courir: |
-          git config --global utilisateur.email "<>"
-          git config --global user.name "Mise à jour"
+      - name: get config
+        run: |
+          git config --global user.email "<>"
+          git config --global user.name "Update"
 
       
-      - nom : récupérer le flux Twitch
-        courir: |
-          mot de passe
-          cd ./core/platforms/
+      - name: grab twitch stream
+        run: |
+          pwd
           python3 twitch.py ​​tl7loire > ../../ressources/twitch/hls/TL7.m3u8
         
       - nom : tout ajouter
