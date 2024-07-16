@@ -27,13 +27,13 @@ jobs:
           pwd
           cd ./core/platforms/
           python3 twitch.py ​​tl7loire > ../../ressources/twitch/hls/TL7.m3u8
-        
-      - nom : tout ajouter
-        courir: |
-          git add -A
-          ls-la
           
-      - nom : commit & push
-        courir: |
-          git commit -m "TL7 mise à jour"
+      - name: adding everything
+        run: |
+          git add -A
+          ls -la 
+          
+      - name: commit & push
+        run: |
+          git commit -m "TL7 update"
           git push
