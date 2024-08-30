@@ -1,5 +1,0 @@
-#EXTM3U
-#EXT-X-STREAM-INF:RESOLUTION=320x180,FRAME-RATE=25.000000,BANDWIDTH=475136,CODECS="avc1.42000c,mp4a.40.5",NAME="240"
-https://live-b.cf.dmcdn.net/sec2(eQYf6zOaXmhdone0mWTXCn_bABxSiRJMgI8o-rpEjmJFjEn5AogI0K0jiGrfe5FF_LmfUCfHJ3A5q6EyiqDXZAPWk4VmwjfcxrnQ4TBifHI)/dm/3/x2j7igz/s/live-240.m3u8#cell=lcfb
-#EXT-X-STREAM-INF:RESOLUTION=156x88,FRAME-RATE=12.500000,BANDWIDTH=142336,CODECS="avc1.42000a,mp4a.40.5",NAME="144"
-https://live-b.cf.dmcdn.net/sec2(eQYf6zOaXmhdone0mWTXCn_bABxSiRJMgI8o-rpEjmJFjEn5AogI0K0jiGrfe5FF_LmfUCfHJ3A5q6EyiqDXZAPWk4VmwjfcxrnQ4TBifHI)/dm/3/x2j7igz/s/live-144.m3u8#cell=lcfb
