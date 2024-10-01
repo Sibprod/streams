@@ -1,1 +1,3 @@
-https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/infos/barkers/info.m3u8
+#EXTM3U
+#EXT-X-STREAM-INF:RESOLUTION=320x180,FRAME-RATE=29.970030,BANDWIDTH=475136,CODECS="avc1.42000d,mp4a.40.5",NAME="240"
+https://live-c.cf.dmcdn.net/sec2(QYeF0mLadnPJ-juHUyETzVaXtZLpDaX0r8OdJhUIFtOiGvzjE2MpYBq2_hBbH1-Yo8FU8AzCZV5-h4YMVEa5CVRYAJ6bxx19QRbdVDmCp1s-LOcDsDy3i2Q_bzQ13-VT)/dm/3/x7q8vr3/s/live-240.m3u8#cell=lcfc
