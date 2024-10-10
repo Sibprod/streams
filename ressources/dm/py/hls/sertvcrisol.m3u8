@@ -1,5 +1,1 @@
-#EXTM3U
-#EXT-X-STREAM-INF:RESOLUTION=512x288,FRAME-RATE=30.000000,BANDWIDTH=782336,CODECS="avc1.420015,mp4a.40.5",NAME="380"
-https://live-b.cf.dmcdn.net/sec2(0QUXEkcf8Qs_dqE0PpWeLdgE_OiW7Gfff9LKWF66-7v8nXZOHig2GPNbhl93Ky4trwcHGVyVdGCKgxj2uDL3bevtOZsSIF7yMu1mdHRtGDD1Im1DejjlYXsatDWhyM3x)/dm/3/x891uq3/s/live-380.m3u8#cell=lcfb
-#EXT-X-STREAM-INF:RESOLUTION=320x180,FRAME-RATE=30.000000,BANDWIDTH=475136,CODECS="avc1.42000d,mp4a.40.5",NAME="240"
-https://live-b.cf.dmcdn.net/sec2(0QUXEkcf8Qs_dqE0PpWeLdgE_OiW7Gfff9LKWF66-7v8nXZOHig2GPNbhl93Ky4trwcHGVyVdGCKgxj2uDL3bevtOZsSIF7yMu1mdHRtGDD1Im1DejjlYXsatDWhyM3x)/dm/3/x891uq3/s/live-240.m3u8#cell=lcfb
+https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/infos/barkers/info.m3u8
