@@ -4,7 +4,7 @@ import requests
 
 s = requests.Session()
 idvideo = line.split('/')[-1]
-        url = f'https://www.dailymotion.com/player/metadata/video/x5gv5v0'
+        url = f'https://www.dailymotion.com/video/x5gv5v0'
 response = requests.get(url).json()
         stream_url = response['qualities']['auto'][0]['url']
         m3u = requests.get(stream_url).text
