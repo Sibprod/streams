@@ -3,6 +3,6 @@
 import requests
 
 s = requests.Session()
-response = s.get('https://pwultrp.alwaysdata.net/equipe.php?m3u8')
+response = s.get('https://www.dailymotion.com/video/x2lefik')
 
 print(response.text)
