@@ -1,4 +1,4 @@
-name: equidia action
+name: Equidia action
 
 on:
   schedule:
@@ -19,7 +19,7 @@ jobs:
           git config --global user.name "equidia bot"
       
       - name: updating equidia
-        run: sh ${GITHUB_WORKSPACE}/parser/equidia.sh
+        run: sh ${GITHUB_WORKSPACE}/parser/Equidia.sh
         
       - name: git add
         run: |
@@ -28,5 +28,5 @@ jobs:
           
       - name: commit & push
         run: |
-          git commit -m "equidia updated"
+          git commit -m "Equidia updated"
           git push
