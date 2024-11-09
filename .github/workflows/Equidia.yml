@@ -19,7 +19,7 @@ jobs:
           git config --global user.name "equidia bot"
       
       - name: updating Equidia
-        run: sh equidia/py/equidia.sh
+        run: sh ressources/equidia/py/equidia.sh
         
       - name: git add
         run: |
