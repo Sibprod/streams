@@ -1,8 +1,8 @@
-name: Equidia action
+name: equidia action
 
 on:
   schedule:
-    - cron: '0 */4 * * *'
+    - cron: '55 */4 * * *'
   
   workflow_dispatch:
 
@@ -10,7 +10,7 @@ jobs:
   runscript:
     runs-on: ubuntu-latest
     steps:
-      # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
+
       - uses: actions/checkout@v2
       
       - name: config
@@ -19,7 +19,7 @@ jobs:
           git config --global user.name "equidia bot"
       
       - name: updating equidia
-        run: sh ${GITHUB_WORKSPACE}/parser/Equidia.sh
+        run: sh ressources/equidia/py/equidi.sh
         
       - name: git add
         run: |
@@ -28,5 +28,5 @@ jobs:
           
       - name: commit & push
         run: |
-          git commit -m "Equidia updated"
+          git commit -m "equidia updated"
           git push
