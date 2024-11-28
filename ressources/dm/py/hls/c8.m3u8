@@ -1,9 +1,9 @@
 #EXTM3U
 #EXT-X-STREAM-INF:RESOLUTION=512x288,FRAME-RATE=25.000000,BANDWIDTH=782336,CODECS="avc1.420015,mp4a.40.5",NAME="380"
-https://live-b.cf.dmcdn.net/sec2(xPuXtj-vL8FdejYOsmPCt_uNJDaw4_HXdJ3krF3GY9JHdSSWZ4QPJ4lwNvAesC7Kq4ThrOuba9VPcULgnJkGUT26vLMZbXPKU3vFFwFX_eY6usUvrcxTIcVw0c7X4yoy)/dm/3/x5gv5rr/d/live-380.m3u8#cell=lcfb
+https://live-b.cf.dmcdn.net/sec2(3aXWvG2BYk_7tfpslbAEKn8x82hICc-q0dqiDN_CNvYnyooT-_AkfL2GcVA9f3JRp5FnJOcA8EstU0SbYqkmZ8omSuHg7QPuHmN4VOHOXbelVBopkqomOA-b9JtWO5Au)/dm/3/x5gv5rr/d/live-380.m3u8#cell=lcfb
 #EXT-X-STREAM-INF:RESOLUTION=512x288,FRAME-RATE=25.000000,BANDWIDTH=782336,CODECS="avc1.420015,mp4a.40.5",NAME="380"
-https://live-c.cf.dmcdn.net/sec2(a44hDsc3uBDZ6kAVWkTUo2fLpiMIZxKzmU0_tw5O0SRLPgHmNCJ3vc8Eu7pck6JZlgE0wIiZhR21ABKYe_fqDDStacLoomFcg78hVF00fzgn_5CoqSQ4h8nws5YZ_8JF)/dm/3/x5idx4k/d/live-380.m3u8
+https://live-c.cf.dmcdn.net/sec2(7MqkEpnhcTJNlKR19q9j9q4a6vwlSbr4efSsn6wP6mijet0AQEzNIM-TmNWEFPy-iloTTdcPS6mHw_JfQu68LivuqebSyXrvyBndAlYY8thg5IwUsO11-zWUn40YKryl)/dm/3/x5idx4k/d/live-380.m3u8
 #EXT-X-STREAM-INF:RESOLUTION=320x180,FRAME-RATE=25.000000,BANDWIDTH=475136,CODECS="avc1.42000c,mp4a.40.5",NAME="240"
-https://live-b.cf.dmcdn.net/sec2(xPuXtj-vL8FdejYOsmPCt_uNJDaw4_HXdJ3krF3GY9JHdSSWZ4QPJ4lwNvAesC7Kq4ThrOuba9VPcULgnJkGUT26vLMZbXPKU3vFFwFX_eY6usUvrcxTIcVw0c7X4yoy)/dm/3/x5gv5rr/d/live-240.m3u8#cell=lcfb
+https://live-b.cf.dmcdn.net/sec2(3aXWvG2BYk_7tfpslbAEKn8x82hICc-q0dqiDN_CNvYnyooT-_AkfL2GcVA9f3JRp5FnJOcA8EstU0SbYqkmZ8omSuHg7QPuHmN4VOHOXbelVBopkqomOA-b9JtWO5Au)/dm/3/x5gv5rr/d/live-240.m3u8#cell=lcfb
 #EXT-X-STREAM-INF:RESOLUTION=320x180,FRAME-RATE=25.000000,BANDWIDTH=475136,CODECS="avc1.42000c,mp4a.40.5",NAME="240"
-https://live-c.cf.dmcdn.net/sec2(a44hDsc3uBDZ6kAVWkTUo2fLpiMIZxKzmU0_tw5O0SRLPgHmNCJ3vc8Eu7pck6JZlgE0wIiZhR21ABKYe_fqDDStacLoomFcg78hVF00fzgn_5CoqSQ4h8nws5YZ_8JF)/dm/3/x5idx4k/d/live-240.m3u8
+https://live-c.cf.dmcdn.net/sec2(7MqkEpnhcTJNlKR19q9j9q4a6vwlSbr4efSsn6wP6mijet0AQEzNIM-TmNWEFPy-iloTTdcPS6mHw_JfQu68LivuqebSyXrvyBndAlYY8thg5IwUsO11-zWUn40YKryl)/dm/3/x5idx4k/d/live-240.m3u8
