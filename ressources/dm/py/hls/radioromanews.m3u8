@@ -1,9 +1,9 @@
 #EXTM3U
 #EXT-X-STREAM-INF:RESOLUTION=848x477,FRAME-RATE=25.000000,BANDWIDTH=1359872,CODECS="avc1.64001e,mp4a.40.2",NAME="480"
-https://live-c2.cf.dmcdn.net/sec2(dz4KXDMrg_CRPPx5M8pHetknxgMmDl9qnP-lA9cmr48sr0x7PSjSDGxCi1rRT1QuhpMBTH-hG7n4f0gjL1A28QI_Y3tqWceZZGsqdqn97erTmS2AoTOix6PkhS3cfV0-)/cloud/3/x96kf9k/s/live-480.m3u8#cell=lcfc2
+https://live-c2.cf.dmcdn.net/sec2(L-7mGsID4C8sLoQKp9Gu9Ea3shRz9qpSTz5dwpeicr-0lhqIo39SFE3ArFSNOla9j7-NJjYWyUENGPeXcayEnoZz7onA5rQ6xKEc3phyKU2izLUz3z8PMGOtXkY9LCU0)/cloud/3/x96kf9k/s/live-480.m3u8#cell=lcfc2
 #EXT-X-STREAM-INF:RESOLUTION=320x180,FRAME-RATE=25.000000,BANDWIDTH=475136,CODECS="avc1.42000c,mp4a.40.5",NAME="240"
-https://live-c2.cf.dmcdn.net/sec2(dz4KXDMrg_CRPPx5M8pHetknxgMmDl9qnP-lA9cmr48sr0x7PSjSDGxCi1rRT1QuhpMBTH-hG7n4f0gjL1A28QI_Y3tqWceZZGsqdqn97erTmS2AoTOix6PkhS3cfV0-)/cloud/3/x96kf9k/s/live-240.m3u8#cell=lcfc2
+https://live-c2.cf.dmcdn.net/sec2(L-7mGsID4C8sLoQKp9Gu9Ea3shRz9qpSTz5dwpeicr-0lhqIo39SFE3ArFSNOla9j7-NJjYWyUENGPeXcayEnoZz7onA5rQ6xKEc3phyKU2izLUz3z8PMGOtXkY9LCU0)/cloud/3/x96kf9k/s/live-240.m3u8#cell=lcfc2
 #EXT-X-STREAM-INF:RESOLUTION=512x288,FRAME-RATE=25.000000,BANDWIDTH=782336,CODECS="avc1.420015,mp4a.40.5",NAME="380"
-https://live-c2.cf.dmcdn.net/sec2(dz4KXDMrg_CRPPx5M8pHetknxgMmDl9qnP-lA9cmr48sr0x7PSjSDGxCi1rRT1QuhpMBTH-hG7n4f0gjL1A28QI_Y3tqWceZZGsqdqn97erTmS2AoTOix6PkhS3cfV0-)/cloud/3/x96kf9k/s/live-380.m3u8#cell=lcfc2
+https://live-c2.cf.dmcdn.net/sec2(L-7mGsID4C8sLoQKp9Gu9Ea3shRz9qpSTz5dwpeicr-0lhqIo39SFE3ArFSNOla9j7-NJjYWyUENGPeXcayEnoZz7onA5rQ6xKEc3phyKU2izLUz3z8PMGOtXkY9LCU0)/cloud/3/x96kf9k/s/live-380.m3u8#cell=lcfc2
 #EXT-X-STREAM-INF:RESOLUTION=1280x720,FRAME-RATE=25.000000,BANDWIDTH=2179072,CODECS="avc1.64001f,mp4a.40.2",NAME="720"
-https://live-c2.cf.dmcdn.net/sec2(dz4KXDMrg_CRPPx5M8pHetknxgMmDl9qnP-lA9cmr48sr0x7PSjSDGxCi1rRT1QuhpMBTH-hG7n4f0gjL1A28QI_Y3tqWceZZGsqdqn97erTmS2AoTOix6PkhS3cfV0-)/cloud/3/x96kf9k/s/live-720.m3u8#cell=lcfc2
+https://live-c2.cf.dmcdn.net/sec2(L-7mGsID4C8sLoQKp9Gu9Ea3shRz9qpSTz5dwpeicr-0lhqIo39SFE3ArFSNOla9j7-NJjYWyUENGPeXcayEnoZz7onA5rQ6xKEc3phyKU2izLUz3z8PMGOtXkY9LCU0)/cloud/3/x96kf9k/s/live-720.m3u8#cell=lcfc2
