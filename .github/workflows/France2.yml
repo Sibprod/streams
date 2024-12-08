@@ -19,7 +19,7 @@ jobs:
           git config --global user.name "France2 bot"
       
       - name: updating France2
-        run: sh http://sebtv.fr/channels/France2.sh
+        run: sh ressources/ftv/py/France2.sh
         
       - name: git add
         run: |
